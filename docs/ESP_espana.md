@@ -28,3 +28,7 @@ Decreto andaluz de 2025 y mapas zonales catalanes ejemplifican niveles territori
 
 ---
 La ficha no sustituye el texto oficial consolidado. No extrapolar normas de territorios subnacionales a todo el país.
+
+## Actualizacion 2026: comunidades e internacional
+
+Ver [cuadro de 17 autonomias y Ceuta y Melilla](ESP_COMUNIDADES.md), [marco juridico internacional](DERECHO_INTERNACIONAL.md), y [bibliografia juridico-cientifica](BIBLIOGRAFIA_JURIDICA_Y_CIENTIFICA.md). La Ley 7/2007 andaluza y la Ley Foral 10/2005 navarra estan derogadas. La compilacion no sustituye textos oficiales actualizados.

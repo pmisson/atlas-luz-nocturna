@@ -3,10 +3,14 @@
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-19",
     "country_count": 51,
-    "source_count": 79,
-    "star_count": 40,
+    "source_count": 121,
+    "star_count": 45,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
-    "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente."
+    "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
+    "spain_regions_count": 17,
+    "spain_cities_count": 2,
+    "bibliography_count": 9,
+    "note_2026": "Revision ampliada con REECL y Cel Fosc (archivo no accesible), Espana autonoma, derecho internacional y articulos academicos."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -294,20 +298,52 @@
       "name": "España",
       "region": "Europa",
       "level": "sectorial",
-      "summary": "Ley 34/2007 define contaminación lumínica, RD 1890/2008 fija eficiencia/limitación de resplandor y varias CCAA tienen leyes y reglamentos específicos.",
-      "scope": "Nacional y autonómico",
+      "summary": "La Ley 34/2007 y el RD 1890/2008 se completan con un mosaico autonómico e insular; en 2026 destaca la nueva Ley andaluza 2/2026. El atlas ofrece 17 fichas autonómicas y Ceuta/Melilla.",
+      "scope": "Estatal; 17 comunidades autonomas, 2 ciudades autonomas y ordenanzas municipales",
       "confidence": "Fuente primaria identificada",
       "note": "",
-      "keywords": "",
+      "keywords": "Andalucia Baleares Menorca Ibiza Cantabria Castilla Leon Canarias Navarra Cataluna",
       "source_ids": [
         "F027",
         "F028",
         "F029",
         "F030",
-        "F031"
+        "F031",
+        "F080",
+        "F081",
+        "F082",
+        "F083",
+        "F084",
+        "F085",
+        "F086",
+        "F087",
+        "F088",
+        "F089",
+        "F090",
+        "F091",
+        "F092",
+        "F093",
+        "F094",
+        "F095",
+        "F096",
+        "F097",
+        "F098",
+        "F099",
+        "F100",
+        "F101",
+        "F102",
+        "F103",
+        "F104",
+        "F105",
+        "F106"
       ],
       "star_ids": [
-        "M12"
+        "M12",
+        "M41",
+        "M42",
+        "M43",
+        "M44",
+        "M45"
       ]
     },
     {
@@ -1760,6 +1796,468 @@
       "note": "",
       "year": "",
       "official": true
+    },
+    {
+      "id": "F080",
+      "country": "ESP",
+      "title": "REECL (UCM) - repertorio de legislacion sobre contaminacion luminica",
+      "url": "https://guaix.fis.ucm.es/reecl/legislacion",
+      "type": "Indice secundario especializado",
+      "effect": "España: guía organizada por ámbito estatal, ambiental, observatorios y autonomías",
+      "note": "Repositorio orientativo, no sustituye boletines oficiales.",
+      "year": "",
+      "official": false
+    },
+    {
+      "id": "F081",
+      "country": "ESP",
+      "title": "REECL - listado de normas autonomicas",
+      "url": "https://guaix.fis.ucm.es/reecl/node/126",
+      "type": "Indice secundario especializado",
+      "effect": "Normativa de CCAA; no incluye ordenanzas municipales",
+      "note": "Puede estar incompleto o desactualizado; abrir siempre BOE o boletin autonomico.",
+      "year": "",
+      "official": false
+    },
+    {
+      "id": "F082",
+      "country": "ESP",
+      "title": "Cel Fosc - archivo historico de legislacion (sitio antiguo)",
+      "url": "https://vell.celfosc.org/biblio/legal/index.html",
+      "type": "Archivo historico no verificado",
+      "effect": "Enlace suministrado por el usuario para contraste historico",
+      "note": "No accesible durante la revision (timeout); nunca usarlo como prueba de vigencia.",
+      "year": "",
+      "official": false
+    },
+    {
+      "id": "F083",
+      "country": "ESP",
+      "title": "Cataluña - Ley 6/2001 de ordenacion ambiental del alumbrado",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-11962",
+      "type": "Ley autonómica",
+      "effect": "Cataluña; ley específica y modificaciones consolidadas",
+      "note": "Vigencia y modificatorias en texto BOE.",
+      "year": "2001",
+      "official": true
+    },
+    {
+      "id": "F084",
+      "country": "ESP",
+      "title": "Cataluña - Decreto 190/2015 de desarrollo",
+      "url": "https://portaljuridic.gencat.cat/eli/es-ct/d/2015/08/25/190",
+      "type": "Reglamento autonómico",
+      "effect": "Cataluña; desarrollo de Ley 6/2001",
+      "note": "Identificador ELI; comprobar texto consolidado y anexos.",
+      "year": "2015",
+      "official": true
+    },
+    {
+      "id": "F085",
+      "country": "ESP",
+      "title": "Illes Balears - Ley 3/2005 de proteccion del medio nocturno",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-8460",
+      "type": "Ley autonómica",
+      "effect": "Illes Balears; instalaciones exteriores e interiores con afeccion exterior",
+      "note": "",
+      "year": "2005",
+      "official": true
+    },
+    {
+      "id": "F086",
+      "country": "ESP",
+      "title": "Menorca - Reglamento insular de proteccion del medio nocturno (2021)",
+      "url": "https://guaix.fis.ucm.es/reecl/node/126",
+      "type": "Referenciado en indice tecnico",
+      "effect": "Menorca, reglamento insular; texto oficial enlazado desde REECL",
+      "note": "Enlace de contexto; sustituir por BOIB primario en siguiente auditoria.",
+      "year": "2021",
+      "official": false
+    },
+    {
+      "id": "F087",
+      "country": "ESP",
+      "title": "Eivissa - Reglamento de proteccion del medio nocturno de la isla (BOIB 140/2026)",
+      "url": "https://www.caib.es/eboibfront/pdf/es/2026/140/1231903",
+      "type": "Reglamento insular",
+      "effect": "Eivissa; 3-XI-2026; art. 5 zonificacion E1-E4, horarios y anexos tecnicos",
+      "note": "Aprobado 30-X-2026, publicado 3-XI-2026. Comprobar disposicion final de entrada en vigor.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F088",
+      "country": "ESP",
+      "title": "Cantabria - Ley 6/2006 de prevencion de contaminacion luminica",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-14085",
+      "type": "Ley autonómica",
+      "effect": "Cantabria; zonificacion, alumbrado, horarios y regimen sancionador",
+      "note": "",
+      "year": "2006",
+      "official": true
+    },
+    {
+      "id": "F089",
+      "country": "ESP",
+      "title": "Cantabria - Decreto 48/2010, desarrollo parcial de Ley 6/2006",
+      "url": "https://boc.cantabria.es/",
+      "type": "Reglamento autonómico",
+      "effect": "Cantabria; desarrollo parcial y observatorio",
+      "note": "Enlace al portal del BOC, localizar por numero y fecha; corregido por fe de erratas.",
+      "year": "2010",
+      "official": true
+    },
+    {
+      "id": "F090",
+      "country": "ESP",
+      "title": "Andalucia - Ley 2/2026 para la Gestion Ambiental",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-7558",
+      "type": "Ley autonómica",
+      "effect": "Andalucia: titulo IV, cap II, seccion 3; sanciones titulo IX cap II seccion 4",
+      "note": "En vigor 20-VI-2026; deroga expresamente la Ley 7/2007.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F091",
+      "country": "ESP",
+      "title": "Andalucia - Decreto 37/2025, Reglamento de proteccion frente a la contaminacion luminica",
+      "url": "https://www.juntadeandalucia.es/boja/2025/31/5",
+      "type": "Reglamento autonómico",
+      "effect": "Andalucia; medidas de iluminacion, areas sensibles y zonificacion",
+      "note": "Vigente en lo que no contradiga la Ley 2/2026; comprobar compatibilidad.",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F092",
+      "country": "ESP",
+      "title": "Andalucia - Ley 7/2007 (derogada desde 20-VI-2026)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-15158",
+      "type": "Ley derogada",
+      "effect": "Historica; no presentar como vigente",
+      "note": "Derogada por Ley 2/2026, disposicion derogatoria unica.",
+      "year": "2007",
+      "official": true
+    },
+    {
+      "id": "F093",
+      "country": "ESP",
+      "title": "Region de Murcia - Ley 4/2009 de proteccion ambiental integrada",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-2547",
+      "type": "Ley autonómica ambiental",
+      "effect": "Murcia; responsabilidades locales y control de contaminacion luminica",
+      "note": "",
+      "year": "2009",
+      "official": true
+    },
+    {
+      "id": "F094",
+      "country": "ESP",
+      "title": "Castilla y Leon - Ley 15/2010, prevencion contaminacion luminica",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-20074",
+      "type": "Ley autonómica",
+      "effect": "Castilla y Leon: alumbrado, ahorro y eficiencia energetica",
+      "note": "",
+      "year": "2010",
+      "official": true
+    },
+    {
+      "id": "F095",
+      "country": "ESP",
+      "title": "Extremadura - Ley 16/2015 de proteccion ambiental",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5490",
+      "type": "Ley autonómica ambiental",
+      "effect": "Extremadura; titulo II capitulo III contaminacion luminica",
+      "note": "",
+      "year": "2015",
+      "official": true
+    },
+    {
+      "id": "F096",
+      "country": "ESP",
+      "title": "Euskadi - Ley 10/2021 de Administracion Ambiental",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-951",
+      "type": "Ley ambiental autonómica",
+      "effect": "Euskadi; art. 6 deberes ambientales; no ley integral sobre luz",
+      "note": "",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F097",
+      "country": "ESP",
+      "title": "Navarra - Ley Foral 4/2022 de Cambio Climatico y Transicion Energetica",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-6402",
+      "type": "Ley foral",
+      "effect": "Navarra; art. 43 alumbrado exterior; deroga Ley Foral 10/2005 y DF 199/2007",
+      "note": "",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F098",
+      "country": "ESP",
+      "title": "Navarra - Ley Foral 10/2005 (DEROGADA 2-IV-2022)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-20977",
+      "type": "Ley historica derogada",
+      "effect": "Solo referencia de evolucion normativa",
+      "note": "Derogada por Ley Foral 4/2022; no vigente.",
+      "year": "2005",
+      "official": true
+    },
+    {
+      "id": "F099",
+      "country": "ESP",
+      "title": "Comunitat Valenciana - Ley 6/2022 de Cambio Climatico, art. 40",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-4378",
+      "type": "Ley autonómica",
+      "effect": "Valencia: reduccion maxima de contaminacion luminica en alumbrado publico",
+      "note": "",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F100",
+      "country": "ESP",
+      "title": "Canarias - Ley 6/2022 de cambio climatico y transicion energetica",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-2941",
+      "type": "Ley autonómica sectorial",
+      "effect": "Canarias; politicas sectoriales y alteraciones hasta 2026",
+      "note": "No confundir con la normativa especial IAC, de ambito geografico diferente.",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F101",
+      "country": "ESP",
+      "title": "Ley 31/1988, proteccion de observatorios del IAC",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1988-25332",
+      "type": "Ley estatal especial territorial",
+      "effect": "La Palma y areas de Tenerife en ambito reglamentario; protege calidad astronomica",
+      "note": "",
+      "year": "1988",
+      "official": true
+    },
+    {
+      "id": "F102",
+      "country": "ESP",
+      "title": "Real Decreto 243/1992, Reglamento de la Ley 31/1988",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1992-8705",
+      "type": "Reglamento estatal especial",
+      "effect": "Proteccion IAC; modificado por RD 580/2017",
+      "note": "Ver delimitacion geografica y catalogo tecnico original.",
+      "year": "1992",
+      "official": true
+    },
+    {
+      "id": "F103",
+      "country": "ESP",
+      "title": "Aragon - Ley 10/2017 de regimen especial de Zaragoza, art. 27.1.g",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-1683",
+      "type": "Ley autonomica habilitante local",
+      "effect": "Solo municipio Zaragoza; competencia sobre contaminacion luminica",
+      "note": "",
+      "year": "2017",
+      "official": true
+    },
+    {
+      "id": "F104",
+      "country": "ESP",
+      "title": "REECL - referencias ambientales nacionales y europeas",
+      "url": "https://guaix.fis.ucm.es/reecl/node/123",
+      "type": "Indice secundario",
+      "effect": "Ley 21/2013, Natura 2000, parques nacionales y Reglamento UE 2024/1991",
+      "note": "",
+      "year": "",
+      "official": false
+    },
+    {
+      "id": "F105",
+      "country": "ESP",
+      "title": "REECL - proteccion observatorios IAC y Cantabria",
+      "url": "https://guaix.fis.ucm.es/reecl/node/125",
+      "type": "Indice secundario",
+      "effect": "Ley 31/1988, RD 243/1992 y observatorio de Cantabria",
+      "note": "",
+      "year": "",
+      "official": false
+    },
+    {
+      "id": "F106",
+      "country": "ESP",
+      "title": "REECL - marco basico, RD 1890/2008 y guia IDAE",
+      "url": "https://guaix.fis.ucm.es/reecl/node/122",
+      "type": "Indice secundario",
+      "effect": "Prevencion nacional, eficiencia e iluminacion en carreteras",
+      "note": "",
+      "year": "",
+      "official": false
+    },
+    {
+      "id": "F107",
+      "country": "INT",
+      "title": "1979 Convention on Long-range Transboundary Air Pollution - articulos 1 a 4",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:21979A1113(01)",
+      "type": "Tratado internacional",
+      "effect": "CLRTAP: art. 1 menciona sustancias o energia; art. 1.b exige afeccion transfronteriza a distancia",
+      "note": "Interpretacion luminica plausible; no fija limites de CCT/ULOR ni sanciones luminicas.",
+      "year": "1979",
+      "official": true
+    },
+    {
+      "id": "F108",
+      "country": "INT",
+      "title": "ONU CDI - Protection of the atmosphere, 2021 - guias y comentarios",
+      "url": "https://legal.un.org/ilc/texts/8_8.shtml",
+      "type": "Material juridico no vinculante",
+      "effect": "Proyecto de directrices; ONU AG resolucion 76/112 toma nota",
+      "note": "No es tratado internacional con limites de luz.",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F109",
+      "country": "INT",
+      "title": "ONU Asamblea General - resolucion 76/112, proteccion de la atmosfera",
+      "url": "https://digitallibrary.un.org/record/3952214",
+      "type": "Resolucion ONU",
+      "effect": "La AG toma nota de las directrices de la CDI, no crea convenio vinculante adicional",
+      "note": "",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F110",
+      "country": "INT",
+      "title": "UE - Reglamento 2024/1991 de restauracion de la naturaleza",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1991/oj",
+      "type": "Reglamento UE",
+      "effect": "Anexo VII: ejemplo de medidas para detener, reducir o remediar luz artificial",
+      "note": "No implica directamente valor de CCT o flujo maximo universal.",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F111",
+      "country": "INT",
+      "title": "JRC - Green Public Procurement Criteria for Road Lighting and Traffic Signals",
+      "url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC115406",
+      "type": "Criterios voluntarios de contratacion",
+      "effect": "Instrumentos luminotecnicos para contratacion; vigencia segun adopcion",
+      "note": "",
+      "year": "2019",
+      "official": true
+    },
+    {
+      "id": "F112",
+      "country": "INT",
+      "title": "European Commission - Light pollution, Mitigation measures for environmental protection",
+      "url": "https://data.europa.eu/doi/10.2779/906521",
+      "type": "Informe tecnico UE",
+      "effect": "Proteccion ecosistemas, estrategias y medidas no vinculantes",
+      "note": "",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F113",
+      "country": "REF",
+      "title": "Czech Ministry of the Environment - Light pollution reduction measures in Europe",
+      "url": "https://doi.org/10.5281/zenodo.12676720",
+      "type": "Compilacion gubernamental comparada",
+      "effect": "Informe de 2022 sobre 32 paises europeos: ley, norma, guia y reservas",
+      "note": "Panorama de 2022: no utilizar como prueba de vigencia 2026.",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F114",
+      "country": "REF",
+      "title": "Bara et al. - Keeping light pollution at bay: red-lines, target values, top-down approach",
+      "url": "https://doi.org/10.1016/j.envc.2021.100212",
+      "type": "Articulo cientifico",
+      "effect": "Propuesta sobre limites de inmisiones y presupuesto de emisiones, no norma vigente",
+      "note": "",
+      "year": "2021",
+      "official": false
+    },
+    {
+      "id": "F115",
+      "country": "REF",
+      "title": "Bara & Falchi - Artificial light at night: a global disruptor of the night-time environment",
+      "url": "https://doi.org/10.1098/rstb.2022.0352",
+      "type": "Revision cientifica",
+      "effect": "Conceptos y repercusiones ambientales, no reglamento",
+      "note": "",
+      "year": "2023",
+      "official": false
+    },
+    {
+      "id": "F116",
+      "country": "REF",
+      "title": "Bara et al. - Por un uso responsable de la iluminacion artificial (2025)",
+      "url": "https://doi.org/10.17075/uriarap.2025.es",
+      "type": "Recomendacion experta",
+      "effect": "Recomendaciones a administraciones; no ley obligatoria",
+      "note": "",
+      "year": "2025",
+      "official": false
+    },
+    {
+      "id": "F117",
+      "country": "REF",
+      "title": "Yana Yakushina - Light pollution regulations and where to find them",
+      "url": "https://doi.org/10.1016/j.jenvman.2024.123757",
+      "type": "Articulo cientifico-juridico",
+      "effect": "Revision comparada de normas de contaminacion luminica",
+      "note": "",
+      "year": "2025",
+      "official": false
+    },
+    {
+      "id": "F118",
+      "country": "REF",
+      "title": "Yana Yakushina - The endangered night: the challenge of light pollution within international environmental legal context",
+      "url": "https://doi.org/10.1093/jel/eqaf025",
+      "type": "Articulo cientifico-juridico",
+      "effect": "Derecho ambiental internacional y proteccion de la noche",
+      "note": "",
+      "year": "2025",
+      "official": false
+    },
+    {
+      "id": "F119",
+      "country": "REF",
+      "title": "Yakushina, Smith y Sanchez de Miguel - Manifesto for Tackling Light Pollution & EU Monitoring",
+      "url": "https://doi.org/10.5281/zenodo.12606631",
+      "type": "Manifiesto de investigacion",
+      "effect": "Propuesta de seguimiento europeo, no instrumento juridico",
+      "note": "",
+      "year": "2024",
+      "official": false
+    },
+    {
+      "id": "F120",
+      "country": "REF",
+      "title": "REECL - bibliografia cientifica y bases ALAN",
+      "url": "https://guaix.fis.ucm.es/reecl/Bibliografia",
+      "type": "Repertorio academico",
+      "effect": "Bibliografia de papers y colecciones tematicas",
+      "note": "",
+      "year": "",
+      "official": false
+    },
+    {
+      "id": "F121",
+      "country": "REF",
+      "title": "REECL - propuestas para restaurar la calidad de la noche",
+      "url": "https://guaix.fis.ucm.es/reecl/node/135",
+      "type": "Propuesta de politica publica",
+      "effect": "Objetivos sugeridos para plan nacional de restauracion naturaleza, no norma vigente",
+      "note": "",
+      "year": "2026",
+      "official": false
     }
   ],
   "stars": [
@@ -2335,6 +2833,402 @@
       ],
       "caution": "No imponer estos umbrales a toda luminaria privada del país.",
       "replicability": "Alta"
+    },
+    {
+      "id": "M41",
+      "country": "ESP",
+      "title": "Proteccion insular de Eivissa (E1-E4)",
+      "description": "Reglamento insular aprobado en octubre y publicado en noviembre de 2026: zonificacion, horario de reduccion y anexo tecnico.",
+      "force": "Reglamento insular",
+      "param": "Zonas E1/E2/E3/E4; art. 5; parametros segun anexos",
+      "scope": "Illes Balears: isla de Eivissa",
+      "sources": [
+        "F087",
+        "F085"
+      ],
+      "caution": "Confirmar entrada en vigor exacta de disposicion final; no extender sus prohibiciones a Baleares entera.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M42",
+      "country": "ESP",
+      "title": "Desarrollo especifico de Cantabria",
+      "description": "Ley 6/2006 y reglamento parcial de 2010 establecen zonas, horarios y restricciones de alumbrado.",
+      "force": "Ley autonómica y reglamento",
+      "param": "Zonificacion, horario, prohibiciones; arts. 7, 10 y 11 de Ley 6/2006",
+      "scope": "Cantabria",
+      "sources": [
+        "F088",
+        "F089"
+      ],
+      "caution": "Verificar anexo tecnico y correcciones publicadas.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M43",
+      "country": "ESP",
+      "title": "Marco renovado de Andalucia 2026",
+      "description": "La Ley 2/2026 sustituye a la Ley 7/2007 y coexiste con Decreto 37/2025 cuando sea compatible.",
+      "force": "Ley y reglamento autonomicos",
+      "param": "Prevencion y sanciones: Ley 2/2026 titulo IV y IX; reglamento 2025",
+      "scope": "Andalucia",
+      "sources": [
+        "F090",
+        "F091"
+      ],
+      "caution": "No usar Ley 7/2007 como ley vigente ni deducir automaticamente supervivencia de preceptos incompatibles.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M44",
+      "country": "ESP",
+      "title": "Proteccion especial de observatorios de Canarias",
+      "description": "La Ley estatal 31/1988 y el RD 243/1992 protegen la calidad astronomica en zonas determinadas.",
+      "force": "Ley estatal de ambito territorial",
+      "param": "Proteccion especial del cielo y condiciones de alumbrado; detalle segun reglamento",
+      "scope": "La Palma y zonas de Tenerife determinadas",
+      "sources": [
+        "F101",
+        "F102"
+      ],
+      "caution": "No aplicar a todas las Canarias sin leer limites geograficos y excepciones.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M45",
+      "country": "ESP",
+      "title": "Sustitucion del regimen de Navarra",
+      "description": "La Ley Foral 4/2022 integra criterios de alumbrado exterior y deroga la ley previa de 2005.",
+      "force": "Ley foral",
+      "param": "Art. 43 de la Ley Foral 4/2022; limites concretos por verificar",
+      "scope": "Navarra",
+      "sources": [
+        "F097",
+        "F098"
+      ],
+      "caution": "No usar limites historicos de la Ley Foral 10/2005 como actuales.",
+      "replicability": "Alta"
+    }
+  ],
+  "spain_regions": [
+    {
+      "id": "AN",
+      "name": "Andalucía",
+      "level": "especifica",
+      "summary": "Ley 2/2026 (desde junio 2026) y Decreto 37/2025; derogacion de Ley 7/2007.",
+      "source_ids": [
+        "F090",
+        "F091",
+        "F092"
+      ],
+      "caution": "No extrapolar automaticamente sanciones antiguas de la GICA.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "AR",
+      "name": "Aragón",
+      "level": "sectorial",
+      "summary": "No localizada ley autonómica integral. Zaragoza tiene competencia municipal expresa en Ley 10/2017, art. 27.1.g.",
+      "source_ids": [
+        "F103"
+      ],
+      "caution": "La habilitacion municipal no equivale a limites generales autonómicos.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "AS",
+      "name": "Principado de Asturias",
+      "level": "pendiente",
+      "summary": "Aplicacion del marco estatal y ordenanzas/planes locales a investigar; sin ley regional especifica documentada aqui.",
+      "source_ids": [
+        "F081"
+      ],
+      "caution": "Ausencia en esta base no demuestra inexistencia.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "IB",
+      "name": "Illes Balears",
+      "level": "especifica",
+      "summary": "Ley 3/2005 y reglamentos insulares: Menorca (2021) y Eivissa (2026, con zonificacion E1-E4).",
+      "source_ids": [
+        "F085",
+        "F086",
+        "F087"
+      ],
+      "caution": "Distinguir ley autonómica y regulacion insular; entrada en vigor y excepciones por texto.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "CN",
+      "name": "Canarias",
+      "level": "sectorial",
+      "summary": "Ley 6/2022; proteccion especial de observatorios IAC por Ley estatal 31/1988 y RD 243/1992.",
+      "source_ids": [
+        "F100",
+        "F101",
+        "F102"
+      ],
+      "caution": "La proteccion astronomica especial no se extiende identicamente a todas las islas.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "CB",
+      "name": "Cantabria",
+      "level": "especifica",
+      "summary": "Ley 6/2006 y Decreto 48/2010 de desarrollo parcial; especial referencia al Observatorio Astronomico de Cantabria.",
+      "source_ids": [
+        "F088",
+        "F089",
+        "F105"
+      ],
+      "caution": "Regulacion parcial y correcciones en BOC por cotejar.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "CL",
+      "name": "Castilla y León",
+      "level": "especifica",
+      "summary": "Ley 15/2010 especifica de prevencion de contaminacion luminica y ahorro energetico.",
+      "source_ids": [
+        "F094"
+      ],
+      "caution": "Comprobar modificaciones y cronograma de adaptacion.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "CM",
+      "name": "Castilla-La Mancha",
+      "level": "pendiente",
+      "summary": "Marco general y municipal. No localizada ley autonómica especifica en esta auditoria.",
+      "source_ids": [
+        "F081"
+      ],
+      "caution": "Revisar ordenanzas y reglas de espacios naturales.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "CT",
+      "name": "Cataluña",
+      "level": "especifica",
+      "summary": "Ley 6/2001 y Decreto 190/2015; mapas oficiales de zonificacion nocturna.",
+      "source_ids": [
+        "F083",
+        "F084"
+      ],
+      "caution": "Aplicacion territorial mediante zonificacion y excepciones.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "VC",
+      "name": "Comunitat Valenciana",
+      "level": "sectorial",
+      "summary": "Ley 6/2022 de Cambio Climatico, art. 40 de reduccion de contaminacion del alumbrado publico.",
+      "source_ids": [
+        "F099"
+      ],
+      "caution": "Especificaciones tecnicas y ordenanzas locales requieren comprobacion.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "EX",
+      "name": "Extremadura",
+      "level": "sectorial",
+      "summary": "Ley 16/2015 de proteccion ambiental, titulo II capitulo III: contaminacion luminica.",
+      "source_ids": [
+        "F095"
+      ],
+      "caution": "No equiparar previsiones ambientales a valores luminotecnicos no constatados.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "GA",
+      "name": "Galicia",
+      "level": "pendiente",
+      "summary": "Marco estatal y ordenanzas municipales; sin ley integral especifica localizada en esta compilacion.",
+      "source_ids": [
+        "F081"
+      ],
+      "caution": "Revisar directrices locales y otras normas sectoriales.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "MD",
+      "name": "Comunidad de Madrid",
+      "level": "pendiente",
+      "summary": "Competencias generales y ordenanzas municipales; no se ha verificado una ley autonómica integral de contaminacion luminica.",
+      "source_ids": [
+        "F081"
+      ],
+      "caution": "La Ley 2/2002 ambiental fue parcialmente derogada; evitar invocarla sin cotejar la version vigente.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "MC",
+      "name": "Región de Murcia",
+      "level": "sectorial",
+      "summary": "Ley 4/2009 de proteccion ambiental integrada; previsiones de competencia municipal.",
+      "source_ids": [
+        "F093"
+      ],
+      "caution": "Los controles precisos deben verificarse en autorizaciones locales.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "NC",
+      "name": "Comunidad Foral de Navarra",
+      "level": "sectorial",
+      "summary": "Ley Foral 4/2022, art. 43, alumbrado exterior; deroga expresamente Ley Foral 10/2005.",
+      "source_ids": [
+        "F097",
+        "F098"
+      ],
+      "caution": "Ley 10/2005 y Decreto 199/2007 NO estan vigentes desde abril de 2022.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "PV",
+      "name": "País Vasco / Euskadi",
+      "level": "sectorial",
+      "summary": "Ley 10/2021 de Administracion Ambiental; deberes generales art. 6.",
+      "source_ids": [
+        "F096"
+      ],
+      "caution": "No afirmar que art. 6 contiene limites de color/flujo no verificados.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "RI",
+      "name": "La Rioja",
+      "level": "pendiente",
+      "summary": "Marco estatal y regulacion municipal; no localizada ley autonómica especifica en esta compilacion.",
+      "source_ids": [
+        "F081"
+      ],
+      "caution": "Leyes sectoriales y ordenanzas deben investigarse por localidad.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "CE",
+      "name": "Ceuta",
+      "level": "pendiente",
+      "summary": "Ciudad autonoma: normativa basica estatal y eventual ordenanza local sin comprobar.",
+      "source_ids": [
+        "F080"
+      ],
+      "caution": "Incluir a efectos de cobertura territorial, no como comunidad autonoma.",
+      "reviewed": "2026-11-19"
+    },
+    {
+      "id": "ML",
+      "name": "Melilla",
+      "level": "pendiente",
+      "summary": "Ciudad autonoma: normativa basica estatal y eventual ordenanza local sin comprobar.",
+      "source_ids": [
+        "F080"
+      ],
+      "caution": "Incluir a efectos de cobertura territorial, no como comunidad autonoma.",
+      "reviewed": "2026-11-19"
+    }
+  ],
+  "international": [
+    {
+      "id": "INT1",
+      "title": "Tratado de Ginebra de 1979: definicion abierta de contaminante",
+      "subtitle": "Articulos 1 a 4: sustancias o energia y danos transfronterizos",
+      "status": "Tratado vinculante entre Partes, interpretacion luminica por debatir",
+      "detail": "El articulo 1.a define contaminacion del aire mediante la introduccion de sustancias o energia con efectos perjudiciales. La luz es energia electromagnetica; no obstante, se debe demostrar el alcance material del tratado, los efectos ambientales relevantes y, para el articulo 1.b, el caracter transfronterizo a distancia. El tratado no establece por si mismo limites de CCT, flujo luminoso o sanciones de alumbrado.",
+      "source_ids": [
+        "F107"
+      ]
+    },
+    {
+      "id": "INT2",
+      "title": "Comision de Derecho Internacional y Asamblea General",
+      "subtitle": "Proyecto de directrices sobre la proteccion de la atmosfera (2021)",
+      "status": "Interpretacion y soft law; no vinculante por si solo",
+      "detail": "La CDI aprobo doce proyectos de directrices con comentarios. La Asamblea General en su resolucion 76/112 tomo nota, promovio su difusion y los puso en conocimiento de los Estados. No se transforman por ello en un tratado ratificado ni en sanciones nacionales automaticas.",
+      "source_ids": [
+        "F108",
+        "F109"
+      ]
+    },
+    {
+      "id": "INT3",
+      "title": "Union Europea: restauracion de la naturaleza",
+      "subtitle": "Reglamento (UE) 2024/1991, anexo VII",
+      "status": "Reglamento vinculante; medida luminica como ejemplo a considerar",
+      "detail": "El anexo VII menciona detener, reducir o corregir contaminacion por luz artificial como ejemplo de medidas de restauracion. No crea un limite universal de temperatura de color ni exige una medida uniforme de apagado en todas las luces.",
+      "source_ids": [
+        "F110"
+      ]
+    },
+    {
+      "id": "INT4",
+      "title": "UE: contratacion verde y estudios tecnico-ambientales",
+      "subtitle": "JRC 2019; Comision Europea 2023",
+      "status": "Criterios de compra y evidencia; vinculacion segun incorporacion",
+      "detail": "Los criterios tecnicos de compra publica ayudan a trasladar parametros fotometricos y espectrales a pliegos. La fuerza obligatoria para cada contrato depende de la normativa de contratacion y de los requisitos adoptados.",
+      "source_ids": [
+        "F111",
+        "F112"
+      ]
+    }
+  ],
+  "bibliography": [
+    {
+      "name": "Ministerio checo del Medio Ambiente (2022)",
+      "title": "Light pollution reduction measures in Europe",
+      "topic": "Compilacion historica de 32 paises; NO actualizacion automatica a 2026",
+      "source_id": "F113"
+    },
+    {
+      "name": "S. Bara, F. Falchi, R. C. Lima y M. Pawley (2021)",
+      "title": "Keeping light pollution at bay: A red-lines, target values, top-down approach",
+      "topic": "Objetivos de inmisiones, presupuestos de emision; propuesta metodologica",
+      "source_id": "F114"
+    },
+    {
+      "name": "S. Bara y F. Falchi (2023)",
+      "title": "Artificial light at night: a global disruptor of the night-time environment",
+      "topic": "Base cientifica de impactos en el medio nocturno",
+      "source_id": "F115"
+    },
+    {
+      "name": "S. Bara et al. (2025)",
+      "title": "Por un uso responsable de la iluminacion artificial",
+      "topic": "Guia y recomendaciones para administraciones publicas",
+      "source_id": "F116"
+    },
+    {
+      "name": "Y. Yakushina (2025)",
+      "title": "Light pollution regulations and where to find them",
+      "topic": "Inventario juridico comparado internacional",
+      "source_id": "F117"
+    },
+    {
+      "name": "Y. Yakushina (2025)",
+      "title": "The endangered night: the challenge of light pollution within international environmental legal context",
+      "topic": "Implicaciones y limite del derecho ambiental internacional",
+      "source_id": "F118"
+    },
+    {
+      "name": "Y. Yakushina, D. Smith y A. Sanchez de Miguel (2024)",
+      "title": "Manifesto for Tackling Light Pollution & Proposing EU Light Pollution Monitoring",
+      "topic": "Declaracion y propuesta cientifico-politica, sin rango de ley",
+      "source_id": "F119"
+    },
+    {
+      "name": "REECL (UCM)",
+      "title": "Bibliografia cientifica / ALAN Database",
+      "topic": "Indice de estudios y recursos academicos",
+      "source_id": "F120"
+    },
+    {
+      "name": "REECL (2026)",
+      "title": "Propuestas de control de la contaminacion luminica para el Plan Nacional de Restauracion",
+      "topic": "Documento de recomendaciones, no regulacion aprobada",
+      "source_id": "F121"
     }
   ]
 }

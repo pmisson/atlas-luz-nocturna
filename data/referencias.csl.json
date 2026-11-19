@@ -1,11 +1,10 @@
 [
   {
     "id": "F001",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Ley n.º 31316 — Prevención y control de contaminación lumínica",
     "URL": "https://busquedas.elperuano.pe/dispositivo/NL/1976876-1",
-    "note": "País: Perú; alcance: Norma nacional de 2021; naturaleza: Ley; Verificar eventuales modificatorias en El Peruano",
-    "language": "es",
+    "note": "Ley; Norma nacional de 2021",
     "issued": {
       "date-parts": [
         [
@@ -16,11 +15,10 @@
   },
   {
     "id": "F002",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Decreto Supremo 021-2025-MINAM — Reglamento de la Ley 31316",
     "URL": "https://www.gob.pe/institucion/minam/normas-legales/7391038-021-2025-minam",
-    "note": "País: Perú; alcance: Reglamento nacional de 2025; naturaleza: Reglamento; ",
-    "language": "es",
+    "note": "Reglamento; Reglamento nacional de 2025",
     "issued": {
       "date-parts": [
         [
@@ -34,16 +32,15 @@
     "type": "webpage",
     "title": "SINIA — Reglamento de la Ley 31316",
     "URL": "https://sinia.minam.gob.pe/normas/decreto-supremo-que-aprueba-reglamento-ley-ndeg-31316-ley-prevencion",
-    "note": "País: Perú; alcance: Acceso y contexto del reglamento; naturaleza: Repositorio oficial; ",
-    "language": "es"
+    "note": "Repositorio oficial; Acceso y contexto del reglamento",
+    "issued": null
   },
   {
     "id": "F004",
     "type": "webpage",
     "title": "Decreto Supremo n.º 1/2022 — Norma de emisión de luminosidad artificial",
     "URL": "https://luminica.mma.gob.cl/norma-luminica/",
-    "note": "País: Chile; alcance: Norma nacional; aplicación escalonada 2024–2026; naturaleza: Norma de emisión; El portal detalla inicio de aplicación nacional y zonas especiales.",
-    "language": "es",
+    "note": "Norma de emisión; Norma nacional; aplicación escalonada 2024–2026",
     "issued": {
       "date-parts": [
         [
@@ -57,16 +54,15 @@
     "type": "webpage",
     "title": "SMA — Normas de emisión, fiscalización e instructivos",
     "URL": "https://portal.sma.gob.cl/index.php/portal-regulados/instructivos-y-guias/normas-de-emision/",
-    "note": "País: Chile; alcance: Fiscalización de normas de emisión; naturaleza: Autoridad de vigilancia; ",
-    "language": "es"
+    "note": "Autoridad de vigilancia; Fiscalización de normas de emisión",
+    "issued": null
   },
   {
     "id": "F006",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Ley 20.284 — Preservación de recursos del aire",
     "URL": "https://www.argentina.gob.ar/normativa/nacional/ley-20284-40167/texto",
-    "note": "País: Argentina; alcance: No constituye por sí sola ley específica de luz; naturaleza: Ley general; Consultar regulación provincial y municipal.",
-    "language": "es",
+    "note": "Ley general; No constituye por sí sola ley específica de luz",
     "issued": {
       "date-parts": [
         [
@@ -77,11 +73,10 @@
   },
   {
     "id": "F007",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Ciudad Autónoma de Buenos Aires — Ley 1356 (calidad del aire)",
     "URL": "https://www.boletinoficial.buenosaires.gob.ar/normativaba/norma/59418",
-    "note": "País: Argentina; alcance: Ciudad de Buenos Aires; naturaleza: Ley local general; Sin atribuir límites de luz no identificados.",
-    "language": "es",
+    "note": "Ley local general; Ciudad de Buenos Aires",
     "issued": {
       "date-parts": [
         [
@@ -92,19 +87,18 @@
   },
   {
     "id": "F008",
-    "type": "legislation",
+    "type": "webpage",
     "title": "IMPO — Ley 17.283 de Protección del Ambiente",
     "URL": "https://www.impo.com.uy/bases/leyes/17283-2000/3",
-    "note": "País: Uruguay; alcance: Nivel nacional; no presupone límites lumínicos; naturaleza: Ley general; 2000",
-    "language": "es"
+    "note": "Ley general; Nivel nacional; no presupone límites lumínicos",
+    "issued": null
   },
   {
     "id": "F009",
     "type": "webpage",
     "title": "Diario Oficial, 3 de julio de 2025 — instrumentos departamentales Rocha",
     "URL": "https://www.impo.com.uy/diariooficial/2025/07/03/documentos.pdf",
-    "note": "País: Uruguay; alcance: Disposición sobre preservación de cielo oscuro en Rocha; naturaleza: Instrumento territorial; Requiere separar objetivo de reglamentación técnica aplicable.",
-    "language": "es",
+    "note": "Instrumento territorial; Disposición sobre preservación de cielo oscuro en Rocha",
     "issued": {
       "date-parts": [
         [
@@ -118,16 +112,15 @@
     "type": "webpage",
     "title": "Portal oficial de normativa venezolana (referencia para revisión)",
     "URL": "http://www.minamb.gob.ve/",
-    "note": "País: Venezuela; alcance: No constituye cita de una disposición vigente; naturaleza: Portal a verificar; El enlace y disponibilidad deben comprobarse.",
-    "language": "es"
+    "note": "Portal a verificar; No constituye cita de una disposición vigente",
+    "issued": null
   },
   {
     "id": "F011",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Reforma de LGEEPA sobre contaminación lumínica — Diario Oficial, enero de 2021",
     "URL": "https://www.diputados.gob.mx/sedia/biblio/prog_leg/Prog_leg_LXIV/130_DOF_18ene21.pdf",
-    "note": "País: México; alcance: Federal: definiciones y prevención; naturaleza: Decreto de reforma; Usar versión consolidada para vigencia artículo por artículo.",
-    "language": "es",
+    "note": "Decreto de reforma; Federal: definiciones y prevención",
     "issued": {
       "date-parts": [
         [
@@ -138,59 +131,58 @@
   },
   {
     "id": "F012",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Arizona Revised Statutes — Title 49, Chapter 7, Outdoor Lighting",
     "URL": "https://www.azleg.gov/arsDetail/?title=49",
-    "note": "País: Estados Unidos; alcance: Arizona: restricciones a luz exterior, excepciones; naturaleza: Ley estatal; Consultar §§49-1101 a 49-1106.",
-    "language": "es"
+    "note": "Ley estatal; Arizona: restricciones a luz exterior, excepciones",
+    "issued": null
   },
   {
     "id": "F013",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Arizona Revised Statutes — §49-1102",
     "URL": "https://www.azleg.gov/ars/49/01102.htm",
-    "note": "País: Estados Unidos; alcance: Arizona; apantallamiento de instalaciones; naturaleza: Ley estatal; ",
-    "language": "es"
+    "note": "Ley estatal; Arizona; apantallamiento de instalaciones",
+    "issued": null
   },
   {
     "id": "F014",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Michigan Natural Resources and Environmental Protection Act §324.75104",
     "URL": "https://legislature.mi.gov/Laws/MCL?objectName=MCL-324-75104",
-    "note": "País: Estados Unidos; alcance: Protección en reservas estatales de cielo oscuro; naturaleza: Ley estatal; ",
-    "language": "es"
+    "note": "Ley estatal; Protección en reservas estatales de cielo oscuro",
+    "issued": null
   },
   {
     "id": "F015",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Ontario Municipal Act 2001 — §129, outdoor illumination",
     "URL": "https://www.ontario.ca/laws/statute/01m25",
-    "note": "País: Canadá; alcance: Ontario: poderes municipales para regulación de iluminación; naturaleza: Ley habilitante; ",
-    "language": "es"
+    "note": "Ley habilitante; Ontario: poderes municipales para regulación de iluminación",
+    "issued": null
   },
   {
     "id": "F016",
     "type": "webpage",
     "title": "Ministerio de Medio Ambiente — Repertorio de legislación",
     "URL": "https://www.gov.br/mma/pt-br/centrais-de-conteudo/legislacao",
-    "note": "País: Brasil; alcance: Fuente de consulta general; sin límites de luz atribuidos; naturaleza: Repositorio de legislación; ",
-    "language": "es"
+    "note": "Repositorio de legislación; Fuente de consulta general; sin límites de luz atribuidos",
+    "issued": null
   },
   {
     "id": "F017",
     "type": "webpage",
     "title": "ICMBio — Protección de tartarugas marinas",
     "URL": "https://www.gov.br/icmbio/pt-br/assuntos/centros-de-pesquisa/tartarugas-marinhas-e-biodiversidade-marinha-do-leste/comunicacao/legislacao",
-    "note": "País: Brasil; alcance: Normas de protección de fauna marina; naturaleza: Repositorio temático; ",
-    "language": "es"
+    "note": "Repositorio temático; Normas de protección de fauna marina",
+    "issued": null
   },
   {
     "id": "F018",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Ministerio de Minas y Energía — RETILAP Resolución 40286/2026 y cuatro libros",
     "URL": "https://minenergia.gov.co/es/misional/energia-electrica-2/reglamentos-tecnicos/reglamento-t%C3%A9cnico-de-iluminaci%C3%B3n-y-alumbrado-p%C3%BAblico-retilap/",
-    "note": "País: Colombia; alcance: Aplicación a iluminación interior y exterior; productos y agentes; naturaleza: Reglamento técnico; Incluye régimen transitorio de conformidad.",
-    "language": "es",
+    "note": "Reglamento técnico; Aplicación a iluminación interior y exterior; productos y agentes",
     "issued": {
       "date-parts": [
         [
@@ -201,19 +193,18 @@
   },
   {
     "id": "F019",
-    "type": "legislation",
+    "type": "webpage",
     "title": "CREG — texto de la Resolución 40286 de 2026",
     "URL": "https://gestornormativo.creg.gov.co/gestor/entorno/docs/resolucion_minminas_40286_2026.htm",
-    "note": "País: Colombia; alcance: Texto y requisitos transitorios; naturaleza: Norma oficial; 2026",
-    "language": "es"
+    "note": "Norma oficial; Texto y requisitos transitorios",
+    "issued": null
   },
   {
     "id": "F020",
     "type": "webpage",
     "title": "Registro Oficial 288, mayo de 2026 — reproducción secundaria de instrumento costero",
     "URL": "https://strapi.lexis.com.ec/uploads/Registro_Oficial_Ano_ll_Segundo_Suplemento_No_288_del_20_de_mayo_de_2026_LEXIS_ECUADOR_95ad4ab2cd.pdf",
-    "note": "País: Ecuador; alcance: Posibles medidas costeras para fauna; naturaleza: Fuente secundaria; Pendiente cotejo con Registro Oficial original.",
-    "language": "es",
+    "note": "Fuente secundaria; Posibles medidas costeras para fauna",
     "issued": {
       "date-parts": [
         [
@@ -227,16 +218,15 @@
     "type": "webpage",
     "title": "La Gaceta — normativa de zonas de control lumínico, 7 de septiembre de 2012",
     "URL": "https://www.imprentanacional.go.cr/pub/2012/09/07/COMP_07_09_2012.html",
-    "note": "País: Costa Rica; alcance: Disposiciones locales; verificar municipio, artículos y modificaciones; naturaleza: Publicación oficial; 2012",
-    "language": "es"
+    "note": "Publicación oficial; Disposiciones locales; verificar municipio, artículos y modificaciones",
+    "issued": null
   },
   {
     "id": "F022",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Gaceta Oficial 27134, 3 de octubre de 2012 — Reglamento alumbrado público arts. 33–34",
     "URL": "https://www.gacetaoficial.gob.pa/storage/gacetas/2012/10/27134/GacetaNo_27134_20121003.pdf",
-    "note": "País: Panamá; alcance: Concesionarias de alumbrado público; naturaleza: Reglamento sectorial; Verificar modificaciones posteriores.",
-    "language": "es",
+    "note": "Reglamento sectorial; Concesionarias de alumbrado público",
     "issued": {
       "date-parts": [
         [
@@ -250,16 +240,15 @@
     "type": "webpage",
     "title": "Decreto Ley 16998 — iluminación en seguridad ocupacional (reproducción)",
     "URL": "https://www.lexivox.org/norms/BO-DL-16998.xhtml",
-    "note": "País: Bolivia; alcance: Normas de iluminación laboral, no contaminación lumínica general; naturaleza: Copia secundaria; 1979",
-    "language": "es"
+    "note": "Copia secundaria; Normas de iluminación laboral, no contaminación lumínica general",
+    "issued": null
   },
   {
     "id": "F024",
     "type": "webpage",
     "title": "Decreto Supremo 5121/2024 — certificación de lámparas LED (referencia)",
     "URL": "https://ibmetro.gob.bo/index.php/aprobacion_led",
-    "note": "País: Bolivia; alcance: Control de producto, no luz intrusiva; naturaleza: Portal oficial IBMETRO; Verificar enlace y vigencia en gaceta oficial.",
-    "language": "es",
+    "note": "Portal oficial IBMETRO; Control de producto, no luz intrusiva",
     "issued": {
       "date-parts": [
         [
@@ -270,11 +259,10 @@
   },
   {
     "id": "F025",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Ley 716 — Sanciona delitos contra el medio ambiente",
     "URL": "https://www.bacn.gov.py/leyes-paraguayas/2426/ley-n-716-",
-    "note": "País: Paraguay; alcance: Referencia expresa a radiación lumínica y límites reglamentarios; naturaleza: Ley; Exige identificar reglamentos de umbrales aplicables.",
-    "language": "es",
+    "note": "Ley; Referencia expresa a radiación lumínica y límites reglamentarios",
     "issued": {
       "date-parts": [
         [
@@ -285,19 +273,18 @@
   },
   {
     "id": "F026",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Decreto 68-86 — Ley de Protección y Mejoramiento del Medio Ambiente",
     "URL": "https://www.congreso.gob.gt/detalle_pdf/decretos/1696",
-    "note": "País: Guatemala; alcance: No equivale a una ley de contaminación lumínica; naturaleza: Ley general; 1986",
-    "language": "es"
+    "note": "Ley general; No equivale a una ley de contaminación lumínica",
+    "issued": null
   },
   {
     "id": "F027",
-    "type": "legislation",
+    "type": "webpage",
     "title": "BOE — Ley 34/2007 de calidad del aire: art. 3.f y disposición adicional 4.ª",
     "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744",
-    "note": "País: España; alcance: Prevención, reducción y protección de observatorios; naturaleza: Ley estatal; Atención a exclusión del art. 2.2.b del régimen general de radiaciones.",
-    "language": "es",
+    "note": "Ley estatal; Prevención, reducción y protección de observatorios",
     "issued": {
       "date-parts": [
         [
@@ -308,11 +295,10 @@
   },
   {
     "id": "F028",
-    "type": "legislation",
+    "type": "webpage",
     "title": "BOE — Real Decreto 1890/2008: eficiencia de alumbrado exterior e ITC",
     "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-18634",
-    "note": "País: España; alcance: ITC-EA-03 resplandor luminoso nocturno y luz intrusa; naturaleza: Reglamento estatal; Comprobar modificaciones reglamentarias.",
-    "language": "es",
+    "note": "Reglamento estatal; ITC-EA-03 resplandor luminoso nocturno y luz intrusa",
     "issued": {
       "date-parts": [
         [
@@ -323,43 +309,42 @@
   },
   {
     "id": "F029",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Junta de Andalucía — Decreto 37/2025 sobre protección del cielo nocturno",
     "URL": "https://www.juntadeandalucia.es/boja/2025/31/5",
-    "note": "País: España; alcance: Andalucía, áreas protegidas y obligaciones territoriales; naturaleza: Reglamento autonómico; 2025",
-    "language": "es"
+    "note": "Reglamento autonómico; Andalucía, áreas protegidas y obligaciones territoriales",
+    "issued": null
   },
   {
     "id": "F030",
     "type": "webpage",
     "title": "Generalitat — Mapa de protección contra la contaminación lumínica",
     "URL": "https://mediambient.gencat.cat/es/05_ambits_dactuacio/atmosfera/contaminacio_luminica/mapa-de-proteccio-contra-contaminacio-luminica/",
-    "note": "País: España; alcance: Cataluña; naturaleza: Zonificación oficial; ",
-    "language": "es"
+    "note": "Zonificación oficial; Cataluña",
+    "issued": null
   },
   {
     "id": "F031",
     "type": "webpage",
     "title": "MITECO — Normativa estatal y autonómica contaminación lumínica",
     "URL": "https://www.miteco.gob.es/en/calidad-y-evaluacion-ambiental/temas/atmosfera-y-calidad-del-aire/contaminacion_luminica.html",
-    "note": "País: España; alcance: Listado de legislación regional; naturaleza: Repositorio oficial; ",
-    "language": "es"
+    "note": "Repositorio oficial; Listado de legislación regional",
+    "issued": null
   },
   {
     "id": "F032",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Regione Veneto — Legge regionale 17/2009, contaminación lumínica",
     "URL": "https://bur.regione.veneto.it/BurvServices/Pubblica/DettaglioLegge.aspx?id=217634",
-    "note": "País: Italia; alcance: Véneto; prevención de contaminación lumínica y ahorro de energía; naturaleza: Ley regional; 2009",
-    "language": "es"
+    "note": "Ley regional; Véneto; prevención de contaminación lumínica y ahorro de energía",
+    "issued": null
   },
   {
     "id": "F033",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Légifrance — Arrêté du 27 décembre 2018 relatif à la prévention, réduction et limitation des nuisances lumineuses",
     "URL": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037864346/",
-    "note": "País: Francia; alcance: Obligaciones diferenciadas por actividad y espacio; naturaleza: Reglamento; Consultar versión consolidada vigente.",
-    "language": "es",
+    "note": "Reglamento; Obligaciones diferenciadas por actividad y espacio",
     "issued": {
       "date-parts": [
         [
@@ -373,24 +358,23 @@
     "type": "webpage",
     "title": "Ministère de la Transition Écologique — Explicación y control del arrêté 2018",
     "URL": "https://www.ecologie.gouv.fr/politiques-publiques/arrete-du-27-decembre-2018-relatif-prevention-reduction-limitation-nuisances",
-    "note": "País: Francia; alcance: Horarios, características técnicas, supervisión; naturaleza: Guía oficial; 2018",
-    "language": "es"
+    "note": "Guía oficial; Horarios, características técnicas, supervisión",
+    "issued": null
   },
   {
     "id": "F035",
-    "type": "legislation",
+    "type": "webpage",
     "title": "PISRS — Uredba o mejnih vrednostih svetlobnega onesnaževanja okolja",
     "URL": "https://pisrs.si/pregledPredpisa?id=URED4520&tab=analiticni",
-    "note": "País: Eslovenia; alcance: Límites a contaminación lumínica, varias modificaciones desde 2007; naturaleza: Decreto; 2007",
-    "language": "es"
+    "note": "Decreto; Límites a contaminación lumínica, varias modificaciones desde 2007",
+    "issued": null
   },
   {
     "id": "F036",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Narodne novine — Zakon o zaštiti od svjetlosnog onečišćenja (NN 14/2019)",
     "URL": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_02_14_271.html",
-    "note": "País: Croacia; alcance: Protección frente a contaminación lumínica; naturaleza: Ley nacional específica; Reglamentos de ejecución por localizar artículo por artículo.",
-    "language": "es",
+    "note": "Ley nacional específica; Protección frente a contaminación lumínica",
     "issued": {
       "date-parts": [
         [
@@ -401,11 +385,10 @@
   },
   {
     "id": "F037",
-    "type": "legislation",
+    "type": "webpage",
     "title": "legislation.gov.uk — Environmental Protection Act 1990, section 79",
     "URL": "https://www.legislation.gov.uk/ukpga/1990/43/section/79",
-    "note": "País: Reino Unido; alcance: Molestia legal por luz artificial en Inglaterra y Gales; exenciones sectoriales; naturaleza: Ley; Consultar aplicabilidad y versiones devoluciones.",
-    "language": "es",
+    "note": "Ley; Molestia legal por luz artificial en Inglaterra y Gales; exenciones sectoriales",
     "issued": {
       "date-parts": [
         [
@@ -416,19 +399,18 @@
   },
   {
     "id": "F038",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Gesetze im Internet — Bundesnaturschutzgesetz, §41a (Schutz von Tieren und Pflanzen vor nachteiligen Auswirkungen von Beleuchtungen)",
     "URL": "https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html",
-    "note": "País: Alemania; alcance: Disposición sobre fauna/vegetación y luz; naturaleza: Ley federal; Verificar condiciones de entrada en vigor y normas de implementación.",
-    "language": "es"
+    "note": "Ley federal; Disposición sobre fauna/vegetación y luz",
+    "issued": null
   },
   {
     "id": "F039",
     "type": "webpage",
     "title": "Diário da República — Lei do Orçamento do Estado para 2023, art. 182",
     "URL": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2022-205695052-205739790",
-    "note": "País: Portugal; alcance: Compromiso de elaborar regulación de luz exterior; naturaleza: Mandato legislativo; Verificar desarrollo normativo y estado posterior.",
-    "language": "es",
+    "note": "Mandato legislativo; Compromiso de elaborar regulación de luz exterior",
     "issued": {
       "date-parts": [
         [
@@ -439,11 +421,10 @@
   },
   {
     "id": "F040",
-    "type": "legislation",
+    "type": "webpage",
     "title": "e-Sbírka — Vyhláška č. 146/2024 Sb. o požadavcích na výstavbu, §24",
     "URL": "https://e-sbirka.gov.cz/sb/2024/146?odkazId=212535879",
-    "note": "País: República Checa; alcance: Supuestos constructivos enumerados; naturaleza: Reglamento de construcción; Verificar textos tras modificación 97/2026.",
-    "language": "es",
+    "note": "Reglamento de construcción; Supuestos constructivos enumerados",
     "issued": {
       "date-parts": [
         [
@@ -454,43 +435,42 @@
   },
   {
     "id": "F041",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Vlaamse Codex — VLAREM II, capítulo sobre licht",
     "URL": "https://codex.vlaanderen.be/Portals/Codex/documenten/1003794.html",
-    "note": "País: Bélgica; alcance: Flandes, iluminación de instalaciones; naturaleza: Reglamento regional; Consultar capítulos y condiciones de aplicación.",
-    "language": "es"
+    "note": "Reglamento regional; Flandes, iluminación de instalaciones",
+    "issued": null
   },
   {
     "id": "F042",
     "type": "webpage",
     "title": "BAFU — legislación y reglamentos sobre emisiones luminosas",
     "URL": "https://www.bafu.admin.ch/de/licht-gesetze-und-verordnungen",
-    "note": "País: Suiza; alcance: Marco ambiental general; naturaleza: Portal oficial de legislación; ",
-    "language": "es"
+    "note": "Portal oficial de legislación; Marco ambiental general",
+    "issued": null
   },
   {
     "id": "F043",
     "type": "webpage",
     "title": "BAFU — medidas para reducir la contaminación lumínica",
     "URL": "https://www.bafu.admin.ch/de/massnahmen-gegen-lichtverschmutzung",
-    "note": "País: Suiza; alcance: Siete puntos preventivos, incluido espectro, orientación y tiempo; naturaleza: Guía oficial; Recomendación técnica no límite obligatorio general.",
-    "language": "es"
+    "note": "Guía oficial; Siete puntos preventivos, incluido espectro, orientación y tiempo",
+    "issued": null
   },
   {
     "id": "F044",
     "type": "webpage",
     "title": "IPLO — portal oficial para interpretación de Omgevingswet",
     "URL": "https://iplo.nl/",
-    "note": "País: Países Bajos; alcance: Acceso a planificación y regulación ambiental; naturaleza: Portal oficial; Seleccionar municipio y actividad; no supone norma nacional específica.",
-    "language": "es"
+    "note": "Portal oficial; Acceso a planificación y regulación ambiental",
+    "issued": null
   },
   {
     "id": "F045",
-    "type": "legislation",
+    "type": "webpage",
     "title": "RIS — Oberösterreichisches Umweltschutzgesetz, §41b Vermeidung von Lichtverschmutzung",
     "URL": "https://www.ris.bka.gv.at/Dokumente/Landesnormen/LOO40024836/LOO40024836.pdf",
-    "note": "País: Austria; alcance: Alta Austria, medidas para evitar contaminación lumínica; naturaleza: Ley de Land; Consultar versión de texto actualizado RIS.",
-    "language": "es",
+    "note": "Ley de Land; Alta Austria, medidas para evitar contaminación lumínica",
     "issued": {
       "date-parts": [
         [
@@ -501,19 +481,18 @@
   },
   {
     "id": "F046",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Slov-Lex — Ley 543/2002 de protección de la naturaleza y el paisaje",
     "URL": "https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2002/543/",
-    "note": "País: Eslovaquia; alcance: Protección de naturaleza; no se ha localizado límite lumínico directo; naturaleza: Ley general; Consultar consolidación vigente.",
-    "language": "es"
+    "note": "Ley general; Protección de naturaleza; no se ha localizado límite lumínico directo",
+    "issued": null
   },
   {
     "id": "F047",
     "type": "webpage",
     "title": "Retsinformation — Vejledning om lokalplanlægning",
     "URL": "https://www.retsinformation.dk/eli/retsinfo/2009/9922",
-    "note": "País: Dinamarca; alcance: Planeamiento local; ciertas carreteras estatales excluidas; naturaleza: Guía de planificación; El texto expresamente excluye regular alumbrado de carreteras estatales con plan local.",
-    "language": "es",
+    "note": "Guía de planificación; Planeamiento local; ciertas carreteras estatales excluidas",
     "issued": {
       "date-parts": [
         [
@@ -527,32 +506,31 @@
     "type": "webpage",
     "title": "Naturvårdsverket — Miljöbalken y precaución (2 kap. 3 §)",
     "URL": "https://www.naturvardsverket.se/vagledning-och-stod/miljobalken/hansynsreglerna--kapitel-2-miljobalken/forsiktighetsprincipen-2-kap.-3-",
-    "note": "País: Suecia; alcance: Principio ambiental; análisis individual; naturaleza: Guía interpretativa oficial; No fijar lux general inexistente en esta fuente.",
-    "language": "es"
+    "note": "Guía interpretativa oficial; Principio ambiental; análisis individual",
+    "issued": null
   },
   {
     "id": "F049",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Lovdata — Forurensningsloven, §6",
     "URL": "https://lovdata.no/dokument/NL/lov/1981-03-13-6/KAPITTEL_2",
-    "note": "País: Noruega; alcance: Definición condicional de luz como contaminación; naturaleza: Ley general; 1981",
-    "language": "es"
+    "note": "Ley general; Definición condicional de luz como contaminación",
+    "issued": null
   },
   {
     "id": "F050",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Finlex — Ympäristönsuojelulaki 527/2014",
     "URL": "https://www.finlex.fi/en/legislation/2014/527",
-    "note": "País: Finlandia; alcance: Define emisión incluyendo luz; texto con cambios en 2026; naturaleza: Ley general; 2014",
-    "language": "es"
+    "note": "Ley general; Define emisión incluyendo luz; texto con cambios en 2026",
+    "issued": null
   },
   {
     "id": "F051",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Sejm — Rozporządzenie sobre condiciones técnicas de edificios, §293.6",
     "URL": "https://api.sejm.gov.pl/eli/acts/DU/2022/1225/text.html",
-    "note": "País: Polonia; alcance: Máximos lux en fachadas con ventanas; naturaleza: Reglamento; Texto 2022 afectado por régimen transitorio 2026.",
-    "language": "es",
+    "note": "Reglamento; Máximos lux en fachadas con ventanas",
     "issued": {
       "date-parts": [
         [
@@ -566,24 +544,23 @@
     "type": "webpage",
     "title": "Ministerio de Desarrollo y Tecnología — comunicado de continuidad transitoria 2026",
     "URL": "https://www.gov.pl/web/rozwoj-technologia/komunikat-ministerstwa-rozwoju-i-technologii-dotyczacy-prac-nad-rozporzadzeniem-w-sprawie-warunkow-technicznych-jakim-powinny-odpowiadac-budynki-i-ich-usytuowanie-oraz-warunkow-technicznych-uzytkowania-budynkow-mieszkalnych",
-    "note": "País: Polonia; alcance: Aplicabilidad de reglas técnicas previas durante 18 meses desde 20 sept 2026; naturaleza: Comunicado oficial; 2026",
-    "language": "es"
+    "note": "Comunicado oficial; Aplicabilidad de reglas técnicas previas durante 18 meses desde 20 sept 2026",
+    "issued": null
   },
   {
     "id": "F053",
     "type": "webpage",
     "title": "Dublin City Development Plan 2022–2028, §9.5",
     "URL": "https://www.dublincity.ie/dublin-city-development-plan-2022-2028/written-statement/chapter-9-sustainable-environmental-and-flood-risk/95-policies-and-objectives",
-    "note": "País: Irlanda; alcance: Restricciones de diseño e impacto en murciélagos y fauna; naturaleza: Plan urbanístico; 2022",
-    "language": "es"
+    "note": "Plan urbanístico; Restricciones de diseño e impacto en murciélagos y fauna",
+    "issued": null
   },
   {
     "id": "F054",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Εθνικό Τυπογραφείο — FEK 5966/B/2024",
     "URL": "https://search.et.gr/el/fek/?fekId=772937",
-    "note": "País: Grecia; alcance: Diseño de iluminación de obras viales; naturaleza: Reglamento técnico; Sin límites generales de cielo oscuro verificados.",
-    "language": "es",
+    "note": "Reglamento técnico; Diseño de iluminación de obras viales",
     "issued": {
       "date-parts": [
         [
@@ -594,11 +571,10 @@
   },
   {
     "id": "F055",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Ministerio de Ecología y Medio Ambiente — Código Ecológico y Ambiental de 2026",
     "URL": "https://ecro.mee.gov.cn/fgbz/fl/202604/t20260416_1148993.html",
-    "note": "País: China; alcance: Capítulo dedicado a prevención y control de contaminación lumínica; naturaleza: Código legal; Artículos en capítulo 36; no atribuir topes universales sin cotejo.",
-    "language": "es",
+    "note": "Código legal; Capítulo dedicado a prevención y control de contaminación lumínica",
     "issued": {
       "date-parts": [
         [
@@ -612,96 +588,95 @@
     "type": "webpage",
     "title": "Ministerio de Ecología y Medio Ambiente — entrada en vigor 15 agosto 2026",
     "URL": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk03/202604/t20260408_1148465.html",
-    "note": "País: China; alcance: Fecha de vigencia del código; naturaleza: Comunicado oficial; 2026",
-    "language": "es"
+    "note": "Comunicado oficial; Fecha de vigencia del código",
+    "issued": null
   },
   {
     "id": "F057",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Korea Legislation Research Institute — Act on the Prevention of Light Pollution due to Artificial Lighting",
     "URL": "https://elaw.klri.re.kr/kor_mobile/viewer.do?hseq=71942&key=&type=new",
-    "note": "País: Corea del Sur; alcance: Texto actualizado con reforma en 2025; naturaleza: Ley nacional; 2012",
-    "language": "es"
+    "note": "Ley nacional; Texto actualizado con reforma en 2025",
+    "issued": null
   },
   {
     "id": "F058",
-    "type": "legislation",
+    "type": "webpage",
     "title": "KLRI — Enforcement Decree of the Act on Prevention of Light Pollution",
     "URL": "https://elaw.klri.re.kr/kor_mobile/viewer.do?hseq=73076&key=16&type=sogan",
-    "note": "País: Corea del Sur; alcance: Desarrollo de legislación sobre alumbrado y zonas; naturaleza: Decreto; 2025",
-    "language": "es"
+    "note": "Decreto; Desarrollo de legislación sobre alumbrado y zonas",
+    "issued": null
   },
   {
     "id": "F059",
     "type": "webpage",
     "title": "Ministry of Environment — Light Pollution Countermeasure Guidelines",
     "URL": "https://www.env.go.jp/air/life/light_poll.html",
-    "note": "País: Japón; alcance: Documento revisado en 2021; no ley nacional general; naturaleza: Guía ministerial; 2021",
-    "language": "es"
+    "note": "Guía ministerial; Documento revisado en 2021; no ley nacional general",
+    "issued": null
   },
   {
     "id": "F060",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Lienchiang County — Light Pollution Control Ordinance",
     "URL": "https://law.matsu.gov.tw/LawContent.aspx?id=GL000512",
-    "note": "País: Taiwán; alcance: Regula pantallas y emisiones lumínicas del condado; naturaleza: Ordenanza; 2022",
-    "language": "es"
+    "note": "Ordenanza; Regula pantallas y emisiones lumínicas del condado",
+    "issued": null
   },
   {
     "id": "F061",
     "type": "webpage",
     "title": "Lienchiang County — Normativa complementaria 2026",
     "URL": "https://law.matsu.gov.tw/LawContent.aspx?id=GL000663",
-    "note": "País: Taiwán; alcance: Desarrollo o cambios de 2026 por revisar; naturaleza: Disposición local; 2026",
-    "language": "es"
+    "note": "Disposición local; Desarrollo o cambios de 2026 por revisar",
+    "issued": null
   },
   {
     "id": "F062",
     "type": "webpage",
     "title": "NParks — Biodiversity Impact Assessment Guidelines: Light management (2024)",
     "URL": "https://www.nparks.gov.sg/docs/default-source/resources/2024/technical-note-light-management-may2024.pdf",
-    "note": "País: Singapur; alcance: Proteger fauna y bosques; referencia en evaluación de proyectos; naturaleza: Guía técnica; 2024",
-    "language": "es"
+    "note": "Guía técnica; Proteger fauna y bosques; referencia en evaluación de proyectos",
+    "issued": null
   },
   {
     "id": "F063",
     "type": "webpage",
     "title": "URA — Revision to Night Lighting Guidelines (2023)",
     "URL": "https://www.ura.gov.sg/guidelines/circulars/dc23-06/",
-    "note": "País: Singapur; alcance: CBD, Civic District, Marina Bay y Marina Centre; naturaleza: Guía de planeamiento; 2023",
-    "language": "es"
+    "note": "Guía de planeamiento; CBD, Civic District, Marina Bay y Marina Centre",
+    "issued": null
   },
   {
     "id": "F064",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Singapore Statutes Online — Air Navigation (Dangerous Lights) Regulations 2025",
     "URL": "https://sso.agc.gov.sg/SL/ANA1966-S836-2025?DocDate=20251226&TransactionDate=20260128235959",
-    "note": "País: Singapur; alcance: Permisos para exhibiciones exteriores y luces peligrosas; naturaleza: Reglamento sectorial; 2025",
-    "language": "es"
+    "note": "Reglamento sectorial; Permisos para exhibiciones exteriores y luces peligrosas",
+    "issued": null
   },
   {
     "id": "F065",
     "type": "webpage",
     "title": "Department of Standards Malaysia — Draft MS 825-4:202X",
     "URL": "https://www.msonline.gov.my/images/Public%20Comment/1%20Nov%20-%2031%20Dec%2025/Draft%20MS%20825-4_202X_PC.pdf",
-    "note": "País: Malasia; alcance: Consulta pública; no norma vigente acreditada; naturaleza: BORRADOR de norma; 2025",
-    "language": "es"
+    "note": "BORRADOR de norma; Consulta pública; no norma vigente acreditada",
+    "issued": null
   },
   {
     "id": "F066",
     "type": "webpage",
     "title": "PLANMalaysia — Guía de anuncios y señalización",
     "URL": "https://www.planmalaysia.gov.my/uploads/content-downloads/file_20251114202514.pdf",
-    "note": "País: Malasia; alcance: Control de anuncios que deslumbran; naturaleza: Guía urbanística; 2018",
-    "language": "es"
+    "note": "Guía urbanística; Control de anuncios que deslumbran",
+    "issued": null
   },
   {
     "id": "F067",
     "type": "webpage",
     "title": "Ministry of Environment — Coastal Regulation Zone Notification 2019",
     "URL": "https://environmentclearance.nic.in/writereaddata/SCZMADocument/ICRZ_Notification2019.pdf",
-    "note": "País: India; alcance: Protección de playas sensibles; naturaleza: Regulación costera; Verificar alcance: documento IC(RZ) puede corresponder a territorios insulares.",
-    "language": "es",
+    "note": "Regulación costera; Protección de playas sensibles",
     "issued": {
       "date-parts": [
         [
@@ -715,95 +690,641 @@
     "type": "webpage",
     "title": "DCCEEW — National Light Pollution Guidelines for Wildlife (2023)",
     "URL": "https://www.dcceew.gov.au/environment/biodiversity/publications/national-light-pollution-guidelines-wildlife",
-    "note": "País: Australia; alcance: Mitigación de daños a fauna; no ley nacional general; naturaleza: Guía nacional; 2023",
-    "language": "es"
+    "note": "Guía nacional; Mitigación de daños a fauna; no ley nacional general",
+    "issued": null
   },
   {
     "id": "F069",
     "type": "webpage",
     "title": "Mackenzie District Council — District Plan, lighting provisions",
     "URL": "https://www.mackenzie.govt.nz/council/plans-reports-and-strategies/plans/district-plan",
-    "note": "País: Nueva Zelanda; alcance: Distrito de Mackenzie; naturaleza: Plan regulatorio municipal; Separar capítulo operativo de proposed plan change.",
-    "language": "es"
+    "note": "Plan regulatorio municipal; Distrito de Mackenzie",
+    "issued": null
   },
   {
     "id": "F070",
     "type": "webpage",
     "title": "Mackenzie District — Lighting and the Aoraki Dark Sky Reserve",
     "URL": "https://www.mackenzie.govt.nz/rates-building-and-property/lighting-and-the-aoraki-dark-sky-reserve",
-    "note": "País: Nueva Zelanda; alcance: Explicación de controles y protección astronómica; naturaleza: Información local; ",
-    "language": "es"
+    "note": "Información local; Explicación de controles y protección astronómica",
+    "issued": null
   },
   {
     "id": "F071",
-    "type": "legislation",
+    "type": "webpage",
     "title": "South African Government — Astronomy Geographic Advantage Act 21 of 2007",
     "URL": "https://www.gov.za/nr/documents/astronomy-geographic-advantage-act",
-    "note": "País: Sudáfrica; alcance: Protección de lugares de interés astronómico; naturaleza: Ley nacional; 2007",
-    "language": "es"
+    "note": "Ley nacional; Protección de lugares de interés astronómico",
+    "issued": null
   },
   {
     "id": "F072",
     "type": "webpage",
     "title": "Department of Science, Technology and Innovation — Astronomy Management Authority",
     "URL": "https://www.dsti.gov.za/ama/documents",
-    "note": "País: Sudáfrica; alcance: Reglamentos y notificaciones de áreas astronómicas; naturaleza: Repositorio autoridad; Distinguir borradores de textos aprobados.",
-    "language": "es"
+    "note": "Repositorio autoridad; Reglamentos y notificaciones de áreas astronómicas",
+    "issued": null
   },
   {
     "id": "F073",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Royal Decree 40/2019 — Al Hajar Al Gharbi Starlight Reserve",
     "URL": "https://ea.gov.om/media/e31ntoiz/%D9%85%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%AD%D9%85%D9%8A%D8%A9-%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A.pdf",
-    "note": "País: Omán; alcance: Declara reserva de cielo oscuro; naturaleza: Decreto real; 2019",
-    "language": "es"
+    "note": "Decreto real; Declara reserva de cielo oscuro",
+    "issued": null
   },
   {
     "id": "F074",
     "type": "webpage",
     "title": "Al Hajar Al Gharbi — propuesta de planificación espacial",
     "URL": "https://cms.mohup.gov.om/uploads/Al_Hajar_Al_Gharbi_1_9a47aebac2.pdf",
-    "note": "País: Omán; alcance: Propuestas de zona central y buffer; naturaleza: Documento de planificación; No equivale a reglamento adoptado.",
-    "language": "es"
+    "note": "Documento de planificación; Propuestas de zona central y buffer",
+    "issued": null
   },
   {
     "id": "F075",
-    "type": "legislation",
+    "type": "webpage",
     "title": "SGG — Loi-cadre 99-12 relative à la Charte nationale de l’environnement",
     "URL": "https://www.sgg.gov.ma/Portals/0/lois/Loi_99-12_Fr.pdf?ver=2014-12-22-153118-340",
-    "note": "País: Marruecos; alcance: Mandato sobre nuisance lumineuse; naturaleza: Ley-marco; 2014",
-    "language": "es"
+    "note": "Ley-marco; Mandato sobre nuisance lumineuse",
+    "issued": null
   },
   {
     "id": "F076",
     "type": "webpage",
     "title": "IMANOR — Proyecto de norma PNM EN 12464-2",
     "URL": "https://www.imanor.gov.ma/wp-content/uploads/2023/07/00.3.204-EN-12464-2.pdf",
-    "note": "País: Marruecos; alcance: No se ha constatado adopción/obligatoriedad; naturaleza: PROYECTO técnico; 2023",
-    "language": "es"
+    "note": "PROYECTO técnico; No se ha constatado adopción/obligatoriedad",
+    "issued": null
   },
   {
     "id": "F077",
-    "type": "legislation",
+    "type": "webpage",
     "title": "Environmental Management Act 7 of 2007 — Government of Namibia",
     "URL": "https://www.npc.gov.na/publicpolicy/environmental-management-act-7-of-2007/",
-    "note": "País: Namibia; alcance: Procedimientos ambientales, no luz nocturna específica; naturaleza: Ley ambiental general; 2007",
-    "language": "es"
+    "note": "Ley ambiental general; Procedimientos ambientales, no luz nocturna específica",
+    "issued": null
   },
   {
     "id": "F078",
     "type": "webpage",
     "title": "Malta Green Public Procurement — Road lighting and traffic signals",
     "URL": "https://gpp.gov.mt/mandatory-criteria/road-lighting-and-traffic-signals/",
-    "note": "País: Malta; alcance: Ámbito compras públicas y pliegos; naturaleza: Criterios de contratación obligatorios; No aplicable automáticamente a instalaciones privadas.",
-    "language": "es"
+    "note": "Criterios de contratación obligatorios; Ámbito compras públicas y pliegos",
+    "issued": null
   },
   {
     "id": "F079",
     "type": "webpage",
     "title": "Malta GPP — marco de compras públicas verdes",
     "URL": "https://gpp.gov.mt/what-is-gpp/",
-    "note": "País: Malta; alcance: Contexto de aplicación del régimen de compra; naturaleza: Guía institucional; ",
-    "language": "es"
+    "note": "Guía institucional; Contexto de aplicación del régimen de compra",
+    "issued": null
+  },
+  {
+    "id": "F080",
+    "type": "webpage",
+    "title": "REECL (UCM) - repertorio de legislacion sobre contaminacion luminica",
+    "URL": "https://guaix.fis.ucm.es/reecl/legislacion",
+    "note": "Indice secundario especializado; España: guía organizada por ámbito estatal, ambiental, observatorios y autonomías",
+    "issued": null
+  },
+  {
+    "id": "F081",
+    "type": "webpage",
+    "title": "REECL - listado de normas autonomicas",
+    "URL": "https://guaix.fis.ucm.es/reecl/node/126",
+    "note": "Indice secundario especializado; Normativa de CCAA; no incluye ordenanzas municipales",
+    "issued": null
+  },
+  {
+    "id": "F082",
+    "type": "webpage",
+    "title": "Cel Fosc - archivo historico de legislacion (sitio antiguo)",
+    "URL": "https://vell.celfosc.org/biblio/legal/index.html",
+    "note": "Archivo historico no verificado; Enlace suministrado por el usuario para contraste historico",
+    "issued": null
+  },
+  {
+    "id": "F083",
+    "type": "webpage",
+    "title": "Cataluña - Ley 6/2001 de ordenacion ambiental del alumbrado",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-11962",
+    "note": "Ley autonómica; Cataluña; ley específica y modificaciones consolidadas",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F084",
+    "type": "webpage",
+    "title": "Cataluña - Decreto 190/2015 de desarrollo",
+    "URL": "https://portaljuridic.gencat.cat/eli/es-ct/d/2015/08/25/190",
+    "note": "Reglamento autonómico; Cataluña; desarrollo de Ley 6/2001",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F085",
+    "type": "webpage",
+    "title": "Illes Balears - Ley 3/2005 de proteccion del medio nocturno",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-8460",
+    "note": "Ley autonómica; Illes Balears; instalaciones exteriores e interiores con afeccion exterior",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F086",
+    "type": "webpage",
+    "title": "Menorca - Reglamento insular de proteccion del medio nocturno (2021)",
+    "URL": "https://guaix.fis.ucm.es/reecl/node/126",
+    "note": "Referenciado en indice tecnico; Menorca, reglamento insular; texto oficial enlazado desde REECL",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F087",
+    "type": "webpage",
+    "title": "Eivissa - Reglamento de proteccion del medio nocturno de la isla (BOIB 140/2026)",
+    "URL": "https://www.caib.es/eboibfront/pdf/es/2026/140/1231903",
+    "note": "Reglamento insular; Eivissa; 3-XI-2026; art. 5 zonificacion E1-E4, horarios y anexos tecnicos",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F088",
+    "type": "webpage",
+    "title": "Cantabria - Ley 6/2006 de prevencion de contaminacion luminica",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-14085",
+    "note": "Ley autonómica; Cantabria; zonificacion, alumbrado, horarios y regimen sancionador",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F089",
+    "type": "webpage",
+    "title": "Cantabria - Decreto 48/2010, desarrollo parcial de Ley 6/2006",
+    "URL": "https://boc.cantabria.es/",
+    "note": "Reglamento autonómico; Cantabria; desarrollo parcial y observatorio",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F090",
+    "type": "webpage",
+    "title": "Andalucia - Ley 2/2026 para la Gestion Ambiental",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-7558",
+    "note": "Ley autonómica; Andalucia: titulo IV, cap II, seccion 3; sanciones titulo IX cap II seccion 4",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F091",
+    "type": "webpage",
+    "title": "Andalucia - Decreto 37/2025, Reglamento de proteccion frente a la contaminacion luminica",
+    "URL": "https://www.juntadeandalucia.es/boja/2025/31/5",
+    "note": "Reglamento autonómico; Andalucia; medidas de iluminacion, areas sensibles y zonificacion",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F092",
+    "type": "webpage",
+    "title": "Andalucia - Ley 7/2007 (derogada desde 20-VI-2026)",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-15158",
+    "note": "Ley derogada; Historica; no presentar como vigente",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F093",
+    "type": "webpage",
+    "title": "Region de Murcia - Ley 4/2009 de proteccion ambiental integrada",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-2547",
+    "note": "Ley autonómica ambiental; Murcia; responsabilidades locales y control de contaminacion luminica",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F094",
+    "type": "webpage",
+    "title": "Castilla y Leon - Ley 15/2010, prevencion contaminacion luminica",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-20074",
+    "note": "Ley autonómica; Castilla y Leon: alumbrado, ahorro y eficiencia energetica",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F095",
+    "type": "webpage",
+    "title": "Extremadura - Ley 16/2015 de proteccion ambiental",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5490",
+    "note": "Ley autonómica ambiental; Extremadura; titulo II capitulo III contaminacion luminica",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F096",
+    "type": "webpage",
+    "title": "Euskadi - Ley 10/2021 de Administracion Ambiental",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-951",
+    "note": "Ley ambiental autonómica; Euskadi; art. 6 deberes ambientales; no ley integral sobre luz",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F097",
+    "type": "webpage",
+    "title": "Navarra - Ley Foral 4/2022 de Cambio Climatico y Transicion Energetica",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-6402",
+    "note": "Ley foral; Navarra; art. 43 alumbrado exterior; deroga Ley Foral 10/2005 y DF 199/2007",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F098",
+    "type": "webpage",
+    "title": "Navarra - Ley Foral 10/2005 (DEROGADA 2-IV-2022)",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-20977",
+    "note": "Ley historica derogada; Solo referencia de evolucion normativa",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F099",
+    "type": "webpage",
+    "title": "Comunitat Valenciana - Ley 6/2022 de Cambio Climatico, art. 40",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-4378",
+    "note": "Ley autonómica; Valencia: reduccion maxima de contaminacion luminica en alumbrado publico",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F100",
+    "type": "webpage",
+    "title": "Canarias - Ley 6/2022 de cambio climatico y transicion energetica",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-2941",
+    "note": "Ley autonómica sectorial; Canarias; politicas sectoriales y alteraciones hasta 2026",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F101",
+    "type": "webpage",
+    "title": "Ley 31/1988, proteccion de observatorios del IAC",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-1988-25332",
+    "note": "Ley estatal especial territorial; La Palma y areas de Tenerife en ambito reglamentario; protege calidad astronomica",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F102",
+    "type": "webpage",
+    "title": "Real Decreto 243/1992, Reglamento de la Ley 31/1988",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-1992-8705",
+    "note": "Reglamento estatal especial; Proteccion IAC; modificado por RD 580/2017",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F103",
+    "type": "webpage",
+    "title": "Aragon - Ley 10/2017 de regimen especial de Zaragoza, art. 27.1.g",
+    "URL": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-1683",
+    "note": "Ley autonomica habilitante local; Solo municipio Zaragoza; competencia sobre contaminacion luminica",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F104",
+    "type": "webpage",
+    "title": "REECL - referencias ambientales nacionales y europeas",
+    "URL": "https://guaix.fis.ucm.es/reecl/node/123",
+    "note": "Indice secundario; Ley 21/2013, Natura 2000, parques nacionales y Reglamento UE 2024/1991",
+    "issued": null
+  },
+  {
+    "id": "F105",
+    "type": "webpage",
+    "title": "REECL - proteccion observatorios IAC y Cantabria",
+    "URL": "https://guaix.fis.ucm.es/reecl/node/125",
+    "note": "Indice secundario; Ley 31/1988, RD 243/1992 y observatorio de Cantabria",
+    "issued": null
+  },
+  {
+    "id": "F106",
+    "type": "webpage",
+    "title": "REECL - marco basico, RD 1890/2008 y guia IDAE",
+    "URL": "https://guaix.fis.ucm.es/reecl/node/122",
+    "note": "Indice secundario; Prevencion nacional, eficiencia e iluminacion en carreteras",
+    "issued": null
+  },
+  {
+    "id": "F107",
+    "type": "webpage",
+    "title": "1979 Convention on Long-range Transboundary Air Pollution - articulos 1 a 4",
+    "URL": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:21979A1113(01)",
+    "note": "Tratado internacional; CLRTAP: art. 1 menciona sustancias o energia; art. 1.b exige afeccion transfronteriza a distancia",
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F108",
+    "type": "webpage",
+    "title": "ONU CDI - Protection of the atmosphere, 2021 - guias y comentarios",
+    "URL": "https://legal.un.org/ilc/texts/8_8.shtml",
+    "note": "Material juridico no vinculante; Proyecto de directrices; ONU AG resolucion 76/112 toma nota",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F109",
+    "type": "webpage",
+    "title": "ONU Asamblea General - resolucion 76/112, proteccion de la atmosfera",
+    "URL": "https://digitallibrary.un.org/record/3952214",
+    "note": "Resolucion ONU; La AG toma nota de las directrices de la CDI, no crea convenio vinculante adicional",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F110",
+    "type": "webpage",
+    "title": "UE - Reglamento 2024/1991 de restauracion de la naturaleza",
+    "URL": "https://eur-lex.europa.eu/eli/reg/2024/1991/oj",
+    "note": "Reglamento UE; Anexo VII: ejemplo de medidas para detener, reducir o remediar luz artificial",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F111",
+    "type": "webpage",
+    "title": "JRC - Green Public Procurement Criteria for Road Lighting and Traffic Signals",
+    "URL": "https://publications.jrc.ec.europa.eu/repository/handle/JRC115406",
+    "note": "Criterios voluntarios de contratacion; Instrumentos luminotecnicos para contratacion; vigencia segun adopcion",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F112",
+    "type": "webpage",
+    "title": "European Commission - Light pollution, Mitigation measures for environmental protection",
+    "URL": "https://data.europa.eu/doi/10.2779/906521",
+    "note": "Informe tecnico UE; Proteccion ecosistemas, estrategias y medidas no vinculantes",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F113",
+    "type": "webpage",
+    "title": "Czech Ministry of the Environment - Light pollution reduction measures in Europe",
+    "URL": "https://doi.org/10.5281/zenodo.12676720",
+    "note": "Compilacion gubernamental comparada; Informe de 2022 sobre 32 paises europeos: ley, norma, guia y reservas",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F114",
+    "type": "article-journal",
+    "title": "Bara et al. - Keeping light pollution at bay: red-lines, target values, top-down approach",
+    "URL": "https://doi.org/10.1016/j.envc.2021.100212",
+    "note": "Articulo cientifico; Propuesta sobre limites de inmisiones y presupuesto de emisiones, no norma vigente",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F115",
+    "type": "webpage",
+    "title": "Bara & Falchi - Artificial light at night: a global disruptor of the night-time environment",
+    "URL": "https://doi.org/10.1098/rstb.2022.0352",
+    "note": "Revision cientifica; Conceptos y repercusiones ambientales, no reglamento",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F116",
+    "type": "webpage",
+    "title": "Bara et al. - Por un uso responsable de la iluminacion artificial (2025)",
+    "URL": "https://doi.org/10.17075/uriarap.2025.es",
+    "note": "Recomendacion experta; Recomendaciones a administraciones; no ley obligatoria",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F117",
+    "type": "article-journal",
+    "title": "Yana Yakushina - Light pollution regulations and where to find them",
+    "URL": "https://doi.org/10.1016/j.jenvman.2024.123757",
+    "note": "Articulo cientifico-juridico; Revision comparada de normas de contaminacion luminica",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F118",
+    "type": "article-journal",
+    "title": "Yana Yakushina - The endangered night: the challenge of light pollution within international environmental legal context",
+    "URL": "https://doi.org/10.1093/jel/eqaf025",
+    "note": "Articulo cientifico-juridico; Derecho ambiental internacional y proteccion de la noche",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F119",
+    "type": "webpage",
+    "title": "Yakushina, Smith y Sanchez de Miguel - Manifesto for Tackling Light Pollution & EU Monitoring",
+    "URL": "https://doi.org/10.5281/zenodo.12606631",
+    "note": "Manifiesto de investigacion; Propuesta de seguimiento europeo, no instrumento juridico",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F120",
+    "type": "webpage",
+    "title": "REECL - bibliografia cientifica y bases ALAN",
+    "URL": "https://guaix.fis.ucm.es/reecl/Bibliografia",
+    "note": "Repertorio academico; Bibliografia de papers y colecciones tematicas",
+    "issued": null
+  },
+  {
+    "id": "F121",
+    "type": "webpage",
+    "title": "REECL - propuestas para restaurar la calidad de la noche",
+    "URL": "https://guaix.fis.ucm.es/reecl/node/135",
+    "note": "Propuesta de politica publica; Objetivos sugeridos para plan nacional de restauracion naturaleza, no norma vigente",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
   }
 ]

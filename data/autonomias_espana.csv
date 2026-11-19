@@ -1,0 +1,20 @@
+﻿id,name,level,summary,source_ids,caution,reviewed
+AN,Andalucía,especifica,Ley 2/2026 (desde junio 2026) y Decreto 37/2025; derogacion de Ley 7/2007.,F090; F091; F092,No extrapolar automaticamente sanciones antiguas de la GICA.,2026-11-19
+AR,Aragón,sectorial,"No localizada ley autonómica integral. Zaragoza tiene competencia municipal expresa en Ley 10/2017, art. 27.1.g.",F103,La habilitacion municipal no equivale a limites generales autonómicos.,2026-11-19
+AS,Principado de Asturias,pendiente,Aplicacion del marco estatal y ordenanzas/planes locales a investigar; sin ley regional especifica documentada aqui.,F081,Ausencia en esta base no demuestra inexistencia.,2026-11-19
+IB,Illes Balears,especifica,"Ley 3/2005 y reglamentos insulares: Menorca (2021) y Eivissa (2026, con zonificacion E1-E4).",F085; F086; F087,Distinguir ley autonómica y regulacion insular; entrada en vigor y excepciones por texto.,2026-11-19
+CN,Canarias,sectorial,Ley 6/2022; proteccion especial de observatorios IAC por Ley estatal 31/1988 y RD 243/1992.,F100; F101; F102,La proteccion astronomica especial no se extiende identicamente a todas las islas.,2026-11-19
+CB,Cantabria,especifica,Ley 6/2006 y Decreto 48/2010 de desarrollo parcial; especial referencia al Observatorio Astronomico de Cantabria.,F088; F089; F105,Regulacion parcial y correcciones en BOC por cotejar.,2026-11-19
+CL,Castilla y León,especifica,Ley 15/2010 especifica de prevencion de contaminacion luminica y ahorro energetico.,F094,Comprobar modificaciones y cronograma de adaptacion.,2026-11-19
+CM,Castilla-La Mancha,pendiente,Marco general y municipal. No localizada ley autonómica especifica en esta auditoria.,F081,Revisar ordenanzas y reglas de espacios naturales.,2026-11-19
+CT,Cataluña,especifica,Ley 6/2001 y Decreto 190/2015; mapas oficiales de zonificacion nocturna.,F083; F084,Aplicacion territorial mediante zonificacion y excepciones.,2026-11-19
+VC,Comunitat Valenciana,sectorial,"Ley 6/2022 de Cambio Climatico, art. 40 de reduccion de contaminacion del alumbrado publico.",F099,Especificaciones tecnicas y ordenanzas locales requieren comprobacion.,2026-11-19
+EX,Extremadura,sectorial,"Ley 16/2015 de proteccion ambiental, titulo II capitulo III: contaminacion luminica.",F095,No equiparar previsiones ambientales a valores luminotecnicos no constatados.,2026-11-19
+GA,Galicia,pendiente,Marco estatal y ordenanzas municipales; sin ley integral especifica localizada en esta compilacion.,F081,Revisar directrices locales y otras normas sectoriales.,2026-11-19
+MD,Comunidad de Madrid,pendiente,Competencias generales y ordenanzas municipales; no se ha verificado una ley autonómica integral de contaminacion luminica.,F081,La Ley 2/2002 ambiental fue parcialmente derogada; evitar invocarla sin cotejar la version vigente.,2026-11-19
+MC,Región de Murcia,sectorial,Ley 4/2009 de proteccion ambiental integrada; previsiones de competencia municipal.,F093,Los controles precisos deben verificarse en autorizaciones locales.,2026-11-19
+NC,Comunidad Foral de Navarra,sectorial,"Ley Foral 4/2022, art. 43, alumbrado exterior; deroga expresamente Ley Foral 10/2005.",F097; F098,Ley 10/2005 y Decreto 199/2007 NO estan vigentes desde abril de 2022.,2026-11-19
+PV,País Vasco / Euskadi,sectorial,Ley 10/2021 de Administracion Ambiental; deberes generales art. 6.,F096,No afirmar que art. 6 contiene limites de color/flujo no verificados.,2026-11-19
+RI,La Rioja,pendiente,Marco estatal y regulacion municipal; no localizada ley autonómica especifica en esta compilacion.,F081,Leyes sectoriales y ordenanzas deben investigarse por localidad.,2026-11-19
+CE,Ceuta,pendiente,Ciudad autonoma: normativa basica estatal y eventual ordenanza local sin comprobar.,F080,"Incluir a efectos de cobertura territorial, no como comunidad autonoma.",2026-11-19
+ML,Melilla,pendiente,Ciudad autonoma: normativa basica estatal y eventual ordenanza local sin comprobar.,F080,"Incluir a efectos de cobertura territorial, no como comunidad autonoma.",2026-11-19

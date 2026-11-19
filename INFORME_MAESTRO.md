@@ -3,8 +3,8 @@
 **Informe maestro de compilación documental — 19 de noviembre de 2026**
 
 - **51 países** en el universo; no equivale a 51 leyes nacionales.
-- **79 registros bibliográficos** con enlaces a documentos y portales; algunos son guías, borradores o fuentes secundarias.
-- **40 medidas estrella** con fuerza jurídica diferenciada.
+- **121 registros bibliográficos** con enlaces a documentos y portales; algunos son guías, borradores o fuentes secundarias.
+- **45 medidas estrella** con fuerza jurídica diferenciada.
 
 ## Alcance y procedencia
 
@@ -224,3 +224,65 @@ La columna fuerza jurídica separa límites exigibles, políticas de planeamient
 ## Cómo seguir mejorando esta edición
 
 Actualizar cada ficha comparando textos consolidados oficiales, registrar fecha de consulta, archivar solo documentos cuando su licencia/condiciones lo permitan, y añadir tablas estructuradas de artículos y umbrales. Mantener bitácora de cambios y revisión por expertos jurídicos locales.
+
+## Ampliacion autonoma y doctrinal 2026
+
+La base documental ampliada cuenta ahora con **121 referencias** y **45 medidas estrella**. La matriz mundial sigue teniendo 51 paises. Adicionalmente se presentan **17 comunidades autonomas y 2 ciudades autonomas**. Las cifras de 79 fuentes y 40 estrellas de la version original quedan sustituidas por los nuevos totales.
+
+### Repertorios proporcionados por el usuario
+
+- [REECL: compilacion de legislacion espanola](https://guaix.fis.ucm.es/reecl/legislacion), indice de trabajo secundario.
+- [Cel Fosc: archivo historico](https://vell.celfosc.org/biblio/legal/index.html), no accesible en la revision actual; usar con cautela historica.
+
+### Regiones espanolas
+
+| Comunidad / ciudad | Instrumento identificado | Fuente oficial / notas |
+|---|---|---|
+| Andalucía | Ley 2/2026 (desde junio 2026) y Decreto 37/2025; derogacion de Ley 7/2007. | [F090](https://www.boe.es/buscar/act.php?id=BOE-A-2026-7558) |
+| Aragón | No localizada ley autonómica integral. Zaragoza tiene competencia municipal expresa en Ley 10/2017, art. 27.1.g. | [F103](https://www.boe.es/buscar/act.php?id=BOE-A-2018-1683) |
+| Principado de Asturias | Aplicacion del marco estatal y ordenanzas/planes locales a investigar; sin ley regional especifica documentada aqui. | [F081](https://guaix.fis.ucm.es/reecl/node/126) |
+| Illes Balears | Ley 3/2005 y reglamentos insulares: Menorca (2021) y Eivissa (2026, con zonificacion E1-E4). | [F085](https://www.boe.es/buscar/act.php?id=BOE-A-2005-8460) |
+| Canarias | Ley 6/2022; proteccion especial de observatorios IAC por Ley estatal 31/1988 y RD 243/1992. | [F100](https://www.boe.es/buscar/act.php?id=BOE-A-2023-2941) |
+| Cantabria | Ley 6/2006 y Decreto 48/2010 de desarrollo parcial; especial referencia al Observatorio Astronomico de Cantabria. | [F088](https://www.boe.es/buscar/act.php?id=BOE-A-2006-14085) |
+| Castilla y León | Ley 15/2010 especifica de prevencion de contaminacion luminica y ahorro energetico. | [F094](https://www.boe.es/buscar/act.php?id=BOE-A-2010-20074) |
+| Castilla-La Mancha | Marco general y municipal. No localizada ley autonómica especifica en esta auditoria. | [F081](https://guaix.fis.ucm.es/reecl/node/126) |
+| Cataluña | Ley 6/2001 y Decreto 190/2015; mapas oficiales de zonificacion nocturna. | [F083](https://www.boe.es/buscar/act.php?id=BOE-A-2001-11962) |
+| Comunitat Valenciana | Ley 6/2022 de Cambio Climatico, art. 40 de reduccion de contaminacion del alumbrado publico. | [F099](https://www.boe.es/buscar/act.php?id=BOE-A-2023-4378) |
+| Extremadura | Ley 16/2015 de proteccion ambiental, titulo II capitulo III: contaminacion luminica. | [F095](https://www.boe.es/buscar/act.php?id=BOE-A-2015-5490) |
+| Galicia | Marco estatal y ordenanzas municipales; sin ley integral especifica localizada en esta compilacion. | [F081](https://guaix.fis.ucm.es/reecl/node/126) |
+| Comunidad de Madrid | Competencias generales y ordenanzas municipales; no se ha verificado una ley autonómica integral de contaminacion luminica. | [F081](https://guaix.fis.ucm.es/reecl/node/126) |
+| Región de Murcia | Ley 4/2009 de proteccion ambiental integrada; previsiones de competencia municipal. | [F093](https://www.boe.es/buscar/act.php?id=BOE-A-2011-2547) |
+| Comunidad Foral de Navarra | Ley Foral 4/2022, art. 43, alumbrado exterior; deroga expresamente Ley Foral 10/2005. | [F097](https://www.boe.es/buscar/act.php?id=BOE-A-2022-6402) |
+| País Vasco / Euskadi | Ley 10/2021 de Administracion Ambiental; deberes generales art. 6. | [F096](https://www.boe.es/buscar/act.php?id=BOE-A-2022-951) |
+| La Rioja | Marco estatal y regulacion municipal; no localizada ley autonómica especifica en esta compilacion. | [F081](https://guaix.fis.ucm.es/reecl/node/126) |
+| Ceuta | Ciudad autonoma: normativa basica estatal y eventual ordenanza local sin comprobar. | [F080](https://guaix.fis.ucm.es/reecl/legislacion) |
+| Melilla | Ciudad autonoma: normativa basica estatal y eventual ordenanza local sin comprobar. | [F080](https://guaix.fis.ucm.es/reecl/legislacion) |
+
+### Derecho internacional y cuestiones abiertas
+
+- **Tratado de Ginebra de 1979: definicion abierta de contaminante**: El articulo 1.a define contaminacion del aire mediante la introduccion de sustancias o energia con efectos perjudiciales. La luz es energia electromagnetica; no obstante, se debe demostrar el alcance material del tratado, los efectos ambientales relevantes y, para el articulo 1.b, el caracter transfronterizo a distancia. El tratado no establece por si mismo limites de CCT, flujo luminoso o sanciones de alumbrado. [F107](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:21979A1113(01)).
+- **Comision de Derecho Internacional y Asamblea General**: La CDI aprobo doce proyectos de directrices con comentarios. La Asamblea General en su resolucion 76/112 tomo nota, promovio su difusion y los puso en conocimiento de los Estados. No se transforman por ello en un tratado ratificado ni en sanciones nacionales automaticas. [F108](https://legal.un.org/ilc/texts/8_8.shtml).
+- **Union Europea: restauracion de la naturaleza**: El anexo VII menciona detener, reducir o corregir contaminacion por luz artificial como ejemplo de medidas de restauracion. No crea un limite universal de temperatura de color ni exige una medida uniforme de apagado en todas las luces. [F110](https://eur-lex.europa.eu/eli/reg/2024/1991/oj).
+- **UE: contratacion verde y estudios tecnico-ambientales**: Los criterios tecnicos de compra publica ayudan a trasladar parametros fotometricos y espectrales a pliegos. La fuerza obligatoria para cada contrato depende de la normativa de contratacion y de los requisitos adoptados. [F111](https://publications.jrc.ec.europa.eu/repository/handle/JRC115406).
+
+### Literatura academica y estudios de referencia
+
+- Ministerio checo del Medio Ambiente (2022). [Light pollution reduction measures in Europe](https://doi.org/10.5281/zenodo.12676720) -- Compilacion historica de 32 paises; NO actualizacion automatica a 2026.
+- S. Bara, F. Falchi, R. C. Lima y M. Pawley (2021). [Keeping light pollution at bay: A red-lines, target values, top-down approach](https://doi.org/10.1016/j.envc.2021.100212) -- Objetivos de inmisiones, presupuestos de emision; propuesta metodologica.
+- S. Bara y F. Falchi (2023). [Artificial light at night: a global disruptor of the night-time environment](https://doi.org/10.1098/rstb.2022.0352) -- Base cientifica de impactos en el medio nocturno.
+- S. Bara et al. (2025). [Por un uso responsable de la iluminacion artificial](https://doi.org/10.17075/uriarap.2025.es) -- Guia y recomendaciones para administraciones publicas.
+- Y. Yakushina (2025). [Light pollution regulations and where to find them](https://doi.org/10.1016/j.jenvman.2024.123757) -- Inventario juridico comparado internacional.
+- Y. Yakushina (2025). [The endangered night: the challenge of light pollution within international environmental legal context](https://doi.org/10.1093/jel/eqaf025) -- Implicaciones y limite del derecho ambiental internacional.
+- Y. Yakushina, D. Smith y A. Sanchez de Miguel (2024). [Manifesto for Tackling Light Pollution & Proposing EU Light Pollution Monitoring](https://doi.org/10.5281/zenodo.12606631) -- Declaracion y propuesta cientifico-politica, sin rango de ley.
+- REECL (UCM). [Bibliografia cientifica / ALAN Database](https://guaix.fis.ucm.es/reecl/Bibliografia) -- Indice de estudios y recursos academicos.
+- REECL (2026). [Propuestas de control de la contaminacion luminica para el Plan Nacional de Restauracion](https://guaix.fis.ucm.es/reecl/node/135) -- Documento de recomendaciones, no regulacion aprobada.
+
+### Anexos descargables
+
+- [Matriz espanola CSV](data/autonomias_espana.csv)
+- [Derecho internacional CSV](data/marco_internacional.csv)
+- [Bibliografia cientifica CSV](data/bibliografia_cientifica.csv)
+- [Fichas subnacionales](docs/ESP_COMUNIDADES.md)
+- [Capitulo internacional](docs/DERECHO_INTERNACIONAL.md)
+
+Las leyes derogadas se conservan solo como antecedentes historicos. Las propuestas de la doctrina (por ejemplo, limites top-down) no son por si mismas legislacion vigente.

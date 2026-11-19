@@ -1,6 +1,6 @@
 # Documentos jurídicos originales — índice
 
-Los **79 documentos y recursos** se documentan en:
+Los **121 documentos y recursos** se documentan en:
 
 - `../data/fuentes.csv` (filas con jurisdicción, fuerza, fuente y URL)
 - `../INFORME_MAESTRO.md` (bibliografía anotada)
@@ -9,3 +9,5 @@ Los **79 documentos y recursos** se documentan en:
 La recopilación mantiene **enlaces a fuentes primarias** y no descarga masivamente boletines, PDFs de estándares de acceso limitado ni documentos de terceros. Esto conserva la procedencia y la versión más actual de cada norma y evita presentar capturas antiguas como vigentes.
 
 **Advertencia:** no se han recuperado íntegros los informes originales de las fases de 22 y 37 países. Sus contenidos se reconstruyen de forma transparente con las referencias disponibles. El informe completo de 14 países sí está reflejado en la tabla y las fichas nuevas. Las entradas marcadas «borrador», «fuente secundaria» o «vigencia por verificar» no sirven sin cotejo para acreditar una obligación.
+
+Anexos tematicos: `../docs/ESP_COMUNIDADES.md`, `../docs/DERECHO_INTERNACIONAL.md` y `../docs/BIBLIOGRAFIA_JURIDICA_Y_CIENTIFICA.md`. Para la localizacion de normas autonomicas se utilizo el repertorio REECL (https://guaix.fis.ucm.es/reecl/legislacion). Cel Fosc (https://vell.celfosc.org/biblio/legal/index.html) se conserva como enlace historico no comprobado.

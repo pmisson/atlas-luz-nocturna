@@ -6,3 +6,47 @@
 
 /* La tabla integral es el formato principal de las medidas estrella. */
 [hidden]{display:none!important}.star-view-toolbar{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:18px;margin:13px 0 23px}.star-view-mode{border:1px solid #345261;border-radius:4px;display:inline-flex;padding:3px;background:#0f2130}.star-view-mode button{background:transparent;color:#9eb9bc;border:none;font-size:11px;font-weight:700;padding:10px 15px;border-radius:2px}.star-view-mode button.active{background:#264d48;color:#b9f4e2}.star-table-wrap{overflow:auto;border:1px solid #2d4655;border-radius:5px}.star-table{width:100%;border-collapse:collapse;min-width:960px;table-layout:fixed}.star-table th{background:#132638;color:#a4c4bb;font-size:9px;text-align:left;text-transform:uppercase;letter-spacing:.13em;padding:16px 13px}.star-table th:nth-child(1){width:12%}.star-table th:nth-child(2){width:26%}.star-table th:nth-child(3){width:27%}.star-table th:nth-child(4){width:23%}.star-table th:nth-child(5){width:12%}.star-table td{border-top:1px solid #293e4b;padding:14px 13px;vertical-align:top;color:#bbccd0;font-size:11px;line-height:1.65}.star-table tr:hover td{background:#142a36}.star-table td b{color:#e7eee9;font-size:12px;font-weight:700}.star-table td small{display:block;font-size:10px;color:#93a8b2;line-height:1.6;margin-top:7px}.star-table td .star-row-warning{color:#be9f79}.star-row-country{font-weight:800;color:#8ee2c7!important}.star-table .star-tag{border-radius:2px;white-space:normal;display:inline-block;line-height:1.45}.table-source a{display:inline-block;color:#8ce1c9;margin-right:9px;font-weight:700;border-bottom:1px solid #417c71}.table-source a:hover{color:white}
+
+/* Spanish regional legal inventory and scientific / international annexes */
+.regional-section{background:linear-gradient(145deg,#101c2c,#0a1521)}
+.research-section{background:#0e1a28}
+.publications-section{background:#111e2c}
+.regional-tools{display:flex;gap:16px;flex-wrap:wrap;align-items:center;margin:27px 0 24px}
+.regional-tools .search-box{flex:1;min-width:245px;max-width:620px}
+.regional-tools select{background:#15283a;color:#f1f6fc;border:1px solid #486072;padding:13px 15px;border-radius:9px;min-height:45px}
+.regional-panel{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(290px,.9fr);gap:23px;align-items:start}
+.regional-table-wrap{background:#112234;border:1px solid #34485d;border-radius:13px;max-height:645px;overflow:auto}
+.regional-table{width:100%;border-collapse:collapse;font-size:14px;min-width:630px}
+.regional-table th{text-align:left;color:#a8c2d0;padding:16px 18px;font-size:11px;letter-spacing:.1em;position:sticky;top:0;background:#17283b;z-index:1}
+.regional-table td{border-top:1px solid #293e50;color:#d7e5eb;padding:14px 18px;vertical-align:middle;line-height:1.5}
+.regional-table td:nth-child(3){font-size:12px;color:#b6c9d3}
+.regional-table tr.active-region{background:rgba(83,203,175,.09)}
+.region-tag{display:inline-block;border:1px solid #506b80;border-radius:99px;padding:5px 9px;font-size:11px;white-space:normal;color:#b7ccda}
+.region-tag.especifica{border-color:#5cccc0;color:#7ce6cb;background:#123936}
+.region-tag.sectorial{border-color:#cba96f;color:#f2ce96;background:#352c20}
+.region-tag.pendiente{border-color:#657c91;color:#bbcad3}
+.region-detail{background:#182a3d;border:1px solid #40566c;border-radius:14px;padding:23px;position:sticky;top:24px;max-height:745px;overflow:auto}
+.region-detail h3{font-size:27px;margin:9px 0 13px;color:#ecf5f6}
+.region-detail p{line-height:1.65;color:#d2e1e9;margin:15px 0}
+.region-detail .detail-caution{background:#2f2a28;border-left:2px solid #d9b882;padding:12px 13px;color:#f2d8ae;border-radius:6px}
+.region-refs{display:flex;flex-direction:column;gap:7px}
+.region-refs a{padding:11px 12px;border:1px solid #344c62;color:#c9e7f2;text-decoration:none;border-radius:8px;display:block;font-size:13px;line-height:1.4}
+.region-refs a:hover{border-color:#86cece;background:#1b3951}
+.region-refs small{display:block;color:#9cbdc9;margin-top:4px}
+.region-detail .region-note{color:#91acbc;font-size:12px}
+.research-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:30px}
+.legal-research-card{border:1px solid #405369;background:linear-gradient(135deg,#15293b,#101e2e);border-radius:12px;padding:25px;display:flex;flex-direction:column;gap:13px}
+.legal-research-card h3{font-size:22px;color:#edf6f3;margin:0;line-height:1.25}
+.legal-research-card p{color:#bdd2db;font-size:14px;line-height:1.6;margin:0}
+.legal-research-card .card-subtitle{font-size:12px;color:#8eb5c8}
+.legality-status{font-size:12px;font-weight:650;color:#ffe1a5}
+.chip-line{display:flex;flex-wrap:wrap;gap:7px;margin-top:auto;padding-top:11px}
+.reference-chip{color:#a7ebd6;border:1px solid #40776e;border-radius:7px;padding:7px 10px;font-size:12px;line-height:1.3;text-decoration:none;display:inline-block}
+.reference-chip:hover{background:#184d49}
+.pub-list{display:flex;flex-direction:column;gap:10px;margin-top:28px}
+.publication-row{border:1px solid #3d5368;border-radius:10px;background:#17293b;padding:19px 22px;display:flex;align-items:center;justify-content:space-between;gap:26px}
+.publication-row h3{font-size:17px;margin:7px 0;color:#e7f5fa}
+.publication-row p{font-size:13px;color:#b7ccd7;margin:0}
+.pub-list .tiny{color:#86dbcd}
+@media(max-width:1050px){.regional-panel{grid-template-columns:1fr}.region-detail{position:static;max-height:none}}
+@media(max-width:740px){.research-grid{grid-template-columns:1fr}.publication-row{align-items:start;flex-direction:column}.regional-table-wrap{overflow-x:auto}}

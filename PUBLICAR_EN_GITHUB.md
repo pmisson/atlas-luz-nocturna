@@ -17,23 +17,28 @@
 Crea primero el repositorio público vacío en https://github.com/new con el nombre `atlas-luz-nocturna`. Después descomprime el ZIP, abre una terminal **dentro de la carpeta que contiene `index.html`** y ejecuta:
 
 ```bash
+ssh -T git@github.com
 git init
 git add .
 git commit -m "Publicar atlas de legislación lumínica (51 países)"
 git branch -M main
-git remote add origin https://github.com/pmisson/atlas-luz-nocturna.git
+git remote add origin git@github.com:pmisson/atlas-luz-nocturna.git
 git push -u origin main
 ```
 
 A continuación entra en Settings → Pages y activa el despliegue desde `main`, carpeta `/(root)`.
 
-Si tu `git` ya tiene configurados el usuario y la autenticación de GitHub, estos comandos funcionarán sin más. Si GitHub solicita credenciales por HTTPS, usa el método de autenticación de tu cuenta (por ejemplo, `gh auth login`), **no introduzcas tu contraseña de GitHub como contraseña de git**.
+Los comandos usan **SSH**, no contraseñas ni tokens de HTTPS. El paso `ssh -T git@github.com` sirve para comprobar que la clave de tu Ubuntu ya está aceptada por GitHub. Si no, configura tu clave antes de intentar el push.
 
 ## Cómo actualizar el sitio después
 
 Edita archivos y, desde la misma carpeta, ejecuta:
 
 ```bash
+python3 build_data.py
+python3 make_map.py
+python3 tests/verify_atlas.py
+node tests/verify_js.js
 git add .
 git commit -m "Actualizar fichas y referencias jurídicas"
 git push
@@ -49,3 +54,7 @@ Los cambios se publican al actualizar la rama `main`.
 - No incorpores archivos secretos, claves o tokens; este paquete no necesita credenciales para funcionar.
 - La colección documental incluye referencias cuya vigencia y alcance requieren revisión jurídica. No es un registro oficial de normas.
 - Si prefieres mantener privados los borradores y mostrar solo la web, utiliza un repositorio público separado con el contenido estático que desees publicar.
+
+## Ultima edicion ampliada
+
+La web incluye 51 paises, 19 territorios espanoles, 121 fuentes y 45 medidas estrella. Se incluyen el Convenio CLRTAP, la CDI y bibliografia de Bara y Yakushina. El paquete **no se ha subido ni publicado**; son instrucciones para hacerlo desde Ubuntu con SSH.

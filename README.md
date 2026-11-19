@@ -10,10 +10,12 @@ El atlas contiene:
 
 - **Mapa SVG mundial interactivo** (funciona offline): países seleccionables, lupa, desplazamiento y filtros por región y tipo de normativa; los puntos de Malta y Singapur completan la cartografía de Natural Earth de baja resolución.
 - **51 fichas** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
-- **79 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
-- **40 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
+- **121 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
+- **45 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
+- **19 fichas subnacionales espanolas**: 17 comunidades autonomas y Ceuta y Melilla, con citas al BOE, REECL y fuentes regionales, y advertencias de vigencia.
+- **Derecho internacional y doctrina**: CLRTAP (1979), CDI ONU, Reglamento UE 2024/1991, compilacion checa de 2022, Bara y Yakushina.
 - **Datos reutilizables** (`data/atlas.json`, `data/paises.csv`, `data/fuentes.csv`, `data/medidas_estrella.csv`), informe maestro `INFORME_MAESTRO.md` y fichas Markdown.
-- Script de generación `build_data.py` y generación de mapa `make_map.py` para que las actualizaciones sean reproducibles.
+- Script de generación `build_data.py` (incluye `enrich_atlas.py`) y generación de mapa `make_map.py` para que las actualizaciones sean reproducibles.
 
 ## Abrir localmente
 
@@ -24,7 +26,7 @@ Abre el archivo **`index.html`** en Firefox o Chromium. No necesitas servidor ni
 ### Con el navegador
 
 1. En GitHub, crea un repositorio público, por ejemplo `atlas-luz-nocturna`.
-2. Descomprime el ZIP **antes de subirlo**; añade todo el contenido de `atlas_legislacion_luminica/` a la raíz del repositorio, incluyendo `index.html`, `assets/`, `data/`, `docs/` y el resto de archivos.
+2. Descomprime el ZIP **antes de subirlo**; añade todo el contenido de `atlas-luz-nocturna-pmisson/` a la raíz del repositorio, incluyendo `index.html`, `assets/`, `data/`, `docs/` y el resto de archivos.
 3. El paquete contiene un archivo oculto `.nojekyll` para que GitHub Pages no transforme las fichas `.md`; súbelo también. Ve a **Settings → Pages**. Elige **Deploy from a branch**, rama `main` y carpeta `/(root)`.
 4. GitHub publicará un sitio con forma `https://pmisson.github.io/atlas-luz-nocturna/`.
 
@@ -33,12 +35,13 @@ No hay que configurar tokens de Google Earth Engine, servicios de mapas ni API d
 ### Con Git
 
 ```sh
-cd atlas_legislacion_luminica
+cd atlas-luz-nocturna-pmisson
+ssh -T git@github.com
 git init
 git add .
 git commit -m "Publicar atlas legal de contaminación lumínica 2026"
 git branch -M main
-git remote add origin https://github.com/pmisson/atlas-luz-nocturna.git
+git remote add origin git@github.com:pmisson/atlas-luz-nocturna.git
 git push -u origin main
 ```
 
@@ -56,13 +59,17 @@ Después configura Pages en Settings. Para actualizar el sitio, edita los datos 
 index.html                 Sitio web
 assets/styles.css          Estilos y diseño adaptativo
 assets/app.js              Filtros, mapa, fichas, referencias
+assets/extras.js           Espanña autonoma, internacional y estudios
 assets/world-data.js       Geometrías simplificadas (Natural Earth)
 assets/atlas-data.js       Datos integrados para apertura offline
 data/atlas.json            Base de datos legible por máquina
 data/paises.csv            Matriz de 51 países
-data/fuentes.csv           Bibliografía documental (79 registros)
-data/medidas_estrella.csv   Tabla de 40 medidas destacadas
-docs/                      51 fichas en Markdown
+data/fuentes.csv           Bibliografía documental (121 registros)
+data/medidas_estrella.csv   Tabla de 45 medidas destacadas
+docs/                      51 fichas nacionales + 3 anexos tematicos en Markdown
+data/autonomias_espana.csv Cuadro subnacional de 19 territorios
+data/marco_internacional.csv
+data/bibliografia_cientifica.csv
 INFORME_MAESTRO.md         Informe comparado con matriz y bibliografía
 documents/                 Índice de documentos originales (enlaces)
 build_data.py              Script de construcción de base y fichas
@@ -79,7 +86,7 @@ Los nombres y documentos de terceros permanecen bajo derechos y condiciones de s
 
 ## Cómo incorporar nueva legislación
 
-Edita `build_data.py` para añadir o actualizar país (`C`), fuente (`S`) o medida estrella (`M`). Verifica que cada cifra o requisito tenga una fuente. Ejecuta:
+Edita `build_data.py` para los paises iniciales; en `enrich_atlas.py` se mantiene la extension autonoma, internacional y academica. Para nuevas fuentes, comprueba siempre la fuente oficial primaria. Verifica que cada cifra o requisito tenga una fuente. Ejecuta:
 
 ```sh
 python3 build_data.py
@@ -92,4 +99,11 @@ Las referencias se enlazan por `F001`, `F002`, etc.; `M01`, `M02`, etc. son iden
 
 ## Bibliografía para gestores académicos
 
-Las **79 referencias** también están exportadas como `data/referencias.ris` (importación directa en Zotero), `data/referencias.bib` (LaTeX/BibTeX) y `data/referencias.csl.json` (Citation Style Language). Son registros reconstruidos con la información disponible, por lo que el campo año o el título exacto puede requerir revisión antes de incorporarlos a un manuscrito.
+Las **121 referencias** también están exportadas como `data/referencias.ris` (importación directa en Zotero), `data/referencias.bib` (LaTeX/BibTeX) y `data/referencias.csl.json` (Citation Style Language). Son registros reconstruidos con la información disponible, por lo que el campo año o el título exacto puede requerir revisión antes de incorporarlos a un manuscrito.
+
+## Fuentes que solicitaron los usuarios
+
+- REECL: https://guaix.fis.ucm.es/reecl/legislacion (indice especializado y actualizado; no es el boletin oficial).
+- Cel Fosc: https://vell.celfosc.org/biblio/legal/index.html (repositorio historico; no disponible durante la consulta de noviembre de 2026, sin verificacion de vigencia).
+
+**Importante**: el numero de registros bibliograficos no equivale al numero de normas distintas ni a una certificacion de verificacion exhaustiva.
