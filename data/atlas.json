@@ -3,14 +3,15 @@
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-19",
     "country_count": 51,
-    "source_count": 121,
-    "star_count": 45,
+    "source_count": 130,
+    "star_count": 48,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
     "spain_cities_count": 2,
     "bibliography_count": 9,
-    "note_2026": "Revision ampliada con REECL y Cel Fosc (archivo no accesible), Espana autonoma, derecho internacional y articulos academicos."
+    "note_2026": "Revision ampliada con REECL y Cel Fosc (archivo no accesible), Espana autonoma, derecho internacional y articulos academicos.",
+    "note_venezuela_2026": "Venezuela: revisión documental 19-XI-2026. Corrección art. 2 Res. 73 (19:00-00:00). Decreto 1658 y ordenanza Maracaibo necesitan cotejo de texto original y vigencia."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -96,16 +97,29 @@
       "iso": "VEN",
       "name": "Venezuela",
       "region": "América",
-      "level": "pendiente",
-      "summary": "No se ha localizado en esta recopilación un instrumento jurídico específico verificable contra contaminación lumínica.",
-      "scope": "Pendiente",
-      "confidence": "Sin fuente jurídica específica verificada",
-      "note": "",
-      "keywords": "",
+      "level": "sectorial",
+      "summary": "Sin ley nacional integral de contaminación lumínica identificada. La Ley Orgánica del Ambiente (2006) reconoce la energía como contaminante; la Res. MPPEE 112/2014 fija 0 % de emisión superior para luminarias LED viales, la Res. 73/2011 establece restricciones horarias publicitarias y existe protección histórica de Llano del Hato (Mérida). Maracaibo aprobó ordenanza ambiental en 2026, cuyo texto íntegro está pendiente.",
+      "scope": "Nacional (energía y alumbrado vial) y protección astronómica/ambiental local",
+      "confidence": "Textos jurídicos sectoriales identificados; vigencia y regulación municipal por cotejar",
+      "note": "Fuente base: informe de 25 páginas aportado por el usuario; contrastados textos de Gaceta/FAOLEX y el compendio MPPEE. CORRECCIÓN: Res. 73/2011 art. 2 permite 19:00-00:00 (no 18:00-00:00). Sin límite nacional verificado de luz azul, luminancia de pantallas o luz intrusa. Los requisitos de la Resolución 112/2014 son sectoriales, no generales.",
+      "keywords": "Constitución 127 Ley Orgánica Ambiente energía lumínica Resolución 112 2014 FHS 0% LED 2700K 4000K Resolución 73 2011 19:00 00:00 Decreto 1658 Llano del Hato observatorio Mérida Maracaibo pantallas LED Isla Margarita tortugas",
       "source_ids": [
-        "F010"
+        "F010",
+        "F122",
+        "F123",
+        "F124",
+        "F125",
+        "F126",
+        "F127",
+        "F128",
+        "F129",
+        "F130"
       ],
-      "star_ids": []
+      "star_ids": [
+        "M46",
+        "M47",
+        "M48"
+      ]
     },
     {
       "iso": "MEX",
@@ -2258,6 +2272,105 @@
       "note": "",
       "year": "2026",
       "official": false
+    },
+    {
+      "id": "F122",
+      "country": "VEN",
+      "title": "Ley Orgánica del Ambiente (2006), G.O. extraordinaria 5.833, arts. 3 y 80",
+      "url": "https://faolex.fao.org/docs/pdf/ven69651.pdf",
+      "type": "Ley orgánica",
+      "effect": "Define «contaminante» incluyendo energía y considera degradante la generación de energía lumínica (art. 80.12).",
+      "note": "Copia de Gaceta en FAOLEX; no fija por sí sola límites de CCT, luminancia ni ULOR.",
+      "year": "2006",
+      "official": true
+    },
+    {
+      "id": "F123",
+      "country": "VEN",
+      "title": "Resolución MPPEE n.º 112/2014, G.O. 40.523, Reglamento técnico de luminarias LED viales",
+      "url": "https://www.legiscomex.com/BancoMedios/Documentos%20PDF/res_112.pdf",
+      "type": "Reglamento técnico sectorial",
+      "effect": "Art. 6.24.f: 0 % flujo hemisferio superior; art. 6.24.a: CCT 2700 K con neblina y 4000 K sin neblina.",
+      "note": "Texto de Gaceta reproducido por repositorio no oficial. Alcance solo vial LED modular; vigencia posterior pendiente de comprobación.",
+      "year": "2014",
+      "official": false
+    },
+    {
+      "id": "F124",
+      "country": "VEN",
+      "title": "Resolución MPPEE n.º 73/2011, G.O. 39.694, publicidad luminosa",
+      "url": "https://www.ariae.org/sites/default/files/2017-03/compilacion-legal-mppee-junio-2012%20.pdf",
+      "type": "Resolución sectorial",
+      "effect": "Art. 2: anuncios y vallas privadas del ámbito de la norma encendidos de 19:00 a 00:00; arts. 3-5: excepciones y control.",
+      "note": "Compendio publicado por FUNDELEC/MPPEE, pp. 265-266 (PDF pp. 265-266 aprox.). No son 18:00-00:00. Verificar modificaciones posteriores a 2011.",
+      "year": "2011",
+      "official": true
+    },
+    {
+      "id": "F125",
+      "country": "VEN",
+      "title": "Decreto presidencial n.º 1.658/1991: protección del Observatorio de Llano del Hato (Mérida)",
+      "url": "https://doi.org/10.18257/raccefyn.1125",
+      "type": "Normativa territorial histórica citada en artículo académico",
+      "effect": "Plan de ordenamiento y reglamento de uso del área de protección del Observatorio Astronómico Nacional.",
+      "note": "Referencia secundaria académica, NO el decreto íntegro ni certificación de vigencia 2026; comprobar gacetas de 1990 y 1991.",
+      "year": "1991",
+      "official": false
+    },
+    {
+      "id": "F126",
+      "country": "VEN",
+      "title": "Ley Penal del Ambiente (2012), G.O. n.º 39.913",
+      "url": "https://faolex.fao.org/docs/pdf/ven119396.pdf",
+      "type": "Ley penal ambiental",
+      "effect": "Marco penal general; la ficha aportada no acredita un delito autónomo y general de contaminación lumínica.",
+      "note": "Exige tipicidad, presupuesto normativo y prueba; no atribuir automáticamente delito a toda emisión nocturna.",
+      "year": "2012",
+      "official": true
+    },
+    {
+      "id": "F127",
+      "country": "VEN",
+      "title": "Maracaibo (2026): aprobación de ordenanza de gestión y protección ambiental",
+      "url": "https://elbolivariano.com.ve/2026/09/28/janner-perez-ordenanza-avala-vision-del-alcalde-di-martino-para-la-transformacion-ambiental-de-maracaibo/",
+      "type": "Noticia municipal / fuente secundaria",
+      "effect": "Comunicado sobre ordenanza que menciona control de pantallas LED, permisos y actuación del IMA.",
+      "note": "Aprobación informada en septiembre 2026; no se ha localizado texto íntegro de gaceta municipal ni límites numéricos para pantallas.",
+      "year": "2026",
+      "official": false
+    },
+    {
+      "id": "F128",
+      "country": "VEN",
+      "title": "Estudio académico: áreas para observación astronómica en Trujillo, Venezuela",
+      "url": "https://doi.org/10.18257/raccefyn.1125",
+      "type": "Artículo científico",
+      "effect": "Estudio de iluminación y lugares de cielo oscuro; discute precedente del Decreto 1.658/1991.",
+      "note": "Evidencia territorial e histórica; no constituye norma jurídica.",
+      "year": "2020",
+      "official": false
+    },
+    {
+      "id": "F129",
+      "country": "VEN",
+      "title": "EcoPolítica Venezuela (2026): conflictos ambientales en playas de Isla Margarita",
+      "url": "https://ecopoliticavenezuela.org/la-disputa-por-las-playas-de-margarita-entre-el-derecho-publico-y-la-vida-marina/",
+      "type": "Reportaje ambiental",
+      "effect": "Reporta conflictos entre urbanización, iluminación costera y protección de tortugas.",
+      "note": "Evidencia periodística, no demuestra por sí sola causalidad ecológica ni adopción de nueva ordenanza.",
+      "year": "2026",
+      "official": false
+    },
+    {
+      "id": "F130",
+      "country": "VEN",
+      "title": "Spatiotemporal Analysis of Venezuela's Nighttime Light During the Socioeconomic Crisis",
+      "url": "https://www.researchgate.net/publication/341499217_Spatiotemporal_Analysis_of_Venezuela's_Nighttime_Light_During_the_Socioeconomic_Crisis",
+      "type": "Estudio de teledetección",
+      "effect": "Describe reducción del brillo nocturno urbano durante 2012-2018.",
+      "note": "No confundir reducción por crisis eléctrica con política ambiental exitosa; VIIRS es insensible a parte del espectro azul.",
+      "year": "2020",
+      "official": false
     }
   ],
   "stars": [
@@ -2908,6 +3021,49 @@
       ],
       "caution": "No usar limites historicos de la Ley Foral 10/2005 como actuales.",
       "replicability": "Alta"
+    },
+    {
+      "id": "M46",
+      "country": "VEN",
+      "title": "0 % de emisión hacia el hemisferio superior en luminarias LED viales",
+      "description": "El art. 6.24.f del Reglamento Técnico aprobado por Resolución MPPEE 112/2014 exige flujo luminoso superior nulo en luminarias LED modulares destinadas a vías de uso vehicular.",
+      "force": "Reglamento técnico ministerial sectorial; vigencia posterior a 2014 por revalidar",
+      "param": "FHS = 0 %; CCT 2700 K nominal con neblina y 4000 K nominal sin neblina; eficacia ≥85 lm/W; CRI ≥70.",
+      "scope": "Ámbito nacional para iluminación LED modular en vialidades",
+      "sources": [
+        "F123"
+      ],
+      "caution": "No equivale a prohibición nacional de toda emisión ascendente; verificar control en instalación y eventuales modificaciones del reglamento.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M47",
+      "country": "VEN",
+      "title": "Horario sectorial de apagado de vallas y anuncios luminosos",
+      "description": "Resolución MPPEE 73/2011, art. 2: los avisos y vallas previstos en su ámbito solo pueden funcionar entre las 19:00 y las 00:00, con excepciones del art. 3 y soluciones autorizadas.",
+      "force": "Resolución ministerial de 2011; vigencia actual pendiente de cotejo",
+      "param": "Encendido permitido 19:00-00:00; apagado fuera de esa franja, salvo excepciones.",
+      "scope": "Publicidad exterior y avisos de establecimientos de personas jurídicas privadas, según art. 2",
+      "sources": [
+        "F124"
+      ],
+      "caution": "El informe aportado afirma 18:00-00:00, pero el texto ministerial consultado dice 19:00-00:00; art. 4 permite soluciones renovables bajo condiciones históricas.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M48",
+      "country": "VEN",
+      "title": "Área histórica de protección del Observatorio Llano del Hato",
+      "description": "Decreto presidencial 1.658/1991 de ordenamiento y uso del entorno del Observatorio Astronómico Nacional en Mérida, citado por literatura científica.",
+      "force": "Norma territorial histórica; texto y vigencia actual por verificar",
+      "param": "Unidades territoriales de protección (art. 4 citado secundariamente); no se han acreditado límites espectrales modernos.",
+      "scope": "Mérida: entorno del OAN Llano del Hato",
+      "sources": [
+        "F125",
+        "F128"
+      ],
+      "caution": "No atribuir a todo el país; consultar Gaceta Oficial 4.158/1990 y decreto de 1991 antes de extraer prohibiciones actuales.",
+      "replicability": "Media"
     }
   ],
   "spain_regions": [
