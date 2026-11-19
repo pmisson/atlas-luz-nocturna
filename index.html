@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="Atlas mundial de legislación contra la contaminación lumínica: mapa interactivo de 51 países, medidas estrella y fuentes oficiales. Compilación documental, noviembre de 2026.">
+  <meta property="og:title" content="Atlas de legislación de la noche | 51 países">
+  <meta property="og:description" content="Compilación documental mundial de legislación, medidas estrella y referencias jurídicas sobre contaminación lumínica.">
+  <title>Atlas de la noche — Legislación mundial sobre contaminación lumínica</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<div class="star-sky" aria-hidden="true"></div>
+<header class="site-header">
+  <div class="layout-width header-inner">
+    <a class="brand" href="#inicio" aria-label="Ir al inicio"><span class="brand-symbol">◕</span><span>NOCTIS <em>ATLAS</em><small>Observatorio normativo mundial</small></span></a>
+    <nav aria-label="Secciones principales"><a href="#mapa">Explorar mapa</a><a href="#medidas">Medidas estrella</a><a href="#paises">51 países</a><a href="#fuentes">Bibliografía</a></nav>
+    <a class="header-download" href="data/atlas.json" download aria-label="Descargar los datos en formato JSON">↓ Datos descargables</a>
+  </div>
+</header>
+<main id="inicio">
+  <section class="hero layout-width">
+    <div class="hero-copy">
+      <div class="eyebrow"><span class="eyebrow-line"></span> REFERENCIA JURÍDICA INTERNACIONAL · EDICIÓN 2026</div>
+      <h1>El derecho a<br><em>la noche.</em></h1>
+      <p class="hero-lead">Un atlas para descubrir cómo el mundo regula la contaminación lumínica, protege la biodiversidad y conserva sus cielos oscuros.</p>
+      <div class="hero-links"><a class="primary-action" href="#mapa">Explorar el mapa <span>↗</span></a><a class="secondary-action" href="#medidas">Descubrir medidas estrella <span>↗</span></a></div>
+    </div>
+    <div class="hero-visual" aria-hidden="true"><span class="moon-glow"></span><span class="moon"></span><span class="orbit orbit-one"></span><span class="orbit orbit-two"></span><div class="visual-caption">LA OSCURIDAD TAMBIÉN SE PROTEGE.</div></div>
+  </section>
+  <section class="metrics layout-width" aria-label="Dimensiones del proyecto">
+    <div class="metric"><strong id="metric-countries">51</strong><span>países en el atlas</span></div>
+    <div class="metric"><strong id="metric-sources">79</strong><span>referencias documentales</span></div>
+    <div class="metric"><strong id="metric-stars">40</strong><span>medidas destacadas</span></div>
+    <div class="metric last"><strong>19.11.26</strong><span>fecha de corte</span></div>
+  </section>
+  <section class="map-section section-pad" id="mapa">
+    <div class="layout-width">
+      <div class="section-head map-heading"><div><div class="eyebrow mini">01 / EXPLORACIÓN GLOBAL</div><h2>Un mundo. <em>Muchas respuestas.</em></h2><p>Selecciona un territorio en el mapa o encuéntralo en la lista. El color indica el tipo de instrumento identificado, no la calidad de su normativa.</p></div><div class="section-action">51 territorios · cobertura de estudio</div></div>
+      <div class="map-toolbar">
+        <div class="select-wrap"><label for="regionFilter">REGIÓN</label><select id="regionFilter"><option value="todos">Todas las regiones</option><option value="Europa">Europa</option><option value="América">América</option><option value="Asia">Asia</option><option value="África">África</option><option value="Oceanía">Oceanía</option></select></div>
+        <div class="select-wrap"><label for="levelFilter">INSTRUMENTO</label><select id="levelFilter"><option value="todos">Todas las categorías</option><option value="especifica">Ley o reglamento específico</option><option value="sectorial">Regulación sectorial</option><option value="subnacional">Normativa subnacional</option><option value="general">Marco general</option><option value="guia">Directrices y estándares</option><option value="pendiente">Pendiente de documentar</option></select></div>
+        <button id="resetMap" class="outline-button" type="button">↺ Restablecer</button>
+      </div>
+      <div class="map-layout">
+        <div class="map-card">
+          <div class="map-topline"><div><span class="live-dot"></span> MAPA LEGISLATIVO INTERACTIVO</div><div class="map-actions"><button class="map-zoom" type="button" id="zoomOut" aria-label="Alejar">−</button><button class="map-zoom" type="button" id="zoomIn" aria-label="Acercar">+</button><button class="map-zoom fit" type="button" id="zoomReset">⤢</button></div></div>
+          <div class="map-canvas" id="mapCanvas"><svg viewBox="0 0 1200 550" id="worldMap" aria-label="Mapa mundial interactivo de normativas de contaminación lumínica" role="img"><defs><pattern id="gridLines" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M 70 0 L 0 0 0 70" fill="none" stroke="#30435a" stroke-width="0.45" opacity="0.5"/></pattern></defs><rect x="0" y="0" width="1200" height="550" fill="url(#gridLines)"/><g id="worldGroup"><g id="worldCountries"></g><g id="mapMarkers"></g></g></svg><div id="mapTooltip" class="map-tooltip" role="status" aria-live="polite"></div><div class="map-watermark">EQUATORIAL · WGS84 · NATURAL EARTH</div></div>
+          <div class="legend"><span class="legend-label">NATURALEZA DE LA REGULACIÓN</span><div id="legendItems"></div></div>
+          <div class="map-foot"><span>● 51 países seleccionados; los restantes se muestran como contexto cartográfico.</span><span>Arrastra y usa la rueda para ampliar</span></div>
+        </div>
+        <aside class="country-detail" id="countryDetail" aria-live="polite"><div class="detail-loading">Selecciona un país para consultar su expediente jurídico.</div></aside>
+      </div>
+      <p class="method-callout"><b>Importante:</b> La inclusión de un país no presupone que tenga una ley nacional específica. Se distinguen expresamente legislación obligatoria, normas sectoriales, ordenanzas locales, guías y proyectos. El mapa muestra <em>tipos de instrumentos localizados</em>, no una clasificación de eficacia.</p>
+    </div>
+  </section>
+  <section class="stars-section section-pad" id="medidas"><div class="layout-width">
+    <div class="section-head"><div><div class="eyebrow mini">02 / SOLUCIONES TRANSFERIBLES</div><h2>Medidas <em>estrella.</em></h2><p>Las disposiciones más interesantes para reducir la luz innecesaria. Cada medida incluye su fuerza jurídica, alcance, condiciones y documentos de respaldo.</p></div><span class="section-count" id="starCounter">40 medidas</span></div>
+    <div class="measure-filters"><label class="search-box"><span>⌕</span><input id="starSearch" type="search" placeholder="Buscar CCT, tortugas, apagado, país, ULOR…" aria-label="Filtrar medidas estrella"></label><select id="starForce"><option value="todos">Todas las naturalezas</option><option value="obligatoria">Leyes y obligaciones</option><option value="otra">Guías, propuestas y mandatos</option></select></div>
+    <div class="star-view-toolbar"><div class="star-view-mode" role="group" aria-label="Forma de presentar las medidas"><button class="active" type="button" id="starViewTable" aria-pressed="true">▤ Tabla comparativa</button><button type="button" id="starViewCards" aria-pressed="false">▦ Fichas detalladas</button></div><a class="text-link" href="data/medidas_estrella.csv" download>↓ Tabla completa CSV</a></div>
+    <div class="star-table-wrap" id="starTableWrap"><table class="star-table"><thead><tr><th>País</th><th>Medida estrella</th><th>Parámetro / requisito</th><th>Naturaleza jurídica</th><th>Documentación</th></tr></thead><tbody id="starRows"></tbody></table></div>
+    <div class="star-grid" id="starsGrid" hidden></div>
+    <button class="expand-button" type="button" id="showAllStars" hidden>Ver todas las fichas <span>↘</span></button>
+  </div></section>
+  <section class="countries-section section-pad" id="paises"><div class="layout-width">
+    <div class="section-head"><div><div class="eyebrow mini">03 / EXPEDIENTES POR TERRITORIO</div><h2>51 países, <em>51 fichas.</em></h2><p>Consulta la síntesis legal, el ámbito y las fuentes primarias. Las fichas completas también se incluyen en la descarga.</p></div><a href="data/paises.csv" class="text-link" download>↓ Descargar CSV</a></div>
+    <label class="search-box country-search"><span>⌕</span><input type="search" id="countrySearch" placeholder="Buscar país, región, legislación o tema…" aria-label="Buscar países"></label>
+    <div class="country-table-wrap"><table class="country-table"><thead><tr><th>País / territorio</th><th>Región</th><th>Instrumento localizado</th><th>Fuentes</th><th></th></tr></thead><tbody id="countryRows"></tbody></table></div><div class="no-results" id="countryEmpty" hidden>No hay países que coincidan con la búsqueda.</div>
+  </div></section>
+  <section class="sources-section section-pad" id="fuentes"><div class="layout-width">
+    <div class="section-head"><div><div class="eyebrow mini">04 / BASE DOCUMENTAL</div><h2>Rastreabilidad <em>antes que titulares.</em></h2><p>Normas originales, boletines oficiales, portales institucionales, estándares y borradores etiquetados. Enlazamos las fuentes: no sustituimos sus textos consolidados.</p></div><a class="text-link" href="data/fuentes.csv" download>↓ Referencias CSV</a></div>
+    <div class="source-tools"><label class="search-box"><span>⌕</span><input type="search" id="sourceSearch" placeholder="Filtrar normas, artículos, instituciones o países…" aria-label="Buscar fuentes"></label><select id="sourceType"><option value="todos">Todos los documentos</option><option value="oficial">Solo fuentes oficiales</option><option value="pendiente">Fuentes secundarias o pendientes</option></select></div>
+    <div class="source-list" id="sourceList"></div><button id="showMoreSources" type="button" class="expand-button">Mostrar más referencias <span>↘</span></button>
+  </div></section>
+  <section class="method-section section-pad" id="metodologia"><div class="layout-width method-grid">
+    <div><div class="eyebrow mini">05 / METODOLOGÍA Y LÍMITES</div><h2>Una cartografía <em>honesta.</em></h2><p>Esta edición combina el informe disponible sobre la última ampliación de 14 países con una reconstrucción documentada del resto del universo de estudio. Los informes íntegros de las fases iniciales no estaban accesibles para fusionarlos literalmente.</p><a class="text-link" href="INFORME_MAESTRO.md">↗ Leer informe maestro</a></div>
+    <div class="method-points"><article><b>01</b><div><h3>La categoría no es un ranking.</h3><p>Un país con directrices puede innovar mucho; otro con ley nacional puede carecer de límites verificables.</p></div></article><article><b>02</b><div><h3>Jurisdicción antes que bandera.</h3><p>Una ley regional, una disposición municipal y una norma nacional no son equivalentes. Se especifican ámbitos y excepciones cuando se han identificado.</p></div></article><article><b>03</b><div><h3>Vigencia y cifras con cautela.</h3><p>Normas transitorias, borradores y mandatos de legislar se indican expresamente. Para un dictamen hay que leer el texto oficial vigente.</p></div></article><article><b>04</b><div><h3>Datos reutilizables.</h3><p>Fuente JSON, tres CSV, fichas Markdown, informe maestro y mapa local, incluidos en la distribución estática.</p></div></article></div>
+  </div></section>
+  <section class="download-cta"><div class="layout-width cta-inner"><div><div class="eyebrow mini">DIVULGACIÓN · INVESTIGACIÓN · ADMINISTRACIÓN</div><h2>Que el conocimiento <em>circule.</em></h2><p>Una base documental transparente y reutilizable para evaluar leyes, formular políticas públicas y proteger la oscuridad.</p></div><div><a class="primary-action" href="data/atlas.json" download>↓ Descargar datos JSON</a><a class="secondary-action below" href="data/medidas_estrella.csv" download>↓ Tabla de medidas estrella</a></div></div></section>
+</main>
+<footer class="footer"><div class="layout-width footer-grid"><div class="brand small-brand"><span class="brand-symbol">◕</span><span>NOCTIS <em>ATLAS</em><small>Observatorio normativo mundial</small></span></div><p>Atlas de legislación sobre contaminación lumínica · Edición documental 19 de noviembre de 2026.<br>Investigación jurídica comparada; no sustituye asesoramiento profesional ni boletines oficiales.</p><a href="#inicio">↑ Volver al inicio</a></div></footer>
+<script src="assets/atlas-data.js"></script>
+<script src="assets/world-data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

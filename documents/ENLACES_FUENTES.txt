@@ -1,0 +1,237 @@
+F001 | PER | Ley | Ley n.º 31316 — Prevención y control de contaminación lumínica
+https://busquedas.elperuano.pe/dispositivo/NL/1976876-1
+
+F002 | PER | Reglamento | Decreto Supremo 021-2025-MINAM — Reglamento de la Ley 31316
+https://www.gob.pe/institucion/minam/normas-legales/7391038-021-2025-minam
+
+F003 | PER | Repositorio oficial | SINIA — Reglamento de la Ley 31316
+https://sinia.minam.gob.pe/normas/decreto-supremo-que-aprueba-reglamento-ley-ndeg-31316-ley-prevencion
+
+F004 | CHL | Norma de emisión | Decreto Supremo n.º 1/2022 — Norma de emisión de luminosidad artificial
+https://luminica.mma.gob.cl/norma-luminica/
+
+F005 | CHL | Autoridad de vigilancia | SMA — Normas de emisión, fiscalización e instructivos
+https://portal.sma.gob.cl/index.php/portal-regulados/instructivos-y-guias/normas-de-emision/
+
+F006 | ARG | Ley general | Ley 20.284 — Preservación de recursos del aire
+https://www.argentina.gob.ar/normativa/nacional/ley-20284-40167/texto
+
+F007 | ARG | Ley local general | Ciudad Autónoma de Buenos Aires — Ley 1356 (calidad del aire)
+https://www.boletinoficial.buenosaires.gob.ar/normativaba/norma/59418
+
+F008 | URY | Ley general | IMPO — Ley 17.283 de Protección del Ambiente
+https://www.impo.com.uy/bases/leyes/17283-2000/3
+
+F009 | URY | Instrumento territorial | Diario Oficial, 3 de julio de 2025 — instrumentos departamentales Rocha
+https://www.impo.com.uy/diariooficial/2025/07/03/documentos.pdf
+
+F010 | VEN | Portal a verificar | Portal oficial de normativa venezolana (referencia para revisión)
+http://www.minamb.gob.ve/
+
+F011 | MEX | Decreto de reforma | Reforma de LGEEPA sobre contaminación lumínica — Diario Oficial, enero de 2021
+https://www.diputados.gob.mx/sedia/biblio/prog_leg/Prog_leg_LXIV/130_DOF_18ene21.pdf
+
+F012 | USA | Ley estatal | Arizona Revised Statutes — Title 49, Chapter 7, Outdoor Lighting
+https://www.azleg.gov/arsDetail/?title=49
+
+F013 | USA | Ley estatal | Arizona Revised Statutes — §49-1102
+https://www.azleg.gov/ars/49/01102.htm
+
+F014 | USA | Ley estatal | Michigan Natural Resources and Environmental Protection Act §324.75104
+https://legislature.mi.gov/Laws/MCL?objectName=MCL-324-75104
+
+F015 | CAN | Ley habilitante | Ontario Municipal Act 2001 — §129, outdoor illumination
+https://www.ontario.ca/laws/statute/01m25
+
+F016 | BRA | Repositorio de legislación | Ministerio de Medio Ambiente — Repertorio de legislación
+https://www.gov.br/mma/pt-br/centrais-de-conteudo/legislacao
+
+F017 | BRA | Repositorio temático | ICMBio — Protección de tartarugas marinas
+https://www.gov.br/icmbio/pt-br/assuntos/centros-de-pesquisa/tartarugas-marinhas-e-biodiversidade-marinha-do-leste/comunicacao/legislacao
+
+F018 | COL | Reglamento técnico | Ministerio de Minas y Energía — RETILAP Resolución 40286/2026 y cuatro libros
+https://minenergia.gov.co/es/misional/energia-electrica-2/reglamentos-tecnicos/reglamento-t%C3%A9cnico-de-iluminaci%C3%B3n-y-alumbrado-p%C3%BAblico-retilap/
+
+F019 | COL | Norma oficial | CREG — texto de la Resolución 40286 de 2026
+https://gestornormativo.creg.gov.co/gestor/entorno/docs/resolucion_minminas_40286_2026.htm
+
+F020 | ECU | Fuente secundaria | Registro Oficial 288, mayo de 2026 — reproducción secundaria de instrumento costero
+https://strapi.lexis.com.ec/uploads/Registro_Oficial_Ano_ll_Segundo_Suplemento_No_288_del_20_de_mayo_de_2026_LEXIS_ECUADOR_95ad4ab2cd.pdf
+
+F021 | CRI | Publicación oficial | La Gaceta — normativa de zonas de control lumínico, 7 de septiembre de 2012
+https://www.imprentanacional.go.cr/pub/2012/09/07/COMP_07_09_2012.html
+
+F022 | PAN | Reglamento sectorial | Gaceta Oficial 27134, 3 de octubre de 2012 — Reglamento alumbrado público arts. 33–34
+https://www.gacetaoficial.gob.pa/storage/gacetas/2012/10/27134/GacetaNo_27134_20121003.pdf
+
+F023 | BOL | Copia secundaria | Decreto Ley 16998 — iluminación en seguridad ocupacional (reproducción)
+https://www.lexivox.org/norms/BO-DL-16998.xhtml
+
+F024 | BOL | Portal oficial IBMETRO | Decreto Supremo 5121/2024 — certificación de lámparas LED (referencia)
+https://ibmetro.gob.bo/index.php/aprobacion_led
+
+F025 | PRY | Ley | Ley 716 — Sanciona delitos contra el medio ambiente
+https://www.bacn.gov.py/leyes-paraguayas/2426/ley-n-716-
+
+F026 | GTM | Ley general | Decreto 68-86 — Ley de Protección y Mejoramiento del Medio Ambiente
+https://www.congreso.gob.gt/detalle_pdf/decretos/1696
+
+F027 | ESP | Ley estatal | BOE — Ley 34/2007 de calidad del aire: art. 3.f y disposición adicional 4.ª
+https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744
+
+F028 | ESP | Reglamento estatal | BOE — Real Decreto 1890/2008: eficiencia de alumbrado exterior e ITC
+https://www.boe.es/buscar/act.php?id=BOE-A-2008-18634
+
+F029 | ESP | Reglamento autonómico | Junta de Andalucía — Decreto 37/2025 sobre protección del cielo nocturno
+https://www.juntadeandalucia.es/boja/2025/31/5
+
+F030 | ESP | Zonificación oficial | Generalitat — Mapa de protección contra la contaminación lumínica
+https://mediambient.gencat.cat/es/05_ambits_dactuacio/atmosfera/contaminacio_luminica/mapa-de-proteccio-contra-contaminacio-luminica/
+
+F031 | ESP | Repositorio oficial | MITECO — Normativa estatal y autonómica contaminación lumínica
+https://www.miteco.gob.es/en/calidad-y-evaluacion-ambiental/temas/atmosfera-y-calidad-del-aire/contaminacion_luminica.html
+
+F032 | ITA | Ley regional | Regione Veneto — Legge regionale 17/2009, contaminación lumínica
+https://bur.regione.veneto.it/BurvServices/Pubblica/DettaglioLegge.aspx?id=217634
+
+F033 | FRA | Reglamento | Légifrance — Arrêté du 27 décembre 2018 relatif à la prévention, réduction et limitation des nuisances lumineuses
+https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037864346/
+
+F034 | FRA | Guía oficial | Ministère de la Transition Écologique — Explicación y control del arrêté 2018
+https://www.ecologie.gouv.fr/politiques-publiques/arrete-du-27-decembre-2018-relatif-prevention-reduction-limitation-nuisances
+
+F035 | SVN | Decreto | PISRS — Uredba o mejnih vrednostih svetlobnega onesnaževanja okolja
+https://pisrs.si/pregledPredpisa?id=URED4520&tab=analiticni
+
+F036 | HRV | Ley nacional específica | Narodne novine — Zakon o zaštiti od svjetlosnog onečišćenja (NN 14/2019)
+https://narodne-novine.nn.hr/clanci/sluzbeni/2019_02_14_271.html
+
+F037 | GBR | Ley | legislation.gov.uk — Environmental Protection Act 1990, section 79
+https://www.legislation.gov.uk/ukpga/1990/43/section/79
+
+F038 | DEU | Ley federal | Gesetze im Internet — Bundesnaturschutzgesetz, §41a (Schutz von Tieren und Pflanzen vor nachteiligen Auswirkungen von Beleuchtungen)
+https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html
+
+F039 | PRT | Mandato legislativo | Diário da República — Lei do Orçamento do Estado para 2023, art. 182
+https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2022-205695052-205739790
+
+F040 | CZE | Reglamento de construcción | e-Sbírka — Vyhláška č. 146/2024 Sb. o požadavcích na výstavbu, §24
+https://e-sbirka.gov.cz/sb/2024/146?odkazId=212535879
+
+F041 | BEL | Reglamento regional | Vlaamse Codex — VLAREM II, capítulo sobre licht
+https://codex.vlaanderen.be/Portals/Codex/documenten/1003794.html
+
+F042 | CHE | Portal oficial de legislación | BAFU — legislación y reglamentos sobre emisiones luminosas
+https://www.bafu.admin.ch/de/licht-gesetze-und-verordnungen
+
+F043 | CHE | Guía oficial | BAFU — medidas para reducir la contaminación lumínica
+https://www.bafu.admin.ch/de/massnahmen-gegen-lichtverschmutzung
+
+F044 | NLD | Portal oficial | IPLO — portal oficial para interpretación de Omgevingswet
+https://iplo.nl/
+
+F045 | AUT | Ley de Land | RIS — Oberösterreichisches Umweltschutzgesetz, §41b Vermeidung von Lichtverschmutzung
+https://www.ris.bka.gv.at/Dokumente/Landesnormen/LOO40024836/LOO40024836.pdf
+
+F046 | SVK | Ley general | Slov-Lex — Ley 543/2002 de protección de la naturaleza y el paisaje
+https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2002/543/
+
+F047 | DNK | Guía de planificación | Retsinformation — Vejledning om lokalplanlægning
+https://www.retsinformation.dk/eli/retsinfo/2009/9922
+
+F048 | SWE | Guía interpretativa oficial | Naturvårdsverket — Miljöbalken y precaución (2 kap. 3 §)
+https://www.naturvardsverket.se/vagledning-och-stod/miljobalken/hansynsreglerna--kapitel-2-miljobalken/forsiktighetsprincipen-2-kap.-3-
+
+F049 | NOR | Ley general | Lovdata — Forurensningsloven, §6
+https://lovdata.no/dokument/NL/lov/1981-03-13-6/KAPITTEL_2
+
+F050 | FIN | Ley general | Finlex — Ympäristönsuojelulaki 527/2014
+https://www.finlex.fi/en/legislation/2014/527
+
+F051 | POL | Reglamento | Sejm — Rozporządzenie sobre condiciones técnicas de edificios, §293.6
+https://api.sejm.gov.pl/eli/acts/DU/2022/1225/text.html
+
+F052 | POL | Comunicado oficial | Ministerio de Desarrollo y Tecnología — comunicado de continuidad transitoria 2026
+https://www.gov.pl/web/rozwoj-technologia/komunikat-ministerstwa-rozwoju-i-technologii-dotyczacy-prac-nad-rozporzadzeniem-w-sprawie-warunkow-technicznych-jakim-powinny-odpowiadac-budynki-i-ich-usytuowanie-oraz-warunkow-technicznych-uzytkowania-budynkow-mieszkalnych
+
+F053 | IRL | Plan urbanístico | Dublin City Development Plan 2022–2028, §9.5
+https://www.dublincity.ie/dublin-city-development-plan-2022-2028/written-statement/chapter-9-sustainable-environmental-and-flood-risk/95-policies-and-objectives
+
+F054 | GRC | Reglamento técnico | Εθνικό Τυπογραφείο — FEK 5966/B/2024
+https://search.et.gr/el/fek/?fekId=772937
+
+F055 | CHN | Código legal | Ministerio de Ecología y Medio Ambiente — Código Ecológico y Ambiental de 2026
+https://ecro.mee.gov.cn/fgbz/fl/202604/t20260416_1148993.html
+
+F056 | CHN | Comunicado oficial | Ministerio de Ecología y Medio Ambiente — entrada en vigor 15 agosto 2026
+https://www.mee.gov.cn/xxgk2018/xxgk/xxgk03/202604/t20260408_1148465.html
+
+F057 | KOR | Ley nacional | Korea Legislation Research Institute — Act on the Prevention of Light Pollution due to Artificial Lighting
+https://elaw.klri.re.kr/kor_mobile/viewer.do?hseq=71942&key=&type=new
+
+F058 | KOR | Decreto | KLRI — Enforcement Decree of the Act on Prevention of Light Pollution
+https://elaw.klri.re.kr/kor_mobile/viewer.do?hseq=73076&key=16&type=sogan
+
+F059 | JPN | Guía ministerial | Ministry of Environment — Light Pollution Countermeasure Guidelines
+https://www.env.go.jp/air/life/light_poll.html
+
+F060 | TWN | Ordenanza | Lienchiang County — Light Pollution Control Ordinance
+https://law.matsu.gov.tw/LawContent.aspx?id=GL000512
+
+F061 | TWN | Disposición local | Lienchiang County — Normativa complementaria 2026
+https://law.matsu.gov.tw/LawContent.aspx?id=GL000663
+
+F062 | SGP | Guía técnica | NParks — Biodiversity Impact Assessment Guidelines: Light management (2024)
+https://www.nparks.gov.sg/docs/default-source/resources/2024/technical-note-light-management-may2024.pdf
+
+F063 | SGP | Guía de planeamiento | URA — Revision to Night Lighting Guidelines (2023)
+https://www.ura.gov.sg/guidelines/circulars/dc23-06/
+
+F064 | SGP | Reglamento sectorial | Singapore Statutes Online — Air Navigation (Dangerous Lights) Regulations 2025
+https://sso.agc.gov.sg/SL/ANA1966-S836-2025?DocDate=20251226&TransactionDate=20260128235959
+
+F065 | MYS | BORRADOR de norma | Department of Standards Malaysia — Draft MS 825-4:202X
+https://www.msonline.gov.my/images/Public%20Comment/1%20Nov%20-%2031%20Dec%2025/Draft%20MS%20825-4_202X_PC.pdf
+
+F066 | MYS | Guía urbanística | PLANMalaysia — Guía de anuncios y señalización
+https://www.planmalaysia.gov.my/uploads/content-downloads/file_20251114202514.pdf
+
+F067 | IND | Regulación costera | Ministry of Environment — Coastal Regulation Zone Notification 2019
+https://environmentclearance.nic.in/writereaddata/SCZMADocument/ICRZ_Notification2019.pdf
+
+F068 | AUS | Guía nacional | DCCEEW — National Light Pollution Guidelines for Wildlife (2023)
+https://www.dcceew.gov.au/environment/biodiversity/publications/national-light-pollution-guidelines-wildlife
+
+F069 | NZL | Plan regulatorio municipal | Mackenzie District Council — District Plan, lighting provisions
+https://www.mackenzie.govt.nz/council/plans-reports-and-strategies/plans/district-plan
+
+F070 | NZL | Información local | Mackenzie District — Lighting and the Aoraki Dark Sky Reserve
+https://www.mackenzie.govt.nz/rates-building-and-property/lighting-and-the-aoraki-dark-sky-reserve
+
+F071 | ZAF | Ley nacional | South African Government — Astronomy Geographic Advantage Act 21 of 2007
+https://www.gov.za/nr/documents/astronomy-geographic-advantage-act
+
+F072 | ZAF | Repositorio autoridad | Department of Science, Technology and Innovation — Astronomy Management Authority
+https://www.dsti.gov.za/ama/documents
+
+F073 | OMN | Decreto real | Royal Decree 40/2019 — Al Hajar Al Gharbi Starlight Reserve
+https://ea.gov.om/media/e31ntoiz/%D9%85%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%AD%D9%85%D9%8A%D8%A9-%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A.pdf
+
+F074 | OMN | Documento de planificación | Al Hajar Al Gharbi — propuesta de planificación espacial
+https://cms.mohup.gov.om/uploads/Al_Hajar_Al_Gharbi_1_9a47aebac2.pdf
+
+F075 | MAR | Ley-marco | SGG — Loi-cadre 99-12 relative à la Charte nationale de l’environnement
+https://www.sgg.gov.ma/Portals/0/lois/Loi_99-12_Fr.pdf?ver=2014-12-22-153118-340
+
+F076 | MAR | PROYECTO técnico | IMANOR — Proyecto de norma PNM EN 12464-2
+https://www.imanor.gov.ma/wp-content/uploads/2023/07/00.3.204-EN-12464-2.pdf
+
+F077 | NAM | Ley ambiental general | Environmental Management Act 7 of 2007 — Government of Namibia
+https://www.npc.gov.na/publicpolicy/environmental-management-act-7-of-2007/
+
+F078 | MLT | Criterios de contratación obligatorios | Malta Green Public Procurement — Road lighting and traffic signals
+https://gpp.gov.mt/mandatory-criteria/road-lighting-and-traffic-signals/
+
+F079 | MLT | Guía institucional | Malta GPP — marco de compras públicas verdes
+https://gpp.gov.mt/what-is-gpp/
+
