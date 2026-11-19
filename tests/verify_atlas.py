@@ -4,8 +4,8 @@ from html.parser import HTMLParser
 root=pathlib.Path(__file__).parents[1]
 a=json.loads((root/'data'/'atlas.json').read_text('utf8'))
 assert len(a['countries'])==51
-assert len(a['sources'])==121
-assert len(a['stars'])==45
+assert len(a['sources'])==130
+assert len(a['stars'])==48
 assert len({c['iso'] for c in a['countries']})==51
 assert len({s['id'] for s in a['sources']})==len(a['sources'])
 assert len({m['id'] for m in a['stars']})==len(a['stars'])
@@ -21,6 +21,8 @@ assert all(set(r['source_ids'])<=source_ids for r in a['spain_regions'])
 assert len(a['international'])==4
 assert all(set(r['source_ids'])<=source_ids for r in a['international'])
 assert len(a['bibliography'])==9
+assert len(next(c for c in a['countries'] if c['iso']=='VEN')['star_ids'])==3
+assert all(any(s['id']==x for s in a['sources']) for x in next(c for c in a['countries'] if c['iso']=='VEN')['source_ids'])
 assert all(r['source_id'] in source_ids for r in a['bibliography'])
 world=json.loads((root/'data'/'world_simplified.geojson').read_text())
 assert world['type']=='FeatureCollection'
