@@ -10,8 +10,8 @@ El atlas contiene:
 
 - **Mapa SVG mundial interactivo** (funciona offline): países seleccionables, lupa, desplazamiento y filtros por región y tipo de normativa; los puntos de Malta y Singapur completan la cartografía de Natural Earth de baja resolución.
 - **51 fichas** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
-- **121 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
-- **45 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
+- **130 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
+- **48 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
 - **19 fichas subnacionales espanolas**: 17 comunidades autonomas y Ceuta y Melilla, con citas al BOE, REECL y fuentes regionales, y advertencias de vigencia.
 - **Derecho internacional y doctrina**: CLRTAP (1979), CDI ONU, Reglamento UE 2024/1991, compilacion checa de 2022, Bara y Yakushina.
 - **Datos reutilizables** (`data/atlas.json`, `data/paises.csv`, `data/fuentes.csv`, `data/medidas_estrella.csv`), informe maestro `INFORME_MAESTRO.md` y fichas Markdown.
@@ -107,3 +107,7 @@ Las **121 referencias** también están exportadas como `data/referencias.ris` (
 - Cel Fosc: https://vell.celfosc.org/biblio/legal/index.html (repositorio historico; no disponible durante la consulta de noviembre de 2026, sin verificacion de vigencia).
 
 **Importante**: el numero de registros bibliograficos no equivale al numero de normas distintas ni a una certificacion de verificacion exhaustiva.
+
+### Venezuela (revisión jurídica 19-XI-2026)
+
+La ficha `docs/VEN_venezuela.md` documenta la Ley Orgánica del Ambiente de 2006, las Resoluciones 112/2014 (luminarias viales LED) y 73/2011 (publicidad luminosa; horario CORREGIDO 19:00-00:00), el precedente astronómico de Llano del Hato y noticias sobre la ordenanza ambiental de Maracaibo de 2026. Las últimas dos normas requieren cotejo de texto íntegro/vigencia. El atlas tiene actualmente 130 fuentes y 48 medidas estrella. Al regenerar la base con los scripts antiguos, es necesario preservar la revisión de Venezuela para evitar perder esta actualización.
