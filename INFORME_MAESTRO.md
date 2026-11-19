@@ -3,8 +3,8 @@
 **Informe maestro de compilación documental — 19 de noviembre de 2026**
 
 - **51 países** en el universo; no equivale a 51 leyes nacionales.
-- **121 registros bibliográficos** con enlaces a documentos y portales; algunos son guías, borradores o fuentes secundarias.
-- **45 medidas estrella** con fuerza jurídica diferenciada.
+- **130 registros bibliográficos** con enlaces a documentos y portales; algunos son guías, borradores o fuentes secundarias.
+- **48 medidas estrella** con fuerza jurídica diferenciada.
 
 ## Alcance y procedencia
 
@@ -40,7 +40,7 @@ El estado de revisión es heterogéneo. La clasificación refleja la **naturalez
 | Paraguay | América | Marco general o urbanístico | Nacional | 1 |
 | Perú | América | Ley o reglamento específico | Nacional | 3 |
 | Uruguay | América | Normativa subnacional identificada | Departamento / nacional | 2 |
-| Venezuela | América | Pendiente de documentar | Pendiente | 1 |
+| Venezuela | América | Regulación sectorial obligatoria | Nacional para vialidad LED y publicidad luminosa; protección astronómica histórica (Mérida) | 10 |
 | China | Asia | Regulación sectorial obligatoria | Nacional | 2 |
 | Corea del Sur | Asia | Ley o reglamento específico | Nacional y local | 2 |
 | India | Asia | Regulación sectorial obligatoria | Costas / fauna | 1 |
@@ -227,7 +227,7 @@ Actualizar cada ficha comparando textos consolidados oficiales, registrar fecha 
 
 ## Ampliacion autonoma y doctrinal 2026
 
-La base documental ampliada cuenta ahora con **121 referencias** y **45 medidas estrella**. La matriz mundial sigue teniendo 51 paises. Adicionalmente se presentan **17 comunidades autonomas y 2 ciudades autonomas**. Las cifras de 79 fuentes y 40 estrellas de la version original quedan sustituidas por los nuevos totales.
+La base documental ampliada cuenta ahora con **130 referencias** y **48 medidas estrella**. La matriz mundial sigue teniendo 51 paises. Adicionalmente se presentan **17 comunidades autonomas y 2 ciudades autonomas**. Las cifras de 79 fuentes y 40 estrellas de la version original quedan sustituidas por los nuevos totales.
 
 ### Repertorios proporcionados por el usuario
 
@@ -286,3 +286,15 @@ La base documental ampliada cuenta ahora con **121 referencias** y **45 medidas 
 - [Capitulo internacional](docs/DERECHO_INTERNACIONAL.md)
 
 Las leyes derogadas se conservan solo como antecedentes historicos. Las propuestas de la doctrina (por ejemplo, limites top-down) no son por si mismas legislacion vigente.
+
+## Actualización jurídica: Venezuela (19 de noviembre de 2026)
+
+Venezuela no cuenta con una ley nacional integral de contaminación lumínica identificada en esta recopilación, pero sí con disposiciones ambientales generales y sectoriales específicas. El **artículo 3 de la Ley Orgánica del Ambiente (2006)** define «contaminante» como materia o energía; el **artículo 80** menciona expresamente la energía lumínica entre las actividades capaces de degradar el ambiente ([Gaceta reproducida en FAOLEX](https://faolex.fao.org/docs/pdf/ven69651.pdf)).
+
+La **Resolución MPPEE 112/2014** contiene un requisito de **0 % de flujo hemisférico superior** para luminarias LED modulares destinadas al alumbrado vial, pero no una prohibición general de emisión superior para todas las instalaciones ([texto reproducido de Gaceta](https://www.legiscomex.com/BancoMedios/Documentos%20PDF/res_112.pdf)). La **Resolución MPPEE 73/2011**, art. 2, regula el encendido de anuncios y vallas luminosas entre **19:00 y 00:00**, con excepciones: se corrige la indicación de 18:00 contenida en el informe aportado ([compendio ministerial](https://www.ariae.org/sites/default/files/2017-03/compilacion-legal-mppee-junio-2012%20.pdf)). La vigencia posterior de estas disposiciones requiere cotejo.
+
+Constan también referencias al Decreto 1.658/1991 sobre la protección del Observatorio de Llano del Hato, Mérida, y a la aprobación de la nueva ordenanza ambiental de Maracaibo en 2026. **No se ha verificado el texto íntegro vigente** de estos dos instrumentos, por lo que el atlas no les asigna límites luminotécnicos numéricos no demostrados. La Ley Penal del Ambiente (2012) es el marco penal general y no acredita, por sí sola, una figura penal autónoma para cualquier emisión nocturna.
+
+La bibliografía aportada documenta el descenso de radiancia VIIRS durante la crisis eléctrica, pero tal descenso no prueba eficacia regulatoria y el sensor no capta bien algunas emisiones LED azules. La revisión de Isla Margarita sobre tortugas es evidencia periodística y ambiental, no prueba concluyente de causalidad.
+
+[Leer ficha completa de Venezuela](docs/VEN_venezuela.md) · [CSV de medidas estrella](data/medidas_estrella.csv) · [CSV de fuentes](data/fuentes.csv).
