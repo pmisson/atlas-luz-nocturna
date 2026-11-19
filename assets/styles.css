@@ -50,3 +50,26 @@
 .pub-list .tiny{color:#86dbcd}
 @media(max-width:1050px){.regional-panel{grid-template-columns:1fr}.region-detail{position:static;max-height:none}}
 @media(max-width:740px){.research-grid{grid-template-columns:1fr}.publication-row{align-items:start;flex-direction:column}.regional-table-wrap{overflow-x:auto}}
+
+
+/* Bibliografía esencial: títulos enlazados y filtros accesibles. */
+.reference-legal-note{border-left:2px solid var(--gold);padding:12px 18px;margin:20px 0 24px;background:#202631;color:#c7d7df;font-size:13px;line-height:1.7}
+.reference-toolbar{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin:20px 0 28px}
+.reference-toolbar .reference-search{flex:1 1 315px;max-width:unset;min-width:210px}
+.reference-toolbar select{background:#15283a;border:1px solid #436175;border-radius:7px;color:#edf7f5;padding:12px 14px;max-width:310px;min-height:44px}
+.reference-counter{font-size:12px;color:#83dfc6;margin-left:auto;white-space:nowrap}
+.publications-section .pub-list{gap:36px;margin-top:24px}
+.bibliography-group-title{color:#f0f8f6;font-size:18px;border-bottom:1px solid #385166;padding:0 0 13px;margin:0 0 12px;display:flex;align-items:center;justify-content:space-between;gap:20px}
+.bibliography-group-title span{font-size:12px;color:#93dcca;font-weight:500}
+.bibliography-list{list-style:none;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));padding:0;margin:0;gap:12px}
+.bibliography-entry{min-width:0;border:1px solid #3d5368;border-radius:10px;background:#16283a;padding:20px 22px;transition:border-color .15s,background .15s}
+.bibliography-entry:hover{border-color:#6aab9f;background:#1a3041}
+.bibliography-author{color:#8fd7c6;font-size:11px;font-weight:700;letter-spacing:.035em}
+.bibliography-entry h4{font-size:16px;line-height:1.42;margin:8px 0 10px}
+.bibliography-title{color:#f2f9f7;text-decoration:underline;text-underline-offset:4px;text-decoration-color:#598a80;overflow-wrap:anywhere}
+.bibliography-title:hover{color:#79ebcb;text-decoration-color:#79ebcb}
+.bibliography-entry p{font-size:12px;color:#bed1da;line-height:1.6;margin:0 0 13px}
+.bibliography-meta{font-size:10px;color:#9eb6c5}
+.reference-footer{font-size:13px;color:#b0c9d2;margin-top:27px}
+.reference-footer a{color:var(--teal);text-decoration:underline;text-underline-offset:3px}
+@media(max-width:800px){.bibliography-list{grid-template-columns:1fr}.reference-counter{margin-left:0}.reference-toolbar select{max-width:none;flex:1 1 240px}}
