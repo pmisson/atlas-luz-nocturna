@@ -3,8 +3,8 @@
 **Informe maestro de compilación documental — 19 de noviembre de 2026**
 
 - **51 países** en el universo; no equivale a 51 leyes nacionales.
-- **130 registros bibliográficos** con enlaces a documentos y portales; algunos son guías, borradores o fuentes secundarias.
-- **48 medidas estrella** con fuerza jurídica diferenciada.
+- **169 registros bibliográficos** con enlaces a documentos y portales; algunos son guías, borradores o fuentes secundarias.
+- **53 medidas estrella** con fuerza jurídica diferenciada.
 
 ## Alcance y procedencia
 
@@ -227,7 +227,7 @@ Actualizar cada ficha comparando textos consolidados oficiales, registrar fecha 
 
 ## Ampliacion autonoma y doctrinal 2026
 
-La base documental ampliada cuenta ahora con **130 referencias** y **48 medidas estrella**. La matriz mundial sigue teniendo 51 paises. Adicionalmente se presentan **17 comunidades autonomas y 2 ciudades autonomas**. Las cifras de 79 fuentes y 40 estrellas de la version original quedan sustituidas por los nuevos totales.
+La base documental ampliada cuenta ahora con **169 referencias** y **53 medidas estrella**. La matriz mundial sigue teniendo 51 paises. Adicionalmente se presentan **17 comunidades autonomas y 2 ciudades autonomas**. Las cifras de 79 fuentes y 40 estrellas de la version original quedan sustituidas por los nuevos totales.
 
 ### Repertorios proporcionados por el usuario
 
@@ -298,3 +298,14 @@ Constan también referencias al Decreto 1.658/1991 sobre la protección del Obse
 La bibliografía aportada documenta el descenso de radiancia VIIRS durante la crisis eléctrica, pero tal descenso no prueba eficacia regulatoria y el sensor no capta bien algunas emisiones LED azules. La revisión de Isla Margarita sobre tortugas es evidencia periodística y ambiental, no prueba concluyente de causalidad.
 
 [Leer ficha completa de Venezuela](docs/VEN_venezuela.md) · [CSV de medidas estrella](data/medidas_estrella.csv) · [CSV de fuentes](data/fuentes.csv).
+
+## Anexo actualizado: UICN, Italia, Austria y legislación transversal (20-XI-2026)
+
+La ampliación mantiene el universo de **51 países**, con **169 registros de fuentes** y **53 medidas estrella**. Añade inventarios de **22 ámbitos regionales o provinciales italianos** (incluidas algunas entradas de alcance superpuesto), **9 Länder austriacos**, cuatro documentos UICN, y 12 instrumentos potencialmente aplicables a contaminación lumínica sin ser leyes específicas.
+
+- [UICN y sus resoluciones](docs/UICN_DECLARACIONES.md): recomendaciones de 2012, 2020/2021, resolución de 2025 y guía de buenas prácticas 2024. No son vinculantes directamente como ley nacional.
+- [Italia, legislación regional](docs/ITA_REGIONES.md): Lombardía LR 31/2015 (LR 17/2000 derogada), Véneto LR 17/2009, Emilia-Romaña LR 19/2003, Lacio LR 23/2000 y reglamento 8/2005, Marcas, Puglia, Friuli-Venecia Julia, Umbría y provincias autónomas; no se atribuye vigencia actual a fuentes históricas pendientes.
+- [Austria, legislación de los Länder](docs/AUT_LANDER.md): especial atención a §41b del Oö. Umweltschutzgesetz 1996 tras reforma de 2024; distingue norma obligatoria, derecho civil y guías voluntarias.
+- [Derecho transversal](docs/MARCO_TRANSVERSAL.md): Código Penal español, Código Penal italiano, protección de especies y hábitats, Directivas Hábitats/Aves/EIA, responsabilidad civil e inmisiones. La aplicación penal depende de todos los elementos del tipo; una luz intensa no demuestra por sí sola delito.
+
+Se incorporan CSV para consulta y actualización. La norma CIE o ÖNORM no es automáticamente obligatoria en cualquier jurisdicción: solo adquiere fuerza por la remisión legal, contractual o de autorización que proceda.
