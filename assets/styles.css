@@ -73,3 +73,16 @@
 .reference-footer{font-size:13px;color:#b0c9d2;margin-top:27px}
 .reference-footer a{color:var(--teal);text-decoration:underline;text-underline-offset:3px}
 @media(max-width:800px){.bibliography-list{grid-template-columns:1fr}.reference-counter{margin-left:0}.reference-toolbar select{max-width:none;flex:1 1 240px}}
+
+/* Inventarios regionales, IUCN y derecho transversal */
+.europa-table{min-width:920px}
+.europa-table th:nth-child(1){width:15%}.europa-table th:nth-child(2){width:24%}.europa-table th:nth-child(3){width:43%}.europa-table th:nth-child(4){width:18%}
+.europa-table td{font-size:12px;line-height:1.6;vertical-align:top}
+.europa-table td small{display:block;color:#9db7c7;font-size:10px;margin-top:5px}
+.euro-ref-links a{color:var(--teal);border-bottom:1px dotted #639f93;margin-right:9px;display:inline-block;white-space:nowrap}
+.euro-ref-links a:hover{color:white}
+.euro-ref-links span{font-size:10px;color:#9da9bb}
+.small-caution,.europa-table .caution-cell{font-size:12px!important;color:#e1be91!important}
+.research-section .legal-research-card .euro-ref-links{margin-top:auto}
+.site-header nav{gap:clamp(8px,1.2vw,22px)}
+@media(max-width:1000px){.europa-table{min-width:940px}}

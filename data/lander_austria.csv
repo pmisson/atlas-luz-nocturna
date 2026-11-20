@@ -1,0 +1,10 @@
+﻿id,name,instrument,detail,status,source_ids
+AT01,Alta Austria (Oberösterreich),"Oö. Umweltschutzgesetz 1996, §41b, reforma 2024",Obligación regional específica; ÖNORM O1052 2022 apartados 4 y 7 incorporados; adaptación de existentes hasta 2029.,verificada,F154; F155
+AT02,Tirol,Tiroler Naturschutzgesetz 2005,Protección de especies y Natura 2000; impacto de instalaciones luminosas debe evaluarse caso a caso.,sectorial,F156
+AT03,Viena (Wien),Ordenación municipal y guías ambientales,Información oficial y mecanismos sectoriales; sin ley general fotométrica verificada.,sectorial,F158; F159
+AT04,Baja Austria (Niederösterreich),Guía 2026; derecho de construcción y jurisprudencia,Guía de diseño; sentencia VwGH 2021 limita aplicación de un precepto edificatorio a la luz intrusa.,sectorial,F157; F160
+AT05,Carintia (Kärnten),Marco de conservación y edificación,No se ha verificado una ley específica general de límites lumínicos; revisar expedientes ambientales locales.,pendiente,
+AT06,Estiria (Steiermark),Marco de conservación y edificación,Necesaria auditoría de supuestos de autorización y perturbación de fauna.,pendiente,
+AT07,Salzburgo,Marco de conservación y edificación,No consta norma regional específica cotejada de contaminación lumínica.,pendiente,
+AT08,Vorarlberg,Marco de conservación y edificación,"Normas de protección ambiental potencialmente aplicables, sin parámetro fotométrico general verificado.",pendiente,
+AT09,Burgenland,Marco de conservación y edificación,Pendiente verificar legislación sectorial y reglamentos municipales.,pendiente,

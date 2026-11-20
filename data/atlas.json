@@ -3,15 +3,19 @@
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-19",
     "country_count": 51,
-    "source_count": 130,
-    "star_count": 48,
+    "source_count": 169,
+    "star_count": 53,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
     "spain_cities_count": 2,
     "bibliography_count": 9,
-    "note_2026": "Revision ampliada con REECL y Cel Fosc (archivo no accesible), Espana autonoma, derecho internacional y articulos academicos.",
-    "note_venezuela_2026": "Venezuela: revisión documental 19-XI-2026. Corrección art. 2 Res. 73 (19:00-00:00). Decreto 1658 y ordenanza Maracaibo necesitan cotejo de texto original y vigencia."
+    "note_2026": "Ampliación 2026: UICN 2012/2021/2025, 22 territorios de Italia y 9 Länder austríacos, derecho penal, civil y protección de especies con límites jurídicos y fuentes enlazadas.",
+    "note_venezuela_2026": "Venezuela: revisión documental 19-XI-2026. Corrección art. 2 Res. 73 (19:00-00:00). Decreto 1658 y ordenanza Maracaibo necesitan cotejo de texto original y vigencia.",
+    "italy_regions_count": 22,
+    "austria_lander_count": 9,
+    "iucn_count": 4,
+    "transversal_count": 12
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -349,7 +353,10 @@
         "F103",
         "F104",
         "F105",
-        "F106"
+        "F106",
+        "F162",
+        "F163",
+        "F164"
       ],
       "star_ids": [
         "M12",
@@ -365,16 +372,40 @@
       "name": "Italia",
       "region": "Europa",
       "level": "subnacional",
-      "summary": "Italia carece de una ley estatal integral; regiones como Véneto tienen leyes específicas con obligaciones de diseño de alumbrado.",
-      "scope": "Regional",
+      "summary": "Italia regula la contaminación lumínica principalmente mediante legislación regional y provincial. Lombardía LR 31/2015 (sustituyó LR 17/2000), Véneto LR 17/2009, Emilia-Romaña LR 19/2003 y otras regiones tienen regímenes diferenciados; no existe ley estatal general identificada.",
+      "scope": "Regiones y provincias autónomas",
       "confidence": "Fuente primaria identificada",
-      "note": "",
-      "keywords": "",
+      "note": "Inventario regional con instrumentos verificados e históricos por cotejar; no equiparar normas de distintas regiones.",
+      "keywords": " Lombardia Veneto Emilia Romagna Lazio Marche Puglia Friuli Toscana Trento Bolzano",
       "source_ids": [
-        "F032"
+        "F032",
+        "F137",
+        "F138",
+        "F139",
+        "F140",
+        "F141",
+        "F142",
+        "F143",
+        "F144",
+        "F145",
+        "F146",
+        "F147",
+        "F148",
+        "F149",
+        "F150",
+        "F151",
+        "F152",
+        "F153",
+        "F165",
+        "F166"
       ],
       "star_ids": [
-        "M13"
+        "M13",
+        "M49",
+        "M50",
+        "M51",
+        "M52",
+        "M53"
       ]
     },
     {
@@ -552,13 +583,21 @@
       "name": "Austria",
       "region": "Europa",
       "level": "subnacional",
-      "summary": "Alta Austria introduce en su ley medioambiental obligación de evitar contaminación lumínica; otras regiones disponen de marcos distintos.",
-      "scope": "Land Oberösterreich",
+      "summary": "Alta Austria dispone de regulación regional obligatoria específica desde 2024 (§41b Oö. Umweltschutzgesetz 1996); los otros Länder aplican diferentes regímenes de protección natural, civil y guías, sin ley nacional integral de luz verificada.",
+      "scope": "Länder y regulación sectorial/civil",
       "confidence": "Fuente primaria identificada",
-      "note": "",
+      "note": "La ÖNORM O 1052 no obliga por sí sola en toda Austria; §41b de Alta Austria incorpora apartados 4 y 7.",
       "keywords": "",
       "source_ids": [
-        "F045"
+        "F045",
+        "F154",
+        "F155",
+        "F156",
+        "F157",
+        "F158",
+        "F159",
+        "F160",
+        "F161"
       ],
       "star_ids": [
         "M23"
@@ -2371,6 +2410,435 @@
       "note": "No confundir reducción por crisis eléctrica con política ambiental exitosa; VIIRS es insensible a parte del espectro azul.",
       "year": "2020",
       "official": false
+    },
+    {
+      "id": "F131",
+      "country": "INT",
+      "title": "UICN WCC-2012-Rec-183: Cielos oscuros y conservación de la naturaleza",
+      "url": "https://portals.iucn.org/library/sites/library/files/resrecfiles/WCC_2012_REC_183_ES.pdf",
+      "type": "Recomendación UICN",
+      "effect": "Cantidad, espectro y horarios responsables; preservación del cielo nocturno",
+      "note": "Soft law de conservación, sin sanción estatal directa",
+      "year": "2012",
+      "official": true
+    },
+    {
+      "id": "F132",
+      "country": "INT",
+      "title": "UICN WCC-2020-Res-124: Tomar medidas para reducir la contaminación lumínica",
+      "url": "https://portals.iucn.org/library/sites/library/files/resrecfiles/WCC_2020_RES_124_ES.pdf",
+      "type": "Resolución UICN",
+      "effect": "Eliminación de puntos innecesarios, no iluminar áreas naturales, luz ámbar, corredores oscuros",
+      "note": "Adoptada en el Congreso de Marsella 2021 (código 2020); no es ley nacional",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F133",
+      "country": "INT",
+      "title": "UICN WCC-2025-Res-046: Estrategia global para la restauración de la oscuridad natural",
+      "url": "https://portals.iucn.org/library/sites/library/files/resrecfiles/WCC_2025_RES_046_ES.pdf",
+      "type": "Resolución UICN",
+      "effect": "Restauración de oscuridad, hábitats clave, exclusión lumínica en áreas de biodiversidad",
+      "note": "Aprobada en Abu Dabi 2025; exhortación política, no límite luminotécnico autoejecutable",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F134",
+      "country": "INT",
+      "title": "UICN-WCPA: The World at Night, Good Practice Guidelines No. 33",
+      "url": "https://portals.iucn.org/library/sites/library/files/documents/GPG-033-En.pdf",
+      "type": "Guía de buenas prácticas UICN",
+      "effect": "Gestión de la oscuridad, patrimonio, biodiversidad y condiciones de iluminación",
+      "note": "Guía de 2024; no norma sancionadora",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F135",
+      "country": "INT",
+      "title": "UICN: Light pollution, ficha de política institucional 2024",
+      "url": "https://iucn.org/resources/issues-brief/light-pollution",
+      "type": "Nota institucional UICN",
+      "effect": "Necesidad, intensidad, color, apantallamiento y duración; mitigación ambiental",
+      "note": "Guía de uso voluntario",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F136",
+      "country": "INT",
+      "title": "CMS Resolución 13.5 Rev.COP14: directrices internacionales sobre contaminación lumínica",
+      "url": "https://www.cms.int/sites/default/files/document/cms_cop14_res.13.5_rev.cop14_cms-international-light-pollution-guidelines_s.pdf",
+      "type": "Resolución de convenio ambiental",
+      "effect": "Directrices para especies migratorias, aves y murciélagos",
+      "note": "No convertir recomendaciones técnicas en prohibiciones directas sin norma de implementación",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F137",
+      "country": "ITA",
+      "title": "Lombardía: Legge Regionale 31/2015, iluminación exterior y reducción de contaminación lumínica",
+      "url": "https://normelombardia.consiglio.regione.lombardia.it/NormeLombardia/Accessibile/main.aspx?command=open&exp_coll=467&iddoc=lr002015100500031&selnode=467&view=showsum",
+      "type": "Ley regional",
+      "effect": "Arts. 6-10: funciones municipales, zonas especiales, régimen sancionador",
+      "note": "Vigente como referencia principal; ver desarrollo reglamentario y transitoriedad",
+      "year": "2015",
+      "official": true
+    },
+    {
+      "id": "F138",
+      "country": "ITA",
+      "title": "Lombardía: Legge Regionale 17/2000 (derogada por LR 31/2015)",
+      "url": "https://normelombardia.consiglio.regione.lombardia.it/NormeLombardia/Accessibile/main.aspx?exp_coll=3852004&iddoc=lr002000032700017&selnode=3852004&view=showsum",
+      "type": "Ley regional derogada",
+      "effect": "Antecedente histórico del criterio de control de emisión superior",
+      "note": "DEROGADA por art.12 LR31/2015, con disposiciones transitorias del art.11",
+      "year": "2000",
+      "official": true
+    },
+    {
+      "id": "F139",
+      "country": "ITA",
+      "title": "Véneto: Legge Regionale 17/2009, contención de contaminación lumínica",
+      "url": "https://www.consiglioveneto.it/web/crv/dettaglio-legge?anno=2009&catStruttura=LR&numero=17&tab=vigente",
+      "type": "Ley regional",
+      "effect": "Alumbrado exterior público y privado; protección de observatorios y medio ambiente",
+      "note": "Enlace al texto vigente; aplicar artículos, modificaciones y excepciones",
+      "year": "2009",
+      "official": true
+    },
+    {
+      "id": "F140",
+      "country": "ITA",
+      "title": "Emilia-Romaña: LR 19/2003 y directrices DGR 1732/2015 modificadas DGR 1514/2022",
+      "url": "https://ambiente.regione.emilia-romagna.it/it/luce-rumore-elettrosmog/normativa/norme-inquinamento-luminoso/norme-regionali",
+      "type": "Ley regional y disposiciones técnicas",
+      "effect": "Requisitos técnicos e implantación de alumbrado exterior",
+      "note": "La ley se desarrolla mediante normativa posterior; consultar texto coordinado actualizado",
+      "year": "2003",
+      "official": true
+    },
+    {
+      "id": "F141",
+      "country": "ITA",
+      "title": "Lacio: LR 23/2000 sobre reducción y prevención de contaminación lumínica",
+      "url": "https://consiglio.regione.lazio.it/consiglio-regionale/?id=8508&sv=vigente&vw=leggiregionalidettaglio",
+      "type": "Ley regional",
+      "effect": "Art. 1 abarca alumbrado exterior incluso publicitario; art. 10 sanciones",
+      "note": "Texto vigente en portal oficial",
+      "year": "2000",
+      "official": true
+    },
+    {
+      "id": "F142",
+      "country": "ITA",
+      "title": "Lacio: Reglamento regional 8/2005 sobre reducción de contaminación lumínica",
+      "url": "https://www.regione.lazio.it/regolamenti-regionali-testo-originale/regolamento-regionale-18-aprile-2005-n-8",
+      "type": "Reglamento regional",
+      "effect": "Diseño, control de emisiones, áreas de protección de observatorios, vigilancia",
+      "note": "Texto original; cotejar modificaciones posteriores",
+      "year": "2005",
+      "official": true
+    },
+    {
+      "id": "F143",
+      "country": "ITA",
+      "title": "Marcas: LR 10/2002 y registro de observatorios actualizado en 2024",
+      "url": "https://contenuti.regione.marche.it/Regione-Utile/Ambiente/Inquinamento-luminoso",
+      "type": "Ley regional",
+      "effect": "Ahorro de energía y reducción de contaminación lumínica; protección de observatorios",
+      "note": "Portal regional de legislación y registro",
+      "year": "2002",
+      "official": true
+    },
+    {
+      "id": "F144",
+      "country": "ITA",
+      "title": "Friuli-Venecia Julia: LR 15/2007, contención de contaminación lumínica",
+      "url": "https://lexview-int.regione.fvg.it/FontiNormative/xml/scarico.aspx?ANN=2007&LEX=0015&a_ante=&ci=&dataVig=&id=art4&idx=&lang=ita&n_ante=&tip=2&vig=",
+      "type": "Ley regional",
+      "effect": "Alumbrado exterior, protección de observatorios, planes municipales; art. 8 modificado en 2012",
+      "note": "Portal Lexview; verificar redacción vigente de los requisitos concretos",
+      "year": "2007",
+      "official": true
+    },
+    {
+      "id": "F145",
+      "country": "ITA",
+      "title": "Umbría: LR 20/2005, contaminación lumínica y ahorro energético",
+      "url": "https://leggi.alumbria.it/mostra_atto.php?id=7033&m=5&v=FI%2CSA%2CTE%2CIS%2CVE%2CRA%2CMM",
+      "type": "Ley regional",
+      "effect": "Arts. 3-6: planes municipales, protección de observatorios y sanción por punto de luz",
+      "note": "Conformidad y excepciones dependen de desarrollo reglamentario",
+      "year": "2005",
+      "official": true
+    },
+    {
+      "id": "F146",
+      "country": "ITA",
+      "title": "Apulia: LR 15/2005, reducción de contaminación lumínica y ahorro energético",
+      "url": "https://bussolanormativa.consiglio.puglia.it/public/leges/LeggeNavscroll.aspx?id=11505",
+      "type": "Ley regional",
+      "effect": "Definición de contaminación como alteración de iluminación natural y dispersión fuera de área funcional",
+      "note": "Portal del Consejo regional indica no derogada",
+      "year": "2005",
+      "official": true
+    },
+    {
+      "id": "F147",
+      "country": "ITA",
+      "title": "Provincia autónoma de Trento: LP 16/2007 sobre ahorro energético y contaminación lumínica",
+      "url": "https://www.consiglio.provincia.tn.it/leggi-e-archivi/codice-provinciale/Pages/legge.aspx?uid=17030",
+      "type": "Ley provincial",
+      "effect": "Art.4 planes y fuentes hacia abajo; art.6 vigilancia y sanciones",
+      "note": "Enlace a texto coordinado, con desarrollo posterior",
+      "year": "2007",
+      "official": true
+    },
+    {
+      "id": "F148",
+      "country": "ITA",
+      "title": "Provincia autónoma de Bolzano: DGP 477/2022 sobre alumbrado público",
+      "url": "https://ambiente.provincia.bz.it/it/energia-clima/illuminazione-pubblica",
+      "type": "Resolución provincial técnica",
+      "effect": "Criterios de protección, iluminación pública y reducción de consumo",
+      "note": "Mandato técnico sectorial: no tratar como ley regional general",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F149",
+      "country": "ITA",
+      "title": "Bolzano: plan de luz para gestores con más de 100 luminarias",
+      "url": "https://ambiente.provincia.bz.it/it/energia-clima/statistiche-illuminazione-pubblica-alto-adige",
+      "type": "Política provincial regulada",
+      "effect": "Obligación de plan de adaptación para gestores que superen 100 aparatos",
+      "note": "El portal oficial detalla obligación dentro del alcance de criterios provinciales",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F150",
+      "country": "ITA",
+      "title": "Valle de Aosta: LR 17/1998, normas de iluminación exterior",
+      "url": "https://www.consiglio.vda.it/app/leggieregolamenti/dettaglio?pk_lr=2478&versione=S",
+      "type": "Ley regional histórica",
+      "effect": "Prohibición de haces ascendentes, protección de avifauna y observatorios",
+      "note": "Página de texto histórico; verificar versión consolidada de 2026 antes de aplicar detalles",
+      "year": "1998",
+      "official": true
+    },
+    {
+      "id": "F151",
+      "country": "ITA",
+      "title": "Piamonte: LR 31/2000, prevención de contaminación lumínica, reformas 2004 y 2018",
+      "url": "https://www.ecolex.org/details/legislation/regional-act-no-31-on-the-prevention-of-pollution-caused-by-lighting-and-making-provision-for-the-proper-use-of-energy-sources-lex-faoc045595/",
+      "type": "Ley regional identificada en FAOLEX/ECOLEX",
+      "effect": "Protección de rutas migratorias, eficiencia y zonas naturales",
+      "note": "Referencia internacional secundaria; verificar texto regional consolidado y reformas",
+      "year": "2000",
+      "official": false
+    },
+    {
+      "id": "F152",
+      "country": "ITA",
+      "title": "Campania: LR 12/2002, alumbrado exterior y protección de observatorios",
+      "url": "https://www.regione.campania.it/normativa/userFile/documents/attachments/434_122012storico.pdf",
+      "type": "Ley regional",
+      "effect": "Contención lumínica y consumo energético; incluye publicidad",
+      "note": "Enlace a texto histórico; vigencia y modificatorias por revisar",
+      "year": "2002",
+      "official": true
+    },
+    {
+      "id": "F153",
+      "country": "ITA",
+      "title": "Eionet 2022: comparación de legislación regional italiana",
+      "url": "https://www.eionet.europa.eu/etcs/etc-he/products/etc-he-products/etc-he-report-2022-8-review-and-assessment-of-available-information-on-light-pollution-in-europe",
+      "type": "Informe comparado institucional",
+      "effect": "Incluye regiones e instrumentos de Italia y Austria",
+      "note": "Panorama histórico 2022: no prueba vigencia actual de cada norma",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F154",
+      "country": "AUT",
+      "title": "Alta Austria: Oö. Umweltschutzgesetz 1996 §41b (reforma LGBl 24/2024)",
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=LrOO&Anlage=&Artikel=&Gesetzesnummer=10000480&Paragraf=41b&Uebergangsrecht=",
+      "type": "Ley regional",
+      "effect": "Integra los apartados 4 y 7 de ÖNORM O 1052:2022-10, con excepciones; iluminación ajustada a necesidad",
+      "note": "Entrada 01/05/2024; adaptación existente a más tardar 01/01/2029",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F155",
+      "country": "AUT",
+      "title": "Alta Austria: LGBl 24/2024, reforma oficial del Oö. Umweltschutzgesetz",
+      "url": "https://www.ris.bka.gv.at/Dokumente/LgblAuth/LGBLA_OB_20240318_24/LGBLA_OB_20240318_24.html",
+      "type": "Boletín legislativo regional",
+      "effect": "Texto original de inserción de §41b y §41c",
+      "note": "Comprobar condiciones transitorias y competencia del Land",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F156",
+      "country": "AUT",
+      "title": "Tirol: Tiroler Naturschutzgesetz 2005, conservación de especies y Natura 2000",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000252",
+      "type": "Ley territorial de protección natural",
+      "effect": "Arts.14, 24 y 25: evaluación de proyectos Natura 2000 y conservación de especies animales/aves",
+      "note": "Aplicabilidad indirecta a luz en caso de impactos acreditados; no ley lumínica integral",
+      "year": "2005",
+      "official": true
+    },
+    {
+      "id": "F157",
+      "country": "AUT",
+      "title": "Baja Austria: Österreichischer Leitfaden Außenbeleuchtung, segunda edición 2026",
+      "url": "https://www.noe.gv.at/noe/Umweltschutz/Oesterreichischer_Leitfaden_Aussenbeleuchtung.html?print=true",
+      "type": "Guía técnica de Länder",
+      "effect": "Diseño y manejo de alumbrado exterior con criterios ambientales",
+      "note": "Guía, no prohibición legal general",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F158",
+      "country": "AUT",
+      "title": "Viena: información pública sobre contaminación lumínica",
+      "url": "https://www.wien.gv.at/umwelt/lichtverschmutzung",
+      "type": "Guía municipal",
+      "effect": "Efectos y medidas de iluminación urbana",
+      "note": "No equivale a un reglamento de límites urbanos generales",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F159",
+      "country": "AUT",
+      "title": "Viena: WUA, legislación austríaca e inmisiones luminosas",
+      "url": "https://www.wua-wien.at/naturschutz-und-stadtoekologie/165-weiterfhrende-informationen-zum-thema17/1817-oesterreichische-gesetze-und-richtlinien",
+      "type": "Compilación jurídica pública",
+      "effect": "Relación de ÖNORM O1052, derecho vecinal y normas sectoriales",
+      "note": "Comprobar ámbito de cada vía legal; la ÖNORM no es obligatoria automáticamente",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F160",
+      "country": "AUT",
+      "title": "VwGH Austria 2021: límite del amparo de luz por norma de construcción NÖ",
+      "url": "https://ris.bka.gv.at/VwghRechtssatzkette.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2020050036_20210113L06",
+      "type": "Jurisprudencia",
+      "effect": "§6 NÖ Bauordnung no es una cláusula general contra contaminación lumínica",
+      "note": "No confundir acceso a luz natural de ventana con derecho a evitar luz intrusa",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F161",
+      "country": "AUT",
+      "title": "Código civil austríaco §364.2 ABGB: inmisiones vecinales",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622",
+      "type": "Legislación civil",
+      "effect": "Vía civil de molestias vecinales que exceden lo habitual y dificultan significativamente uso del inmueble",
+      "note": "Aplicación a luz requiere prueba y análisis jurisprudencial; no límite fotométrico universal",
+      "year": "1811",
+      "official": true
+    },
+    {
+      "id": "F162",
+      "country": "ESP",
+      "title": "Código Penal español LO 10/1995, arts.325, 332, 334 y 338",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444",
+      "type": "Código penal",
+      "effect": "Arts.325 daño ambiental; 332 flora/hábitat; 334 fauna, reproducción/migración; 338 espacio protegido",
+      "note": "No constituye automáticamente delito por iluminar; tipicidad, infracción y prueba son indispensables",
+      "year": "1995",
+      "official": true
+    },
+    {
+      "id": "F163",
+      "country": "ESP",
+      "title": "Ley 42/2007 de Patrimonio Natural y Biodiversidad, protección de especies y hábitats",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490",
+      "type": "Ley de biodiversidad",
+      "effect": "Prohibición de perturbaciones y deterioros de especies y sitios protegidos bajo condiciones legales",
+      "note": "Puede justificar condiciones de luminarias en lugares de reproducción y reposo",
+      "year": "2007",
+      "official": true
+    },
+    {
+      "id": "F164",
+      "country": "ESP",
+      "title": "Ley 21/2013 de evaluación ambiental, arts. 5 y 35, efectos y Natura 2000",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12913",
+      "type": "Ley de evaluación ambiental",
+      "effect": "Identificación de efectos de proyectos, incluidas emisiones de energía y efectos en fauna",
+      "note": "No toda instalación luminosa exige EIA; depende del proyecto y supuestos de ley",
+      "year": "2013",
+      "official": true
+    },
+    {
+      "id": "F165",
+      "country": "ITA",
+      "title": "Código Penal italiano: arts.727-bis y 733-bis (D.Lgs 121/2011)",
+      "url": "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=011G0163&atto.dataPubblicazioneGazzetta=2011-08-01&bloccoAggiornamentoBreadCrumb=true&dataVigenza=18%2F05%2F2025&generaTabId=true&qId=&tabID=&tipoDettaglio=singolavigenza&title=lbl.dettaglioAtto",
+      "type": "Legislación penal ambiental",
+      "effect": "Especies silvestres protegidas y hábitats protegidos",
+      "note": "Requiere conducta típica; luz perjudicial no equivale por sí sola a delito",
+      "year": "2011",
+      "official": true
+    },
+    {
+      "id": "F166",
+      "country": "ITA",
+      "title": "Italia: Legge 68/2015, art.452-bis del Codice penale (inquinamento ambientale)",
+      "url": "https://www.normattiva.it/eli/id/2015/05/28/15G00082/CONSOLIDATED/",
+      "type": "Reforma penal ambiental",
+      "effect": "Deterioro significativo y medible de ecosistemas, biodiversidad, flora o fauna",
+      "note": "No se presume aplicable por mera luminancia elevada; se requiere conducta y daño legalmente calificado",
+      "year": "2015",
+      "official": true
+    },
+    {
+      "id": "F167",
+      "country": "INT",
+      "title": "Directiva Hábitats 92/43/CEE, arts.6(2)-(3) y 12",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A31992L0043",
+      "type": "Directiva europea",
+      "effect": "Evitar perturbaciones significativas en Natura 2000; evaluación apropiada de proyectos",
+      "note": "La transposición nacional rige muchas obligaciones; aplicar al sitio y efecto concretos",
+      "year": "1992",
+      "official": true
+    },
+    {
+      "id": "F168",
+      "country": "INT",
+      "title": "Directiva Aves 2009/147/CE, arts.4 y 5",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32009L0147",
+      "type": "Directiva europea",
+      "effect": "Prohibiciones de perturbación deliberada significativa durante reproducción y cría",
+      "note": "Requiere hechos y vínculo ecológico comprobables",
+      "year": "2009",
+      "official": true
+    },
+    {
+      "id": "F169",
+      "country": "INT",
+      "title": "Directiva EIA 2011/92/UE, modificada por 2014/52/UE",
+      "url": "https://eur-lex.europa.eu/eli/dir/2011/92/oj",
+      "type": "Directiva europea",
+      "effect": "Evaluación de efectos significativos de proyectos sometidos a evaluación",
+      "note": "No somete automáticamente toda luminaria a EIA",
+      "year": "2011",
+      "official": true
     }
   ],
   "stars": [
@@ -2690,15 +3158,16 @@
     {
       "id": "M23",
       "country": "AUT",
-      "title": "Obligaciones regionales contra contaminación lumínica",
-      "description": "§41b de Oö. Umweltschutzgesetz establece medidas de limitación en instalaciones exteriores.",
-      "force": "Ley regional obligatoria",
-      "param": "Reducción de intensidad, duración y orientación según ámbito",
-      "scope": "Alta Austria",
+      "title": "Alta Austria 2024: obligación legal de iluminación ajustada a necesidad",
+      "description": "Oö. Umweltschutzgesetz 1996, §41b, modificado por LGBl 24/2024: minimizar efectos de luz exterior e incorporar puntos 4 y 7 ÖNORM O1052.",
+      "force": "Ley de Land vinculante",
+      "param": "Intensidad y horarios ajustados a necesidad; adaptación hasta enero de 2029 para instalaciones existentes.",
+      "scope": "Alta Austria y competencias regionales",
       "sources": [
-        "F045"
+        "F154",
+        "F155"
       ],
-      "caution": "Sólo para el Land y supuestos determinados.",
+      "caution": "No aplicar a toda Austria ni a instalaciones temporales; excepciones por seguridad y competencias.",
       "replicability": "Alta"
     },
     {
@@ -3064,6 +3533,77 @@
       ],
       "caution": "No atribuir a todo el país; consultar Gaceta Oficial 4.158/1990 y decreto de 1991 antes de extraer prohibiciones actuales.",
       "replicability": "Media"
+    },
+    {
+      "id": "M49",
+      "country": "ITA",
+      "title": "Lombardía LR 31/2015: sanciones y zonas de protección",
+      "description": "Art.10: multas a incumplimientos de gestión y de adecuación, con duplicación en zonas de tutela; regulación por arts.6 y 9.",
+      "force": "Ley regional",
+      "param": "Sanciones administrativas y tutela espacial; cuantías según supuesto legal",
+      "scope": "Región Lombardía",
+      "sources": [
+        "F137"
+      ],
+      "caution": "La antigua LR17/2000 está derogada; consultar transitorios y reglas de aplicación.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M50",
+      "country": "ITA",
+      "title": "Véneto LR 17/2009: control tanto de luz pública como privada",
+      "description": "Requisitos para instalaciones exteriores públicas y privadas, incluso fuentes LED, con autorización municipal según tipo.",
+      "force": "Ley regional",
+      "param": "Control de luz hacia arriba, planes y reglas de diseño",
+      "scope": "Región Véneto",
+      "sources": [
+        "F139"
+      ],
+      "caution": "Las recomendaciones de ARPAV sobre CCT ≤3000 K no equivalen automáticamente a límite legal universal.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M51",
+      "country": "ITA",
+      "title": "Umbría LR 20/2005: planificación y sanción por punto de luz",
+      "description": "Arts.3 y 6 establecen planificación municipal, control de instalaciones y multas por luminaria en supuestos incumplidos.",
+      "force": "Ley regional",
+      "param": "Art.6: sanción 250–500 € por punto de luz según condiciones del régimen",
+      "scope": "Región Umbría",
+      "sources": [
+        "F145"
+      ],
+      "caution": "El sistema depende de requisitos reglamentarios, medidas correctivas y excepciones por seguridad.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M52",
+      "country": "ITA",
+      "title": "Trento LP 16/2007: limitar luz ascendente y aplicar planes",
+      "description": "Art.4: orientar iluminación viaria y urbana hacia abajo; art.6 prevé sanción administrativa y requerimientos de adecuación.",
+      "force": "Ley provincial",
+      "param": "Art.6 multas de 100–1000 €; art.4 contiene criterio de 0,49 cd/1000 lm en régimen transitorio señalado.",
+      "scope": "Provincia autónoma de Trento",
+      "sources": [
+        "F147"
+      ],
+      "caution": "El umbral de 0,49 cd/1000 lm del art.4.3 se refiere a la fase anterior al plan provincial, no presentarlo como vigente sin cotejo.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M53",
+      "country": "ITA",
+      "title": "Bolzano DGP 477/2022: planes de luz para grandes gestores",
+      "description": "Criterios provinciales para alumbrado público; gestores de más de 100 luminarias deben planificar adaptación.",
+      "force": "Normativa técnica provincial",
+      "param": "Plan de luz obligatorio para gestores de >100 aparatos según portal provincial",
+      "scope": "Provincia autónoma de Bolzano",
+      "sources": [
+        "F148",
+        "F149"
+      ],
+      "caution": "Ámbito sectorial de iluminación pública; no extender automáticamente a todo comercio privado.",
+      "replicability": "Alta"
     }
   ],
   "spain_regions": [
@@ -3385,6 +3925,489 @@
       "title": "Propuestas de control de la contaminacion luminica para el Plan Nacional de Restauracion",
       "topic": "Documento de recomendaciones, no regulacion aprobada",
       "source_id": "F121"
+    }
+  ],
+  "iucn_documents": [
+    {
+      "title": "Cielos oscuros y conservación de la naturaleza",
+      "year": 2012,
+      "kind": "Recomendación WCC-2012-Rec-183",
+      "summary": "Propone regular cantidad, espectro y horario, proteger espacios naturales y crear alianzas con observatorios.",
+      "legal": "Recomendación de la UICN; no crea delito ni límite legal por sí misma.",
+      "source_ids": [
+        "F131"
+      ]
+    },
+    {
+      "title": "Tomar medidas para reducir la contaminación lumínica",
+      "year": 2021,
+      "kind": "Resolución WCC-2020-Res-124",
+      "summary": "Pide reducir luz superflua, evitar iluminación natural innecesaria, favorecer luz ámbar y restaurar infraestructura oscura.",
+      "legal": "Resolución de política UICN; adopción o legislación estatal requerida para exigir medidas.",
+      "source_ids": [
+        "F132"
+      ]
+    },
+    {
+      "title": "Estrategia global para restaurar la oscuridad natural",
+      "year": 2025,
+      "kind": "Resolución WCC-2025-Res-046",
+      "summary": "Promueve zonas de exclusión lumínica en hábitats críticos, restauración de oscuridad y estándares adaptativos.",
+      "legal": "Resolución aprobada en Abu Dabi 2025; soft law, no norma técnica nacional directa.",
+      "source_ids": [
+        "F133"
+      ]
+    },
+    {
+      "title": "The World at Night — Guía de buenas prácticas Nº 33",
+      "year": 2024,
+      "kind": "Guía WCPA de gestión de áreas protegidas",
+      "summary": "Conservación de la oscuridad, diseño de luminarias, planificación del cielo y gestión de patrimonio natural y cultural.",
+      "legal": "Orientación de buenas prácticas; no texto legislativo.",
+      "source_ids": [
+        "F134",
+        "F135"
+      ]
+    }
+  ],
+  "italy_regions": [
+    {
+      "id": "IT01",
+      "name": "Lombardía",
+      "instrument": "LR 31/2015 (LR 17/2000 derogada)",
+      "detail": "Norma regional consolidada; zonas de especial protección, municipios y sanciones.",
+      "status": "verificada",
+      "source_ids": [
+        "F137",
+        "F138"
+      ]
+    },
+    {
+      "id": "IT02",
+      "name": "Véneto",
+      "instrument": "LR 17/2009",
+      "detail": "Control del alumbrado público y privado y protección astronómica; aplicación territorial en toda la región.",
+      "status": "verificada",
+      "source_ids": [
+        "F139"
+      ]
+    },
+    {
+      "id": "IT03",
+      "name": "Emilia-Romaña",
+      "instrument": "LR 19/2003; DGR 1732/2015 modificada DGR 1514/2022",
+      "detail": "Ley y directrices de aplicación; consultar versión integrada.",
+      "status": "verificada",
+      "source_ids": [
+        "F140"
+      ]
+    },
+    {
+      "id": "IT04",
+      "name": "Lacio",
+      "instrument": "LR 23/2000; Reglamento 8/2005",
+      "detail": "Incluye alumbrado publicitario, planes y zonas especiales para observatorios.",
+      "status": "verificada",
+      "source_ids": [
+        "F141",
+        "F142"
+      ]
+    },
+    {
+      "id": "IT05",
+      "name": "Marcas",
+      "instrument": "LR 10/2002",
+      "detail": "Protección del cielo y actualización de registro de observatorios en enero 2024.",
+      "status": "verificada",
+      "source_ids": [
+        "F143"
+      ]
+    },
+    {
+      "id": "IT06",
+      "name": "Friuli-Venecia Julia",
+      "instrument": "LR 15/2007, modificaciones posteriores",
+      "detail": "Proyectos municipales y requisitos técnicos; contrastar texto de art. 8 vigente.",
+      "status": "verificada",
+      "source_ids": [
+        "F144"
+      ]
+    },
+    {
+      "id": "IT07",
+      "name": "Umbría",
+      "instrument": "LR 20/2005",
+      "detail": "Obligaciones de planes municipales, autorización y sanción por punto de luz (art.6).",
+      "status": "verificada",
+      "source_ids": [
+        "F145"
+      ]
+    },
+    {
+      "id": "IT08",
+      "name": "Apulia (Puglia)",
+      "instrument": "LR 15/2005",
+      "detail": "El Consejo regional indica no derogada; define luz dispersada como contaminación.",
+      "status": "verificada",
+      "source_ids": [
+        "F146"
+      ]
+    },
+    {
+      "id": "IT09",
+      "name": "Campania",
+      "instrument": "LR 12/2002",
+      "detail": "Alumbrado público y privado; protección de observatorios, publicidad y eficiencia.",
+      "status": "historica",
+      "source_ids": [
+        "F152"
+      ]
+    },
+    {
+      "id": "IT10",
+      "name": "Piamonte",
+      "instrument": "LR 31/2000, modificaciones 2004 y 2018",
+      "detail": "Protección de aves migratorias, observatorios y paisaje; versión vigente pendiente.",
+      "status": "historica",
+      "source_ids": [
+        "F151"
+      ]
+    },
+    {
+      "id": "IT11",
+      "name": "Valle de Aosta",
+      "instrument": "LR 17/1998",
+      "detail": "Conservación de fauna nocturna y rutas migratorias; fuente textual histórica.",
+      "status": "historica",
+      "source_ids": [
+        "F150"
+      ]
+    },
+    {
+      "id": "IT12",
+      "name": "Toscana",
+      "instrument": "LR 37/2000 y legislación sectorial posterior",
+      "detail": "Normativa histórica sobre prevención; relación con leyes posteriores pendiente de verificación oficial.",
+      "status": "historica",
+      "source_ids": [
+        "F153"
+      ]
+    },
+    {
+      "id": "IT13",
+      "name": "Abruzos",
+      "instrument": "LR 12/2005",
+      "detail": "Disposiciones históricas sobre contaminación lumínica y ahorro; texto vigente por cotejar.",
+      "status": "historica",
+      "source_ids": [
+        "F153"
+      ]
+    },
+    {
+      "id": "IT14",
+      "name": "Liguria",
+      "instrument": "LR 22/2007 y reglamento 5/2009",
+      "detail": "Referencias históricas de energía y control de iluminación; vigencia detallada por comprobar.",
+      "status": "historica",
+      "source_ids": [
+        "F153"
+      ]
+    },
+    {
+      "id": "IT15",
+      "name": "Basilicata",
+      "instrument": "LR 41/2000 (referencia histórica)",
+      "detail": "Prevención de contaminación lumínica identificada en repertorios; texto vigente por cotejar.",
+      "status": "historica",
+      "source_ids": [
+        "F153"
+      ]
+    },
+    {
+      "id": "IT16",
+      "name": "Sardegna",
+      "instrument": "Planes y acuerdos regionales",
+      "detail": "No se ha verificado ley regional integral específica en fuente primaria de 2026.",
+      "status": "pendiente",
+      "source_ids": [
+        "F153"
+      ]
+    },
+    {
+      "id": "IT17",
+      "name": "Calabria",
+      "instrument": "Búsqueda pendiente",
+      "detail": "Sin ley regional específica validada en esta revisión; comprobar boletín regional.",
+      "status": "pendiente",
+      "source_ids": []
+    },
+    {
+      "id": "IT18",
+      "name": "Molise",
+      "instrument": "Búsqueda pendiente",
+      "detail": "Sin ley regional específica validada en esta revisión; comprobar boletín regional.",
+      "status": "pendiente",
+      "source_ids": []
+    },
+    {
+      "id": "IT19",
+      "name": "Sicilia",
+      "instrument": "Búsqueda pendiente",
+      "detail": "Sin ley regional específica validada en esta revisión; comprobar boletín regional.",
+      "status": "pendiente",
+      "source_ids": []
+    },
+    {
+      "id": "IT20",
+      "name": "Trentino-Alto Adige / Südtirol",
+      "instrument": "Competencia de provincias autónomas",
+      "detail": "La regulación de Trento y Bolzano se presenta por separado.",
+      "status": "sectorial",
+      "source_ids": [
+        "F147",
+        "F148"
+      ]
+    },
+    {
+      "id": "IT21",
+      "name": "Provincia autónoma de Trento",
+      "instrument": "LP 16/2007; DPP 2-34/Leg. 2010",
+      "detail": "Planes de iluminación, reducción de flujo ascendente y sanciones (art.6).",
+      "status": "verificada",
+      "source_ids": [
+        "F147"
+      ]
+    },
+    {
+      "id": "IT22",
+      "name": "Provincia autónoma de Bolzano",
+      "instrument": "DGP 477/2022",
+      "detail": "Criterios sectoriales de alumbrado público; plan de luz para gestores con más de 100 aparatos.",
+      "status": "verificada",
+      "source_ids": [
+        "F148",
+        "F149"
+      ]
+    }
+  ],
+  "austria_regions": [
+    {
+      "id": "AT01",
+      "name": "Alta Austria (Oberösterreich)",
+      "instrument": "Oö. Umweltschutzgesetz 1996, §41b, reforma 2024",
+      "detail": "Obligación regional específica; ÖNORM O1052 2022 apartados 4 y 7 incorporados; adaptación de existentes hasta 2029.",
+      "status": "verificada",
+      "source_ids": [
+        "F154",
+        "F155"
+      ]
+    },
+    {
+      "id": "AT02",
+      "name": "Tirol",
+      "instrument": "Tiroler Naturschutzgesetz 2005",
+      "detail": "Protección de especies y Natura 2000; impacto de instalaciones luminosas debe evaluarse caso a caso.",
+      "status": "sectorial",
+      "source_ids": [
+        "F156"
+      ]
+    },
+    {
+      "id": "AT03",
+      "name": "Viena (Wien)",
+      "instrument": "Ordenación municipal y guías ambientales",
+      "detail": "Información oficial y mecanismos sectoriales; sin ley general fotométrica verificada.",
+      "status": "sectorial",
+      "source_ids": [
+        "F158",
+        "F159"
+      ]
+    },
+    {
+      "id": "AT04",
+      "name": "Baja Austria (Niederösterreich)",
+      "instrument": "Guía 2026; derecho de construcción y jurisprudencia",
+      "detail": "Guía de diseño; sentencia VwGH 2021 limita aplicación de un precepto edificatorio a la luz intrusa.",
+      "status": "sectorial",
+      "source_ids": [
+        "F157",
+        "F160"
+      ]
+    },
+    {
+      "id": "AT05",
+      "name": "Carintia (Kärnten)",
+      "instrument": "Marco de conservación y edificación",
+      "detail": "No se ha verificado una ley específica general de límites lumínicos; revisar expedientes ambientales locales.",
+      "status": "pendiente",
+      "source_ids": []
+    },
+    {
+      "id": "AT06",
+      "name": "Estiria (Steiermark)",
+      "instrument": "Marco de conservación y edificación",
+      "detail": "Necesaria auditoría de supuestos de autorización y perturbación de fauna.",
+      "status": "pendiente",
+      "source_ids": []
+    },
+    {
+      "id": "AT07",
+      "name": "Salzburgo",
+      "instrument": "Marco de conservación y edificación",
+      "detail": "No consta norma regional específica cotejada de contaminación lumínica.",
+      "status": "pendiente",
+      "source_ids": []
+    },
+    {
+      "id": "AT08",
+      "name": "Vorarlberg",
+      "instrument": "Marco de conservación y edificación",
+      "detail": "Normas de protección ambiental potencialmente aplicables, sin parámetro fotométrico general verificado.",
+      "status": "pendiente",
+      "source_ids": []
+    },
+    {
+      "id": "AT09",
+      "name": "Burgenland",
+      "instrument": "Marco de conservación y edificación",
+      "detail": "Pendiente verificar legislación sectorial y reglamentos municipales.",
+      "status": "pendiente",
+      "source_ids": []
+    }
+  ],
+  "transversal_law": [
+    {
+      "id": "X01",
+      "jurisdiction": "España",
+      "instrument": "Código Penal, arts. 325, 332 y 334",
+      "domain": "Penal",
+      "application": "Si una instalación realiza emisiones ilícitas causando daño sustancial, deteriora gravemente hábitats o dificulta reproducción/migración de fauna protegida, cabe examinar los tipos.",
+      "caution": "Requiere norma infringida, gravedad, relación causal, elementos subjetivos y prueba; NO cualquier luz es delito.",
+      "source_ids": [
+        "F162"
+      ]
+    },
+    {
+      "id": "X02",
+      "jurisdiction": "España",
+      "instrument": "Ley 42/2007, especies y Red Natura 2000",
+      "domain": "Biodiversidad",
+      "application": "Obligación de proteger lugares de reproducción/reposo y evitar perturbaciones protegidas conforme a la ley.",
+      "caution": "Exigir acreditación de especies, afectación y ámbito territorial; aplicabilidad caso a caso.",
+      "source_ids": [
+        "F163"
+      ]
+    },
+    {
+      "id": "X03",
+      "jurisdiction": "España",
+      "instrument": "Ley 21/2013, evaluación ambiental",
+      "domain": "Evaluación de proyectos",
+      "application": "En proyectos sujetos a EIA, examinar alteraciones de fauna, paisaje y emisiones de energía, así como alternativas.",
+      "caution": "No se aplica EIA automáticamente a todos los alumbrados; verificar anexos y procedimiento.",
+      "source_ids": [
+        "F164"
+      ]
+    },
+    {
+      "id": "X04",
+      "jurisdiction": "Italia",
+      "instrument": "Codice penale, arts. 727-bis y 733-bis",
+      "domain": "Penal",
+      "application": "Protección de fauna/flora y hábitats dentro de espacios protegidos; puede resultar relevante cuando el alumbrado produce daño típico acreditado.",
+      "caution": "No se configura infracción por cualquier luz; comparar con versión penal consolidada y requisitos.",
+      "source_ids": [
+        "F165"
+      ]
+    },
+    {
+      "id": "X05",
+      "jurisdiction": "Italia",
+      "instrument": "Codice penale, art. 452-bis",
+      "domain": "Penal / daño ambiental",
+      "application": "Tipo de contaminación ambiental por deterioro significativo y medible, incluidos ecosistemas, biodiversidad y fauna.",
+      "caution": "Elevada exigencia probatoria y de antijuridicidad; no establecer equivalencia automática con luz nocturna.",
+      "source_ids": [
+        "F166"
+      ]
+    },
+    {
+      "id": "X06",
+      "jurisdiction": "Austria",
+      "instrument": "ABGB §364(2), inmisiones vecinales",
+      "domain": "Civil",
+      "application": "Posible intervención frente a luz intrusa molesta cuando excede uso habitual y dificulta significativamente el inmueble vecino.",
+      "caution": "Necesita determinar circunstancias locales y jurisprudencia aplicable.",
+      "source_ids": [
+        "F161",
+        "F159"
+      ]
+    },
+    {
+      "id": "X07",
+      "jurisdiction": "Austria · Tirol",
+      "instrument": "Tiroler Naturschutzgesetz, arts.14,24,25",
+      "domain": "Biodiversidad",
+      "application": "Las obras sujetas a evaluación y protección de fauna pueden necesitar mitigación de iluminación exterior.",
+      "caution": "No establece un límite fotométrico genérico para todo el Land.",
+      "source_ids": [
+        "F156"
+      ]
+    },
+    {
+      "id": "X08",
+      "jurisdiction": "UE",
+      "instrument": "Directiva Hábitats, arts.6 y 12",
+      "domain": "Natura 2000",
+      "application": "Prevención de perturbaciones significativas y evaluación de proyectos con posible afección a espacios protegidos.",
+      "caution": "La luz se evalúa como presión cuando exista posible efecto relevante; conforme a transposición nacional.",
+      "source_ids": [
+        "F167"
+      ]
+    },
+    {
+      "id": "X09",
+      "jurisdiction": "UE",
+      "instrument": "Directiva Aves, arts.4 y 5",
+      "domain": "Conservación de aves",
+      "application": "Prohíbe disturbios deliberados significativos durante reproducción y cría; protege áreas de aves silvestres.",
+      "caution": "Conexión con iluminación exige evidencia e interpretación del derecho aplicable.",
+      "source_ids": [
+        "F168"
+      ]
+    },
+    {
+      "id": "X10",
+      "jurisdiction": "UE",
+      "instrument": "Directiva EIA 2011/92/UE y reforma 2014/52/UE",
+      "domain": "Evaluación ambiental",
+      "application": "Evaluación de efectos ecológicos significativos de proyectos que cumplan los requisitos.",
+      "caution": "Sin obligación universal de someter todo alumbrado a evaluación de impacto.",
+      "source_ids": [
+        "F169"
+      ]
+    },
+    {
+      "id": "X11",
+      "jurisdiction": "UE",
+      "instrument": "Reglamento (UE) 2024/1991, anexo VII",
+      "domain": "Restauración de naturaleza",
+      "application": "Incluye medidas de reducción de contaminación lumínica entre posibles medidas para mejorar ecosistemas.",
+      "caution": "No fija por sí solo CCT o ULOR universal, ni obliga a implantar cada ejemplo del anexo VII.",
+      "source_ids": [
+        "F110"
+      ]
+    },
+    {
+      "id": "X12",
+      "jurisdiction": "Internacional",
+      "instrument": "CMS Resolución 13.5 (Rev.COP14), 2024",
+      "domain": "Fauna migratoria",
+      "application": "Directrices específicas para minimizar perjuicios por iluminación sobre migración, aves y murciélagos.",
+      "caution": "Directrices técnicas del convenio, distinto de obligación sancionable automáticamente.",
+      "source_ids": [
+        "F136"
+      ]
     }
   ]
 }

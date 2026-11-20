@@ -1,0 +1,23 @@
+﻿id,name,instrument,detail,status,source_ids
+IT01,Lombardía,LR 31/2015 (LR 17/2000 derogada),"Norma regional consolidada; zonas de especial protección, municipios y sanciones.",verificada,F137; F138
+IT02,Véneto,LR 17/2009,Control del alumbrado público y privado y protección astronómica; aplicación territorial en toda la región.,verificada,F139
+IT03,Emilia-Romaña,LR 19/2003; DGR 1732/2015 modificada DGR 1514/2022,Ley y directrices de aplicación; consultar versión integrada.,verificada,F140
+IT04,Lacio,LR 23/2000; Reglamento 8/2005,"Incluye alumbrado publicitario, planes y zonas especiales para observatorios.",verificada,F141; F142
+IT05,Marcas,LR 10/2002,Protección del cielo y actualización de registro de observatorios en enero 2024.,verificada,F143
+IT06,Friuli-Venecia Julia,"LR 15/2007, modificaciones posteriores",Proyectos municipales y requisitos técnicos; contrastar texto de art. 8 vigente.,verificada,F144
+IT07,Umbría,LR 20/2005,"Obligaciones de planes municipales, autorización y sanción por punto de luz (art.6).",verificada,F145
+IT08,Apulia (Puglia),LR 15/2005,El Consejo regional indica no derogada; define luz dispersada como contaminación.,verificada,F146
+IT09,Campania,LR 12/2002,"Alumbrado público y privado; protección de observatorios, publicidad y eficiencia.",historica,F152
+IT10,Piamonte,"LR 31/2000, modificaciones 2004 y 2018","Protección de aves migratorias, observatorios y paisaje; versión vigente pendiente.",historica,F151
+IT11,Valle de Aosta,LR 17/1998,Conservación de fauna nocturna y rutas migratorias; fuente textual histórica.,historica,F150
+IT12,Toscana,LR 37/2000 y legislación sectorial posterior,Normativa histórica sobre prevención; relación con leyes posteriores pendiente de verificación oficial.,historica,F153
+IT13,Abruzos,LR 12/2005,Disposiciones históricas sobre contaminación lumínica y ahorro; texto vigente por cotejar.,historica,F153
+IT14,Liguria,LR 22/2007 y reglamento 5/2009,Referencias históricas de energía y control de iluminación; vigencia detallada por comprobar.,historica,F153
+IT15,Basilicata,LR 41/2000 (referencia histórica),Prevención de contaminación lumínica identificada en repertorios; texto vigente por cotejar.,historica,F153
+IT16,Sardegna,Planes y acuerdos regionales,No se ha verificado ley regional integral específica en fuente primaria de 2026.,pendiente,F153
+IT17,Calabria,Búsqueda pendiente,Sin ley regional específica validada en esta revisión; comprobar boletín regional.,pendiente,
+IT18,Molise,Búsqueda pendiente,Sin ley regional específica validada en esta revisión; comprobar boletín regional.,pendiente,
+IT19,Sicilia,Búsqueda pendiente,Sin ley regional específica validada en esta revisión; comprobar boletín regional.,pendiente,
+IT20,Trentino-Alto Adige / Südtirol,Competencia de provincias autónomas,La regulación de Trento y Bolzano se presenta por separado.,sectorial,F147; F148
+IT21,Provincia autónoma de Trento,LP 16/2007; DPP 2-34/Leg. 2010,"Planes de iluminación, reducción de flujo ascendente y sanciones (art.6).",verificada,F147
+IT22,Provincia autónoma de Bolzano,DGP 477/2022,Criterios sectoriales de alumbrado público; plan de luz para gestores con más de 100 aparatos.,verificada,F148; F149

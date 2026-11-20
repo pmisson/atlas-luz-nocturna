@@ -61,3 +61,24 @@ el('intlGrid').innerHTML=D.international.map((r,i)=>`<article class="legal-resea
   draw();
 })();
 })();
+
+
+// Capas jurídicas territoriales y transversales: fuentes vinculadas y rangos diferenciados.
+(() => {
+  const D=window.ATLAS_DATA; if(!D?.italy_regions||!D?.austria_regions||!D?.transversal_law||!D?.iucn_documents)return;
+  const g=id=>document.getElementById(id);
+  const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'" :'&#39;'}[c]));
+  const source=new Map(D.sources.map(s=>[s.id,s]));
+  const links=ids=>(ids||[]).map(id=>{const s=source.get(id);return s&&/^https?:\/\//.test(s.url)?'<a href="'+esc(s.url)+'" target="_blank" rel="noopener noreferrer" title="'+esc(s.title)+'">'+esc(id)+' ↗</a>':'';}).filter(Boolean).join(' ');
+  const rows=[...D.italy_regions.map(x=>({...x,country:'ITA'})),...D.austria_regions.map(x=>({...x,country:'AUT'}))];
+  const norm=v=>String(v??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+  const types={verificada:'Texto normativo identificado',historica:'Versión histórica / cotejar vigencia',sectorial:'Instrumento sectorial o guía',pendiente:'Verificación pendiente'};
+  const drawRegions=()=>{const filter=g('europeRegionCountry').value,q=norm(g('europeRegionSearch').value);
+    const filtered=rows.filter(r=>(filter==='todos'||r.country===filter)&&(!q||norm([r.name,r.instrument,r.detail].join(' ')).includes(q)));
+    g('europeRegionCount').textContent=filtered.length+' de '+rows.length+' territorios';
+    g('europeRegionRows').innerHTML=filtered.map(r=>'<tr><td><strong>'+esc(r.name)+'</strong><small>'+esc(r.country==='ITA'?'Italia':'Austria')+'</small></td><td>'+esc(r.instrument)+'<small>'+esc(types[r.status]||r.status)+'</small></td><td>'+esc(r.detail)+'</td><td class="euro-ref-links">'+(links(r.source_ids)||'<span>Por documentar</span>')+'</td></tr>').join('')||'<tr><td colspan="4">No se han encontrado resultados.</td></tr>';
+  };
+  g('europeRegionCountry').addEventListener('change',drawRegions);g('europeRegionSearch').addEventListener('input',drawRegions);drawRegions();
+  g('uicnGrid').innerHTML=D.iucn_documents.map(r=>'<article class="legal-research-card"><span class="tiny">UICN · '+esc(r.year)+' · '+esc(r.kind)+'</span><h3>'+esc(r.title)+'</h3><p>'+esc(r.summary)+'</p><p class="small-caution">'+esc(r.legal)+'</p><div class="euro-ref-links">'+links(r.source_ids)+'</div></article>').join('');
+  g('transversalRows').innerHTML=D.transversal_law.map(r=>'<tr><td><strong>'+esc(r.jurisdiction)+'</strong><small>'+esc(r.domain)+'</small></td><td>'+esc(r.instrument)+'</td><td>'+esc(r.application)+'</td><td class="caution-cell">'+esc(r.caution)+'</td><td class="euro-ref-links">'+links(r.source_ids)+'</td></tr>').join('');
+})();
