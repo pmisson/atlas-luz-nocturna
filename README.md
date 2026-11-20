@@ -9,9 +9,9 @@
 El atlas contiene:
 
 - **Mapa SVG mundial interactivo** (funciona offline): países seleccionables, lupa, desplazamiento y filtros por región y tipo de normativa; los puntos de Malta y Singapur completan la cartografía de Natural Earth de baja resolución.
-- **51 fichas** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
-- **130 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
-- **48 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
+- **51 fichas nacionales** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
+- **169 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
+- **53 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
 - **19 fichas subnacionales espanolas**: 17 comunidades autonomas y Ceuta y Melilla, con citas al BOE, REECL y fuentes regionales, y advertencias de vigencia.
 - **Derecho internacional y doctrina**: CLRTAP (1979), CDI ONU, Reglamento UE 2024/1991, compilacion checa de 2022, Bara y Yakushina.
 - **Datos reutilizables** (`data/atlas.json`, `data/paises.csv`, `data/fuentes.csv`, `data/medidas_estrella.csv`), informe maestro `INFORME_MAESTRO.md` y fichas Markdown.
@@ -110,4 +110,10 @@ Las **121 referencias** también están exportadas como `data/referencias.ris` (
 
 ### Venezuela (revisión jurídica 19-XI-2026)
 
-La ficha `docs/VEN_venezuela.md` documenta la Ley Orgánica del Ambiente de 2006, las Resoluciones 112/2014 (luminarias viales LED) y 73/2011 (publicidad luminosa; horario CORREGIDO 19:00-00:00), el precedente astronómico de Llano del Hato y noticias sobre la ordenanza ambiental de Maracaibo de 2026. Las últimas dos normas requieren cotejo de texto íntegro/vigencia. El atlas tiene actualmente 130 fuentes y 48 medidas estrella. Al regenerar la base con los scripts antiguos, es necesario preservar la revisión de Venezuela para evitar perder esta actualización.
+La ficha `docs/VEN_venezuela.md` documenta la Ley Orgánica del Ambiente de 2006, las Resoluciones 112/2014 (luminarias viales LED) y 73/2011 (publicidad luminosa; horario CORREGIDO 19:00-00:00), el precedente astronómico de Llano del Hato y noticias sobre la ordenanza ambiental de Maracaibo de 2026. Las últimas dos normas requieren cotejo de texto íntegro/vigencia. El atlas tiene actualmente 130 fuentes y 53 medidas estrella. Al regenerar la base con los scripts antiguos, es necesario preservar la revisión de Venezuela para evitar perder esta actualización.
+
+## Extensión regional e internacional (20-XI-2026)
+
+El atlas ahora incluye 22 entradas territoriales italianas, 9 Länder de Austria, las resoluciones UICN WCC-2012-Rec-183, WCC-2020-Res-124 y WCC-2025-Res-046, y una guía UICN de gestión de la oscuridad. Añade 12 vías legales transversales (penal, biodiversidad, Natura 2000, evaluación ambiental, inmisiones civiles). Documentos: `docs/ITA_REGIONES.md`, `docs/AUT_LANDER.md`, `docs/UICN_DECLARACIONES.md`, `docs/MARCO_TRANSVERSAL.md`. CSV descargables: `data/regiones_italia.csv`, `data/lander_austria.csv`, `data/uicn_declaraciones.csv`, `data/marco_transversal.csv`.
+
+**Importante:** parte del inventario regional recoge referencias históricas y asuntos pendientes de cotejo. La mera emisión de luz nocturna no implica automáticamente responsabilidad penal. La UICN emite resoluciones y recomendaciones que no se convierten por sí solas en normas sancionables. Los scripts `build_data.py` y `enrich_atlas.py` siguen siendo generadores históricos y **no deben ejecutarse para sustituir los datos actuales sin incorporar primero las ampliaciones posteriores**.
