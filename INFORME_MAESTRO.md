@@ -344,3 +344,16 @@ Diez nuevas fichas con fuente oficial y grado de fuerza jurídica diferenciado. 
 - **Lituania (LTU):** La Ley lituana de Publicidad (art.12) y la Orden 4-670/2013 regulan permisos y ubicación de publicidad exterior, incluidos supuestos de deslumbramiento vial y espacios protegidos; no se identificó ley nacional integral de contaminación lumínica. [Documento principal](https://www.e-tar.lt/portal/en/legalAct/TAR.227E5D9EC4AC/asr).
 
 Puerto Rico (Ley 218/2008) se incluye bajo Estados Unidos. Otros países que requieren legislación específica cotejada: Bulgaria, Rumanía, Chipre, Serbia y Montenegro. Los datos en `data/paises_pendientes.csv` evitan tratarlos erróneamente como sin ley.
+
+## Revisión jurídica del 22-XI-2026 — 65 países
+
+La base general cuenta con **65 países, 257 fuentes y 88 medidas estrella** (ver JSON y CSV, que son los inventarios vigentes; las matrices históricas anteriores de este informe son versiones previas).
+
+- **Bulgaria (BGR):** art. 92 de la Ley de Ordenación Territorial: alumbrado exterior/urbanismo; **no se acreditan límites específicos ALAN**. [Fuente](https://legislation.apis.bg/doc/473252/0/Art92).
+- **Chipre (CYP):** protección Lara-Toxeftra con restricciones nocturnas, además de estudios ambientales que proponen mitigación de iluminación para tortugas. **No confundir propuestas de EAE con obligación legal ya adoptada**. [Autoridad pública](https://www.gov.cy/moa-dfmr/en/documents/marine-protected-areas-network/).
+- **Vietnam (VNM):** Ley ambiental 72/2020, art. 89, sobre control/reducción de luz; sin límite numérico de emisión nocturna en ese precepto. [Texto oficial](https://congbao.chinhphu.vn/tai-ve-van-ban-so-72-2020-qh14-32703-33751?format=pdf).
+- **Argentina (ARG):** Ordenanza Malargüe 2377/2026 (zonificación E0-E3, anuncios y horarios) y Ley San Juan 345-L (El Leoncito); regímenes municipal y provincial, no nacionales. [Malargüe](https://hcd.malargue.gov.ar/?p=40724), [San Juan](https://www.argentina.gob.ar/normativa/provincial/ley-345-123456789-0abc-defg-543-0021jvorpyel/actualizacion).
+- **Brasil (BRA):** Portaria IBAMA 11/1995, vigente según catálogo oficial, umbral de 0 lux en playas delimitadas de desove; no aplicación universal a todo el país. [Norma IBAMA](https://www.ibama.gov.br/component/legislacao/?legislacao=100345&view=legislacao).
+- **Noruega (NOR):** §6(3) de la Forurensningsloven contempla la luz en la medida en que así lo determine la autoridad; no aplica automáticamente el régimen a todo el alumbrado. [Texto oficial](https://lovdata.no/dokument/NL/lov/1981-03-13-6).
+
+Se mantienen pendientes de comprobación específica Rumanía, Serbia, Montenegro y otros países recogidos en `docs/PAISES_PENDIENTES.md`. No se incorporan afirmaciones de ley específica sin articulado identificado.
