@@ -155,3 +155,7 @@ La cartografía SVG representa Andorra y Liechtenstein como puntos porque la sim
 ## Revisión del 22 de noviembre de 2026
 
 Se incorporaron Bulgaria (regulación urbanística), Chipre (restricciones en área de protección de tortugas y estudios ambientales) y Vietnam (Ley 72/2020, art. 89). Se ampliaron las fichas de Argentina (Malargüe y El Leoncito), Brasil (IBAMA 11/1995) y Noruega (§6 con aplicación condicionada). Los instrumentos indirectos no se presentan como leyes nacionales específicas de cielo oscuro. Véase [auditoría de límites jurídicos](docs/PAISES_PENDIENTES.md).
+
+### Sincronización segura
+
+Después de editar `data/atlas.json`, ejecutar `python3 sync_public_data.py` para regenerar `assets/atlas-data.js` y los tres CSV, con comprobaciones de referencias. **Atención:** `build_data.py`/`enrich_atlas.py` reconstruyen una base histórica parcial y todavía no deben ejecutarse sobre `main` sin integrar antes todas las ampliaciones de noviembre de 2026, pues sobrescribirían datos curados recientes.
