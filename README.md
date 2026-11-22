@@ -133,3 +133,7 @@ Nueva sección pública `#proyectos-europeos`: 21 proyectos con financiación eu
 ### Visualización robusta de la Unión Europea
 
 El apartado `#union-europea` ahora contiene 22 filas y tres fichas principales **integradas en el HTML** para no depender del arranque del JavaScript. Se añade un parámetro de versión a los recursos CSS/JS para refrescar la caché de GitHub Pages.
+
+## Auditoría CORDIS ampliada (22-XI-2026)
+
+Se encontraron 10 proyectos adicionales con ficha oficial CORDIS: ECOLIGHT, ECOLIGHTSFORSEABIRDS, CORALAN, ECO-EVO ALAN, CITISENSE, CitySleep, DiurnalHealth, STEP, MigDisrupt y Starlight (sensor). El catálogo contiene ahora **31 proyectos financiados** y **2 iniciativas asociadas** (33 entradas). Se identifican por acuerdo de subvención para evitar duplicados. Se separan los relacionados indirectamente y se advierte la cronología contradictoria de CORALAN. Consulte `docs/PROYECTOS_EUROPEOS.md` y `data/proyectos_europeos.csv`.

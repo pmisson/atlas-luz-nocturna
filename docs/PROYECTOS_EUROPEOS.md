@@ -1,6 +1,6 @@
 # Proyectos europeos relacionados con la contaminación lumínica
 
-**Última comprobación: 22 de noviembre de 2026.** El inventario distingue 21 proyectos financiados en programas europeos y dos iniciativas dependientes o institucionales, para evitar duplicar financiación. La clasificación se basa en CORDIS, Interreg/keep.eu, LIFE, COST e instituciones promotoras.
+**Última comprobación: 22 de noviembre de 2026.** El inventario distingue 31 proyectos financiados en programas europeos y dos iniciativas dependientes o institucionales, para evitar duplicar financiación. La clasificación se basa en CORDIS, Interreg/keep.eu, LIFE, COST e instituciones promotoras.
 
 **Advertencias:** la fecha de terminación y las modificaciones pueden diferir del plan original (MIGRALIGHT finalizó anticipadamente); el período LIFE Natura@night difiere según la ficha administrativa del IAC y el calendario de ejecución del ITC; los presupuestos no son automáticamente la aportación de la UE. No todos los proyectos tratan ALAN como objetivo principal.
 
@@ -269,7 +269,28 @@ Los proyectos **PLAN-B, AquaPLAN, LIFE Natura@night, NIGHT LIGHT, Pirineos La Nu
 ## Duplicidades evitadas
 
 - **OpenRed** se incluye como piloto de PLAN-B, sin nueva subvención independiente.
-- **IMPEL ReLiPo** es una red institucional, no se incluye en el subtotal de 21 proyectos financiados.
+- **IMPEL ReLiPo** es una red institucional, no se incluye en el subtotal de 31 proyectos financiados.
 - **DARKER SKY** (mar del Norte) y **DARKERSKY4CE** (Europa central) son proyectos distintos.
 - **MIGRALIGHT** terminó anticipadamente según CORDIS, aunque el calendario original indicaba 2027.
 
+
+## Auditoría CORDIS (22-11-2026)
+
+Búsqueda en CORDIS usando *light pollution*, *artificial light at night*, *ALAN*, *skyglow*, *nocturnal lighting* y términos ecológicos/biológicos. Se localizaron **10 proyectos adicionales** no incluidos en la edición inicial: **ECOLIGHT, ECOLIGHTSFORSEABIRDS, CORALAN, ECO-EVO ALAN, CITISENSE, CitySleep, DiurnalHealth, STEP, MigDisrupt y Starlight (sensor H2020)**. Los nombres similares se han desambiguado. Ahora hay **31 proyectos financiados** más **dos iniciativas relacionadas**. Estos 33 registros constituyen un inventario ampliado, **no un censo garantizado de CORDIS**.
+
+Para cada uno, los identificadores de subvención y enlaces de CORDIS aparecen en el CSV, JSON y ficha web. Los estudios de salud/circadianos generales y el sensor de vigilancia se clasifican como relacionados cuando ALAN no es el objetivo principal. **CORALAN:** CORDIS indica terminación el 16-10-2021, aunque las fechas previstas son 2022–2024; se mantiene el registro, pero NO se presenta su ejecución ni sus resultados como comprobados.
+
+### Nuevos registros CORDIS
+
+| Proyecto | Acuerdo | Programa | Vinculación | Ficha |
+|---|---:|---|---|---|
+| **ECOLIGHT** | 268504 | FP7 | Directo | [CORDIS](https://cordis.europa.eu/project/id/268504) |
+| **ECOLIGHTSFORSEABIRDS** | 330655 | FP7 | Directo | [CORDIS](https://cordis.europa.eu/project/id/330655) |
+| **CORALAN** | 101024424 | H2020 | Directo | [CORDIS](https://cordis.europa.eu/project/id/101024424) |
+| **ECO-EVO ALAN** | 101110658 | MSCA / Horizonte Europa | Directo | [CORDIS](https://cordis.europa.eu/project/id/101110658) |
+| **CITISENSE** | 802460 | H2020 | Directo | [CORDIS](https://cordis.europa.eu/project/id/802460) |
+| **CitySleep** | 799667 | H2020 | Directo | [CORDIS](https://cordis.europa.eu/project/id/799667) |
+| **DiurnalHealth** | 834513 | H2020 | Relacionado | [CORDIS](https://cordis.europa.eu/project/id/834513) |
+| **STEP — Status and Trends of European Pollinators** | 244090 | FP7 | Relacionado | [CORDIS](https://cordis.europa.eu/project/id/244090) |
+| **MigDisrupt** | 101231135 | ERC / Horizonte Europa | Directo | [CORDIS](https://cordis.europa.eu/project/id/101231135) |
+| **Starlight (sensor de baja luminosidad; H2020)** | 663680 | H2020 | Relacionado | [CORDIS](https://cordis.europa.eu/project/id/663680) |
