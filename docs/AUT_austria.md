@@ -1,26 +1,71 @@
-# Austria — ficha legal de contaminación lumínica
+# Austria — ficha jurídica ampliada (corte 22-XI-2026)
 
-**Jurisdicción:** Land Oberösterreich  
-**Clasificación:** Normativa subnacional identificada  
-**Evidencia:** Fuente primaria identificada  
-**Corte:** 19 de noviembre de 2026
+## Arquitectura jurídica
+Austria no tiene una ley federal única de contaminación lumínica. Protección de la naturaleza, edificación y urbanismo dependen de los nueve Länder, mientras los sectores industrial, aeronáutico y civil tienen derecho federal propio. Las fuentes de luces públicas, privadas y comerciales no se controlan con un instrumento uniforme.
 
-## Síntesis
-Alta Austria introduce en su ley medioambiental obligación de evitar contaminación lumínica; otras regiones disponen de marcos distintos.
+## Legislación vinculante nacional y regional
+### Alta Austria: §41b Oö. Umweltschutzgesetz 1996 (reforma de 2024)
+Desde el 1 de mayo de 2024, en materias de competencia regional las instalaciones exteriores deben limitar intensidad y duración a la necesidad de seguridad y uso, y evitar perjuicios ambientales. El §41b(2) incorpora los apartados **4 y 7** de la ÖNORM O 1052:2022 como derecho aplicable con excepciones justificadas por otros intereses públicos. El §41b(3) permite planes municipales; el §41b(4) exceptúa iluminación temporal; el §41b(5) no crea derechos subjetivos públicos. El §45(11) exige adaptar ciertas instalaciones ya conformes cuando se modifiquen sustancialmente y, en todo caso, hasta **1-1-2029**. [Norma en RIS](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=LrOO&Gesetzesnummer=10000480&Paragraf=41b).
 
-## Medidas estrella
+### Aviación: balizamiento de obstáculos bajo demanda, §123a LFG
+El régimen fue introducido mediante **BGBl I 40/2024** y **modificado mediante BGBl I 80/2026**, vigente desde el 1 de septiembre de 2026. La Austro Control supervisa la activación de luces de obstáculos cuando se detecta tráfico aéreo; el sistema ha de atender seguridad, fallos, posibilidades técnicas y excepciones de autorización. Es una norma **federal sectorial vinculante**, no una regla de apagado de cualquier instalación nocturna. [Texto consolidado](https://ris.bka.gv.at/Dokumente/Bundesnormen/NOR40280164/NOR40280164.html).
 
-### Obligaciones regionales contra contaminación lumínica
-§41b de Oö. Umweltschutzgesetz establece medidas de limitación en instalaciones exteriores.
+### Carintia: proyectores al cielo y Natura 2000
+El §4(d) K-NSG 2002 somete a **autorización el funcionamiento de proyectores hacia el cielo** (Himmelsstrahlern) en todo el Land. No declara una prohibición absoluta. Los planes y proyectos con posibles efectos sobre espacios protegidos se someten a §24b. [§4 RIS](https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrK&Gesetzesnummer=20000118&Paragraf=4).
 
-- Fuerza jurídica: Ley regional obligatoria
-- Parámetro: Reducción de intensidad, duración y orientación según ámbito
-- Alcance: Alta Austria
-- Cautela: Sólo para el Land y supuestos determinados.
+### Viena: molestias por anuncios luminosos
+El §85(4) de la Bauordnung prohíbe rótulos luminosos que causen molestias superiores a las habituales a usuarios del mismo edificio o edificios vecinos. No equivale a límite numérico general de luminancia. Los derechos subjetivos de los vecinos en procedimientos de obras dependen de los supuestos taxativos de §134a, y no debe presumirse legitimación directa por el §85. [§85 RIS](https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrW&Gesetzesnummer=20000006&Paragraf=85).
 
-## Referencias documentales
+### Comercio e industria, derecho federal (GewO)
+Los §§74 y 77 de la GewO 1994 permiten condiciones en las autorizaciones de instalaciones capaces de causar molestias irrazonables a los vecinos, incluidas por luz cuando se acredite. Las competencias de los Länder no se extienden indiscriminadamente al derecho federal industrial. [§74 RIS](https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=74).
 
-- **F045** — [RIS — Oberösterreichisches Umweltschutzgesetz, §41b Vermeidung von Lichtverschmutzung](https://www.ris.bka.gv.at/Dokumente/Landesnormen/LOO40024836/LOO40024836.pdf). Tipo: Ley de Land. Ámbito: Alta Austria, medidas para evitar contaminación lumínica. Consultar versión de texto actualizado RIS.
+## Norma técnica ÖNORM O 1052 y guía pública 2026
+La **ÖNORM O 1052:2022-10 (Lichtimmissionen — Messung und Beurteilung)** es una norma técnica de evaluación de inmisiones; **no tiene vigencia legal automática en toda Austria**. Los apartados 4 y 7 se han incorporado a la legislación de Alta Austria. La [Guía austriaca de iluminación exterior, segunda edición 2026](https://www.noe.gv.at/noe/Umweltschutz/Leitfaden_Aussenbeleuchtung_Auflage2_web_%282%29.pdf), editada por los nueve Länder, orienta a 2700 K en residencias, 3000 K en centros y calles residenciales, LED PC ámbar si resulta imprescindible iluminar hábitats ecológicamente sensibles, apagados y estrategias de apantallamiento. **No convertir esas recomendaciones en límites vinculantes generales**. La cifra de 0,25 lx citada en la guía tiene carácter recomendado en supuestos de conservación y descanso y debe distinguirse de las tablas comerciales de la norma.
 
----
-La ficha no sustituye el texto oficial consolidado. No extrapolar normas de territorios subnacionales a todo el país.
+## Jurisprudencia: OGH 6 Ob 60/20x
+El Tribunal Supremo (23-4-2020) rechazó prohibir la iluminación RGB de una piscina pese a que el peritaje detectó superación de valores ÖNORM. La actividad había sido esporádica (unas seis ocasiones al año, aproximadamente dos horas cada una); faltaba el perjuicio **sustancial** al uso normal exigido por §364(2) ABGB. El resultado es un precedente de ponderación, **no una inmunidad absoluta** para emisiones luminosas. [Sentencia OGH original](https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20200423_OGH0002_0060OB00060_20X0000_000&IncludeSelf=True).
+
+## Tirol: directrices y ejemplo individual
+La [Umweltanwaltschaft de Tirol](https://www.tiroler-umweltanwaltschaft.gv.at/wp-content/uploads/2024/02/20210309_PP4_Effektbeleuchtung.pdf) propone apagar iluminación de efecto sobre las 22:00 en entornos sensibles y sobre las 24:00 en zonas urbanas, y evitar proyectores durante temporadas de migración; son **orientaciones** salvo incorporación a una autorización. La [decisión E 1466/2022](https://www.lvwg-tirol.gv.at/fileadmin/bilder/E_1466_2022_anonym.pdf) documenta un proyecto concreto con iluminación LED de hasta **2400 K**. No es un límite universal en Tirol.
+
+## Normas de los otros Länder
+Consultar [inventario detallado](AUT_LANDER.md): incluye las nueve jurisdicciones, sus textos y qué instrumentos están verificados, sectoriales, orientativos o pendientes.
+
+## Corrección: Reglamento europeo 245/2009 DEROGADO
+El informe fuente describe el Reglamento **(CE) 245/2009** como vigente; esto es incorrecto en noviembre de 2026. Su derogación surtió efecto **1 de septiembre de 2021**, por el artículo 10 del **Reglamento (UE) 2019/2020**. La nueva regulación regula ecodiseño de fuentes y controladores, no un límite universal a instalaciones de alumbrado exterior. [Reglamento consolidado](https://eur-lex.europa.eu/eli/reg/2019/2020).
+
+## Medidas estrella de Austria
+Las nuevas medidas estrella distinguen: balizamiento federal activado bajo demanda; permiso de proyectores celestes en Carintia; molestias de rótulos luminosos de Viena; condición ≤2400 K en un caso concreto de Tirol; y regulación vinculante general del espacio público en Alta Austria.
+
+## Bibliografía y fuentes incorporadas
+Se utiliza el documento de 26 páginas facilitado por el usuario como fuente secundaria de trabajo y **no se redistribuye íntegramente**. Las siguientes referencias jurídicas o institucionales enlazan al texto original (RIS, Parlamento, gobiernos regionales):
+- **F045** — [RIS — Oberösterreichisches Umweltschutzgesetz, §41b Vermeidung von Lichtverschmutzung](https://www.ris.bka.gv.at/Dokumente/Landesnormen/LOO40024836/LOO40024836.pdf). Alta Austria, medidas para evitar contaminación lumínica. *Consultar versión de texto actualizado RIS.*
+- **F154** — [Alta Austria: Oö. Umweltschutzgesetz 1996 §41b (reforma LGBl 24/2024)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=LrOO&Anlage=&Artikel=&Gesetzesnummer=10000480&Paragraf=41b&Uebergangsrecht=). Integra los apartados 4 y 7 de ÖNORM O 1052:2022-10, con excepciones; iluminación ajustada a necesidad. *Entrada 01/05/2024; adaptación existente a más tardar 01/01/2029*
+- **F155** — [Alta Austria: LGBl 24/2024, reforma oficial del Oö. Umweltschutzgesetz](https://www.ris.bka.gv.at/Dokumente/LgblAuth/LGBLA_OB_20240318_24/LGBLA_OB_20240318_24.html). Texto original de inserción de §41b y §41c. *Comprobar condiciones transitorias y competencia del Land*
+- **F156** — [Tirol: Tiroler Naturschutzgesetz 2005, conservación de especies y Natura 2000](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000252). Arts.14, 24 y 25: evaluación de proyectos Natura 2000 y conservación de especies animales/aves. *Aplicabilidad indirecta a luz en caso de impactos acreditados; no ley lumínica integral*
+- **F157** — [Baja Austria: Österreichischer Leitfaden Außenbeleuchtung, segunda edición 2026](https://www.noe.gv.at/noe/Umweltschutz/Oesterreichischer_Leitfaden_Aussenbeleuchtung.html?print=true). Diseño y manejo de alumbrado exterior con criterios ambientales. *Guía, no prohibición legal general*
+- **F158** — [Viena: información pública sobre contaminación lumínica](https://www.wien.gv.at/umwelt/lichtverschmutzung). Efectos y medidas de iluminación urbana. *No equivale a un reglamento de límites urbanos generales*
+- **F159** — [Viena: WUA, legislación austríaca e inmisiones luminosas](https://www.wua-wien.at/naturschutz-und-stadtoekologie/165-weiterfhrende-informationen-zum-thema17/1817-oesterreichische-gesetze-und-richtlinien). Relación de ÖNORM O1052, derecho vecinal y normas sectoriales. *Comprobar ámbito de cada vía legal; la ÖNORM no es obligatoria automáticamente*
+- **F160** — [VwGH Austria 2021: límite del amparo de luz por norma de construcción NÖ](https://ris.bka.gv.at/VwghRechtssatzkette.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2020050036_20210113L06). §6 NÖ Bauordnung no es una cláusula general contra contaminación lumínica. *No confundir acceso a luz natural de ventana con derecho a evitar luz intrusa*
+- **F161** — [Código civil austríaco §364.2 ABGB: inmisiones vecinales](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622). Vía civil de molestias vecinales que exceden lo habitual y dificultan significativamente uso del inmueble. *Aplicación a luz requiere prueba y análisis jurisprudencial; no límite fotométrico universal*
+- **F170** — [Austria — BGBl. I 40/2024, reforma Luftfahrtgesetz, balizamiento nocturno bajo demanda](https://www.ris.bka.gv.at/eli/bgbl/I/2024/40). Introduce §123a Luftfahrtgesetz para activación de señales aéreas según presencia de aeronaves. *Publicada 18-04-2024; cotejar texto consolidado tras reforma de 2026*
+- **F171** — [Austria — BGBl. I 80/2026, reforma de Luftfahrtgesetz de julio 2026](https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_80/BGBLA_2026_I_80.html). Reforma vigente desde 01-09-2026 en relación con el régimen de balizamiento. *Fuente oficial: el marco de 2024 no debe presentarse sin esta modificación*
+- **F172** — [Austria — Luftfahrtgesetz §123a, versión vigente desde septiembre de 2026](https://ris.bka.gv.at/Dokumente/Bundesnormen/NOR40280164/NOR40280164.html). Austro Control regula balizamiento nocturno según detección de aeronaves; contempla condiciones de seguridad. *Aplicabilidad a obstáculos según autorizaciones; permite iluminación por fallo de seguridad y excepciones*
+- **F173** — [Tribunal Supremo austríaco OGH 6 Ob 60/20x, inmisiones lumínicas por piscina](https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20200423_OGH0002_0060OB00060_20X0000_000&IncludeSelf=True). Superar ÖNORM O 1052 no demuestra automáticamente perturbación sustancial exigible según §364 ABGB. *Caso concreto: uso esporádico seis veces por año; no generalizar el resultado a toda contaminación lumínica*
+- **F174** — [Austria — Gewerbeordnung 1994 §74(2), autorizaciones industriales y molestias vecinales](https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=74). Instalaciones sujetas a permiso por posible molestia a vecinos; incluye molestias en otras formas. *No presupone que toda luz industrial sea sancionable; requiere expediente y criterios aplicables*
+- **F175** — [Austria — Gewerbeordnung 1994 §77, condiciones de autorización empresarial](https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=77). Permite condiciones adecuadas para evitar peligros o molestias incompatibles con régimen de actividad. *Aplicabilidad según autorización y pruebas sobre la luz emitida*
+- **F176** — [Viena — Bauordnung für Wien §85(4), prohibición de molestias excesivas por anuncios luminosos](https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrW&Gesetzesnummer=20000006&Paragraf=85). Los anuncios luminosos no pueden causar molestias superiores a lo habitual a usuarios del mismo edificio o vecinos. *Artículo aplicable a Lichtreklamen; no es límite general de Kelvin o lux*
+- **F177** — [Viena — Bauordnung für Wien §134a, régimen tasado de derechos vecinales](https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrW&Gesetzesnummer=20000006&Paragraf=134a). Delimita taxativamente derechos subjetivos vecinales en procedimientos de licencia. *No afirmar que art.85(4) da por sí solo legitimación subjetiva directa en todo procedimiento*
+- **F178** — [Carintia — Kärntner Naturschutzgesetz 2002 §4(d), autorización de proyectores celestes](https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrK&Gesetzesnummer=20000118&Paragraf=4). La operación de Himmelsstrahlern exige autorización en todo el Land. *Autorización previa, no prohibición absoluta; el artículo no fija un límite genérico de CCT*
+- **F179** — [Carintia — Kärntner Naturschutzgesetz 2002 §24b, evaluación de proyectos Natura 2000](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=LrK&Gesetzesnummer=20000118&Paragraf=24b). Proyectos susceptibles de afectar áreas europeas protegidas requieren evaluación de compatibilidad. *Aplicable por efecto potencial y condiciones del sitio, no a cualquier luminaria*
+- **F180** — [Tiroler Umweltanwaltschaft, criterios técnicos de Effektbeleuchtung (2021)](https://www.tiroler-umweltanwaltschaft.gv.at/wp-content/uploads/2024/02/20210309_PP4_Effektbeleuchtung.pdf). Aconseja apagado 22:00 en zonas verdes/periféricas y 24:00 en áreas urbanas; evita proyectores en migración. *Documento orientativo, no ordenanza con horarios universales; parámetros por recomendación*
+- **F181** — [Tribunal administrativo de Tirol, expediente E 1466/2022, licencia con LED ≤2400 K](https://www.lvwg-tirol.gv.at/fileadmin/bilder/E_1466_2022_anonym.pdf). Un proyecto concreto de Tirol prevé usar LED de temperatura de color máxima 2400 K. *Condición o característica de caso particular, NO máximo general austriaco o tirolés*
+- **F182** — [Guía austríaca de iluminación exterior, segunda edición 2026 (nueve Länder)](https://www.noe.gv.at/noe/Umweltschutz/Leitfaden_Aussenbeleuchtung_Auflage2_web_%282%29.pdf). Resume ÖNORM O 1052 (2700 K residencias, 3000 K centros urbanos y criterios PC ámbar en hábitats sensibles). *Guía voluntaria, salvo incorporación jurídica localizada; 0,25 lx recomendado no es límite nacional general*
+- **F183** — [Salzburgo — Salzburger Naturschutzgesetz 1999 §26 (especies protegidas)](https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrSbg&Gesetzesnummer=20000003&Paragraf=26). Protección de fauna que puede ser relevante para iluminación nocturna dañina. *Aplicación indirecta requiere contexto, especies protegidas y alteración acreditada*
+- **F184** — [Vorarlberg — guía Natürlich dunkel 2024](https://vorarlberg.at/-/natuerlich-dunkel). Recomendaciones de protección ecológica y diseño de iluminación exterior. *Guía voluntaria; no sustituye la legislación regional sobre construcción y conservación*
+- **F185** — [Baja Austria — autorización de anuncios conforme al derecho regional de conservación](https://www.noe.gv.at/noe/Naturschutz/Rechtliche_Grundlagen_Verfahren_zur_Genehmigung_von_Werbean.html). Anuncios y carteles en paisaje abierto pueden requerir autorización de conservación natural. *No se presume aplicable a todos los anuncios en todos los lugares*
+- **F186** — [Burgenland — Burgenländisches Baugesetz 1997 §16, publicidad y carteles](https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrBgld&Gesetzesnummer=10000504&Paragraf=16). Disposiciones sobre carteles y anuncios que pueden limitar fuentes luminosas. *Solo requisitos edificatorios aplicables al caso; no un régimen fotométrico general*
+
+## Lagunas jurídicas verificables
+No se ha constatado un límite nacional general de CCT, de intrusión luminosa o de luz azul. Los mecanismos de autorización de los Länder exigen examinar lugar, actividad, especies y efectos. No se equipara normativa técnica a ley salvo remisión verificable.
+

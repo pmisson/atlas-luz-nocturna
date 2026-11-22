@@ -3,8 +3,8 @@
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-19",
     "country_count": 51,
-    "source_count": 169,
-    "star_count": 53,
+    "source_count": 188,
+    "star_count": 57,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -15,7 +15,8 @@
     "italy_regions_count": 22,
     "austria_lander_count": 9,
     "iucn_count": 4,
-    "transversal_count": 12
+    "transversal_count": 16,
+    "note_austria_2026": "Revisión 22-11-2026 con informe aportado: §41b Alta Austria 2024/2029, aviación §123a actualizado 01-09-2026, ÖNORM como estándar salvo incorporación, OGH 6Ob60/20x, Carintia y Viena. CE245/2009 derogado 2021."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -583,11 +584,11 @@
       "name": "Austria",
       "region": "Europa",
       "level": "subnacional",
-      "summary": "Alta Austria dispone de regulación regional obligatoria específica desde 2024 (§41b Oö. Umweltschutzgesetz 1996); los otros Länder aplican diferentes regímenes de protección natural, civil y guías, sin ley nacional integral de luz verificada.",
-      "scope": "Länder y regulación sectorial/civil",
-      "confidence": "Fuente primaria identificada",
-      "note": "La ÖNORM O 1052 no obliga por sí sola en toda Austria; §41b de Alta Austria incorpora apartados 4 y 7.",
-      "keywords": "",
+      "summary": "Austria no dispone de una ley federal general contra la contaminación lumínica, pero aplica normas sectoriales federales (incluido balizamiento aeronáutico nocturno según demanda, §123a LFG actualizado en 2026), derecho vecinal e industrial, y regulaciones de los nueve Länder. Alta Austria tiene obligaciones propias desde mayo de 2024; Carintia exige autorización para proyectores al cielo y Viena regula molestias de anuncios luminosos.",
+      "scope": "Federal sectorial, Länder, municipios y derecho civil",
+      "confidence": "Fuentes primarias austriacas RIS verificadas; guías técnicas y precedentes diferenciados",
+      "note": "Documento de 26 páginas sobre Austria incorporado como fuente de trabajo sin redistribución. Corrección: Reglamento europeo (CE) 245/2009 DEROGADO 01-09-2021; sustituido por (UE) 2019/2020. ÖNORM O1052 no es vinculante en toda Austria; §41b de Alta Austria incorpora puntos 4 y 7. Carintia §4(d) requiere autorización, no prohíbe todo proyector. En Tirol ≤2400 K es dato de expediente, no límite general.",
+      "keywords": "ÖNORM O 1052 2022 Alta Austria Oberösterreich 2024 2029 Luftfahrtgesetz 123a 2026 Austro Control bedarfsgerechte Nachtkennzeichnung OGH 6 Ob 60 20x ABGB 364 GewO 74 77 Kärnten Himmelsstrahler Wien Lichtreklamen Tirol 2400 Kelvin Vorarlberg",
       "source_ids": [
         "F045",
         "F154",
@@ -597,10 +598,31 @@
         "F158",
         "F159",
         "F160",
-        "F161"
+        "F161",
+        "F170",
+        "F171",
+        "F172",
+        "F173",
+        "F174",
+        "F175",
+        "F176",
+        "F177",
+        "F178",
+        "F179",
+        "F180",
+        "F181",
+        "F182",
+        "F183",
+        "F184",
+        "F185",
+        "F186"
       ],
       "star_ids": [
-        "M23"
+        "M23",
+        "M54",
+        "M55",
+        "M56",
+        "M57"
       ]
     },
     {
@@ -2839,6 +2861,215 @@
       "note": "No somete automáticamente toda luminaria a EIA",
       "year": "2011",
       "official": true
+    },
+    {
+      "id": "F170",
+      "country": "AUT",
+      "title": "Austria — BGBl. I 40/2024, reforma Luftfahrtgesetz, balizamiento nocturno bajo demanda",
+      "url": "https://www.ris.bka.gv.at/eli/bgbl/I/2024/40",
+      "type": "Ley federal sectorial",
+      "effect": "Introduce §123a Luftfahrtgesetz para activación de señales aéreas según presencia de aeronaves",
+      "note": "Publicada 18-04-2024; cotejar texto consolidado tras reforma de 2026",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F171",
+      "country": "AUT",
+      "title": "Austria — BGBl. I 80/2026, reforma de Luftfahrtgesetz de julio 2026",
+      "url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_80/BGBLA_2026_I_80.html",
+      "type": "Ley federal modificatoria",
+      "effect": "Reforma vigente desde 01-09-2026 en relación con el régimen de balizamiento",
+      "note": "Fuente oficial: el marco de 2024 no debe presentarse sin esta modificación",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F172",
+      "country": "AUT",
+      "title": "Austria — Luftfahrtgesetz §123a, versión vigente desde septiembre de 2026",
+      "url": "https://ris.bka.gv.at/Dokumente/Bundesnormen/NOR40280164/NOR40280164.html",
+      "type": "Ley federal consolidada",
+      "effect": "Austro Control regula balizamiento nocturno según detección de aeronaves; contempla condiciones de seguridad",
+      "note": "Aplicabilidad a obstáculos según autorizaciones; permite iluminación por fallo de seguridad y excepciones",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F173",
+      "country": "AUT",
+      "title": "Tribunal Supremo austríaco OGH 6 Ob 60/20x, inmisiones lumínicas por piscina",
+      "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20200423_OGH0002_0060OB00060_20X0000_000&IncludeSelf=True",
+      "type": "Jurisprudencia civil",
+      "effect": "Superar ÖNORM O 1052 no demuestra automáticamente perturbación sustancial exigible según §364 ABGB",
+      "note": "Caso concreto: uso esporádico seis veces por año; no generalizar el resultado a toda contaminación lumínica",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F174",
+      "country": "AUT",
+      "title": "Austria — Gewerbeordnung 1994 §74(2), autorizaciones industriales y molestias vecinales",
+      "url": "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=74",
+      "type": "Ley federal industrial",
+      "effect": "Instalaciones sujetas a permiso por posible molestia a vecinos; incluye molestias en otras formas",
+      "note": "No presupone que toda luz industrial sea sancionable; requiere expediente y criterios aplicables",
+      "year": "1994",
+      "official": true
+    },
+    {
+      "id": "F175",
+      "country": "AUT",
+      "title": "Austria — Gewerbeordnung 1994 §77, condiciones de autorización empresarial",
+      "url": "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=77",
+      "type": "Ley federal industrial",
+      "effect": "Permite condiciones adecuadas para evitar peligros o molestias incompatibles con régimen de actividad",
+      "note": "Aplicabilidad según autorización y pruebas sobre la luz emitida",
+      "year": "1994",
+      "official": true
+    },
+    {
+      "id": "F176",
+      "country": "AUT",
+      "title": "Viena — Bauordnung für Wien §85(4), prohibición de molestias excesivas por anuncios luminosos",
+      "url": "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrW&Gesetzesnummer=20000006&Paragraf=85",
+      "type": "Ley del Land de construcción",
+      "effect": "Los anuncios luminosos no pueden causar molestias superiores a lo habitual a usuarios del mismo edificio o vecinos",
+      "note": "Artículo aplicable a Lichtreklamen; no es límite general de Kelvin o lux",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F177",
+      "country": "AUT",
+      "title": "Viena — Bauordnung für Wien §134a, régimen tasado de derechos vecinales",
+      "url": "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrW&Gesetzesnummer=20000006&Paragraf=134a",
+      "type": "Ley del Land de construcción",
+      "effect": "Delimita taxativamente derechos subjetivos vecinales en procedimientos de licencia",
+      "note": "No afirmar que art.85(4) da por sí solo legitimación subjetiva directa en todo procedimiento",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F178",
+      "country": "AUT",
+      "title": "Carintia — Kärntner Naturschutzgesetz 2002 §4(d), autorización de proyectores celestes",
+      "url": "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrK&Gesetzesnummer=20000118&Paragraf=4",
+      "type": "Ley regional de naturaleza",
+      "effect": "La operación de Himmelsstrahlern exige autorización en todo el Land",
+      "note": "Autorización previa, no prohibición absoluta; el artículo no fija un límite genérico de CCT",
+      "year": "2017",
+      "official": true
+    },
+    {
+      "id": "F179",
+      "country": "AUT",
+      "title": "Carintia — Kärntner Naturschutzgesetz 2002 §24b, evaluación de proyectos Natura 2000",
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=LrK&Gesetzesnummer=20000118&Paragraf=24b",
+      "type": "Ley regional de conservación",
+      "effect": "Proyectos susceptibles de afectar áreas europeas protegidas requieren evaluación de compatibilidad",
+      "note": "Aplicable por efecto potencial y condiciones del sitio, no a cualquier luminaria",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F180",
+      "country": "AUT",
+      "title": "Tiroler Umweltanwaltschaft, criterios técnicos de Effektbeleuchtung (2021)",
+      "url": "https://www.tiroler-umweltanwaltschaft.gv.at/wp-content/uploads/2024/02/20210309_PP4_Effektbeleuchtung.pdf",
+      "type": "Recomendaciones técnico-ambientales",
+      "effect": "Aconseja apagado 22:00 en zonas verdes/periféricas y 24:00 en áreas urbanas; evita proyectores en migración",
+      "note": "Documento orientativo, no ordenanza con horarios universales; parámetros por recomendación",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F181",
+      "country": "AUT",
+      "title": "Tribunal administrativo de Tirol, expediente E 1466/2022, licencia con LED ≤2400 K",
+      "url": "https://www.lvwg-tirol.gv.at/fileadmin/bilder/E_1466_2022_anonym.pdf",
+      "type": "Decisión administrativa judicial",
+      "effect": "Un proyecto concreto de Tirol prevé usar LED de temperatura de color máxima 2400 K",
+      "note": "Condición o característica de caso particular, NO máximo general austriaco o tirolés",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F182",
+      "country": "AUT",
+      "title": "Guía austríaca de iluminación exterior, segunda edición 2026 (nueve Länder)",
+      "url": "https://www.noe.gv.at/noe/Umweltschutz/Leitfaden_Aussenbeleuchtung_Auflage2_web_%282%29.pdf",
+      "type": "Guía técnica institucional",
+      "effect": "Resume ÖNORM O 1052 (2700 K residencias, 3000 K centros urbanos y criterios PC ámbar en hábitats sensibles)",
+      "note": "Guía voluntaria, salvo incorporación jurídica localizada; 0,25 lx recomendado no es límite nacional general",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F183",
+      "country": "AUT",
+      "title": "Salzburgo — Salzburger Naturschutzgesetz 1999 §26 (especies protegidas)",
+      "url": "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrSbg&Gesetzesnummer=20000003&Paragraf=26",
+      "type": "Ley regional de protección natural",
+      "effect": "Protección de fauna que puede ser relevante para iluminación nocturna dañina",
+      "note": "Aplicación indirecta requiere contexto, especies protegidas y alteración acreditada",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F184",
+      "country": "AUT",
+      "title": "Vorarlberg — guía Natürlich dunkel 2024",
+      "url": "https://vorarlberg.at/-/natuerlich-dunkel",
+      "type": "Guía pública regional",
+      "effect": "Recomendaciones de protección ecológica y diseño de iluminación exterior",
+      "note": "Guía voluntaria; no sustituye la legislación regional sobre construcción y conservación",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F185",
+      "country": "AUT",
+      "title": "Baja Austria — autorización de anuncios conforme al derecho regional de conservación",
+      "url": "https://www.noe.gv.at/noe/Naturschutz/Rechtliche_Grundlagen_Verfahren_zur_Genehmigung_von_Werbean.html",
+      "type": "Guía oficial para permisos regionales",
+      "effect": "Anuncios y carteles en paisaje abierto pueden requerir autorización de conservación natural",
+      "note": "No se presume aplicable a todos los anuncios en todos los lugares",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F186",
+      "country": "AUT",
+      "title": "Burgenland — Burgenländisches Baugesetz 1997 §16, publicidad y carteles",
+      "url": "https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrBgld&Gesetzesnummer=10000504&Paragraf=16",
+      "type": "Ley del Land de construcción",
+      "effect": "Disposiciones sobre carteles y anuncios que pueden limitar fuentes luminosas",
+      "note": "Solo requisitos edificatorios aplicables al caso; no un régimen fotométrico general",
+      "year": "1997",
+      "official": true
+    },
+    {
+      "id": "F187",
+      "country": "INT",
+      "title": "Unión Europea — Reglamento (CE) 245/2009, DEROGADO en septiembre 2021",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32009R0245",
+      "type": "Reglamento europeo derogado",
+      "effect": "Antecedente de diseño ecológico de equipos luminosos y luz residual",
+      "note": "DEROGADO por Reglamento (UE) 2019/2020 art.10, efecto 01-09-2021; no vigente en 2026",
+      "year": "2009",
+      "official": true
+    },
+    {
+      "id": "F188",
+      "country": "INT",
+      "title": "Unión Europea — Reglamento (UE) 2019/2020, diseño ecológico de fuentes luminosas",
+      "url": "https://eur-lex.europa.eu/eli/reg/2019/2020",
+      "type": "Reglamento europeo",
+      "effect": "Texto vigente que deroga 245/2009, con requisitos ecodiseño de fuentes luminosas y mecanismos de control",
+      "note": "No crea régimen europeo horizontal de contaminación lumínica ni límite general ULOR en instalaciones urbanas",
+      "year": "2019",
+      "official": true
     }
   ],
   "stars": [
@@ -3604,6 +3835,66 @@
       ],
       "caution": "Ámbito sectorial de iluminación pública; no extender automáticamente a todo comercio privado.",
       "replicability": "Alta"
+    },
+    {
+      "id": "M54",
+      "country": "AUT",
+      "title": "Austria federal: balizamiento aeronáutico nocturno bajo demanda",
+      "description": "El §123a de la Luftfahrtgesetz establece gestión por Austro Control para encender el balizamiento de obstáculos solo cuando lo exija la seguridad aérea; aprobado 2024 y modificado en 2026.",
+      "force": "Ley federal sectorial",
+      "param": "Activación por necesidad de tráfico aéreo, con salvaguardias y excepciones de seguridad",
+      "scope": "Aerogeneradores y otros obstáculos sujetos al §123a",
+      "sources": [
+        "F170",
+        "F171",
+        "F172"
+      ],
+      "caution": "No implica apagado automático de todo aerogenerador: requisitos técnicos, autorizaciones y contingencias se aplican caso a caso.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M55",
+      "country": "AUT",
+      "title": "Carintia: autorización de proyectores al cielo",
+      "description": "Kärntner Naturschutzgesetz 2002, §4(d): la operación de Himmelsstrahlern requiere autorización regional.",
+      "force": "Ley de Land vinculante",
+      "param": "Necesidad de permiso para funcionamiento de proyectores celestes",
+      "scope": "Carintia (todo el Land)",
+      "sources": [
+        "F178"
+      ],
+      "caution": "No es prohibición absoluta, ni se aplica a Austria entera; condiciones según decisión y excepciones.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M56",
+      "country": "AUT",
+      "title": "Viena: límite legal de molestias por rótulos luminosos",
+      "description": "Bauordnung für Wien §85(4): los anuncios luminosos no deben causar molestias que excedan lo habitual a residentes del mismo edificio o edificios vecinos.",
+      "force": "Ley del Land vinculante",
+      "param": "Umbral jurídico cualitativo de molestias, sin cd/m² universales",
+      "scope": "Viena, anuncios luminosos",
+      "sources": [
+        "F176",
+        "F177"
+      ],
+      "caution": "La legitimación procesal de vecinos depende de otros artículos; no asimilar a toda iluminación urbana.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M57",
+      "country": "AUT",
+      "title": "Tirol: condición ≤2400 K en un expediente concreto",
+      "description": "En una decisión de 2022 consta un proyecto de Tirol con LED de 2400 K máximo, mostrando cómo un expediente puede incorporar condiciones espectrales.",
+      "force": "Condición de proyecto individual, NO ley general",
+      "param": "CCT ≤2400 K en el expediente identificado",
+      "scope": "Proyecto concreto en Tirol",
+      "sources": [
+        "F181",
+        "F180"
+      ],
+      "caution": "No es valor obligatorio para toda instalación en Tirol ni todo el país; identificar el proyecto y autoridad.",
+      "replicability": "Alta"
     }
   ],
   "spain_regions": [
@@ -4194,8 +4485,8 @@
     {
       "id": "AT01",
       "name": "Alta Austria (Oberösterreich)",
-      "instrument": "Oö. Umweltschutzgesetz 1996, §41b, reforma 2024",
-      "detail": "Obligación regional específica; ÖNORM O1052 2022 apartados 4 y 7 incorporados; adaptación de existentes hasta 2029.",
+      "instrument": "Oö. Umweltschutzgesetz §41b (reforma 2024), ÖNORM O 1052 incorporada",
+      "detail": "Obliga en materias de competencia del Land a limitar intensidad y duración según necesidad; incorpora puntos 4 y 7 de ÖNORM O 1052:2022, con excepciones. Instalaciones conformes existentes: adaptación al modificarse sustancialmente o hasta 01-01-2029. No crea derechos subjetivos públicos.",
       "status": "verificada",
       "source_ids": [
         "F154",
@@ -4205,74 +4496,89 @@
     {
       "id": "AT02",
       "name": "Tirol",
-      "instrument": "Tiroler Naturschutzgesetz 2005",
-      "detail": "Protección de especies y Natura 2000; impacto de instalaciones luminosas debe evaluarse caso a caso.",
+      "instrument": "Tiroler Naturschutzgesetz 2005, criterios ambientales y jurisprudencia",
+      "detail": "Protección de especies y zonas Natura 2000. La Umweltanwaltschaft propone apagado a las 22:00/24:00 y restricciones estacionales; un permiso judicial de 2022 contempló LED ≤2400 K. Estas cifras NO son topes legales universales.",
       "status": "sectorial",
       "source_ids": [
-        "F156"
+        "F156",
+        "F180",
+        "F181"
       ]
     },
     {
       "id": "AT03",
       "name": "Viena (Wien)",
-      "instrument": "Ordenación municipal y guías ambientales",
-      "detail": "Información oficial y mecanismos sectoriales; sin ley general fotométrica verificada.",
-      "status": "sectorial",
+      "instrument": "Bauordnung für Wien §85(4), anuncios luminosos; §134a, derechos vecinales",
+      "detail": "Prohíbe anuncios luminosos con molestias superiores a lo habitual en edificios vecinos. La eventual legitimación del vecino depende de los requisitos tasados del §134a y del procedimiento.",
+      "status": "verificada",
       "source_ids": [
         "F158",
-        "F159"
+        "F159",
+        "F176",
+        "F177"
       ]
     },
     {
       "id": "AT04",
       "name": "Baja Austria (Niederösterreich)",
-      "instrument": "Guía 2026; derecho de construcción y jurisprudencia",
-      "detail": "Guía de diseño; sentencia VwGH 2021 limita aplicación de un precepto edificatorio a la luz intrusa.",
+      "instrument": "Naturschutzgesetz y permisos publicitarios; guía federal 2026",
+      "detail": "La instalación de publicidad en entornos naturales puede necesitar permiso; guía técnica austríaca 2026 y jurisprudencia no equivalen a prohibición regional fotométrica general.",
       "status": "sectorial",
       "source_ids": [
         "F157",
-        "F160"
+        "F160",
+        "F185",
+        "F182"
       ]
     },
     {
       "id": "AT05",
       "name": "Carintia (Kärnten)",
-      "instrument": "Marco de conservación y edificación",
-      "detail": "No se ha verificado una ley específica general de límites lumínicos; revisar expedientes ambientales locales.",
-      "status": "pendiente",
-      "source_ids": []
+      "instrument": "Kärntner Naturschutzgesetz 2002, §4(d) y §24b",
+      "detail": "El funcionamiento de skybeamers (Himmelsstrahlern) está sometido a AUTORIZACIÓN por §4(d); el §24b prevé evaluación de proyectos en espacios europeos protegidos. No se trata de prohibición absoluta ni de un límite universal de CCT.",
+      "status": "verificada",
+      "source_ids": [
+        "F178",
+        "F179"
+      ]
     },
     {
       "id": "AT06",
       "name": "Estiria (Steiermark)",
-      "instrument": "Marco de conservación y edificación",
-      "detail": "Necesaria auditoría de supuestos de autorización y perturbación de fauna.",
-      "status": "pendiente",
+      "instrument": "Naturschutz regional y evaluación ambiental de grandes proyectos",
+      "detail": "No se ha identificado una norma específica general de límites fotométricos. Iluminación y deslumbramiento pueden aparecer como condiciones en proyectos industriales o eólicos; comprobar resolución concreta.",
+      "status": "sectorial",
       "source_ids": []
     },
     {
       "id": "AT07",
       "name": "Salzburgo",
-      "instrument": "Marco de conservación y edificación",
-      "detail": "No consta norma regional específica cotejada de contaminación lumínica.",
-      "status": "pendiente",
-      "source_ids": []
+      "instrument": "Salzburger Naturschutzgesetz 1999, §26",
+      "detail": "Protección legal de fauna y sus condiciones de reproducción y hábitat, con posible aplicación indirecta a iluminación en casos evaluados. Sin tope general de CCT verificado.",
+      "status": "sectorial",
+      "source_ids": [
+        "F183"
+      ]
     },
     {
       "id": "AT08",
       "name": "Vorarlberg",
-      "instrument": "Marco de conservación y edificación",
-      "detail": "Normas de protección ambiental potencialmente aplicables, sin parámetro fotométrico general verificado.",
-      "status": "pendiente",
-      "source_ids": []
+      "instrument": "Reglas regionales de conservación, guía Natürlich dunkel (2024)",
+      "detail": "Guía oficial de prevención y diseño de iluminación; sus valores orientativos NO son por sí solos límites legales obligatorios. Aplicabilidad de permisos ambientales por caso.",
+      "status": "sectorial",
+      "source_ids": [
+        "F184"
+      ]
     },
     {
       "id": "AT09",
       "name": "Burgenland",
-      "instrument": "Marco de conservación y edificación",
-      "detail": "Pendiente verificar legislación sectorial y reglamentos municipales.",
-      "status": "pendiente",
-      "source_ids": []
+      "instrument": "Burgenländisches Baugesetz §16 y conservación natural",
+      "detail": "El derecho edificatorio sobre publicidad y rótulos puede controlar ciertas fuentes. No se ha constatado un límite regional universal de intensidad, espectro o apagado.",
+      "status": "sectorial",
+      "source_ids": [
+        "F186"
+      ]
     }
   ],
   "transversal_law": [
@@ -4407,6 +4713,54 @@
       "caution": "Directrices técnicas del convenio, distinto de obligación sancionable automáticamente.",
       "source_ids": [
         "F136"
+      ]
+    },
+    {
+      "id": "X13",
+      "jurisdiction": "Austria",
+      "instrument": "Gewerbeordnung 1994 §§74(2) y 77",
+      "domain": "Licencias industriales",
+      "application": "La autoridad puede imponer condiciones sobre instalaciones comerciales que provoquen molestias por luz a vecinos, según evidencia en expediente.",
+      "caution": "No crea techo único de lux para todas las empresas; autoridad y condiciones del proyecto.",
+      "source_ids": [
+        "F174",
+        "F175"
+      ]
+    },
+    {
+      "id": "X14",
+      "jurisdiction": "Austria",
+      "instrument": "ABGB §364(2) y OGH 6 Ob 60/20x (2020)",
+      "domain": "Derecho civil y jurisprudencia",
+      "application": "Admite debatir luz intrusa entre propiedades; superación de ÖNORM no acredita automáticamente perturbación sustancial.",
+      "caution": "OGH valoró uso escaso de piscina; necesita prueba de intensidad, duración, frecuencia y uso del inmueble.",
+      "source_ids": [
+        "F161",
+        "F173"
+      ]
+    },
+    {
+      "id": "X15",
+      "jurisdiction": "Austria · Viena",
+      "instrument": "Bauordnung für Wien §§85(4) y 134a",
+      "domain": "Rótulos / derecho urbanístico",
+      "application": "Puede limitar anuncios luminosos que causan molestias superiores a lo habitual a usuarios de edificios próximos.",
+      "caution": "Derechos vecinales en licencias sujetos a disposiciones tasadas; no admitir acción directa sin examen.",
+      "source_ids": [
+        "F176",
+        "F177"
+      ]
+    },
+    {
+      "id": "X16",
+      "jurisdiction": "Austria · Carintia",
+      "instrument": "K-NSG 2002 §§4(d) y 24b",
+      "domain": "Proyectores al cielo y Natura 2000",
+      "application": "Exige autorización para proyectores celestes y evaluación de planes/proyectos con afección a lugares protegidos.",
+      "caution": "Una autorización no es una prohibición; luz no siempre implica afección significativa.",
+      "source_ids": [
+        "F178",
+        "F179"
       ]
     }
   ]

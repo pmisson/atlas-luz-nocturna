@@ -4,8 +4,8 @@ from html.parser import HTMLParser
 root=pathlib.Path(__file__).parents[1]
 a=json.loads((root/'data'/'atlas.json').read_text('utf8'))
 assert len(a['countries'])==51
-assert len(a['sources'])==169
-assert len(a['stars'])==53
+assert len(a['sources'])==188
+assert len(a['stars'])==57
 assert len({c['iso'] for c in a['countries']})==51
 assert len({s['id'] for s in a['sources']})==len(a['sources'])
 assert len({m['id'] for m in a['stars']})==len(a['stars'])
@@ -23,8 +23,10 @@ assert all(set(r['source_ids'])<=source_ids for r in a['international'])
 assert len(a['bibliography'])==9
 assert len(a['italy_regions'])==22
 assert len(a['austria_regions'])==9
+assert len(next(c for c in a['countries'] if c['iso']=='AUT')['star_ids'])==5
+assert any('Luftfahrtgesetz §123a' in s['title'] for s in a['sources'])
 assert len(a['iucn_documents'])==4
-assert len(a['transversal_law'])==12
+assert len(a['transversal_law'])==16
 assert all(set(x['source_ids'])<=source_ids for field in ('italy_regions','austria_regions','iucn_documents','transversal_law') for x in a[field])
 assert len(next(c for c in a['countries'] if c['iso']=='VEN')['star_ids'])==3
 assert all(any(s['id']==x for s in a['sources']) for x in next(c for c in a['countries'] if c['iso']=='VEN')['source_ids'])

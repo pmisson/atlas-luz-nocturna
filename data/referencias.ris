@@ -2,7 +2,7 @@ TY  - STAT
 ID  - F001
 T1  - Ley n.º 31316 — Prevención y control de contaminación lumínica
 UR  - https://busquedas.elperuano.pe/dispositivo/NL/1976876-1
-CY  - Perú
+CY  - PER
 N1  - Ley. Norma nacional de 2021. Verificar eventuales modificatorias en El Peruano
 PY  - 2021
 ER  - 
@@ -11,7 +11,7 @@ TY  - STAT
 ID  - F002
 T1  - Decreto Supremo 021-2025-MINAM — Reglamento de la Ley 31316
 UR  - https://www.gob.pe/institucion/minam/normas-legales/7391038-021-2025-minam
-CY  - Perú
+CY  - PER
 N1  - Reglamento. Reglamento nacional de 2025. 
 PY  - 2025
 ER  - 
@@ -20,7 +20,7 @@ TY  - ELEC
 ID  - F003
 T1  - SINIA — Reglamento de la Ley 31316
 UR  - https://sinia.minam.gob.pe/normas/decreto-supremo-que-aprueba-reglamento-ley-ndeg-31316-ley-prevencion
-CY  - Perú
+CY  - PER
 N1  - Repositorio oficial. Acceso y contexto del reglamento. 
 ER  - 
 
@@ -28,7 +28,7 @@ TY  - ELEC
 ID  - F004
 T1  - Decreto Supremo n.º 1/2022 — Norma de emisión de luminosidad artificial
 UR  - https://luminica.mma.gob.cl/norma-luminica/
-CY  - Chile
+CY  - CHL
 N1  - Norma de emisión. Norma nacional; aplicación escalonada 2024–2026. El portal detalla inicio de aplicación nacional y zonas especiales.
 PY  - 2022
 ER  - 
@@ -37,7 +37,7 @@ TY  - ELEC
 ID  - F005
 T1  - SMA — Normas de emisión, fiscalización e instructivos
 UR  - https://portal.sma.gob.cl/index.php/portal-regulados/instructivos-y-guias/normas-de-emision/
-CY  - Chile
+CY  - CHL
 N1  - Autoridad de vigilancia. Fiscalización de normas de emisión. 
 ER  - 
 
@@ -45,7 +45,7 @@ TY  - STAT
 ID  - F006
 T1  - Ley 20.284 — Preservación de recursos del aire
 UR  - https://www.argentina.gob.ar/normativa/nacional/ley-20284-40167/texto
-CY  - Argentina
+CY  - ARG
 N1  - Ley general. No constituye por sí sola ley específica de luz. Consultar regulación provincial y municipal.
 PY  - 1973
 ER  - 
@@ -54,7 +54,7 @@ TY  - STAT
 ID  - F007
 T1  - Ciudad Autónoma de Buenos Aires — Ley 1356 (calidad del aire)
 UR  - https://www.boletinoficial.buenosaires.gob.ar/normativaba/norma/59418
-CY  - Argentina
+CY  - ARG
 N1  - Ley local general. Ciudad de Buenos Aires. Sin atribuir límites de luz no identificados.
 PY  - 2004
 ER  - 
@@ -63,7 +63,7 @@ TY  - STAT
 ID  - F008
 T1  - IMPO — Ley 17.283 de Protección del Ambiente
 UR  - https://www.impo.com.uy/bases/leyes/17283-2000/3
-CY  - Uruguay
+CY  - URY
 N1  - Ley general. Nivel nacional; no presupone límites lumínicos. 2000
 ER  - 
 
@@ -71,7 +71,7 @@ TY  - ELEC
 ID  - F009
 T1  - Diario Oficial, 3 de julio de 2025 — instrumentos departamentales Rocha
 UR  - https://www.impo.com.uy/diariooficial/2025/07/03/documentos.pdf
-CY  - Uruguay
+CY  - URY
 N1  - Instrumento territorial. Disposición sobre preservación de cielo oscuro en Rocha. Requiere separar objetivo de reglamentación técnica aplicable.
 PY  - 2025
 ER  - 
@@ -80,7 +80,7 @@ TY  - ELEC
 ID  - F010
 T1  - Portal oficial de normativa venezolana (referencia para revisión)
 UR  - http://www.minamb.gob.ve/
-CY  - Venezuela
+CY  - VEN
 N1  - Portal a verificar. No constituye cita de una disposición vigente. El enlace y disponibilidad deben comprobarse.
 ER  - 
 
@@ -88,7 +88,7 @@ TY  - ELEC
 ID  - F011
 T1  - Reforma de LGEEPA sobre contaminación lumínica — Diario Oficial, enero de 2021
 UR  - https://www.diputados.gob.mx/sedia/biblio/prog_leg/Prog_leg_LXIV/130_DOF_18ene21.pdf
-CY  - México
+CY  - MEX
 N1  - Decreto de reforma. Federal: definiciones y prevención. Usar versión consolidada para vigencia artículo por artículo.
 PY  - 2021
 ER  - 
@@ -97,7 +97,7 @@ TY  - STAT
 ID  - F012
 T1  - Arizona Revised Statutes — Title 49, Chapter 7, Outdoor Lighting
 UR  - https://www.azleg.gov/arsDetail/?title=49
-CY  - Estados Unidos
+CY  - USA
 N1  - Ley estatal. Arizona: restricciones a luz exterior, excepciones. Consultar §§49-1101 a 49-1106.
 ER  - 
 
@@ -105,7 +105,7 @@ TY  - STAT
 ID  - F013
 T1  - Arizona Revised Statutes — §49-1102
 UR  - https://www.azleg.gov/ars/49/01102.htm
-CY  - Estados Unidos
+CY  - USA
 N1  - Ley estatal. Arizona; apantallamiento de instalaciones. 
 ER  - 
 
@@ -113,7 +113,7 @@ TY  - STAT
 ID  - F014
 T1  - Michigan Natural Resources and Environmental Protection Act §324.75104
 UR  - https://legislature.mi.gov/Laws/MCL?objectName=MCL-324-75104
-CY  - Estados Unidos
+CY  - USA
 N1  - Ley estatal. Protección en reservas estatales de cielo oscuro. 
 ER  - 
 
@@ -121,7 +121,7 @@ TY  - STAT
 ID  - F015
 T1  - Ontario Municipal Act 2001 — §129, outdoor illumination
 UR  - https://www.ontario.ca/laws/statute/01m25
-CY  - Canadá
+CY  - CAN
 N1  - Ley habilitante. Ontario: poderes municipales para regulación de iluminación. 
 ER  - 
 
@@ -129,7 +129,7 @@ TY  - ELEC
 ID  - F016
 T1  - Ministerio de Medio Ambiente — Repertorio de legislación
 UR  - https://www.gov.br/mma/pt-br/centrais-de-conteudo/legislacao
-CY  - Brasil
+CY  - BRA
 N1  - Repositorio de legislación. Fuente de consulta general; sin límites de luz atribuidos. 
 ER  - 
 
@@ -137,7 +137,7 @@ TY  - ELEC
 ID  - F017
 T1  - ICMBio — Protección de tartarugas marinas
 UR  - https://www.gov.br/icmbio/pt-br/assuntos/centros-de-pesquisa/tartarugas-marinhas-e-biodiversidade-marinha-do-leste/comunicacao/legislacao
-CY  - Brasil
+CY  - BRA
 N1  - Repositorio temático. Normas de protección de fauna marina. 
 ER  - 
 
@@ -145,7 +145,7 @@ TY  - STAT
 ID  - F018
 T1  - Ministerio de Minas y Energía — RETILAP Resolución 40286/2026 y cuatro libros
 UR  - https://minenergia.gov.co/es/misional/energia-electrica-2/reglamentos-tecnicos/reglamento-t%C3%A9cnico-de-iluminaci%C3%B3n-y-alumbrado-p%C3%BAblico-retilap/
-CY  - Colombia
+CY  - COL
 N1  - Reglamento técnico. Aplicación a iluminación interior y exterior; productos y agentes. Incluye régimen transitorio de conformidad.
 PY  - 2026
 ER  - 
@@ -154,7 +154,7 @@ TY  - ELEC
 ID  - F019
 T1  - CREG — texto de la Resolución 40286 de 2026
 UR  - https://gestornormativo.creg.gov.co/gestor/entorno/docs/resolucion_minminas_40286_2026.htm
-CY  - Colombia
+CY  - COL
 N1  - Norma oficial. Texto y requisitos transitorios. 2026
 ER  - 
 
@@ -162,7 +162,7 @@ TY  - ELEC
 ID  - F020
 T1  - Registro Oficial 288, mayo de 2026 — reproducción secundaria de instrumento costero
 UR  - https://strapi.lexis.com.ec/uploads/Registro_Oficial_Ano_ll_Segundo_Suplemento_No_288_del_20_de_mayo_de_2026_LEXIS_ECUADOR_95ad4ab2cd.pdf
-CY  - Ecuador
+CY  - ECU
 N1  - Fuente secundaria. Posibles medidas costeras para fauna. Pendiente cotejo con Registro Oficial original.
 PY  - 2026
 ER  - 
@@ -171,7 +171,7 @@ TY  - ELEC
 ID  - F021
 T1  - La Gaceta — normativa de zonas de control lumínico, 7 de septiembre de 2012
 UR  - https://www.imprentanacional.go.cr/pub/2012/09/07/COMP_07_09_2012.html
-CY  - Costa Rica
+CY  - CRI
 N1  - Publicación oficial. Disposiciones locales; verificar municipio, artículos y modificaciones. 2012
 ER  - 
 
@@ -179,7 +179,7 @@ TY  - STAT
 ID  - F022
 T1  - Gaceta Oficial 27134, 3 de octubre de 2012 — Reglamento alumbrado público arts. 33–34
 UR  - https://www.gacetaoficial.gob.pa/storage/gacetas/2012/10/27134/GacetaNo_27134_20121003.pdf
-CY  - Panamá
+CY  - PAN
 N1  - Reglamento sectorial. Concesionarias de alumbrado público. Verificar modificaciones posteriores.
 PY  - 2012
 ER  - 
@@ -188,7 +188,7 @@ TY  - ELEC
 ID  - F023
 T1  - Decreto Ley 16998 — iluminación en seguridad ocupacional (reproducción)
 UR  - https://www.lexivox.org/norms/BO-DL-16998.xhtml
-CY  - Bolivia
+CY  - BOL
 N1  - Copia secundaria. Normas de iluminación laboral, no contaminación lumínica general. 1979
 ER  - 
 
@@ -196,7 +196,7 @@ TY  - ELEC
 ID  - F024
 T1  - Decreto Supremo 5121/2024 — certificación de lámparas LED (referencia)
 UR  - https://ibmetro.gob.bo/index.php/aprobacion_led
-CY  - Bolivia
+CY  - BOL
 N1  - Portal oficial IBMETRO. Control de producto, no luz intrusiva. Verificar enlace y vigencia en gaceta oficial.
 PY  - 2024
 ER  - 
@@ -205,7 +205,7 @@ TY  - STAT
 ID  - F025
 T1  - Ley 716 — Sanciona delitos contra el medio ambiente
 UR  - https://www.bacn.gov.py/leyes-paraguayas/2426/ley-n-716-
-CY  - Paraguay
+CY  - PRY
 N1  - Ley. Referencia expresa a radiación lumínica y límites reglamentarios. Exige identificar reglamentos de umbrales aplicables.
 PY  - 1996
 ER  - 
@@ -214,7 +214,7 @@ TY  - STAT
 ID  - F026
 T1  - Decreto 68-86 — Ley de Protección y Mejoramiento del Medio Ambiente
 UR  - https://www.congreso.gob.gt/detalle_pdf/decretos/1696
-CY  - Guatemala
+CY  - GTM
 N1  - Ley general. No equivale a una ley de contaminación lumínica. 1986
 ER  - 
 
@@ -222,7 +222,7 @@ TY  - STAT
 ID  - F027
 T1  - BOE — Ley 34/2007 de calidad del aire: art. 3.f y disposición adicional 4.ª
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744
-CY  - España
+CY  - ESP
 N1  - Ley estatal. Prevención, reducción y protección de observatorios. Atención a exclusión del art. 2.2.b del régimen general de radiaciones.
 PY  - 2007
 ER  - 
@@ -231,7 +231,7 @@ TY  - STAT
 ID  - F028
 T1  - BOE — Real Decreto 1890/2008: eficiencia de alumbrado exterior e ITC
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2008-18634
-CY  - España
+CY  - ESP
 N1  - Reglamento estatal. ITC-EA-03 resplandor luminoso nocturno y luz intrusa. Comprobar modificaciones reglamentarias.
 PY  - 2008
 ER  - 
@@ -240,7 +240,7 @@ TY  - STAT
 ID  - F029
 T1  - Junta de Andalucía — Decreto 37/2025 sobre protección del cielo nocturno
 UR  - https://www.juntadeandalucia.es/boja/2025/31/5
-CY  - España
+CY  - ESP
 N1  - Reglamento autonómico. Andalucía, áreas protegidas y obligaciones territoriales. 2025
 ER  - 
 
@@ -248,7 +248,7 @@ TY  - ELEC
 ID  - F030
 T1  - Generalitat — Mapa de protección contra la contaminación lumínica
 UR  - https://mediambient.gencat.cat/es/05_ambits_dactuacio/atmosfera/contaminacio_luminica/mapa-de-proteccio-contra-contaminacio-luminica/
-CY  - España
+CY  - ESP
 N1  - Zonificación oficial. Cataluña. 
 ER  - 
 
@@ -256,7 +256,7 @@ TY  - ELEC
 ID  - F031
 T1  - MITECO — Normativa estatal y autonómica contaminación lumínica
 UR  - https://www.miteco.gob.es/en/calidad-y-evaluacion-ambiental/temas/atmosfera-y-calidad-del-aire/contaminacion_luminica.html
-CY  - España
+CY  - ESP
 N1  - Repositorio oficial. Listado de legislación regional. 
 ER  - 
 
@@ -264,7 +264,7 @@ TY  - STAT
 ID  - F032
 T1  - Regione Veneto — Legge regionale 17/2009, contaminación lumínica
 UR  - https://bur.regione.veneto.it/BurvServices/Pubblica/DettaglioLegge.aspx?id=217634
-CY  - Italia
+CY  - ITA
 N1  - Ley regional. Véneto; prevención de contaminación lumínica y ahorro de energía. 2009
 ER  - 
 
@@ -272,7 +272,7 @@ TY  - STAT
 ID  - F033
 T1  - Légifrance — Arrêté du 27 décembre 2018 relatif à la prévention, réduction et limitation des nuisances lumineuses
 UR  - https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037864346/
-CY  - Francia
+CY  - FRA
 N1  - Reglamento. Obligaciones diferenciadas por actividad y espacio. Consultar versión consolidada vigente.
 PY  - 2018
 ER  - 
@@ -281,7 +281,7 @@ TY  - ELEC
 ID  - F034
 T1  - Ministère de la Transition Écologique — Explicación y control del arrêté 2018
 UR  - https://www.ecologie.gouv.fr/politiques-publiques/arrete-du-27-decembre-2018-relatif-prevention-reduction-limitation-nuisances
-CY  - Francia
+CY  - FRA
 N1  - Guía oficial. Horarios, características técnicas, supervisión. 2018
 ER  - 
 
@@ -289,7 +289,7 @@ TY  - ELEC
 ID  - F035
 T1  - PISRS — Uredba o mejnih vrednostih svetlobnega onesnaževanja okolja
 UR  - https://pisrs.si/pregledPredpisa?id=URED4520&tab=analiticni
-CY  - Eslovenia
+CY  - SVN
 N1  - Decreto. Límites a contaminación lumínica, varias modificaciones desde 2007. 2007
 ER  - 
 
@@ -297,7 +297,7 @@ TY  - STAT
 ID  - F036
 T1  - Narodne novine — Zakon o zaštiti od svjetlosnog onečišćenja (NN 14/2019)
 UR  - https://narodne-novine.nn.hr/clanci/sluzbeni/2019_02_14_271.html
-CY  - Croacia
+CY  - HRV
 N1  - Ley nacional específica. Protección frente a contaminación lumínica. Reglamentos de ejecución por localizar artículo por artículo.
 PY  - 2019
 ER  - 
@@ -306,7 +306,7 @@ TY  - STAT
 ID  - F037
 T1  - legislation.gov.uk — Environmental Protection Act 1990, section 79
 UR  - https://www.legislation.gov.uk/ukpga/1990/43/section/79
-CY  - Reino Unido
+CY  - GBR
 N1  - Ley. Molestia legal por luz artificial en Inglaterra y Gales; exenciones sectoriales. Consultar aplicabilidad y versiones devoluciones.
 PY  - 1990
 ER  - 
@@ -315,7 +315,7 @@ TY  - STAT
 ID  - F038
 T1  - Gesetze im Internet — Bundesnaturschutzgesetz, §41a (Schutz von Tieren und Pflanzen vor nachteiligen Auswirkungen von Beleuchtungen)
 UR  - https://www.gesetze-im-internet.de/bnatschg_2009/BJNR254210009.html
-CY  - Alemania
+CY  - DEU
 N1  - Ley federal. Disposición sobre fauna/vegetación y luz. Verificar condiciones de entrada en vigor y normas de implementación.
 ER  - 
 
@@ -323,7 +323,7 @@ TY  - ELEC
 ID  - F039
 T1  - Diário da República — Lei do Orçamento do Estado para 2023, art. 182
 UR  - https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2022-205695052-205739790
-CY  - Portugal
+CY  - PRT
 N1  - Mandato legislativo. Compromiso de elaborar regulación de luz exterior. Verificar desarrollo normativo y estado posterior.
 PY  - 2022
 ER  - 
@@ -332,7 +332,7 @@ TY  - STAT
 ID  - F040
 T1  - e-Sbírka — Vyhláška č. 146/2024 Sb. o požadavcích na výstavbu, §24
 UR  - https://e-sbirka.gov.cz/sb/2024/146?odkazId=212535879
-CY  - República Checa
+CY  - CZE
 N1  - Reglamento de construcción. Supuestos constructivos enumerados. Verificar textos tras modificación 97/2026.
 PY  - 2024
 ER  - 
@@ -341,7 +341,7 @@ TY  - STAT
 ID  - F041
 T1  - Vlaamse Codex — VLAREM II, capítulo sobre licht
 UR  - https://codex.vlaanderen.be/Portals/Codex/documenten/1003794.html
-CY  - Bélgica
+CY  - BEL
 N1  - Reglamento regional. Flandes, iluminación de instalaciones. Consultar capítulos y condiciones de aplicación.
 ER  - 
 
@@ -349,7 +349,7 @@ TY  - ELEC
 ID  - F042
 T1  - BAFU — legislación y reglamentos sobre emisiones luminosas
 UR  - https://www.bafu.admin.ch/de/licht-gesetze-und-verordnungen
-CY  - Suiza
+CY  - CHE
 N1  - Portal oficial de legislación. Marco ambiental general. 
 ER  - 
 
@@ -357,7 +357,7 @@ TY  - ELEC
 ID  - F043
 T1  - BAFU — medidas para reducir la contaminación lumínica
 UR  - https://www.bafu.admin.ch/de/massnahmen-gegen-lichtverschmutzung
-CY  - Suiza
+CY  - CHE
 N1  - Guía oficial. Siete puntos preventivos, incluido espectro, orientación y tiempo. Recomendación técnica no límite obligatorio general.
 ER  - 
 
@@ -365,7 +365,7 @@ TY  - ELEC
 ID  - F044
 T1  - IPLO — portal oficial para interpretación de Omgevingswet
 UR  - https://iplo.nl/
-CY  - Países Bajos
+CY  - NLD
 N1  - Portal oficial. Acceso a planificación y regulación ambiental. Seleccionar municipio y actividad; no supone norma nacional específica.
 ER  - 
 
@@ -373,7 +373,7 @@ TY  - STAT
 ID  - F045
 T1  - RIS — Oberösterreichisches Umweltschutzgesetz, §41b Vermeidung von Lichtverschmutzung
 UR  - https://www.ris.bka.gv.at/Dokumente/Landesnormen/LOO40024836/LOO40024836.pdf
-CY  - Austria
+CY  - AUT
 N1  - Ley de Land. Alta Austria, medidas para evitar contaminación lumínica. Consultar versión de texto actualizado RIS.
 PY  - 2024
 ER  - 
@@ -382,7 +382,7 @@ TY  - STAT
 ID  - F046
 T1  - Slov-Lex — Ley 543/2002 de protección de la naturaleza y el paisaje
 UR  - https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2002/543/
-CY  - Eslovaquia
+CY  - SVK
 N1  - Ley general. Protección de naturaleza; no se ha localizado límite lumínico directo. Consultar consolidación vigente.
 ER  - 
 
@@ -390,7 +390,7 @@ TY  - ELEC
 ID  - F047
 T1  - Retsinformation — Vejledning om lokalplanlægning
 UR  - https://www.retsinformation.dk/eli/retsinfo/2009/9922
-CY  - Dinamarca
+CY  - DNK
 N1  - Guía de planificación. Planeamiento local; ciertas carreteras estatales excluidas. El texto expresamente excluye regular alumbrado de carreteras estatales con plan local.
 PY  - 2009
 ER  - 
@@ -399,7 +399,7 @@ TY  - ELEC
 ID  - F048
 T1  - Naturvårdsverket — Miljöbalken y precaución (2 kap. 3 §)
 UR  - https://www.naturvardsverket.se/vagledning-och-stod/miljobalken/hansynsreglerna--kapitel-2-miljobalken/forsiktighetsprincipen-2-kap.-3-
-CY  - Suecia
+CY  - SWE
 N1  - Guía interpretativa oficial. Principio ambiental; análisis individual. No fijar lux general inexistente en esta fuente.
 ER  - 
 
@@ -407,7 +407,7 @@ TY  - STAT
 ID  - F049
 T1  - Lovdata — Forurensningsloven, §6
 UR  - https://lovdata.no/dokument/NL/lov/1981-03-13-6/KAPITTEL_2
-CY  - Noruega
+CY  - NOR
 N1  - Ley general. Definición condicional de luz como contaminación. 1981
 ER  - 
 
@@ -415,7 +415,7 @@ TY  - STAT
 ID  - F050
 T1  - Finlex — Ympäristönsuojelulaki 527/2014
 UR  - https://www.finlex.fi/en/legislation/2014/527
-CY  - Finlandia
+CY  - FIN
 N1  - Ley general. Define emisión incluyendo luz; texto con cambios en 2026. 2014
 ER  - 
 
@@ -423,7 +423,7 @@ TY  - STAT
 ID  - F051
 T1  - Sejm — Rozporządzenie sobre condiciones técnicas de edificios, §293.6
 UR  - https://api.sejm.gov.pl/eli/acts/DU/2022/1225/text.html
-CY  - Polonia
+CY  - POL
 N1  - Reglamento. Máximos lux en fachadas con ventanas. Texto 2022 afectado por régimen transitorio 2026.
 PY  - 2022
 ER  - 
@@ -432,7 +432,7 @@ TY  - ELEC
 ID  - F052
 T1  - Ministerio de Desarrollo y Tecnología — comunicado de continuidad transitoria 2026
 UR  - https://www.gov.pl/web/rozwoj-technologia/komunikat-ministerstwa-rozwoju-i-technologii-dotyczacy-prac-nad-rozporzadzeniem-w-sprawie-warunkow-technicznych-jakim-powinny-odpowiadac-budynki-i-ich-usytuowanie-oraz-warunkow-technicznych-uzytkowania-budynkow-mieszkalnych
-CY  - Polonia
+CY  - POL
 N1  - Comunicado oficial. Aplicabilidad de reglas técnicas previas durante 18 meses desde 20 sept 2026. 2026
 ER  - 
 
@@ -440,7 +440,7 @@ TY  - ELEC
 ID  - F053
 T1  - Dublin City Development Plan 2022–2028, §9.5
 UR  - https://www.dublincity.ie/dublin-city-development-plan-2022-2028/written-statement/chapter-9-sustainable-environmental-and-flood-risk/95-policies-and-objectives
-CY  - Irlanda
+CY  - IRL
 N1  - Plan urbanístico. Restricciones de diseño e impacto en murciélagos y fauna. 2022
 ER  - 
 
@@ -448,7 +448,7 @@ TY  - STAT
 ID  - F054
 T1  - Εθνικό Τυπογραφείο — FEK 5966/B/2024
 UR  - https://search.et.gr/el/fek/?fekId=772937
-CY  - Grecia
+CY  - GRC
 N1  - Reglamento técnico. Diseño de iluminación de obras viales. Sin límites generales de cielo oscuro verificados.
 PY  - 2024
 ER  - 
@@ -457,7 +457,7 @@ TY  - ELEC
 ID  - F055
 T1  - Ministerio de Ecología y Medio Ambiente — Código Ecológico y Ambiental de 2026
 UR  - https://ecro.mee.gov.cn/fgbz/fl/202604/t20260416_1148993.html
-CY  - China
+CY  - CHN
 N1  - Código legal. Capítulo dedicado a prevención y control de contaminación lumínica. Artículos en capítulo 36; no atribuir topes universales sin cotejo.
 PY  - 2026
 ER  - 
@@ -466,7 +466,7 @@ TY  - ELEC
 ID  - F056
 T1  - Ministerio de Ecología y Medio Ambiente — entrada en vigor 15 agosto 2026
 UR  - https://www.mee.gov.cn/xxgk2018/xxgk/xxgk03/202604/t20260408_1148465.html
-CY  - China
+CY  - CHN
 N1  - Comunicado oficial. Fecha de vigencia del código. 2026
 ER  - 
 
@@ -474,7 +474,7 @@ TY  - STAT
 ID  - F057
 T1  - Korea Legislation Research Institute — Act on the Prevention of Light Pollution due to Artificial Lighting
 UR  - https://elaw.klri.re.kr/kor_mobile/viewer.do?hseq=71942&key=&type=new
-CY  - Corea del Sur
+CY  - KOR
 N1  - Ley nacional. Texto actualizado con reforma en 2025. 2012
 ER  - 
 
@@ -482,7 +482,7 @@ TY  - ELEC
 ID  - F058
 T1  - KLRI — Enforcement Decree of the Act on Prevention of Light Pollution
 UR  - https://elaw.klri.re.kr/kor_mobile/viewer.do?hseq=73076&key=16&type=sogan
-CY  - Corea del Sur
+CY  - KOR
 N1  - Decreto. Desarrollo de legislación sobre alumbrado y zonas. 2025
 ER  - 
 
@@ -490,7 +490,7 @@ TY  - ELEC
 ID  - F059
 T1  - Ministry of Environment — Light Pollution Countermeasure Guidelines
 UR  - https://www.env.go.jp/air/life/light_poll.html
-CY  - Japón
+CY  - JPN
 N1  - Guía ministerial. Documento revisado en 2021; no ley nacional general. 2021
 ER  - 
 
@@ -498,7 +498,7 @@ TY  - ELEC
 ID  - F060
 T1  - Lienchiang County — Light Pollution Control Ordinance
 UR  - https://law.matsu.gov.tw/LawContent.aspx?id=GL000512
-CY  - Taiwán
+CY  - TWN
 N1  - Ordenanza. Regula pantallas y emisiones lumínicas del condado. 2022
 ER  - 
 
@@ -506,7 +506,7 @@ TY  - ELEC
 ID  - F061
 T1  - Lienchiang County — Normativa complementaria 2026
 UR  - https://law.matsu.gov.tw/LawContent.aspx?id=GL000663
-CY  - Taiwán
+CY  - TWN
 N1  - Disposición local. Desarrollo o cambios de 2026 por revisar. 2026
 ER  - 
 
@@ -514,7 +514,7 @@ TY  - ELEC
 ID  - F062
 T1  - NParks — Biodiversity Impact Assessment Guidelines: Light management (2024)
 UR  - https://www.nparks.gov.sg/docs/default-source/resources/2024/technical-note-light-management-may2024.pdf
-CY  - Singapur
+CY  - SGP
 N1  - Guía técnica. Proteger fauna y bosques; referencia en evaluación de proyectos. 2024
 ER  - 
 
@@ -522,7 +522,7 @@ TY  - ELEC
 ID  - F063
 T1  - URA — Revision to Night Lighting Guidelines (2023)
 UR  - https://www.ura.gov.sg/guidelines/circulars/dc23-06/
-CY  - Singapur
+CY  - SGP
 N1  - Guía de planeamiento. CBD, Civic District, Marina Bay y Marina Centre. 2023
 ER  - 
 
@@ -530,7 +530,7 @@ TY  - STAT
 ID  - F064
 T1  - Singapore Statutes Online — Air Navigation (Dangerous Lights) Regulations 2025
 UR  - https://sso.agc.gov.sg/SL/ANA1966-S836-2025?DocDate=20251226&TransactionDate=20260128235959
-CY  - Singapur
+CY  - SGP
 N1  - Reglamento sectorial. Permisos para exhibiciones exteriores y luces peligrosas. 2025
 ER  - 
 
@@ -538,7 +538,7 @@ TY  - ELEC
 ID  - F065
 T1  - Department of Standards Malaysia — Draft MS 825-4:202X
 UR  - https://www.msonline.gov.my/images/Public%20Comment/1%20Nov%20-%2031%20Dec%2025/Draft%20MS%20825-4_202X_PC.pdf
-CY  - Malasia
+CY  - MYS
 N1  - BORRADOR de norma. Consulta pública; no norma vigente acreditada. 2025
 ER  - 
 
@@ -546,7 +546,7 @@ TY  - ELEC
 ID  - F066
 T1  - PLANMalaysia — Guía de anuncios y señalización
 UR  - https://www.planmalaysia.gov.my/uploads/content-downloads/file_20251114202514.pdf
-CY  - Malasia
+CY  - MYS
 N1  - Guía urbanística. Control de anuncios que deslumbran. 2018
 ER  - 
 
@@ -554,7 +554,7 @@ TY  - ELEC
 ID  - F067
 T1  - Ministry of Environment — Coastal Regulation Zone Notification 2019
 UR  - https://environmentclearance.nic.in/writereaddata/SCZMADocument/ICRZ_Notification2019.pdf
-CY  - India
+CY  - IND
 N1  - Regulación costera. Protección de playas sensibles. Verificar alcance: documento IC(RZ) puede corresponder a territorios insulares.
 PY  - 2019
 ER  - 
@@ -563,7 +563,7 @@ TY  - ELEC
 ID  - F068
 T1  - DCCEEW — National Light Pollution Guidelines for Wildlife (2023)
 UR  - https://www.dcceew.gov.au/environment/biodiversity/publications/national-light-pollution-guidelines-wildlife
-CY  - Australia
+CY  - AUS
 N1  - Guía nacional. Mitigación de daños a fauna; no ley nacional general. 2023
 ER  - 
 
@@ -571,7 +571,7 @@ TY  - ELEC
 ID  - F069
 T1  - Mackenzie District Council — District Plan, lighting provisions
 UR  - https://www.mackenzie.govt.nz/council/plans-reports-and-strategies/plans/district-plan
-CY  - Nueva Zelanda
+CY  - NZL
 N1  - Plan regulatorio municipal. Distrito de Mackenzie. Separar capítulo operativo de proposed plan change.
 ER  - 
 
@@ -579,7 +579,7 @@ TY  - ELEC
 ID  - F070
 T1  - Mackenzie District — Lighting and the Aoraki Dark Sky Reserve
 UR  - https://www.mackenzie.govt.nz/rates-building-and-property/lighting-and-the-aoraki-dark-sky-reserve
-CY  - Nueva Zelanda
+CY  - NZL
 N1  - Información local. Explicación de controles y protección astronómica. 
 ER  - 
 
@@ -587,7 +587,7 @@ TY  - STAT
 ID  - F071
 T1  - South African Government — Astronomy Geographic Advantage Act 21 of 2007
 UR  - https://www.gov.za/nr/documents/astronomy-geographic-advantage-act
-CY  - Sudáfrica
+CY  - ZAF
 N1  - Ley nacional. Protección de lugares de interés astronómico. 2007
 ER  - 
 
@@ -595,7 +595,7 @@ TY  - ELEC
 ID  - F072
 T1  - Department of Science, Technology and Innovation — Astronomy Management Authority
 UR  - https://www.dsti.gov.za/ama/documents
-CY  - Sudáfrica
+CY  - ZAF
 N1  - Repositorio autoridad. Reglamentos y notificaciones de áreas astronómicas. Distinguir borradores de textos aprobados.
 ER  - 
 
@@ -603,7 +603,7 @@ TY  - ELEC
 ID  - F073
 T1  - Royal Decree 40/2019 — Al Hajar Al Gharbi Starlight Reserve
 UR  - https://ea.gov.om/media/e31ntoiz/%D9%85%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%AD%D9%85%D9%8A%D8%A9-%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A.pdf
-CY  - Omán
+CY  - OMN
 N1  - Decreto real. Declara reserva de cielo oscuro. 2019
 ER  - 
 
@@ -611,7 +611,7 @@ TY  - ELEC
 ID  - F074
 T1  - Al Hajar Al Gharbi — propuesta de planificación espacial
 UR  - https://cms.mohup.gov.om/uploads/Al_Hajar_Al_Gharbi_1_9a47aebac2.pdf
-CY  - Omán
+CY  - OMN
 N1  - Documento de planificación. Propuestas de zona central y buffer. No equivale a reglamento adoptado.
 ER  - 
 
@@ -619,7 +619,7 @@ TY  - STAT
 ID  - F075
 T1  - SGG — Loi-cadre 99-12 relative à la Charte nationale de l’environnement
 UR  - https://www.sgg.gov.ma/Portals/0/lois/Loi_99-12_Fr.pdf?ver=2014-12-22-153118-340
-CY  - Marruecos
+CY  - MAR
 N1  - Ley-marco. Mandato sobre nuisance lumineuse. 2014
 ER  - 
 
@@ -627,7 +627,7 @@ TY  - ELEC
 ID  - F076
 T1  - IMANOR — Proyecto de norma PNM EN 12464-2
 UR  - https://www.imanor.gov.ma/wp-content/uploads/2023/07/00.3.204-EN-12464-2.pdf
-CY  - Marruecos
+CY  - MAR
 N1  - PROYECTO técnico. No se ha constatado adopción/obligatoriedad. 2023
 ER  - 
 
@@ -635,7 +635,7 @@ TY  - STAT
 ID  - F077
 T1  - Environmental Management Act 7 of 2007 — Government of Namibia
 UR  - https://www.npc.gov.na/publicpolicy/environmental-management-act-7-of-2007/
-CY  - Namibia
+CY  - NAM
 N1  - Ley ambiental general. Procedimientos ambientales, no luz nocturna específica. 2007
 ER  - 
 
@@ -643,7 +643,7 @@ TY  - ELEC
 ID  - F078
 T1  - Malta Green Public Procurement — Road lighting and traffic signals
 UR  - https://gpp.gov.mt/mandatory-criteria/road-lighting-and-traffic-signals/
-CY  - Malta
+CY  - MLT
 N1  - Criterios de contratación obligatorios. Ámbito compras públicas y pliegos. No aplicable automáticamente a instalaciones privadas.
 ER  - 
 
@@ -651,7 +651,7 @@ TY  - ELEC
 ID  - F079
 T1  - Malta GPP — marco de compras públicas verdes
 UR  - https://gpp.gov.mt/what-is-gpp/
-CY  - Malta
+CY  - MLT
 N1  - Guía institucional. Contexto de aplicación del régimen de compra. 
 ER  - 
 
@@ -659,7 +659,7 @@ TY  - ELEC
 ID  - F080
 T1  - REECL (UCM) - repertorio de legislacion sobre contaminacion luminica
 UR  - https://guaix.fis.ucm.es/reecl/legislacion
-CY  - España
+CY  - ESP
 N1  - Indice secundario especializado. España: guía organizada por ámbito estatal, ambiental, observatorios y autonomías. Repositorio orientativo, no sustituye boletines oficiales.
 ER  - 
 
@@ -667,7 +667,7 @@ TY  - ELEC
 ID  - F081
 T1  - REECL - listado de normas autonomicas
 UR  - https://guaix.fis.ucm.es/reecl/node/126
-CY  - España
+CY  - ESP
 N1  - Indice secundario especializado. Normativa de CCAA; no incluye ordenanzas municipales. Puede estar incompleto o desactualizado; abrir siempre BOE o boletin autonomico.
 ER  - 
 
@@ -675,7 +675,7 @@ TY  - ELEC
 ID  - F082
 T1  - Cel Fosc - archivo historico de legislacion (sitio antiguo)
 UR  - https://vell.celfosc.org/biblio/legal/index.html
-CY  - España
+CY  - ESP
 N1  - Archivo historico no verificado. Enlace suministrado por el usuario para contraste historico. No accesible durante la revision (timeout); nunca usarlo como prueba de vigencia.
 ER  - 
 
@@ -683,7 +683,7 @@ TY  - STAT
 ID  - F083
 T1  - Cataluña - Ley 6/2001 de ordenacion ambiental del alumbrado
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2001-11962
-CY  - España
+CY  - ESP
 N1  - Ley autonómica. Cataluña; ley específica y modificaciones consolidadas. Vigencia y modificatorias en texto BOE.
 PY  - 2001
 ER  - 
@@ -692,7 +692,7 @@ TY  - STAT
 ID  - F084
 T1  - Cataluña - Decreto 190/2015 de desarrollo
 UR  - https://portaljuridic.gencat.cat/eli/es-ct/d/2015/08/25/190
-CY  - España
+CY  - ESP
 N1  - Reglamento autonómico. Cataluña; desarrollo de Ley 6/2001. Identificador ELI; comprobar texto consolidado y anexos.
 PY  - 2015
 ER  - 
@@ -701,7 +701,7 @@ TY  - STAT
 ID  - F085
 T1  - Illes Balears - Ley 3/2005 de proteccion del medio nocturno
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2005-8460
-CY  - España
+CY  - ESP
 N1  - Ley autonómica. Illes Balears; instalaciones exteriores e interiores con afeccion exterior. 
 PY  - 2005
 ER  - 
@@ -710,7 +710,7 @@ TY  - ELEC
 ID  - F086
 T1  - Menorca - Reglamento insular de proteccion del medio nocturno (2021)
 UR  - https://guaix.fis.ucm.es/reecl/node/126
-CY  - España
+CY  - ESP
 N1  - Referenciado en indice tecnico. Menorca, reglamento insular; texto oficial enlazado desde REECL. Enlace de contexto; sustituir por BOIB primario en siguiente auditoria.
 PY  - 2021
 ER  - 
@@ -719,7 +719,7 @@ TY  - STAT
 ID  - F087
 T1  - Eivissa - Reglamento de proteccion del medio nocturno de la isla (BOIB 140/2026)
 UR  - https://www.caib.es/eboibfront/pdf/es/2026/140/1231903
-CY  - España
+CY  - ESP
 N1  - Reglamento insular. Eivissa; 3-XI-2026; art. 5 zonificacion E1-E4, horarios y anexos tecnicos. Aprobado 30-X-2026, publicado 3-XI-2026. Comprobar disposicion final de entrada en vigor.
 PY  - 2026
 ER  - 
@@ -728,7 +728,7 @@ TY  - STAT
 ID  - F088
 T1  - Cantabria - Ley 6/2006 de prevencion de contaminacion luminica
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2006-14085
-CY  - España
+CY  - ESP
 N1  - Ley autonómica. Cantabria; zonificacion, alumbrado, horarios y regimen sancionador. 
 PY  - 2006
 ER  - 
@@ -737,7 +737,7 @@ TY  - STAT
 ID  - F089
 T1  - Cantabria - Decreto 48/2010, desarrollo parcial de Ley 6/2006
 UR  - https://boc.cantabria.es/
-CY  - España
+CY  - ESP
 N1  - Reglamento autonómico. Cantabria; desarrollo parcial y observatorio. Enlace al portal del BOC, localizar por numero y fecha; corregido por fe de erratas.
 PY  - 2010
 ER  - 
@@ -746,7 +746,7 @@ TY  - STAT
 ID  - F090
 T1  - Andalucia - Ley 2/2026 para la Gestion Ambiental
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2026-7558
-CY  - España
+CY  - ESP
 N1  - Ley autonómica. Andalucia: titulo IV, cap II, seccion 3; sanciones titulo IX cap II seccion 4. En vigor 20-VI-2026; deroga expresamente la Ley 7/2007.
 PY  - 2026
 ER  - 
@@ -755,7 +755,7 @@ TY  - STAT
 ID  - F091
 T1  - Andalucia - Decreto 37/2025, Reglamento de proteccion frente a la contaminacion luminica
 UR  - https://www.juntadeandalucia.es/boja/2025/31/5
-CY  - España
+CY  - ESP
 N1  - Reglamento autonómico. Andalucia; medidas de iluminacion, areas sensibles y zonificacion. Vigente en lo que no contradiga la Ley 2/2026; comprobar compatibilidad.
 PY  - 2025
 ER  - 
@@ -764,7 +764,7 @@ TY  - STAT
 ID  - F092
 T1  - Andalucia - Ley 7/2007 (derogada desde 20-VI-2026)
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2007-15158
-CY  - España
+CY  - ESP
 N1  - Ley derogada. Historica; no presentar como vigente. Derogada por Ley 2/2026, disposicion derogatoria unica.
 PY  - 2007
 ER  - 
@@ -773,7 +773,7 @@ TY  - STAT
 ID  - F093
 T1  - Region de Murcia - Ley 4/2009 de proteccion ambiental integrada
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2011-2547
-CY  - España
+CY  - ESP
 N1  - Ley autonómica ambiental. Murcia; responsabilidades locales y control de contaminacion luminica. 
 PY  - 2009
 ER  - 
@@ -782,7 +782,7 @@ TY  - STAT
 ID  - F094
 T1  - Castilla y Leon - Ley 15/2010, prevencion contaminacion luminica
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2010-20074
-CY  - España
+CY  - ESP
 N1  - Ley autonómica. Castilla y Leon: alumbrado, ahorro y eficiencia energetica. 
 PY  - 2010
 ER  - 
@@ -791,7 +791,7 @@ TY  - STAT
 ID  - F095
 T1  - Extremadura - Ley 16/2015 de proteccion ambiental
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2015-5490
-CY  - España
+CY  - ESP
 N1  - Ley autonómica ambiental. Extremadura; titulo II capitulo III contaminacion luminica. 
 PY  - 2015
 ER  - 
@@ -800,7 +800,7 @@ TY  - STAT
 ID  - F096
 T1  - Euskadi - Ley 10/2021 de Administracion Ambiental
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2022-951
-CY  - España
+CY  - ESP
 N1  - Ley ambiental autonómica. Euskadi; art. 6 deberes ambientales; no ley integral sobre luz. 
 PY  - 2021
 ER  - 
@@ -809,7 +809,7 @@ TY  - STAT
 ID  - F097
 T1  - Navarra - Ley Foral 4/2022 de Cambio Climatico y Transicion Energetica
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2022-6402
-CY  - España
+CY  - ESP
 N1  - Ley foral. Navarra; art. 43 alumbrado exterior; deroga Ley Foral 10/2005 y DF 199/2007. 
 PY  - 2022
 ER  - 
@@ -818,7 +818,7 @@ TY  - STAT
 ID  - F098
 T1  - Navarra - Ley Foral 10/2005 (DEROGADA 2-IV-2022)
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2005-20977
-CY  - España
+CY  - ESP
 N1  - Ley historica derogada. Solo referencia de evolucion normativa. Derogada por Ley Foral 4/2022; no vigente.
 PY  - 2005
 ER  - 
@@ -827,7 +827,7 @@ TY  - STAT
 ID  - F099
 T1  - Comunitat Valenciana - Ley 6/2022 de Cambio Climatico, art. 40
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2023-4378
-CY  - España
+CY  - ESP
 N1  - Ley autonómica. Valencia: reduccion maxima de contaminacion luminica en alumbrado publico. 
 PY  - 2022
 ER  - 
@@ -836,7 +836,7 @@ TY  - STAT
 ID  - F100
 T1  - Canarias - Ley 6/2022 de cambio climatico y transicion energetica
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2023-2941
-CY  - España
+CY  - ESP
 N1  - Ley autonómica sectorial. Canarias; politicas sectoriales y alteraciones hasta 2026. No confundir con la normativa especial IAC, de ambito geografico diferente.
 PY  - 2022
 ER  - 
@@ -845,7 +845,7 @@ TY  - STAT
 ID  - F101
 T1  - Ley 31/1988, proteccion de observatorios del IAC
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-1988-25332
-CY  - España
+CY  - ESP
 N1  - Ley estatal especial territorial. La Palma y areas de Tenerife en ambito reglamentario; protege calidad astronomica. 
 PY  - 1988
 ER  - 
@@ -854,7 +854,7 @@ TY  - STAT
 ID  - F102
 T1  - Real Decreto 243/1992, Reglamento de la Ley 31/1988
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-1992-8705
-CY  - España
+CY  - ESP
 N1  - Reglamento estatal especial. Proteccion IAC; modificado por RD 580/2017. Ver delimitacion geografica y catalogo tecnico original.
 PY  - 1992
 ER  - 
@@ -863,7 +863,7 @@ TY  - STAT
 ID  - F103
 T1  - Aragon - Ley 10/2017 de regimen especial de Zaragoza, art. 27.1.g
 UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2018-1683
-CY  - España
+CY  - ESP
 N1  - Ley autonomica habilitante local. Solo municipio Zaragoza; competencia sobre contaminacion luminica. 
 PY  - 2017
 ER  - 
@@ -872,7 +872,7 @@ TY  - ELEC
 ID  - F104
 T1  - REECL - referencias ambientales nacionales y europeas
 UR  - https://guaix.fis.ucm.es/reecl/node/123
-CY  - España
+CY  - ESP
 N1  - Indice secundario. Ley 21/2013, Natura 2000, parques nacionales y Reglamento UE 2024/1991. 
 ER  - 
 
@@ -880,7 +880,7 @@ TY  - ELEC
 ID  - F105
 T1  - REECL - proteccion observatorios IAC y Cantabria
 UR  - https://guaix.fis.ucm.es/reecl/node/125
-CY  - España
+CY  - ESP
 N1  - Indice secundario. Ley 31/1988, RD 243/1992 y observatorio de Cantabria. 
 ER  - 
 
@@ -888,15 +888,15 @@ TY  - ELEC
 ID  - F106
 T1  - REECL - marco basico, RD 1890/2008 y guia IDAE
 UR  - https://guaix.fis.ucm.es/reecl/node/122
-CY  - España
+CY  - ESP
 N1  - Indice secundario. Prevencion nacional, eficiencia e iluminacion en carreteras. 
 ER  - 
 
-TY  - STAT
+TY  - ELEC
 ID  - F107
 T1  - 1979 Convention on Long-range Transboundary Air Pollution - articulos 1 a 4
 UR  - https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:21979A1113(01)
-CY  - Internacional
+CY  - INT
 N1  - Tratado internacional. CLRTAP: art. 1 menciona sustancias o energia; art. 1.b exige afeccion transfronteriza a distancia. Interpretacion luminica plausible; no fija limites de CCT/ULOR ni sanciones luminicas.
 PY  - 1979
 ER  - 
@@ -905,7 +905,7 @@ TY  - ELEC
 ID  - F108
 T1  - ONU CDI - Protection of the atmosphere, 2021 - guias y comentarios
 UR  - https://legal.un.org/ilc/texts/8_8.shtml
-CY  - Internacional
+CY  - INT
 N1  - Material juridico no vinculante. Proyecto de directrices; ONU AG resolucion 76/112 toma nota. No es tratado internacional con limites de luz.
 PY  - 2021
 ER  - 
@@ -914,7 +914,7 @@ TY  - ELEC
 ID  - F109
 T1  - ONU Asamblea General - resolucion 76/112, proteccion de la atmosfera
 UR  - https://digitallibrary.un.org/record/3952214
-CY  - Internacional
+CY  - INT
 N1  - Resolucion ONU. La AG toma nota de las directrices de la CDI, no crea convenio vinculante adicional. 
 PY  - 2021
 ER  - 
@@ -923,7 +923,7 @@ TY  - STAT
 ID  - F110
 T1  - UE - Reglamento 2024/1991 de restauracion de la naturaleza
 UR  - https://eur-lex.europa.eu/eli/reg/2024/1991/oj
-CY  - Internacional
+CY  - INT
 N1  - Reglamento UE. Anexo VII: ejemplo de medidas para detener, reducir o remediar luz artificial. No implica directamente valor de CCT o flujo maximo universal.
 PY  - 2024
 ER  - 
@@ -932,7 +932,7 @@ TY  - ELEC
 ID  - F111
 T1  - JRC - Green Public Procurement Criteria for Road Lighting and Traffic Signals
 UR  - https://publications.jrc.ec.europa.eu/repository/handle/JRC115406
-CY  - Internacional
+CY  - INT
 N1  - Criterios voluntarios de contratacion. Instrumentos luminotecnicos para contratacion; vigencia segun adopcion. 
 PY  - 2019
 ER  - 
@@ -941,7 +941,7 @@ TY  - ELEC
 ID  - F112
 T1  - European Commission - Light pollution, Mitigation measures for environmental protection
 UR  - https://data.europa.eu/doi/10.2779/906521
-CY  - Internacional
+CY  - INT
 N1  - Informe tecnico UE. Proteccion ecosistemas, estrategias y medidas no vinculantes. 
 PY  - 2023
 ER  - 
@@ -950,16 +950,16 @@ TY  - ELEC
 ID  - F113
 T1  - Czech Ministry of the Environment - Light pollution reduction measures in Europe
 UR  - https://doi.org/10.5281/zenodo.12676720
-CY  - Bibliografia cientifica
+CY  - REF
 N1  - Compilacion gubernamental comparada. Informe de 2022 sobre 32 paises europeos: ley, norma, guia y reservas. Panorama de 2022: no utilizar como prueba de vigencia 2026.
 PY  - 2022
 ER  - 
 
-TY  - JOUR
+TY  - ELEC
 ID  - F114
 T1  - Bara et al. - Keeping light pollution at bay: red-lines, target values, top-down approach
 UR  - https://doi.org/10.1016/j.envc.2021.100212
-CY  - Bibliografia cientifica
+CY  - REF
 N1  - Articulo cientifico. Propuesta sobre limites de inmisiones y presupuesto de emisiones, no norma vigente. 
 PY  - 2021
 ER  - 
@@ -968,7 +968,7 @@ TY  - ELEC
 ID  - F115
 T1  - Bara & Falchi - Artificial light at night: a global disruptor of the night-time environment
 UR  - https://doi.org/10.1098/rstb.2022.0352
-CY  - Bibliografia cientifica
+CY  - REF
 N1  - Revision cientifica. Conceptos y repercusiones ambientales, no reglamento. 
 PY  - 2023
 ER  - 
@@ -977,25 +977,25 @@ TY  - ELEC
 ID  - F116
 T1  - Bara et al. - Por un uso responsable de la iluminacion artificial (2025)
 UR  - https://doi.org/10.17075/uriarap.2025.es
-CY  - Bibliografia cientifica
+CY  - REF
 N1  - Recomendacion experta. Recomendaciones a administraciones; no ley obligatoria. 
 PY  - 2025
 ER  - 
 
-TY  - JOUR
+TY  - ELEC
 ID  - F117
 T1  - Yana Yakushina - Light pollution regulations and where to find them
 UR  - https://doi.org/10.1016/j.jenvman.2024.123757
-CY  - Bibliografia cientifica
+CY  - REF
 N1  - Articulo cientifico-juridico. Revision comparada de normas de contaminacion luminica. 
 PY  - 2025
 ER  - 
 
-TY  - JOUR
+TY  - ELEC
 ID  - F118
 T1  - Yana Yakushina - The endangered night: the challenge of light pollution within international environmental legal context
 UR  - https://doi.org/10.1093/jel/eqaf025
-CY  - Bibliografia cientifica
+CY  - REF
 N1  - Articulo cientifico-juridico. Derecho ambiental internacional y proteccion de la noche. 
 PY  - 2025
 ER  - 
@@ -1004,7 +1004,7 @@ TY  - ELEC
 ID  - F119
 T1  - Yakushina, Smith y Sanchez de Miguel - Manifesto for Tackling Light Pollution & EU Monitoring
 UR  - https://doi.org/10.5281/zenodo.12606631
-CY  - Bibliografia cientifica
+CY  - REF
 N1  - Manifiesto de investigacion. Propuesta de seguimiento europeo, no instrumento juridico. 
 PY  - 2024
 ER  - 
@@ -1013,7 +1013,7 @@ TY  - ELEC
 ID  - F120
 T1  - REECL - bibliografia cientifica y bases ALAN
 UR  - https://guaix.fis.ucm.es/reecl/Bibliografia
-CY  - Bibliografia cientifica
+CY  - REF
 N1  - Repertorio academico. Bibliografia de papers y colecciones tematicas. 
 ER  - 
 
@@ -1021,8 +1021,611 @@ TY  - ELEC
 ID  - F121
 T1  - REECL - propuestas para restaurar la calidad de la noche
 UR  - https://guaix.fis.ucm.es/reecl/node/135
-CY  - Bibliografia cientifica
+CY  - REF
 N1  - Propuesta de politica publica. Objetivos sugeridos para plan nacional de restauracion naturaleza, no norma vigente. 
 PY  - 2026
+ER  - 
+
+TY  - STAT
+ID  - F122
+T1  - Ley Orgánica del Ambiente (2006), G.O. extraordinaria 5.833, arts. 3 y 80
+UR  - https://faolex.fao.org/docs/pdf/ven69651.pdf
+CY  - VEN
+N1  - Ley orgánica. Define «contaminante» incluyendo energía y considera degradante la generación de energía lumínica (art. 80.12).. Copia de Gaceta en FAOLEX; no fija por sí sola límites de CCT, luminancia ni ULOR.
+PY  - 2006
+ER  - 
+
+TY  - STAT
+ID  - F123
+T1  - Resolución MPPEE n.º 112/2014, G.O. 40.523, Reglamento técnico de luminarias LED viales
+UR  - https://www.legiscomex.com/BancoMedios/Documentos%20PDF/res_112.pdf
+CY  - VEN
+N1  - Reglamento técnico sectorial. Art. 6.24.f: 0 % flujo hemisferio superior; art. 6.24.a: CCT 2700 K con neblina y 4000 K sin neblina.. Texto de Gaceta reproducido por repositorio no oficial. Alcance solo vial LED modular; vigencia posterior pendiente de comprobación.
+PY  - 2014
+ER  - 
+
+TY  - ELEC
+ID  - F124
+T1  - Resolución MPPEE n.º 73/2011, G.O. 39.694, publicidad luminosa
+UR  - https://www.ariae.org/sites/default/files/2017-03/compilacion-legal-mppee-junio-2012%20.pdf
+CY  - VEN
+N1  - Resolución sectorial. Art. 2: anuncios y vallas privadas del ámbito de la norma encendidos de 19:00 a 00:00; arts. 3-5: excepciones y control.. Compendio publicado por FUNDELEC/MPPEE, pp. 265-266 (PDF pp. 265-266 aprox.). No son 18:00-00:00. Verificar modificaciones posteriores a 2011.
+PY  - 2011
+ER  - 
+
+TY  - ELEC
+ID  - F125
+T1  - Decreto presidencial n.º 1.658/1991: protección del Observatorio de Llano del Hato (Mérida)
+UR  - https://doi.org/10.18257/raccefyn.1125
+CY  - VEN
+N1  - Normativa territorial histórica citada en artículo académico. Plan de ordenamiento y reglamento de uso del área de protección del Observatorio Astronómico Nacional.. Referencia secundaria académica, NO el decreto íntegro ni certificación de vigencia 2026; comprobar gacetas de 1990 y 1991.
+PY  - 1991
+ER  - 
+
+TY  - STAT
+ID  - F126
+T1  - Ley Penal del Ambiente (2012), G.O. n.º 39.913
+UR  - https://faolex.fao.org/docs/pdf/ven119396.pdf
+CY  - VEN
+N1  - Ley penal ambiental. Marco penal general; la ficha aportada no acredita un delito autónomo y general de contaminación lumínica.. Exige tipicidad, presupuesto normativo y prueba; no atribuir automáticamente delito a toda emisión nocturna.
+PY  - 2012
+ER  - 
+
+TY  - ELEC
+ID  - F127
+T1  - Maracaibo (2026): aprobación de ordenanza de gestión y protección ambiental
+UR  - https://elbolivariano.com.ve/2026/09/28/janner-perez-ordenanza-avala-vision-del-alcalde-di-martino-para-la-transformacion-ambiental-de-maracaibo/
+CY  - VEN
+N1  - Noticia municipal / fuente secundaria. Comunicado sobre ordenanza que menciona control de pantallas LED, permisos y actuación del IMA.. Aprobación informada en septiembre 2026; no se ha localizado texto íntegro de gaceta municipal ni límites numéricos para pantallas.
+PY  - 2026
+ER  - 
+
+TY  - JOUR
+ID  - F128
+T1  - Estudio académico: áreas para observación astronómica en Trujillo, Venezuela
+UR  - https://doi.org/10.18257/raccefyn.1125
+CY  - VEN
+N1  - Artículo científico. Estudio de iluminación y lugares de cielo oscuro; discute precedente del Decreto 1.658/1991.. Evidencia territorial e histórica; no constituye norma jurídica.
+PY  - 2020
+ER  - 
+
+TY  - ELEC
+ID  - F129
+T1  - EcoPolítica Venezuela (2026): conflictos ambientales en playas de Isla Margarita
+UR  - https://ecopoliticavenezuela.org/la-disputa-por-las-playas-de-margarita-entre-el-derecho-publico-y-la-vida-marina/
+CY  - VEN
+N1  - Reportaje ambiental. Reporta conflictos entre urbanización, iluminación costera y protección de tortugas.. Evidencia periodística, no demuestra por sí sola causalidad ecológica ni adopción de nueva ordenanza.
+PY  - 2026
+ER  - 
+
+TY  - ELEC
+ID  - F130
+T1  - Spatiotemporal Analysis of Venezuela's Nighttime Light During the Socioeconomic Crisis
+UR  - https://www.researchgate.net/publication/341499217_Spatiotemporal_Analysis_of_Venezuela's_Nighttime_Light_During_the_Socioeconomic_Crisis
+CY  - VEN
+N1  - Estudio de teledetección. Describe reducción del brillo nocturno urbano durante 2012-2018.. No confundir reducción por crisis eléctrica con política ambiental exitosa; VIIRS es insensible a parte del espectro azul.
+PY  - 2020
+ER  - 
+
+TY  - ELEC
+ID  - F131
+T1  - UICN WCC-2012-Rec-183: Cielos oscuros y conservación de la naturaleza
+UR  - https://portals.iucn.org/library/sites/library/files/resrecfiles/WCC_2012_REC_183_ES.pdf
+CY  - INT
+N1  - Recomendación UICN. Cantidad, espectro y horarios responsables; preservación del cielo nocturno. Soft law de conservación, sin sanción estatal directa
+PY  - 2012
+ER  - 
+
+TY  - ELEC
+ID  - F132
+T1  - UICN WCC-2020-Res-124: Tomar medidas para reducir la contaminación lumínica
+UR  - https://portals.iucn.org/library/sites/library/files/resrecfiles/WCC_2020_RES_124_ES.pdf
+CY  - INT
+N1  - Resolución UICN. Eliminación de puntos innecesarios, no iluminar áreas naturales, luz ámbar, corredores oscuros. Adoptada en el Congreso de Marsella 2021 (código 2020); no es ley nacional
+PY  - 2021
+ER  - 
+
+TY  - ELEC
+ID  - F133
+T1  - UICN WCC-2025-Res-046: Estrategia global para la restauración de la oscuridad natural
+UR  - https://portals.iucn.org/library/sites/library/files/resrecfiles/WCC_2025_RES_046_ES.pdf
+CY  - INT
+N1  - Resolución UICN. Restauración de oscuridad, hábitats clave, exclusión lumínica en áreas de biodiversidad. Aprobada en Abu Dabi 2025; exhortación política, no límite luminotécnico autoejecutable
+PY  - 2025
+ER  - 
+
+TY  - ELEC
+ID  - F134
+T1  - UICN-WCPA: The World at Night, Good Practice Guidelines No. 33
+UR  - https://portals.iucn.org/library/sites/library/files/documents/GPG-033-En.pdf
+CY  - INT
+N1  - Guía de buenas prácticas UICN. Gestión de la oscuridad, patrimonio, biodiversidad y condiciones de iluminación. Guía de 2024; no norma sancionadora
+PY  - 2024
+ER  - 
+
+TY  - ELEC
+ID  - F135
+T1  - UICN: Light pollution, ficha de política institucional 2024
+UR  - https://iucn.org/resources/issues-brief/light-pollution
+CY  - INT
+N1  - Nota institucional UICN. Necesidad, intensidad, color, apantallamiento y duración; mitigación ambiental. Guía de uso voluntario
+PY  - 2024
+ER  - 
+
+TY  - ELEC
+ID  - F136
+T1  - CMS Resolución 13.5 Rev.COP14: directrices internacionales sobre contaminación lumínica
+UR  - https://www.cms.int/sites/default/files/document/cms_cop14_res.13.5_rev.cop14_cms-international-light-pollution-guidelines_s.pdf
+CY  - INT
+N1  - Resolución de convenio ambiental. Directrices para especies migratorias, aves y murciélagos. No convertir recomendaciones técnicas en prohibiciones directas sin norma de implementación
+PY  - 2024
+ER  - 
+
+TY  - STAT
+ID  - F137
+T1  - Lombardía: Legge Regionale 31/2015, iluminación exterior y reducción de contaminación lumínica
+UR  - https://normelombardia.consiglio.regione.lombardia.it/NormeLombardia/Accessibile/main.aspx?command=open&exp_coll=467&iddoc=lr002015100500031&selnode=467&view=showsum
+CY  - ITA
+N1  - Ley regional. Arts. 6-10: funciones municipales, zonas especiales, régimen sancionador. Vigente como referencia principal; ver desarrollo reglamentario y transitoriedad
+PY  - 2015
+ER  - 
+
+TY  - STAT
+ID  - F138
+T1  - Lombardía: Legge Regionale 17/2000 (derogada por LR 31/2015)
+UR  - https://normelombardia.consiglio.regione.lombardia.it/NormeLombardia/Accessibile/main.aspx?exp_coll=3852004&iddoc=lr002000032700017&selnode=3852004&view=showsum
+CY  - ITA
+N1  - Ley regional derogada. Antecedente histórico del criterio de control de emisión superior. DEROGADA por art.12 LR31/2015, con disposiciones transitorias del art.11
+PY  - 2000
+ER  - 
+
+TY  - STAT
+ID  - F139
+T1  - Véneto: Legge Regionale 17/2009, contención de contaminación lumínica
+UR  - https://www.consiglioveneto.it/web/crv/dettaglio-legge?anno=2009&catStruttura=LR&numero=17&tab=vigente
+CY  - ITA
+N1  - Ley regional. Alumbrado exterior público y privado; protección de observatorios y medio ambiente. Enlace al texto vigente; aplicar artículos, modificaciones y excepciones
+PY  - 2009
+ER  - 
+
+TY  - STAT
+ID  - F140
+T1  - Emilia-Romaña: LR 19/2003 y directrices DGR 1732/2015 modificadas DGR 1514/2022
+UR  - https://ambiente.regione.emilia-romagna.it/it/luce-rumore-elettrosmog/normativa/norme-inquinamento-luminoso/norme-regionali
+CY  - ITA
+N1  - Ley regional y disposiciones técnicas. Requisitos técnicos e implantación de alumbrado exterior. La ley se desarrolla mediante normativa posterior; consultar texto coordinado actualizado
+PY  - 2003
+ER  - 
+
+TY  - STAT
+ID  - F141
+T1  - Lacio: LR 23/2000 sobre reducción y prevención de contaminación lumínica
+UR  - https://consiglio.regione.lazio.it/consiglio-regionale/?id=8508&sv=vigente&vw=leggiregionalidettaglio
+CY  - ITA
+N1  - Ley regional. Art. 1 abarca alumbrado exterior incluso publicitario; art. 10 sanciones. Texto vigente en portal oficial
+PY  - 2000
+ER  - 
+
+TY  - STAT
+ID  - F142
+T1  - Lacio: Reglamento regional 8/2005 sobre reducción de contaminación lumínica
+UR  - https://www.regione.lazio.it/regolamenti-regionali-testo-originale/regolamento-regionale-18-aprile-2005-n-8
+CY  - ITA
+N1  - Reglamento regional. Diseño, control de emisiones, áreas de protección de observatorios, vigilancia. Texto original; cotejar modificaciones posteriores
+PY  - 2005
+ER  - 
+
+TY  - STAT
+ID  - F143
+T1  - Marcas: LR 10/2002 y registro de observatorios actualizado en 2024
+UR  - https://contenuti.regione.marche.it/Regione-Utile/Ambiente/Inquinamento-luminoso
+CY  - ITA
+N1  - Ley regional. Ahorro de energía y reducción de contaminación lumínica; protección de observatorios. Portal regional de legislación y registro
+PY  - 2002
+ER  - 
+
+TY  - STAT
+ID  - F144
+T1  - Friuli-Venecia Julia: LR 15/2007, contención de contaminación lumínica
+UR  - https://lexview-int.regione.fvg.it/FontiNormative/xml/scarico.aspx?ANN=2007&LEX=0015&a_ante=&ci=&dataVig=&id=art4&idx=&lang=ita&n_ante=&tip=2&vig=
+CY  - ITA
+N1  - Ley regional. Alumbrado exterior, protección de observatorios, planes municipales; art. 8 modificado en 2012. Portal Lexview; verificar redacción vigente de los requisitos concretos
+PY  - 2007
+ER  - 
+
+TY  - STAT
+ID  - F145
+T1  - Umbría: LR 20/2005, contaminación lumínica y ahorro energético
+UR  - https://leggi.alumbria.it/mostra_atto.php?id=7033&m=5&v=FI%2CSA%2CTE%2CIS%2CVE%2CRA%2CMM
+CY  - ITA
+N1  - Ley regional. Arts. 3-6: planes municipales, protección de observatorios y sanción por punto de luz. Conformidad y excepciones dependen de desarrollo reglamentario
+PY  - 2005
+ER  - 
+
+TY  - STAT
+ID  - F146
+T1  - Apulia: LR 15/2005, reducción de contaminación lumínica y ahorro energético
+UR  - https://bussolanormativa.consiglio.puglia.it/public/leges/LeggeNavscroll.aspx?id=11505
+CY  - ITA
+N1  - Ley regional. Definición de contaminación como alteración de iluminación natural y dispersión fuera de área funcional. Portal del Consejo regional indica no derogada
+PY  - 2005
+ER  - 
+
+TY  - STAT
+ID  - F147
+T1  - Provincia autónoma de Trento: LP 16/2007 sobre ahorro energético y contaminación lumínica
+UR  - https://www.consiglio.provincia.tn.it/leggi-e-archivi/codice-provinciale/Pages/legge.aspx?uid=17030
+CY  - ITA
+N1  - Ley provincial. Art.4 planes y fuentes hacia abajo; art.6 vigilancia y sanciones. Enlace a texto coordinado, con desarrollo posterior
+PY  - 2007
+ER  - 
+
+TY  - ELEC
+ID  - F148
+T1  - Provincia autónoma de Bolzano: DGP 477/2022 sobre alumbrado público
+UR  - https://ambiente.provincia.bz.it/it/energia-clima/illuminazione-pubblica
+CY  - ITA
+N1  - Resolución provincial técnica. Criterios de protección, iluminación pública y reducción de consumo. Mandato técnico sectorial: no tratar como ley regional general
+PY  - 2022
+ER  - 
+
+TY  - ELEC
+ID  - F149
+T1  - Bolzano: plan de luz para gestores con más de 100 luminarias
+UR  - https://ambiente.provincia.bz.it/it/energia-clima/statistiche-illuminazione-pubblica-alto-adige
+CY  - ITA
+N1  - Política provincial regulada. Obligación de plan de adaptación para gestores que superen 100 aparatos. El portal oficial detalla obligación dentro del alcance de criterios provinciales
+PY  - 2022
+ER  - 
+
+TY  - STAT
+ID  - F150
+T1  - Valle de Aosta: LR 17/1998, normas de iluminación exterior
+UR  - https://www.consiglio.vda.it/app/leggieregolamenti/dettaglio?pk_lr=2478&versione=S
+CY  - ITA
+N1  - Ley regional histórica. Prohibición de haces ascendentes, protección de avifauna y observatorios. Página de texto histórico; verificar versión consolidada de 2026 antes de aplicar detalles
+PY  - 1998
+ER  - 
+
+TY  - STAT
+ID  - F151
+T1  - Piamonte: LR 31/2000, prevención de contaminación lumínica, reformas 2004 y 2018
+UR  - https://www.ecolex.org/details/legislation/regional-act-no-31-on-the-prevention-of-pollution-caused-by-lighting-and-making-provision-for-the-proper-use-of-energy-sources-lex-faoc045595/
+CY  - ITA
+N1  - Ley regional identificada en FAOLEX/ECOLEX. Protección de rutas migratorias, eficiencia y zonas naturales. Referencia internacional secundaria; verificar texto regional consolidado y reformas
+PY  - 2000
+ER  - 
+
+TY  - STAT
+ID  - F152
+T1  - Campania: LR 12/2002, alumbrado exterior y protección de observatorios
+UR  - https://www.regione.campania.it/normativa/userFile/documents/attachments/434_122012storico.pdf
+CY  - ITA
+N1  - Ley regional. Contención lumínica y consumo energético; incluye publicidad. Enlace a texto histórico; vigencia y modificatorias por revisar
+PY  - 2002
+ER  - 
+
+TY  - ELEC
+ID  - F153
+T1  - Eionet 2022: comparación de legislación regional italiana
+UR  - https://www.eionet.europa.eu/etcs/etc-he/products/etc-he-products/etc-he-report-2022-8-review-and-assessment-of-available-information-on-light-pollution-in-europe
+CY  - ITA
+N1  - Informe comparado institucional. Incluye regiones e instrumentos de Italia y Austria. Panorama histórico 2022: no prueba vigencia actual de cada norma
+PY  - 2022
+ER  - 
+
+TY  - STAT
+ID  - F154
+T1  - Alta Austria: Oö. Umweltschutzgesetz 1996 §41b (reforma LGBl 24/2024)
+UR  - https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=LrOO&Anlage=&Artikel=&Gesetzesnummer=10000480&Paragraf=41b&Uebergangsrecht=
+CY  - AUT
+N1  - Ley regional. Integra los apartados 4 y 7 de ÖNORM O 1052:2022-10, con excepciones; iluminación ajustada a necesidad. Entrada 01/05/2024; adaptación existente a más tardar 01/01/2029
+PY  - 2024
+ER  - 
+
+TY  - ELEC
+ID  - F155
+T1  - Alta Austria: LGBl 24/2024, reforma oficial del Oö. Umweltschutzgesetz
+UR  - https://www.ris.bka.gv.at/Dokumente/LgblAuth/LGBLA_OB_20240318_24/LGBLA_OB_20240318_24.html
+CY  - AUT
+N1  - Boletín legislativo regional. Texto original de inserción de §41b y §41c. Comprobar condiciones transitorias y competencia del Land
+PY  - 2024
+ER  - 
+
+TY  - STAT
+ID  - F156
+T1  - Tirol: Tiroler Naturschutzgesetz 2005, conservación de especies y Natura 2000
+UR  - https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000252
+CY  - AUT
+N1  - Ley territorial de protección natural. Arts.14, 24 y 25: evaluación de proyectos Natura 2000 y conservación de especies animales/aves. Aplicabilidad indirecta a luz en caso de impactos acreditados; no ley lumínica integral
+PY  - 2005
+ER  - 
+
+TY  - ELEC
+ID  - F157
+T1  - Baja Austria: Österreichischer Leitfaden Außenbeleuchtung, segunda edición 2026
+UR  - https://www.noe.gv.at/noe/Umweltschutz/Oesterreichischer_Leitfaden_Aussenbeleuchtung.html?print=true
+CY  - AUT
+N1  - Guía técnica de Länder. Diseño y manejo de alumbrado exterior con criterios ambientales. Guía, no prohibición legal general
+PY  - 2026
+ER  - 
+
+TY  - ELEC
+ID  - F158
+T1  - Viena: información pública sobre contaminación lumínica
+UR  - https://www.wien.gv.at/umwelt/lichtverschmutzung
+CY  - AUT
+N1  - Guía municipal. Efectos y medidas de iluminación urbana. No equivale a un reglamento de límites urbanos generales
+PY  - 2026
+ER  - 
+
+TY  - ELEC
+ID  - F159
+T1  - Viena: WUA, legislación austríaca e inmisiones luminosas
+UR  - https://www.wua-wien.at/naturschutz-und-stadtoekologie/165-weiterfhrende-informationen-zum-thema17/1817-oesterreichische-gesetze-und-richtlinien
+CY  - AUT
+N1  - Compilación jurídica pública. Relación de ÖNORM O1052, derecho vecinal y normas sectoriales. Comprobar ámbito de cada vía legal; la ÖNORM no es obligatoria automáticamente
+PY  - 2026
+ER  - 
+
+TY  - CASE
+ID  - F160
+T1  - VwGH Austria 2021: límite del amparo de luz por norma de construcción NÖ
+UR  - https://ris.bka.gv.at/VwghRechtssatzkette.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2020050036_20210113L06
+CY  - AUT
+N1  - Jurisprudencia. §6 NÖ Bauordnung no es una cláusula general contra contaminación lumínica. No confundir acceso a luz natural de ventana con derecho a evitar luz intrusa
+PY  - 2021
+ER  - 
+
+TY  - ELEC
+ID  - F161
+T1  - Código civil austríaco §364.2 ABGB: inmisiones vecinales
+UR  - https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622
+CY  - AUT
+N1  - Legislación civil. Vía civil de molestias vecinales que exceden lo habitual y dificultan significativamente uso del inmueble. Aplicación a luz requiere prueba y análisis jurisprudencial; no límite fotométrico universal
+PY  - 1811
+ER  - 
+
+TY  - ELEC
+ID  - F162
+T1  - Código Penal español LO 10/1995, arts.325, 332, 334 y 338
+UR  - https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444
+CY  - ESP
+N1  - Código penal. Arts.325 daño ambiental; 332 flora/hábitat; 334 fauna, reproducción/migración; 338 espacio protegido. No constituye automáticamente delito por iluminar; tipicidad, infracción y prueba son indispensables
+PY  - 1995
+ER  - 
+
+TY  - STAT
+ID  - F163
+T1  - Ley 42/2007 de Patrimonio Natural y Biodiversidad, protección de especies y hábitats
+UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490
+CY  - ESP
+N1  - Ley de biodiversidad. Prohibición de perturbaciones y deterioros de especies y sitios protegidos bajo condiciones legales. Puede justificar condiciones de luminarias en lugares de reproducción y reposo
+PY  - 2007
+ER  - 
+
+TY  - STAT
+ID  - F164
+T1  - Ley 21/2013 de evaluación ambiental, arts. 5 y 35, efectos y Natura 2000
+UR  - https://www.boe.es/buscar/act.php?id=BOE-A-2013-12913
+CY  - ESP
+N1  - Ley de evaluación ambiental. Identificación de efectos de proyectos, incluidas emisiones de energía y efectos en fauna. No toda instalación luminosa exige EIA; depende del proyecto y supuestos de ley
+PY  - 2013
+ER  - 
+
+TY  - ELEC
+ID  - F165
+T1  - Código Penal italiano: arts.727-bis y 733-bis (D.Lgs 121/2011)
+UR  - https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=011G0163&atto.dataPubblicazioneGazzetta=2011-08-01&bloccoAggiornamentoBreadCrumb=true&dataVigenza=18%2F05%2F2025&generaTabId=true&qId=&tabID=&tipoDettaglio=singolavigenza&title=lbl.dettaglioAtto
+CY  - ITA
+N1  - Legislación penal ambiental. Especies silvestres protegidas y hábitats protegidos. Requiere conducta típica; luz perjudicial no equivale por sí sola a delito
+PY  - 2011
+ER  - 
+
+TY  - ELEC
+ID  - F166
+T1  - Italia: Legge 68/2015, art.452-bis del Codice penale (inquinamento ambientale)
+UR  - https://www.normattiva.it/eli/id/2015/05/28/15G00082/CONSOLIDATED/
+CY  - ITA
+N1  - Reforma penal ambiental. Deterioro significativo y medible de ecosistemas, biodiversidad, flora o fauna. No se presume aplicable por mera luminancia elevada; se requiere conducta y daño legalmente calificado
+PY  - 2015
+ER  - 
+
+TY  - ELEC
+ID  - F167
+T1  - Directiva Hábitats 92/43/CEE, arts.6(2)-(3) y 12
+UR  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A31992L0043
+CY  - INT
+N1  - Directiva europea. Evitar perturbaciones significativas en Natura 2000; evaluación apropiada de proyectos. La transposición nacional rige muchas obligaciones; aplicar al sitio y efecto concretos
+PY  - 1992
+ER  - 
+
+TY  - ELEC
+ID  - F168
+T1  - Directiva Aves 2009/147/CE, arts.4 y 5
+UR  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32009L0147
+CY  - INT
+N1  - Directiva europea. Prohibiciones de perturbación deliberada significativa durante reproducción y cría. Requiere hechos y vínculo ecológico comprobables
+PY  - 2009
+ER  - 
+
+TY  - ELEC
+ID  - F169
+T1  - Directiva EIA 2011/92/UE, modificada por 2014/52/UE
+UR  - https://eur-lex.europa.eu/eli/dir/2011/92/oj
+CY  - INT
+N1  - Directiva europea. Evaluación de efectos significativos de proyectos sometidos a evaluación. No somete automáticamente toda luminaria a EIA
+PY  - 2011
+ER  - 
+
+TY  - STAT
+ID  - F170
+T1  - Austria — BGBl. I 40/2024, reforma Luftfahrtgesetz, balizamiento nocturno bajo demanda
+UR  - https://www.ris.bka.gv.at/eli/bgbl/I/2024/40
+CY  - AUT
+N1  - Ley federal sectorial. Introduce §123a Luftfahrtgesetz para activación de señales aéreas según presencia de aeronaves. Publicada 18-04-2024; cotejar texto consolidado tras reforma de 2026
+PY  - 2024
+ER  - 
+
+TY  - STAT
+ID  - F171
+T1  - Austria — BGBl. I 80/2026, reforma de Luftfahrtgesetz de julio 2026
+UR  - https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_80/BGBLA_2026_I_80.html
+CY  - AUT
+N1  - Ley federal modificatoria. Reforma vigente desde 01-09-2026 en relación con el régimen de balizamiento. Fuente oficial: el marco de 2024 no debe presentarse sin esta modificación
+PY  - 2026
+ER  - 
+
+TY  - STAT
+ID  - F172
+T1  - Austria — Luftfahrtgesetz §123a, versión vigente desde septiembre de 2026
+UR  - https://ris.bka.gv.at/Dokumente/Bundesnormen/NOR40280164/NOR40280164.html
+CY  - AUT
+N1  - Ley federal consolidada. Austro Control regula balizamiento nocturno según detección de aeronaves; contempla condiciones de seguridad. Aplicabilidad a obstáculos según autorizaciones; permite iluminación por fallo de seguridad y excepciones
+PY  - 2026
+ER  - 
+
+TY  - CASE
+ID  - F173
+T1  - Tribunal Supremo austríaco OGH 6 Ob 60/20x, inmisiones lumínicas por piscina
+UR  - https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20200423_OGH0002_0060OB00060_20X0000_000&IncludeSelf=True
+CY  - AUT
+N1  - Jurisprudencia civil. Superar ÖNORM O 1052 no demuestra automáticamente perturbación sustancial exigible según §364 ABGB. Caso concreto: uso esporádico seis veces por año; no generalizar el resultado a toda contaminación lumínica
+PY  - 2020
+ER  - 
+
+TY  - STAT
+ID  - F174
+T1  - Austria — Gewerbeordnung 1994 §74(2), autorizaciones industriales y molestias vecinales
+UR  - https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=74
+CY  - AUT
+N1  - Ley federal industrial. Instalaciones sujetas a permiso por posible molestia a vecinos; incluye molestias en otras formas. No presupone que toda luz industrial sea sancionable; requiere expediente y criterios aplicables
+PY  - 1994
+ER  - 
+
+TY  - STAT
+ID  - F175
+T1  - Austria — Gewerbeordnung 1994 §77, condiciones de autorización empresarial
+UR  - https://ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=77
+CY  - AUT
+N1  - Ley federal industrial. Permite condiciones adecuadas para evitar peligros o molestias incompatibles con régimen de actividad. Aplicabilidad según autorización y pruebas sobre la luz emitida
+PY  - 1994
+ER  - 
+
+TY  - STAT
+ID  - F176
+T1  - Viena — Bauordnung für Wien §85(4), prohibición de molestias excesivas por anuncios luminosos
+UR  - https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrW&Gesetzesnummer=20000006&Paragraf=85
+CY  - AUT
+N1  - Ley del Land de construcción. Los anuncios luminosos no pueden causar molestias superiores a lo habitual a usuarios del mismo edificio o vecinos. Artículo aplicable a Lichtreklamen; no es límite general de Kelvin o lux
+PY  - 2026
+ER  - 
+
+TY  - STAT
+ID  - F177
+T1  - Viena — Bauordnung für Wien §134a, régimen tasado de derechos vecinales
+UR  - https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrW&Gesetzesnummer=20000006&Paragraf=134a
+CY  - AUT
+N1  - Ley del Land de construcción. Delimita taxativamente derechos subjetivos vecinales en procedimientos de licencia. No afirmar que art.85(4) da por sí solo legitimación subjetiva directa en todo procedimiento
+PY  - 2026
+ER  - 
+
+TY  - STAT
+ID  - F178
+T1  - Carintia — Kärntner Naturschutzgesetz 2002 §4(d), autorización de proyectores celestes
+UR  - https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrK&Gesetzesnummer=20000118&Paragraf=4
+CY  - AUT
+N1  - Ley regional de naturaleza. La operación de Himmelsstrahlern exige autorización en todo el Land. Autorización previa, no prohibición absoluta; el artículo no fija un límite genérico de CCT
+PY  - 2017
+ER  - 
+
+TY  - STAT
+ID  - F179
+T1  - Carintia — Kärntner Naturschutzgesetz 2002 §24b, evaluación de proyectos Natura 2000
+UR  - https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=LrK&Gesetzesnummer=20000118&Paragraf=24b
+CY  - AUT
+N1  - Ley regional de conservación. Proyectos susceptibles de afectar áreas europeas protegidas requieren evaluación de compatibilidad. Aplicable por efecto potencial y condiciones del sitio, no a cualquier luminaria
+PY  - 2024
+ER  - 
+
+TY  - ELEC
+ID  - F180
+T1  - Tiroler Umweltanwaltschaft, criterios técnicos de Effektbeleuchtung (2021)
+UR  - https://www.tiroler-umweltanwaltschaft.gv.at/wp-content/uploads/2024/02/20210309_PP4_Effektbeleuchtung.pdf
+CY  - AUT
+N1  - Recomendaciones técnico-ambientales. Aconseja apagado 22:00 en zonas verdes/periféricas y 24:00 en áreas urbanas; evita proyectores en migración. Documento orientativo, no ordenanza con horarios universales; parámetros por recomendación
+PY  - 2021
+ER  - 
+
+TY  - CASE
+ID  - F181
+T1  - Tribunal administrativo de Tirol, expediente E 1466/2022, licencia con LED ≤2400 K
+UR  - https://www.lvwg-tirol.gv.at/fileadmin/bilder/E_1466_2022_anonym.pdf
+CY  - AUT
+N1  - Decisión administrativa judicial. Un proyecto concreto de Tirol prevé usar LED de temperatura de color máxima 2400 K. Condición o característica de caso particular, NO máximo general austriaco o tirolés
+PY  - 2022
+ER  - 
+
+TY  - ELEC
+ID  - F182
+T1  - Guía austríaca de iluminación exterior, segunda edición 2026 (nueve Länder)
+UR  - https://www.noe.gv.at/noe/Umweltschutz/Leitfaden_Aussenbeleuchtung_Auflage2_web_%282%29.pdf
+CY  - AUT
+N1  - Guía técnica institucional. Resume ÖNORM O 1052 (2700 K residencias, 3000 K centros urbanos y criterios PC ámbar en hábitats sensibles). Guía voluntaria, salvo incorporación jurídica localizada; 0,25 lx recomendado no es límite nacional general
+PY  - 2026
+ER  - 
+
+TY  - STAT
+ID  - F183
+T1  - Salzburgo — Salzburger Naturschutzgesetz 1999 §26 (especies protegidas)
+UR  - https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrSbg&Gesetzesnummer=20000003&Paragraf=26
+CY  - AUT
+N1  - Ley regional de protección natural. Protección de fauna que puede ser relevante para iluminación nocturna dañina. Aplicación indirecta requiere contexto, especies protegidas y alteración acreditada
+PY  - 2026
+ER  - 
+
+TY  - ELEC
+ID  - F184
+T1  - Vorarlberg — guía Natürlich dunkel 2024
+UR  - https://vorarlberg.at/-/natuerlich-dunkel
+CY  - AUT
+N1  - Guía pública regional. Recomendaciones de protección ecológica y diseño de iluminación exterior. Guía voluntaria; no sustituye la legislación regional sobre construcción y conservación
+PY  - 2024
+ER  - 
+
+TY  - ELEC
+ID  - F185
+T1  - Baja Austria — autorización de anuncios conforme al derecho regional de conservación
+UR  - https://www.noe.gv.at/noe/Naturschutz/Rechtliche_Grundlagen_Verfahren_zur_Genehmigung_von_Werbean.html
+CY  - AUT
+N1  - Guía oficial para permisos regionales. Anuncios y carteles en paisaje abierto pueden requerir autorización de conservación natural. No se presume aplicable a todos los anuncios en todos los lugares
+PY  - 2026
+ER  - 
+
+TY  - STAT
+ID  - F186
+T1  - Burgenland — Burgenländisches Baugesetz 1997 §16, publicidad y carteles
+UR  - https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrBgld&Gesetzesnummer=10000504&Paragraf=16
+CY  - AUT
+N1  - Ley del Land de construcción. Disposiciones sobre carteles y anuncios que pueden limitar fuentes luminosas. Solo requisitos edificatorios aplicables al caso; no un régimen fotométrico general
+PY  - 1997
+ER  - 
+
+TY  - STAT
+ID  - F187
+T1  - Unión Europea — Reglamento (CE) 245/2009, DEROGADO en septiembre 2021
+UR  - https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32009R0245
+CY  - INT
+N1  - Reglamento europeo derogado. Antecedente de diseño ecológico de equipos luminosos y luz residual. DEROGADO por Reglamento (UE) 2019/2020 art.10, efecto 01-09-2021; no vigente en 2026
+PY  - 2009
+ER  - 
+
+TY  - STAT
+ID  - F188
+T1  - Unión Europea — Reglamento (UE) 2019/2020, diseño ecológico de fuentes luminosas
+UR  - https://eur-lex.europa.eu/eli/reg/2019/2020
+CY  - INT
+N1  - Reglamento europeo. Texto vigente que deroga 245/2009, con requisitos ecodiseño de fuentes luminosas y mecanismos de control. No crea régimen europeo horizontal de contaminación lumínica ni límite general ULOR en instalaciones urbanas
+PY  - 2019
 ER  - 
 
