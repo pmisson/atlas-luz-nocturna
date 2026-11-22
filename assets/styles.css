@@ -118,3 +118,12 @@
 .eu-project-tag{font-size:10px;letter-spacing:.02em;padding:5px 8px;border-radius:20px;background:#30465a;color:#dae5e9}
 .project-no-results{padding:14px 0;color:#c2d3dd}
 @media(max-width:900px){.eu-highlight-grid{grid-template-columns:1fr}.eu-project-grid{grid-template-columns:1fr}}
+
+/* Incorporaciones documentales a países, estables sin JavaScript. */
+.new-jurisdictions-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px;margin:22px 0}
+.new-jurisdiction{border:1px solid #3c576c;border-radius:9px;background:#1a2b3d;padding:18px;display:flex;flex-direction:column;gap:10px}
+.new-jurisdiction h3{font-size:18px;line-height:1.3;margin:0}.new-jurisdiction h3 a{color:#e0fff3;text-decoration:underline;text-decoration-color:#62a493;text-underline-offset:4px}
+.new-jurisdiction p{font-size:12px;line-height:1.55;color:#b5cdda;margin:0}
+.new-jurisdiction-source{margin-top:auto;font-size:11px;color:#8ee7cc;text-decoration:underline}
+@media(max-width:960px){.new-jurisdictions-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.new-jurisdictions-grid{grid-template-columns:1fr}}

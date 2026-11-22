@@ -2665,5 +2665,397 @@
         ]
       ]
     }
+  },
+  {
+    "id": "F222",
+    "type": "webpage",
+    "title": "Decreto 194/2021: Reglamento de calidad lumínica y eficiencia energética",
+    "URL": "https://regest.ad/ca/laws/reglament-194-2021",
+    "note": "Prohíbe emisión superior en espacios protegidos (0%), establece criterios espectrales y limita luz intrusa.",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F223",
+    "type": "webpage",
+    "title": "Gobierno de Andorra: página oficial de normas de calidad atmosférica y Reglamento 194/2021",
+    "URL": "https://www.govern.ad/ca/tematiques/medi-ambient-i-sostenibilitat/atmosfera/qualitat-de-l-aire/normativa",
+    "note": "Referencia oficial al Decreto 194/2021 publicado en BOPA 68, 16/06/2021.",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F224",
+    "type": "webpage",
+    "title": "Gobierno de Andorra: guía de aplicación del reglamento lumínico",
+    "URL": "https://www.govern.ad/documents/d/guest/guia_aplicacio_reglament_luminic?download=true",
+    "note": "Explica niveles de luz intrusa 10 lx vespertino y 5 lx nocturno y el alcance de criterios técnicos.",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F225",
+    "type": "webpage",
+    "title": "Luxemburgo: Ley de 18-07-2018 de protección de la naturaleza, consolidada en 2025",
+    "URL": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a771/consolide/20250721",
+    "note": "Art. 3.35 define contaminación lumínica; permite condiciones de iluminación y mitigación en autorizaciones de proyectos.",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F226",
+    "type": "webpage",
+    "title": "Ministerio de Medio Ambiente de Luxemburgo: FAQ autorizaciones y contaminación lumínica",
+    "URL": "https://environnement.public.lu/fr/support/faqs/anf-faq1.html",
+    "note": "En zona verde se pueden prohibir luces exteriores de casetas y limitar usos nocturnos para proteger especies.",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F227",
+    "type": "webpage",
+    "title": "Steinfort: concepto municipal de alumbrado respetuoso con fauna (2026)",
+    "URL": "https://www.steinfort.lu/fr/media-center/mediatheque/media-detail/2026-10-21/concept-declairage-respectueux-de-la-faune-de-la-commune-de-steinfort",
+    "note": "Propone LED de 2700 K en vías y 2200 K en senderos, evitar emisión superior >0,5 % y apagar luz prescindible seis horas.",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F228",
+    "type": "webpage",
+    "title": "Putscheid: certificación DarkSky Community y política de iluminación (2026)",
+    "URL": "https://putscheid.lu/commune-de-putscheid-distinguee-par-la-certification-dark-sky-community/",
+    "note": "Alumbrado 2200 K y encendidos adaptativos; certificado de comunidad DarkSky en 2026.",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F229",
+    "type": "webpage",
+    "title": "Gobierno de Luxemburgo: guía 'Gutes Licht' sobre iluminación exterior",
+    "URL": "https://environnement.public.lu/fr/actualites/2018/juin-2018/lichtemissionen.html",
+    "note": "Orientaciones oficiales para reducir luz innecesaria e impactos en fauna, flora y paisaje.",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F230",
+    "type": "webpage",
+    "title": "Hungría: Decreto 280/2024 (TÉKA), §§74-75, contaminación lumínica",
+    "URL": "https://njt.jog.gov.hu/jogszabaly/2024-280-20-22",
+    "note": "§75(2)(d) exige que la iluminación no provoque contaminación lumínica; §74(1)(j) reconoce el riesgo ambiental.",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F231",
+    "type": "webpage",
+    "title": "Letonia: Reglamento ministerial n.º 402/2005, anexo 2 modificado en 2024",
+    "URL": "https://likumi.lv/ta/id/110209",
+    "note": "Luminancia máxima nocturna de anuncios de carretera según 4 tamaños y 3 zonas; en campo abierto 30/20/15/10 cd/m².",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F232",
+    "type": "webpage",
+    "title": "Riga: ordenanza publicidad exterior RD-23-201-sn, reformada RD-26-42-sn 2026",
+    "URL": "https://likumi.lv/ta/id/351861",
+    "note": "Apartado 7.15: límites nocturnos 500/300/150/100 cd/m² por superficie de anuncio.",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F233",
+    "type": "webpage",
+    "title": "Riga: reforma oficial RD-26-42-sn de abril 2026",
+    "URL": "https://likumi.lv/ta/id/370730",
+    "note": "Incorporó los apartados 7.14-7.15 y limitaciones de efectos luminosos y pantallas en 2026.",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F234",
+    "type": "webpage",
+    "title": "Java Occidental: Perda 2/2016, art.30, entorno del Observatorio Bosscha",
+    "URL": "https://jdihdprd.jabarprov.go.id/data/jdih/pdf/2016/Perda-Nomor-2-Tahun-2016.pdf",
+    "note": "Zona central y radio de 2,5 km; exige apantallar lámparas y limitar proyectores, anuncios y horarios.",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F235",
+    "type": "webpage",
+    "title": "Registro normativo BPK: Perda de Java Occidental 2/2016",
+    "URL": "https://peraturan.bpk.go.id/Details/175866/perda-prov-jawa-barat-no-2-",
+    "note": "Confirma publicación de norma 2/2016 y que aparece como vigente en ficha estatal.",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F236",
+    "type": "webpage",
+    "title": "Observatorio Bosscha ITB: normativa territorial de protección astronómica",
+    "URL": "https://bosscha.itb.ac.id/id/tentang/profil/",
+    "note": "Confirma expresamente el Reglamento regional 2/2016 y el Reglamento presidencial 45/2018.",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F237",
+    "type": "webpage",
+    "title": "Liechtenstein: Umweltschutzgesetz USG 2008, texto consolidado 01-01-2026, art.14",
+    "URL": "https://www.gesetze.li/konso/pdf/2008199000",
+    "note": "Art.14: limitar emisiones en origen conforme a posibilidad técnica y viabilidad económica; reforzar ante perturbaciones.",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F238",
+    "type": "webpage",
+    "title": "Administración de Liechtenstein: página oficial Lichtverschmutzung",
+    "URL": "https://www.llv.li/de/privatpersonen/freizeit-umwelt-und-tierhaltung/umweltbelastung/lichtverschmutzung",
+    "note": "La luz artificial molesta o perjudicial entra en el USG; se usa guía suiza FOEN 2021 de siete puntos.",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F239",
+    "type": "webpage",
+    "title": "Abu Dabi: Dark Sky Policy (2024), versión inglesa oficial DMT",
+    "URL": "https://www.dmt.gov.ae/-/media/Project/DMT/DMT/E-Library/10-24/02/Abu-Dhabi-Dark-Sky-Policy_Version-10_GeoUpdate.pdf",
+    "note": "Máximo 4000 K en vías y 3000 K en plazas/fachadas, apagado a medianoche y sensores de presencia.",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F240",
+    "type": "webpage",
+    "title": "Abu Dabi: Dark Sky Policy, versión árabe oficial",
+    "URL": "https://dmt.gov.ae/-/media/Project/DMT/DMT/E-Library/10-24/02/Abu-Dhabi-Dark-Sky-Policy_Version-10_GeoUpdate-Ar.pdf",
+    "note": "Confirma instrucciones de temperatura de color, iluminación de seguridad y apagado de fachadas.",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F241",
+    "type": "webpage",
+    "title": "Estonia: Law Enforcement Act, §56, efectos luminosos excesivos",
+    "URL": "https://www.riigiteataja.ee/en/tolge/pdf/511092025010",
+    "note": "Prohíbe efectos luminosos significativamente molestos; de 22:00 a 06:00 fuera de lugar público si continuados/repetidos.",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F242",
+    "type": "webpage",
+    "title": "Islandia: Reglamento 11/2026, reforma de construcción 112/2012",
+    "URL": "https://www.reglugerd.is/reglugerdir/eftir-raduneytum/umhverfisraduneyti/nr/24813",
+    "note": "Nuevo artículo 10.4.5: prevención de contaminación lumínica, luz intrusa y deslumbramiento; fechas escalonadas.",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F243",
+    "type": "webpage",
+    "title": "Islandia: Reglamento de Construcción 112/2012, versión consolidada 2026",
+    "URL": "https://island.is/reglugerdir/nr/0112-2012",
+    "note": "Incluye artículo 10.4.5 sobre emisión lumínica y carteles iluminados.",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F244",
+    "type": "webpage",
+    "title": "Islandia: orientaciones técnicas sobre art.10.4.5",
+    "URL": "https://www.byggingarreglugerd.is/leidbeiningar/10-4-5-krofur-vardandi-ljosmengun",
+    "note": "Recomienda minimizar flujo, usar apantallamiento y evitar luz azul excesiva; tabla de luminancias para señales.",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F245",
+    "type": "webpage",
+    "title": "Lituania: Orden 4-670/2013, reglas de instalación de publicidad exterior",
+    "URL": "https://www.e-tar.lt/portal/en/legalAct/TAR.227E5D9EC4AC/asr",
+    "note": "Regula licencias, ubicación y requisitos de publicidad exterior; versión consolidada vigente.",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F246",
+    "type": "webpage",
+    "title": "Lituania: Ley de Publicidad, artículo 12, instalación de anuncios exteriores",
+    "URL": "https://www.infolex.lt/teise/DocumentSinglePart.aspx?AktoId=116413&StrNr=12",
+    "note": "Restringe anuncios próximos a vías cuando pueden deslumbrar o poner en peligro tráfico y contiene salvaguardas para espacios protegidos.",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F247",
+    "type": "webpage",
+    "title": "Lituania: guía de derechos ambientales e incidencia jurídica de contaminación lumínica",
+    "URL": "https://www.zmogausteisiugidas.lt/en/themes/environment-and-climate-change/environment/light-pollution",
+    "note": "Remite a Ley de Publicidad, reglamento exterior y ley ambiental general.",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F248",
+    "type": "webpage",
+    "title": "Puerto Rico: Ley 218/2008 de Control y Prevención de la Contaminación Lumínica, texto enmendado",
+    "URL": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Ambientales/218-2008/218-2008.pdf",
+    "note": "Protege cielo nocturno, fauna y zonas de especial protección; enmiendas hasta Ley 103/2020 incluidas.",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F249",
+    "type": "webpage",
+    "title": "Puerto Rico: Reglamento para el Control y la Prevención de la Contaminación Lumínica",
+    "URL": "https://www.drna.pr.gov/wp-content/uploads/2020/08/3__Reglamento-Para-El-Controly-la-Prevenci%C3%B3n-de-la-Contaminaci%C3%B3n-Lum%C3%ADnica.pdf",
+    "note": "Obligaciones técnicas, control de luz emitida al cielo, protección de tortugas marinas y bioluminiscencia.",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
   }
 ]

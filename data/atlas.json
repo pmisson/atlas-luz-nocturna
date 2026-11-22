@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-22",
-    "country_count": 52,
-    "source_count": 221,
-    "star_count": 67,
+    "country_count": 62,
+    "source_count": 249,
+    "star_count": 84,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -19,7 +19,8 @@
     "note_austria_2026": "Revisión 22-11-2026 con informe aportado: §41b Alta Austria 2024/2029, aviación §123a actualizado 01-09-2026, ÖNORM como estándar salvo incorporación, OGH 6Ob60/20x, Carintia y Viena. CE245/2009 derogado 2021.",
     "eu_framework_count": 22,
     "note_eu_2026": "Informe europeo de 33 páginas integrado el 22-XI-2026: Directivas Hábitats/Aves/EIA, caso TJUE C-504/14, restauración, ecodiseño y su derogación histórica, EUROBATS, CMS COP15 y estandarización.",
-    "note_saudia_2026": "Arabia Saudí añadida: Res. C/15/25/1 de 2025, aplicación AlUla desde enero 2026 por fases; 8 fuentes, 6 medidas destacadas, certificaciones DarkSky diferenciadas. No extrapolar límites al país completo."
+    "note_saudia_2026": "Arabia Saudí añadida: Res. C/15/25/1 de 2025, aplicación AlUla desde enero 2026 por fases; 8 fuentes, 6 medidas destacadas, certificaciones DarkSky diferenciadas. No extrapolar límites al país completo.",
+    "expansion_2026": "10 nuevas fichas: Luxemburgo, Andorra, Hungría, Letonia, Indonesia, Liechtenstein, EAU, Estonia, Islandia, Lituania. Puerto Rico, ley territorial de EE.UU. Estados pendientes investigados por separado."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -151,18 +152,21 @@
       "name": "Estados Unidos",
       "region": "América",
       "level": "subnacional",
-      "summary": "No existe un régimen federal general único. Diversos estados y municipios regulan apantallamiento, horario y zonas astronómicas.",
+      "summary": "No existe un régimen federal general único. Diversos estados y municipios regulan apantallamiento, horario y zonas astronómicas. Puerto Rico dispone de ley específica 218/2008 y reglamento territorial de control de contaminación lumínica.",
       "scope": "Estatal / municipal",
       "confidence": "Fuente primaria identificada",
-      "note": "",
+      "note": " Puerto Rico se documenta como jurisdicción territorial separada, no país adicional. Véase docs/USA_puerto-rico.md.",
       "keywords": "",
       "source_ids": [
         "F012",
         "F013",
-        "F014"
+        "F014",
+        "F248",
+        "F249"
       ],
       "star_ids": [
-        "M05"
+        "M05",
+        "M84"
       ]
     },
     {
@@ -1032,6 +1036,197 @@
       "star_ids": [
         "M40"
       ]
+    },
+    {
+      "iso": "AND",
+      "name": "Andorra",
+      "region": "Europa",
+      "level": "especifica",
+      "summary": "Decreto 194/2021: reglamento nacional específico de calidad lumínica con limitaciones de luz intrusa, espectro, emisión superior y zonas protegidas; distingue obligaciones generales y diseño de nuevas instalaciones.",
+      "scope": "Nacional; iluminación pública y privada con excepciones según artículos",
+      "confidence": "Reglamento nacional consolidado y documentación oficial identificados",
+      "note": "Criterios de diseño técnico del capítulo III aplican a instalaciones nuevas o modificadas; alumbrado de seguridad y otros supuestos exceptuados. No interpretar una alternativa CCT como medición espectral.",
+      "keywords": "Decret 194/2021 2700 K 15% 500nm lux 10 5 FHS 0 andorra",
+      "source_ids": [
+        "F222",
+        "F223",
+        "F224"
+      ],
+      "star_ids": [
+        "M68",
+        "M69",
+        "M70",
+        "M71"
+      ]
+    },
+    {
+      "iso": "LUX",
+      "name": "Luxemburgo",
+      "region": "Europa",
+      "level": "general",
+      "summary": "La Ley de Protección de la Naturaleza de 18/07/2018, modificada, define expresamente contaminación lumínica (art. 3, nº35) y permite condiciones de iluminación máxima y prevención de ALAN en determinadas autorizaciones; planes municipales de protección de fauna.",
+      "scope": "Nacional: autorizaciones de conservación y planes locales de alumbrado",
+      "confidence": "Legilux consolidado 2025 y páginas oficiales municipales",
+      "note": "No hay límite universal nacional de ULOR o Kelvin demostrado por esta ley. Putscheid y Steinfort aplican políticas municipales; certificación DarkSky no equivale a legislación estatal.",
+      "keywords": "Luxembourg Legilux pollution lumineuse Loi du 18 juillet 2018 article 3 35 Putscheid 2200 Steinfort chauves-souris",
+      "source_ids": [
+        "F225",
+        "F226",
+        "F227",
+        "F228",
+        "F229"
+      ],
+      "star_ids": [
+        "M72",
+        "M73"
+      ]
+    },
+    {
+      "iso": "HUN",
+      "name": "Hungría",
+      "region": "Europa",
+      "level": "sectorial",
+      "summary": "Decreto gubernamental 280/2024 (TÉKA): define contaminación lumínica y, en su §75(2)(d), exige proyectar iluminación de edificios, espacios públicos, anuncios y alumbrado ornamental sin provocar contaminación lumínica.",
+      "scope": "Nacional: construcción, publicidad y alumbrado público/ornamental",
+      "confidence": "Texto primario consolidado del registro nacional de legislación NJT",
+      "note": "Norma obligatoria de edificación; no se ha localizado tabla nacional general de Kelvin o lux para todas las instalaciones. Revisar fecha aplicable a licencias y disposiciones transitorias.",
+      "keywords": "280/2024 TÉKA 74 75 fényszennyezés lighting Hungary",
+      "source_ids": [
+        "F230"
+      ],
+      "star_ids": [
+        "M74"
+      ]
+    },
+    {
+      "iso": "LVA",
+      "name": "Letonia",
+      "region": "Europa",
+      "level": "sectorial",
+      "summary": "El Reglamento estatal nº402 de 2005, modificado en 2024, limita luminancia nocturna de anuncios de carretera por superficie y entorno. Riga endureció en 2026 su ordenanza de publicidad exterior con límites por tamaño de pantalla.",
+      "scope": "Nacional: publicidad junto a vías; Riga: ordenanza municipal de anuncios",
+      "confidence": "Normativa estatal y ordenanza municipal vigentes en likumi.lv",
+      "note": "Las tablas regulan publicidad/objetos informativos en ámbitos especificados, NO cualquier instalación de alumbrado nocturno. Diferenciar reglas estatales de la ordenanza de Riga.",
+      "keywords": "Latvia Riga reklāmas spožums 2026 402 464 500 300 150 100 cd/m2",
+      "source_ids": [
+        "F231",
+        "F232",
+        "F233"
+      ],
+      "star_ids": [
+        "M75",
+        "M76"
+      ]
+    },
+    {
+      "iso": "IDN",
+      "name": "Indonesia",
+      "region": "Asia",
+      "level": "subnacional",
+      "summary": "Reglamento de Java Occidental 2/2016, art.30, protege la zona central y un radio de 2,5 km del Observatorio Bosscha, restringe fuentes y tipos de iluminación, exige apantallamiento e incluye restricciones de proyectores.",
+      "scope": "Provincia de Java Occidental, entorno del Observatorio Bosscha (Bandung)",
+      "confidence": "Art. 30 del reglamento regional consultado en repositorio jurídico provincial",
+      "note": "Norma provincial, no ley nacional. Una regulación local posterior de Bandung Occidental define además una zona de 2 km; se debe cotejar antes de combinar radios.",
+      "keywords": "Bosscha West Java Perda 2 2016 pasal 30 2.5km lampu sorot light pollution",
+      "source_ids": [
+        "F234",
+        "F235",
+        "F236"
+      ],
+      "star_ids": [
+        "M77"
+      ]
+    },
+    {
+      "iso": "LIE",
+      "name": "Liechtenstein",
+      "region": "Europa",
+      "level": "general",
+      "summary": "El Umweltschutzgesetz (USG) de 2008, art.14, permite limitar emisiones perjudiciales en la fuente y alcanza las inmisiones de luz artificial, según confirma la administración; aplica guía suiza FOEN 2021 para evaluar casos.",
+      "scope": "Nacional: Ley de Protección Ambiental y aplicación del principio de prevención",
+      "confidence": "Legislación consolidada 1-1-2026 y página oficial de administración ambiental",
+      "note": "La guía técnica suiza no es un reglamento liechtensteiniano de límites obligatorios universales. No se verificó ley específica de cielo nocturno.",
+      "keywords": "Liechtenstein Umweltschutzgesetz USG Art 14 Lichtemissionen BAFU 2021",
+      "source_ids": [
+        "F237",
+        "F238"
+      ],
+      "star_ids": [
+        "M78"
+      ]
+    },
+    {
+      "iso": "ARE",
+      "name": "Emiratos Árabes Unidos",
+      "region": "Asia",
+      "level": "subnacional",
+      "summary": "Abu Dhabi Dark Sky Policy de 2024: criterios territoriales de apantallamiento, CCT máxima 4000 K en vías y 3000 K para fachadas y espacios abiertos, sensores y apagado a medianoche. No se ha acreditado ley federal equivalente.",
+      "scope": "Emirato de Abu Dabi: política territorial oficial de cielo oscuro",
+      "confidence": "Política publicada por el Departamento de Municipios y Transporte; sanciones y alcance jurídico detallado por verificar",
+      "note": "Es una política oficial con cláusulas imperativas (shall); falta comprobar la disposición de adopción, fecha de aplicación exigible, excepciones, procedimiento sancionador y permisos. No presentar todo como derecho nacional vinculante.",
+      "keywords": "Abu Dhabi Dark Sky Policy 2024 CCT 3000 4000 curfew midnight motion sensors UAE",
+      "source_ids": [
+        "F239",
+        "F240"
+      ],
+      "star_ids": [
+        "M79",
+        "M80"
+      ]
+    },
+    {
+      "iso": "EST",
+      "name": "Estonia",
+      "region": "Europa",
+      "level": "sectorial",
+      "summary": "La Law Enforcement Act estonia, §56, prohíbe los efectos luminosos que molesten significativamente a otras personas en lugares públicos; fuera de ellos restringe perturbaciones continuadas o repetidas de 22:00 a 06:00, con excepciones.",
+      "scope": "Nacional: Ley de Aplicación de la Ley y Orden en lugares públicos y privados",
+      "confidence": "Texto de Ley de Orden Público, §56, versión oficial inglesa",
+      "note": "La norma habla de 'light effects' y molestias significativas, no de emisión al cielo, inmisiones ecológicas o valores de CCT. Hay excepciones por emergencias, permisos municipales y festivos.",
+      "keywords": "Estonia Law Enforcement Act section 56 light effects 22 06 häiriv valgusefektid",
+      "source_ids": [
+        "F241"
+      ],
+      "star_ids": [
+        "M81"
+      ]
+    },
+    {
+      "iso": "ISL",
+      "name": "Islandia",
+      "region": "Europa",
+      "level": "sectorial",
+      "summary": "La reforma nº11/2026 del Reglamento de Construcción 112/2012 añadió el art.10.4.5, que exige prevenir contaminación lumínica, luz intrusa vecinal y deslumbramiento de tráfico; aplica por fases desde mayo de 2026.",
+      "scope": "Nacional: reglamento de edificación 112/2012 reformado en 2026",
+      "confidence": "Reglamento 11/2026 y texto consolidado oficial consultados",
+      "note": "El artículo constituye obligación de diseño, con directrices de orientación y apantallamiento. La guía ministerial de luminancias de carteles es orientación técnica, no necesariamente techo legal directo.",
+      "keywords": "Iceland byggingarreglugerð 112/2012 11/2026 10.4.5 ljósmengun 2027",
+      "source_ids": [
+        "F242",
+        "F243",
+        "F244"
+      ],
+      "star_ids": [
+        "M82",
+        "M83"
+      ]
+    },
+    {
+      "iso": "LTU",
+      "name": "Lituania",
+      "region": "Europa",
+      "level": "sectorial",
+      "summary": "La Ley lituana de Publicidad (art.12) y la Orden 4-670/2013 regulan permisos y ubicación de publicidad exterior, incluidos supuestos de deslumbramiento vial y espacios protegidos; no se identificó ley nacional integral de contaminación lumínica.",
+      "scope": "Nacional: Ley de Publicidad y orden ministerial de publicidad exterior",
+      "confidence": "Orden ministerial 4-670/2013 vigente y ley de publicidad art.12; límite fotométrico no identificado",
+      "note": "Las normas tratan anuncios exteriores y seguridad visual; no atribuir límites numéricos de luminancia ni efectos de biodiversidad que no constan. País incluido por regulación sectorial indirecta.",
+      "keywords": "Lithuania lauko reklama apšvietimas glare advertising 4-670 2013 light pollution",
+      "source_ids": [
+        "F245",
+        "F246",
+        "F247"
+      ],
+      "star_ids": []
     }
   ],
   "sources": [
@@ -3465,6 +3660,314 @@
       "note": "El reconocimiento es voluntario; exige diferenciarlo de leyes saudíes de áreas protegidas y requisitos técnicos locales.",
       "year": "2025",
       "official": true
+    },
+    {
+      "id": "F222",
+      "country": "AND",
+      "title": "Decreto 194/2021: Reglamento de calidad lumínica y eficiencia energética",
+      "url": "https://regest.ad/ca/laws/reglament-194-2021",
+      "type": "Reglamento nacional",
+      "effect": "Prohíbe emisión superior en espacios protegidos (0%), establece criterios espectrales y limita luz intrusa.",
+      "note": "Texto consolidado en repertorio jurídico; el Gobierno confirma BOPA 68/2021. Ver ámbito de cada capítulo.",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F223",
+      "country": "AND",
+      "title": "Gobierno de Andorra: página oficial de normas de calidad atmosférica y Reglamento 194/2021",
+      "url": "https://www.govern.ad/ca/tematiques/medi-ambient-i-sostenibilitat/atmosfera/qualitat-de-l-aire/normativa",
+      "type": "Catálogo oficial de normas",
+      "effect": "Referencia oficial al Decreto 194/2021 publicado en BOPA 68, 16/06/2021.",
+      "note": "El portal enlaza al boletín, no sustituye el texto de cada artículo.",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F224",
+      "country": "AND",
+      "title": "Gobierno de Andorra: guía de aplicación del reglamento lumínico",
+      "url": "https://www.govern.ad/documents/d/guest/guia_aplicacio_reglament_luminic?download=true",
+      "type": "Guía oficial",
+      "effect": "Explica niveles de luz intrusa 10 lx vespertino y 5 lx nocturno y el alcance de criterios técnicos.",
+      "note": "Guía interpretativa del reglamento, sin autonomía normativa.",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F225",
+      "country": "LUX",
+      "title": "Luxemburgo: Ley de 18-07-2018 de protección de la naturaleza, consolidada en 2025",
+      "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a771/consolide/20250721",
+      "type": "Ley ambiental nacional",
+      "effect": "Art. 3.35 define contaminación lumínica; permite condiciones de iluminación y mitigación en autorizaciones de proyectos.",
+      "note": "No es prohibición nacional de iluminación urbana en general; analizar ámbito de autorizaciones.",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F226",
+      "country": "LUX",
+      "title": "Ministerio de Medio Ambiente de Luxemburgo: FAQ autorizaciones y contaminación lumínica",
+      "url": "https://environnement.public.lu/fr/support/faqs/anf-faq1.html",
+      "type": "Guía interpretativa ministerial",
+      "effect": "En zona verde se pueden prohibir luces exteriores de casetas y limitar usos nocturnos para proteger especies.",
+      "note": "Guía de tramitación de la ley, no norma adicional automática.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F227",
+      "country": "LUX",
+      "title": "Steinfort: concepto municipal de alumbrado respetuoso con fauna (2026)",
+      "url": "https://www.steinfort.lu/fr/media-center/mediatheque/media-detail/2026-10-21/concept-declairage-respectueux-de-la-faune-de-la-commune-de-steinfort",
+      "type": "Política municipal",
+      "effect": "Propone LED de 2700 K en vías y 2200 K en senderos, evitar emisión superior >0,5 % y apagar luz prescindible seis horas.",
+      "note": "Concepto municipal publicado octubre de 2026; se investiga incorporación a ordenanzas de construcción.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F228",
+      "country": "LUX",
+      "title": "Putscheid: certificación DarkSky Community y política de iluminación (2026)",
+      "url": "https://putscheid.lu/commune-de-putscheid-distinguee-par-la-certification-dark-sky-community/",
+      "type": "Plan municipal / certificación",
+      "effect": "Alumbrado 2200 K y encendidos adaptativos; certificado de comunidad DarkSky en 2026.",
+      "note": "Certificación no supone ley luxemburguesa; verificar fuerza de reglamento municipal específico.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F229",
+      "country": "LUX",
+      "title": "Gobierno de Luxemburgo: guía 'Gutes Licht' sobre iluminación exterior",
+      "url": "https://environnement.public.lu/fr/actualites/2018/juin-2018/lichtemissionen.html",
+      "type": "Guía estatal voluntaria",
+      "effect": "Orientaciones oficiales para reducir luz innecesaria e impactos en fauna, flora y paisaje.",
+      "note": "Guía de 2018, no exigible salvo incorporación a permiso o plan.",
+      "year": "2018",
+      "official": true
+    },
+    {
+      "id": "F230",
+      "country": "HUN",
+      "title": "Hungría: Decreto 280/2024 (TÉKA), §§74-75, contaminación lumínica",
+      "url": "https://njt.jog.gov.hu/jogszabaly/2024-280-20-22",
+      "type": "Reglamento gubernamental de edificación",
+      "effect": "§75(2)(d) exige que la iluminación no provoque contaminación lumínica; §74(1)(j) reconoce el riesgo ambiental.",
+      "note": "Exigir proyectos y ámbitos regulados; sin límite numérico nacional demostrado por este precepto.",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F231",
+      "country": "LVA",
+      "title": "Letonia: Reglamento ministerial n.º 402/2005, anexo 2 modificado en 2024",
+      "url": "https://likumi.lv/ta/id/110209",
+      "type": "Reglamento estatal",
+      "effect": "Luminancia máxima nocturna de anuncios de carretera según 4 tamaños y 3 zonas; en campo abierto 30/20/15/10 cd/m².",
+      "note": "No aplica a anuncios sobre edificios, según art.2; comprobar ámbito territorial y geométrico.",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F232",
+      "country": "LVA",
+      "title": "Riga: ordenanza publicidad exterior RD-23-201-sn, reformada RD-26-42-sn 2026",
+      "url": "https://likumi.lv/ta/id/351861",
+      "type": "Ordenanza municipal vinculante",
+      "effect": "Apartado 7.15: límites nocturnos 500/300/150/100 cd/m² por superficie de anuncio.",
+      "note": "Rige la publicidad exterior definida por la ordenanza municipal, no luz viaria de Letonia entera.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F233",
+      "country": "LVA",
+      "title": "Riga: reforma oficial RD-26-42-sn de abril 2026",
+      "url": "https://likumi.lv/ta/id/370730",
+      "type": "Enmienda municipal",
+      "effect": "Incorporó los apartados 7.14-7.15 y limitaciones de efectos luminosos y pantallas en 2026.",
+      "note": "Con fecha de revisión de agosto 2026; revisar ordenanza consolidada para excepciones.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F234",
+      "country": "IDN",
+      "title": "Java Occidental: Perda 2/2016, art.30, entorno del Observatorio Bosscha",
+      "url": "https://jdihdprd.jabarprov.go.id/data/jdih/pdf/2016/Perda-Nomor-2-Tahun-2016.pdf",
+      "type": "Reglamento provincial vinculate",
+      "effect": "Zona central y radio de 2,5 km; exige apantallar lámparas y limitar proyectores, anuncios y horarios.",
+      "note": "Art.30 establece ámbito y medidas cualitativas; no identifica Kelvin o lux generales.",
+      "year": "2016",
+      "official": true
+    },
+    {
+      "id": "F235",
+      "country": "IDN",
+      "title": "Registro normativo BPK: Perda de Java Occidental 2/2016",
+      "url": "https://peraturan.bpk.go.id/Details/175866/perda-prov-jawa-barat-no-2-",
+      "type": "Registro oficial del acto",
+      "effect": "Confirma publicación de norma 2/2016 y que aparece como vigente en ficha estatal.",
+      "note": "Comprobar eventuales revisiones posteriores en Java Occidental.",
+      "year": "2016",
+      "official": true
+    },
+    {
+      "id": "F236",
+      "country": "IDN",
+      "title": "Observatorio Bosscha ITB: normativa territorial de protección astronómica",
+      "url": "https://bosscha.itb.ac.id/id/tentang/profil/",
+      "type": "Institución científica",
+      "effect": "Confirma expresamente el Reglamento regional 2/2016 y el Reglamento presidencial 45/2018.",
+      "note": "Referencia institucional complementaria, no sustituto de texto normativo.",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F237",
+      "country": "LIE",
+      "title": "Liechtenstein: Umweltschutzgesetz USG 2008, texto consolidado 01-01-2026, art.14",
+      "url": "https://www.gesetze.li/konso/pdf/2008199000",
+      "type": "Ley ambiental nacional",
+      "effect": "Art.14: limitar emisiones en origen conforme a posibilidad técnica y viabilidad económica; reforzar ante perturbaciones.",
+      "note": "La administración confirma aplicación a luz; no se deduce límite fotométrico cuantitativo de este artículo.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F238",
+      "country": "LIE",
+      "title": "Administración de Liechtenstein: página oficial Lichtverschmutzung",
+      "url": "https://www.llv.li/de/privatpersonen/freizeit-umwelt-und-tierhaltung/umweltbelastung/lichtverschmutzung",
+      "type": "Interpretación administrativa",
+      "effect": "La luz artificial molesta o perjudicial entra en el USG; se usa guía suiza FOEN 2021 de siete puntos.",
+      "note": "Recomendaciones de FOEN no son necesariamente obligación legal nacional por sí mismas.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F239",
+      "country": "ARE",
+      "title": "Abu Dabi: Dark Sky Policy (2024), versión inglesa oficial DMT",
+      "url": "https://www.dmt.gov.ae/-/media/Project/DMT/DMT/E-Library/10-24/02/Abu-Dhabi-Dark-Sky-Policy_Version-10_GeoUpdate.pdf",
+      "type": "Política territorial oficial",
+      "effect": "Máximo 4000 K en vías y 3000 K en plazas/fachadas, apagado a medianoche y sensores de presencia.",
+      "note": "No se ha recuperado ley o resolución de adopción con régimen sancionador aplicable; el valor 3000 K no equivale a luz ambientalmente inocua.",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F240",
+      "country": "ARE",
+      "title": "Abu Dabi: Dark Sky Policy, versión árabe oficial",
+      "url": "https://dmt.gov.ae/-/media/Project/DMT/DMT/E-Library/10-24/02/Abu-Dhabi-Dark-Sky-Policy_Version-10_GeoUpdate-Ar.pdf",
+      "type": "Política territorial bilingüe",
+      "effect": "Confirma instrucciones de temperatura de color, iluminación de seguridad y apagado de fachadas.",
+      "note": "Versión árabe para cotejar traducción y matices jurídicos.",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F241",
+      "country": "EST",
+      "title": "Estonia: Law Enforcement Act, §56, efectos luminosos excesivos",
+      "url": "https://www.riigiteataja.ee/en/tolge/pdf/511092025010",
+      "type": "Ley nacional de orden público",
+      "effect": "Prohíbe efectos luminosos significativamente molestos; de 22:00 a 06:00 fuera de lugar público si continuados/repetidos.",
+      "note": "Excepciones por emergencias, autorización local y determinadas festividades; no regula todo skyglow.",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F242",
+      "country": "ISL",
+      "title": "Islandia: Reglamento 11/2026, reforma de construcción 112/2012",
+      "url": "https://www.reglugerd.is/reglugerdir/eftir-raduneytum/umhverfisraduneyti/nr/24813",
+      "type": "Reglamento nacional de construcción",
+      "effect": "Nuevo artículo 10.4.5: prevención de contaminación lumínica, luz intrusa y deslumbramiento; fechas escalonadas.",
+      "note": "Desde 1 mayo 2026 en proyectos con plan aprobado posterior; desde 1 agosto 2027 para todas nuevas solicitudes de licencia.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F243",
+      "country": "ISL",
+      "title": "Islandia: Reglamento de Construcción 112/2012, versión consolidada 2026",
+      "url": "https://island.is/reglugerdir/nr/0112-2012",
+      "type": "Reglamento oficial consolidado",
+      "effect": "Incluye artículo 10.4.5 sobre emisión lumínica y carteles iluminados.",
+      "note": "No afecta por defecto a carreteras y otras infraestructuras exentas del reglamento.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F244",
+      "country": "ISL",
+      "title": "Islandia: orientaciones técnicas sobre art.10.4.5",
+      "url": "https://www.byggingarreglugerd.is/leidbeiningar/10-4-5-krofur-vardandi-ljosmengun",
+      "type": "Guía técnica oficial",
+      "effect": "Recomienda minimizar flujo, usar apantallamiento y evitar luz azul excesiva; tabla de luminancias para señales.",
+      "note": "Guía técnica sobre artículo legal; no convertir números de tabla en norma directa sin remisión.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F245",
+      "country": "LTU",
+      "title": "Lituania: Orden 4-670/2013, reglas de instalación de publicidad exterior",
+      "url": "https://www.e-tar.lt/portal/en/legalAct/TAR.227E5D9EC4AC/asr",
+      "type": "Orden ministerial sectorial",
+      "effect": "Regula licencias, ubicación y requisitos de publicidad exterior; versión consolidada vigente.",
+      "note": "No identificamos en ella límites obligatorios generales de ALAN.",
+      "year": "2013",
+      "official": true
+    },
+    {
+      "id": "F246",
+      "country": "LTU",
+      "title": "Lituania: Ley de Publicidad, artículo 12, instalación de anuncios exteriores",
+      "url": "https://www.infolex.lt/teise/DocumentSinglePart.aspx?AktoId=116413&StrNr=12",
+      "type": "Ley sectorial",
+      "effect": "Restringe anuncios próximos a vías cuando pueden deslumbrar o poner en peligro tráfico y contiene salvaguardas para espacios protegidos.",
+      "note": "Texto facilitado por repertorio jurídico; efectos de contaminación lumínica más amplios no acreditados.",
+      "year": "2026",
+      "official": false
+    },
+    {
+      "id": "F247",
+      "country": "LTU",
+      "title": "Lituania: guía de derechos ambientales e incidencia jurídica de contaminación lumínica",
+      "url": "https://www.zmogausteisiugidas.lt/en/themes/environment-and-climate-change/environment/light-pollution",
+      "type": "Guía de derechos",
+      "effect": "Remite a Ley de Publicidad, reglamento exterior y ley ambiental general.",
+      "note": "Guía informativa, no fuente legislativa.",
+      "year": "2025",
+      "official": false
+    },
+    {
+      "id": "F248",
+      "country": "USA",
+      "title": "Puerto Rico: Ley 218/2008 de Control y Prevención de la Contaminación Lumínica, texto enmendado",
+      "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Ambientales/218-2008/218-2008.pdf",
+      "type": "Ley territorial específica",
+      "effect": "Protege cielo nocturno, fauna y zonas de especial protección; enmiendas hasta Ley 103/2020 incluidas.",
+      "note": "Norma del Estado Libre Asociado de Puerto Rico, no ley federal de Estados Unidos ni otro país.",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F249",
+      "country": "USA",
+      "title": "Puerto Rico: Reglamento para el Control y la Prevención de la Contaminación Lumínica",
+      "url": "https://www.drna.pr.gov/wp-content/uploads/2020/08/3__Reglamento-Para-El-Controly-la-Prevenci%C3%B3n-de-la-Contaminaci%C3%B3n-Lum%C3%ADnica.pdf",
+      "type": "Reglamento territorial",
+      "effect": "Obligaciones técnicas, control de luz emitida al cielo, protección de tortugas marinas y bioluminiscencia.",
+      "note": "El reglamento debe aplicarse con su fecha de entrada, excepciones y modificaciones.",
+      "year": "2014",
+      "official": true
     }
   ],
   "stars": [
@@ -4433,6 +4936,245 @@
         "F215"
       ],
       "caution": "Respeta condiciones de legislación sancionadora municipal y la ejecución por fases; no sanción estatal universal.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M68",
+      "country": "AND",
+      "title": "Áreas naturales protegidas: FHS superior 0 % y máximo 2700 K",
+      "description": "El artículo 3 de la norma prohíbe emisión hacia arriba por encima de 0 % y lámparas superiores a 2700 K en espacios naturales protegidos, salvo áreas de acogida.",
+      "force": "Reglamento nacional vinculante",
+      "param": "FHS superior ≤0 % y CCT ≤2700 K en espacios protegidos",
+      "scope": "Andorra: espacios naturales protegidos",
+      "sources": [
+        "F222"
+      ],
+      "caution": "No aplica a toda luminaria nacional; contiene excepción para zonas de acogida.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M69",
+      "country": "AND",
+      "title": "Luz intrusa residencial: 10 y 5 lux",
+      "description": "La norma limita la iluminancia que invade viviendas a 10 lux en el período vespertino y 5 lux de noche.",
+      "force": "Reglamento nacional vinculante",
+      "param": "10 lx al atardecer / 5 lx en horario nocturno",
+      "scope": "Instalaciones comprendidas por el Decreto 194/2021",
+      "sources": [
+        "F222"
+      ],
+      "caution": "Ver definiciones de periodo y condiciones técnicas, y los alumbrados exceptuados.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M70",
+      "country": "AND",
+      "title": "Emisión azul de nuevas luminarias públicas: umbral espectral",
+      "description": "Art. 8: para nuevas instalaciones públicas se exige menos del 15 % de radiancia en 380–500 nm respecto a 380–780 nm, con alternativa documental de CCT ≤3000 K cuando no pueda justificarse espectralmente.",
+      "force": "Reglamento nacional vinculante",
+      "param": "Fracción espectral por debajo de 500 nm <15 %; vía documental alternativa CCT ≤3000 K",
+      "scope": "Andorra: alumbrado público nuevo o modificado",
+      "sources": [
+        "F222"
+      ],
+      "caution": "Una lámpara de 3000 K no equivale físicamente a tener menos del 15 % de azul; consultar la regulación literal.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M71",
+      "country": "AND",
+      "title": "Luminancia de rótulos y anuncios: 800/600/400 cd/m²",
+      "description": "Artículo 10 limita la luminancia de escaparates y carteles según su superficie.",
+      "force": "Reglamento nacional vinculante",
+      "param": "<2 m²: 800 cd/m²; 2–10 m²: 600 cd/m²; >10 m²: 400 cd/m²",
+      "scope": "Andorra: instalaciones comerciales cubiertas",
+      "sources": [
+        "F222"
+      ],
+      "caution": "Los requisitos de diseño e instalación se refieren a instalaciones nuevas o modificadas.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M72",
+      "country": "LUX",
+      "title": "Ley nacional incluye contaminación lumínica entre condiciones de autorización",
+      "description": "La definición de contaminación lumínica está en el art.3.35 y el régimen de autorizaciones de conservación admite condiciones de iluminación máxima para proteger hábitats.",
+      "force": "Ley nacional vinculante en su ámbito",
+      "param": "Definición legal de ALAN y condiciones de iluminación en proyectos autorizables",
+      "scope": "Luxemburgo: autorizaciones de protección de naturaleza",
+      "sources": [
+        "F225"
+      ],
+      "caution": "No fija un límite fotométrico general para todas las ciudades.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M73",
+      "country": "LUX",
+      "title": "Steinfort: propuesta municipal 2200 K en senderos y 2700 K en calzadas",
+      "description": "La política municipal de 2026 prevé menores temperaturas de color y apagados prolongados para proteger murciélagos e insectos.",
+      "force": "Política municipal; aplicación legal por cotejar",
+      "param": "2200 K senderos; 2700 K vías; objetivo de apagado seis horas",
+      "scope": "Steinfort, Luxemburgo",
+      "sources": [
+        "F227"
+      ],
+      "caution": "Es un concepto municipal y su eventual conversión en obligación urbanística está en estudio.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M74",
+      "country": "HUN",
+      "title": "Reglamento nacional de edificación prohíbe diseños que causen contaminación lumínica",
+      "description": "§75(2)(d) del Decreto 280/2024 impone criterio preventivo de no contaminación en alumbrado de edificios, público, ornamental y anuncios.",
+      "force": "Reglamento sectorial vinculante",
+      "param": "Prohibición cualitativa de causar fényszennyezés",
+      "scope": "Hungría: iluminación de edificios y urbanización",
+      "sources": [
+        "F230"
+      ],
+      "caution": "No equivale a máximo nacional de CCT, ULOR o luminancia sin desarrollo normativo.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M75",
+      "country": "LVA",
+      "title": "Letonia: límites nacionales de luminancia de anuncios junto a carreteras",
+      "description": "Anexo 2 del Reglamento 402/2005 modificado en 2024: los anuncios nocturnos fuera de núcleos urbanos tienen techos de 30/20/15/10 cd/m² según la superficie.",
+      "force": "Reglamento sectorial vinculante",
+      "param": "Fuera de poblaciones: 30, 20, 15 o 10 cd/m² según 4 tamaños",
+      "scope": "Letonia, anuncios de carretera fuera de poblaciones",
+      "sources": [
+        "F231"
+      ],
+      "caution": "Regula objetos al lado de vías, excluye anuncios sobre edificios; otros máximos en poblados y ciudades.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M76",
+      "country": "LVA",
+      "title": "Riga: luminancia de pantallas limitada según superficie",
+      "description": "Ordenanza RD-26-42-sn de 2026 fija límites de luminancia de publicidad nocturna por tamaño y prohíbe determinados efectos molestos.",
+      "force": "Ordenanza municipal vinculante",
+      "param": "Hasta 3 m²=500 cd/m²; 3-20 m²=300; 20-50 m²=150; >50 m²=100",
+      "scope": "Ciudad de Riga",
+      "sources": [
+        "F232"
+      ],
+      "caution": "No se aplica por sí sola a toda Letonia ni a farolas convencionales.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M77",
+      "country": "IDN",
+      "title": "Protección legal de 2,5 km alrededor de Bosscha",
+      "description": "Art.30 del Perda 2/2016 prohíbe determinados proyectores exteriores, limita anuncios luminosos y exige apantallar luminarias para evitar luz hacia el cielo.",
+      "force": "Reglamento provincial vinculante",
+      "param": "Área protegida: centro y radio de 2,5 km; controles de lámparas y proyectores",
+      "scope": "Java Occidental, Bandung y observatorio Bosscha",
+      "sources": [
+        "F234"
+      ],
+      "caution": "Ámbito provincial específico; no constituye ley integral nacional de Indonesia.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M78",
+      "country": "LIE",
+      "title": "Artículo 14 del USG: principio preventivo frente a emisiones luminosas",
+      "description": "La autoridad ambiental de Liechtenstein aplica el marco de limitación de emisiones del USG a luz artificial perjudicial o molesta.",
+      "force": "Ley ambiental general aplicable",
+      "param": "Reducir emisiones en origen dentro de límites técnicos y económicos",
+      "scope": "Liechtenstein: actividad e instalaciones generadoras de luz molesta",
+      "sources": [
+        "F237"
+      ],
+      "caution": "La guía FOEN orienta, pero no crea valores legales universales automáticos.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M79",
+      "country": "ARE",
+      "title": "Abu Dabi: política de CCT diferenciada por uso",
+      "description": "La política DMT exige como diseño máximos de 4000 K en alumbrado viario y 3000 K en fachadas y espacios públicos abiertos.",
+      "force": "Política oficial de aplicación jurídica por cotejar",
+      "param": "4000 K vías; 3000 K fachadas/espacios públicos",
+      "scope": "Abu Dabi (no emiratos restantes)",
+      "sources": [
+        "F239"
+      ],
+      "caution": "El valor de CCT no determina por sí solo impacto del azul; falta disposición sancionadora y alcance obligatorio precisos.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M80",
+      "country": "ARE",
+      "title": "Abu Dabi: apagado de fachadas a medianoche",
+      "description": "La Dark Sky Policy prevé apagar luces de fachadas y espacios públicos a las 00:00, salvo seguridad o control por sensores.",
+      "force": "Política oficial de aplicación jurídica por cotejar",
+      "param": "Apagado desde las 00:00 con excepciones",
+      "scope": "Emirato de Abu Dabi",
+      "sources": [
+        "F239"
+      ],
+      "caution": "No extender a otras autoridades locales o iluminación necesaria para seguridad.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M81",
+      "country": "EST",
+      "title": "Estonia: limitación nocturna de efectos luminosos molestos",
+      "description": "El §56(1)-(2) prohíbe molestias luminosas significativas, y en espacios no públicos las continuadas o repetidas entre las 22:00 y las 06:00.",
+      "force": "Ley nacional sectorial vinculante",
+      "param": "22:00–06:00, sujeto a prueba de molestia significativa",
+      "scope": "Estonia: espacios públicos y privados según §56",
+      "sources": [
+        "F241"
+      ],
+      "caution": "No es apagado obligatorio de todo el alumbrado público; excepciones y valoración objetiva.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M82",
+      "country": "ISL",
+      "title": "Islandia 2026: obligación de evitar luz intrusa y deslumbramiento",
+      "description": "Art.10.4.5 del Reglamento de Construcción, modificado por 11/2026, exige evitar contaminación lumínica, molestias a vecinos y perturbación de tráfico.",
+      "force": "Reglamento nacional sectorial vinculante",
+      "param": "Prevención y apantallamiento; obligación cualitativa del diseño",
+      "scope": "Islandia: edificaciones y carteles del reglamento",
+      "sources": [
+        "F242"
+      ],
+      "caution": "No hay CCT nacional general. El ámbito no incluye automáticamente toda carretera.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M83",
+      "country": "ISL",
+      "title": "Islandia: entrada en vigor escalonada de prevención lumínica",
+      "description": "Reforma nº11/2026: aplicación desde mayo de 2026 a obras basadas en planes posteriores, y desde agosto de 2027 a nuevas solicitudes de permiso.",
+      "force": "Reglamento nacional con transitoriedad",
+      "param": "01-05-2026 por plan; 01-08-2027 por nueva solicitud de licencia",
+      "scope": "Islandia: obras sujetas al Reglamento 112/2012",
+      "sources": [
+        "F242"
+      ],
+      "caution": "No presentar el régimen como universal para todas las construcciones existentes en noviembre 2026.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M84",
+      "country": "USA",
+      "title": "Puerto Rico: ley territorial específica de contaminación lumínica",
+      "description": "La Ley 218-2008, modificada hasta 2020, establece un programa jurídico de prevención de emisiones excesivas, protege bioluminiscencia, tortugas y cielo astronómico y prevé un reglamento territorial.",
+      "force": "Ley territorial vinculante",
+      "param": "Protección especial de cielos, tortugas y bioluminiscencia; requisitos técnicos del reglamento",
+      "scope": "Puerto Rico, no todos los Estados Unidos",
+      "sources": [
+        "F248",
+        "F249"
+      ],
+      "caution": "No se contabiliza Puerto Rico como país independiente ni se extiende la ley a otros estados de EE.UU.; cotejar artículos y transitorias.",
       "replicability": "Alta"
     }
   ],

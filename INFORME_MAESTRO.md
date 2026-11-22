@@ -2,9 +2,9 @@
 
 **Informe maestro de compilación documental — 19 de noviembre de 2026**
 
-- **52 países** en el universo; no equivale a 51 leyes nacionales.
-- **221 registros bibliográficos** con enlaces a documentos y portales; algunos son guías, borradores o fuentes secundarias.
-- **67 medidas estrella** con fuerza jurídica diferenciada.
+- **62 países** en el universo; no equivale a 51 leyes nacionales.
+- **249 registros bibliográficos** con enlaces a documentos y portales; algunos son guías, borradores o fuentes secundarias.
+- **84 medidas estrella** con fuerza jurídica diferenciada.
 
 ## Alcance y procedencia
 
@@ -327,3 +327,20 @@ Destacan la sentencia [TJUE C-504/14](https://eur-lex.europa.eu/legal-content/ES
 Se incorpora Arabia Saudí (SAU) como **país n.º 52**. La Royal Commission for AlUla aprobó la [Resolución C/15/25/1 el 22-06-2025](https://www.rcu.gov.sa/getmedia/9c4b3396-10db-4ac9-8dd1-34f7f2a71dca/rcu-external-lighting-resolution-and-instructions-english.pdf), con [despliegue en fases desde enero de 2026](https://www.rcu.gov.sa/en/living-in-alula/outdoor-lighting). La norma vinculante territorial requiere CCT máxima 2700 K, contiene límites de luz intrusa de 0,5, 1, 3 y 8 lux en zonas LZ0–LZ3, control del flujo superior, presupuestos de lúmenes y apagado/atenuación según zona. Prevé sanción de **3000 SAR por edificio**, 14 días de corrección y duplicación por reincidencia.
 
 No cubre automáticamente los desarrollos nuevos ya autorizados, instalaciones deportivas o el alumbrado viario público gestionado por municipalidades. La Ley Ambiental saudí de 2020 y el SBC1001 de 2024 no se presentan como normas generales específicas de límites de ALAN sin verificación de artículo. En 2024–2025 se acreditaron cuatro áreas DarkSky en AlUla (6146 km²) y AlNufud (13416 km²) en Hail; acreditaciones voluntarias, **no promulgación de ley**. Véase [ficha jurídica saudí](docs/SAU_arabia-saudi.md). El atlas cuenta ahora con **52 países, 221 referencias y 67 medidas estrella**.
+
+## Ampliación de diez países y Puerto Rico (22-XI-2026)
+
+Diez nuevas fichas con fuente oficial y grado de fuerza jurídica diferenciado. **Países: 62. Fuentes: 249. Medidas estrella: 84.**
+
+- **Andorra (AND):** Decreto 194/2021: reglamento nacional específico de calidad lumínica con limitaciones de luz intrusa, espectro, emisión superior y zonas protegidas; distingue obligaciones generales y diseño de nuevas instalaciones. [Documento principal](https://regest.ad/ca/laws/reglament-194-2021).
+- **Luxemburgo (LUX):** La Ley de Protección de la Naturaleza de 18/07/2018, modificada, define expresamente contaminación lumínica (art. 3, nº35) y permite condiciones de iluminación máxima y prevención de ALAN en determinadas autorizaciones; planes municipales de protección de fauna. [Documento principal](https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a771/consolide/20250721).
+- **Hungría (HUN):** Decreto gubernamental 280/2024 (TÉKA): define contaminación lumínica y, en su §75(2)(d), exige proyectar iluminación de edificios, espacios públicos, anuncios y alumbrado ornamental sin provocar contaminación lumínica. [Documento principal](https://njt.jog.gov.hu/jogszabaly/2024-280-20-22).
+- **Letonia (LVA):** El Reglamento estatal nº402 de 2005, modificado en 2024, limita luminancia nocturna de anuncios de carretera por superficie y entorno. Riga endureció en 2026 su ordenanza de publicidad exterior con límites por tamaño de pantalla. [Documento principal](https://likumi.lv/ta/id/110209).
+- **Indonesia (IDN):** Reglamento de Java Occidental 2/2016, art.30, protege la zona central y un radio de 2,5 km del Observatorio Bosscha, restringe fuentes y tipos de iluminación, exige apantallamiento e incluye restricciones de proyectores. [Documento principal](https://jdihdprd.jabarprov.go.id/data/jdih/pdf/2016/Perda-Nomor-2-Tahun-2016.pdf).
+- **Liechtenstein (LIE):** El Umweltschutzgesetz (USG) de 2008, art.14, permite limitar emisiones perjudiciales en la fuente y alcanza las inmisiones de luz artificial, según confirma la administración; aplica guía suiza FOEN 2021 para evaluar casos. [Documento principal](https://www.gesetze.li/konso/pdf/2008199000).
+- **Emiratos Árabes Unidos (ARE):** Abu Dhabi Dark Sky Policy de 2024: criterios territoriales de apantallamiento, CCT máxima 4000 K en vías y 3000 K para fachadas y espacios abiertos, sensores y apagado a medianoche. No se ha acreditado ley federal equivalente. [Documento principal](https://www.dmt.gov.ae/-/media/Project/DMT/DMT/E-Library/10-24/02/Abu-Dhabi-Dark-Sky-Policy_Version-10_GeoUpdate.pdf).
+- **Estonia (EST):** La Law Enforcement Act estonia, §56, prohíbe los efectos luminosos que molesten significativamente a otras personas en lugares públicos; fuera de ellos restringe perturbaciones continuadas o repetidas de 22:00 a 06:00, con excepciones. [Documento principal](https://www.riigiteataja.ee/en/tolge/pdf/511092025010).
+- **Islandia (ISL):** La reforma nº11/2026 del Reglamento de Construcción 112/2012 añadió el art.10.4.5, que exige prevenir contaminación lumínica, luz intrusa vecinal y deslumbramiento de tráfico; aplica por fases desde mayo de 2026. [Documento principal](https://www.reglugerd.is/reglugerdir/eftir-raduneytum/umhverfisraduneyti/nr/24813).
+- **Lituania (LTU):** La Ley lituana de Publicidad (art.12) y la Orden 4-670/2013 regulan permisos y ubicación de publicidad exterior, incluidos supuestos de deslumbramiento vial y espacios protegidos; no se identificó ley nacional integral de contaminación lumínica. [Documento principal](https://www.e-tar.lt/portal/en/legalAct/TAR.227E5D9EC4AC/asr).
+
+Puerto Rico (Ley 218/2008) se incluye bajo Estados Unidos. Otros países que requieren legislación específica cotejada: Bulgaria, Rumanía, Chipre, Serbia y Montenegro. Los datos en `data/paises_pendientes.csv` evitan tratarlos erróneamente como sin ley.

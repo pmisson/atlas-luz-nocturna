@@ -1,6 +1,6 @@
 # ATLAS DE LA NOCHE · Legislación mundial sobre contaminación lumínica
 
-**Sitio estático listo para publicar · edición 19-11-2026**
+**Sitio estático listo para publicar · edición 22-11-2026**
 
 > **Publicación prevista para GitHub `pmisson`**: una vez creado el repositorio público `pmisson/atlas-luz-nocturna` y habilitado GitHub Pages (rama `main`, directorio `/ (root)`), el atlas tendrá esta dirección: **https://pmisson.github.io/atlas-luz-nocturna/**. Esta edición solo prepara los archivos; no significa que el repositorio ya exista ni que el sitio esté publicado. Consulta [PUBLICAR_EN_GITHUB.md](PUBLICAR_EN_GITHUB.md).
 
@@ -8,10 +8,10 @@
 
 El atlas contiene:
 
-- **Mapa SVG mundial interactivo** (funciona offline): países seleccionables, lupa, desplazamiento y filtros por región y tipo de normativa; los puntos de Malta y Singapur completan la cartografía de Natural Earth de baja resolución.
-- **51 fichas nacionales** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
-- **221 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
-- **67 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
+- **Mapa SVG mundial interactivo** (funciona offline): países seleccionables, lupa, desplazamiento y filtros por región y tipo de normativa; los puntos de Malta, Singapur, Andorra y Liechtenstein completan la cartografía de Natural Earth de baja resolución.
+- **62 fichas nacionales** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
+- **249 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
+- **84 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
 - **19 fichas subnacionales espanolas**: 17 comunidades autonomas y Ceuta y Melilla, con citas al BOE, REECL y fuentes regionales, y advertencias de vigencia.
 - **Derecho internacional y doctrina**: CLRTAP (1979), CDI ONU, Reglamento UE 2024/1991, compilacion checa de 2022, Bara y Yakushina.
 - **Datos reutilizables** (`data/atlas.json`, `data/paises.csv`, `data/fuentes.csv`, `data/medidas_estrella.csv`), informe maestro `INFORME_MAESTRO.md` y fichas Markdown.
@@ -143,3 +143,11 @@ Se encontraron 10 proyectos adicionales con ficha oficial CORDIS: ECOLIGHT, ECOL
 Nuevo país **SAU** (52 países en total), 8 fuentes nuevas y 6 medidas estrella: resolución RCU **C/15/25/1 de 22-06-2025** publicada 01-08-2025 y entrada en aplicación por fases desde enero de 2026. CCT ≤2700 K, zonas LZ0–3, presupuestos lumínicos por parcela, iluminancia máxima al lindero 0,5/1/3/8 lx, apagados de 22:00–00:00 y sanciones de 3000 SAR por edificio. Los alcances de seguridad, luminarias decorativas, carreteras públicas, otros supuestos excluidos y exenciones se detallan en `docs/SAU_arabia-saudi.md`. Se distinguen los marcos nacionales medioambientales o viarios de las certificaciones voluntarias DarkSky. **No extrapolar estas normas territoriales a toda Arabia Saudí.**
 
 Los generadores históricos `build_data.py` y `enrich_atlas.py` no deben ejecutarse sin integrar primero todas las actualizaciones manuales del atlas.
+
+## Ampliación de diez países (22-XI-2026)
+
+Se incorporan **Andorra, Luxemburgo, Hungría, Letonia, Indonesia, Liechtenstein, Emiratos Árabes Unidos, Estonia, Islandia y Lituania**, con fuentes primarias o institucionales, ámbito jurídico y medidas estrella cuando procede. El caso de **Puerto Rico** (Ley 218/2008 y reglamento) se añade como territorio de EE.UU., no país separado. Se documentan también cinco países pendientes de investigación específica (`docs/PAISES_PENDIENTES.md`).
+
+Muy destacables: Luxemburgo reconoce expresamente 'pollution lumineuse' en su legislación de biodiversidad; Andorra regula espectro por banda inferior a 500 nm (no basta 3000 K para afirmar bajo azul); Hungría prohíbe proyectar alumbrado causante de fényszennyezés; Letonia limita luminancia de anuncios nacionalmente y Riga la concreta en 2026; Indonesia protege Bosscha; Islandia reforma la regulación en 2026. Las políticas de Abu Dabi y Steinfort se distinguen de leyes generales y sancionadoras.
+
+La cartografía SVG representa Andorra y Liechtenstein como puntos porque la simplificación cartográfica no conserva estos microestados.
