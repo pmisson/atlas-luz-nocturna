@@ -21,3 +21,9 @@ Turquía e Israel: estudiar alumbrado exterior, planificación y condiciones amb
 **Jordania:** La normativa de protección de Wadi Rum y sus permisos ambientales no permiten afirmar límites específicos de luz artificial sin artículo o resolución de autorización concreta. La expresión inglesa *lighting fire* significa encender fuego y no iluminar con fuentes artificiales. Investigación por continuar en textos árabes oficiales y permisos.
 
 **Otros candidatos:** Qatar, Kuwait, Argelia y Egipto requieren auditoría de condiciones individuales de autorización; Argelia y Egipto ya tienen fichas generales, pero no legislación específica de ALAN verificada.
+
+## Auditoría de 22 países IAU — 23-11-2026
+
+Las 22 jurisdicciones antes ausentes de la muestra IAU ya tienen ficha ordinaria en el atlas (sin crear una sección web de 'nuevos países'). Su inclusión no prueba que exista una ley específica de contaminación lumínica.
+
+**Pendientes de fuerza jurídica o vigencia:** Ucrania (consolidación de DBN reformada); Rusia (ley Púlkovo art. 71 derogada; normas vigentes por identificar); Nicaragua (relación de ordenanza 2003 con Ley 1054/2020); Chad y Nigeria (cotejar modificaciones); Pakistán y Tailandia (definición ambiental, falta desarrollo fotométrico); Kenia (licencia EIA que convierta medidas propuestas en condiciones vinculantes); Bielorrusia, Ruanda y Sierra Leona (sin disposición ALAN específica). Qatar, Bangladés y Líbano: certificación técnica voluntaria, no límite legal universal.
