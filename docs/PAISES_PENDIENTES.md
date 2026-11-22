@@ -12,7 +12,7 @@ Se encontró reglamentación de radiación óptica artificial relativa a segurid
 
 ## Otros países de búsqueda prioritaria
 
-Turquía e Israel: estudiar alumbrado exterior, planificación y condiciones ambientales de autorizaciones. Pakistán, Ucrania, Moldavia, Albania, Macedonia del Norte, Bosnia-Herzegovina, Qatar, Jordania, Kenia, Tanzania, Tailandia, Filipinas y otros: normas sectoriales y territoriales aún no confirmadas en la presente edición. Una ley ambiental general sin disposición luminosa explícita no basta para calificarla de norma específica de contaminación lumínica.
+Albania, Macedonia del Norte, Bosnia-Herzegovina, Jordania, Tanzania, Filipinas y otros: normas sectoriales y territoriales aún no confirmadas en la presente edición. Una ley ambiental general sin disposición luminosa explícita no basta para calificarla de norma específica de contaminación lumínica.
 
 **Montenegro, evidencia complementaria:** el ministerio de ecología define contaminación lumínica en su glosario ambiental y un informe oficial de evaluación estratégica propone minimizarla mediante luminarias adecuadas. Esos documentos no acreditan por sí mismos obligación general o umbral legal de emisión. [Glosario ministerial](https://wapi.gov.me/download/3c5c6bc5-ee8f-42d4-94b7-590e8c8e6980?version=1.0), [evaluación estratégica](https://wapi.gov.me/download/edc97188-16d8-495c-a234-da8ab0d627e3?version=1.0).
 
@@ -20,7 +20,7 @@ Turquía e Israel: estudiar alumbrado exterior, planificación y condiciones amb
 
 **Jordania:** La normativa de protección de Wadi Rum y sus permisos ambientales no permiten afirmar límites específicos de luz artificial sin artículo o resolución de autorización concreta. La expresión inglesa *lighting fire* significa encender fuego y no iluminar con fuentes artificiales. Investigación por continuar en textos árabes oficiales y permisos.
 
-**Otros candidatos:** Qatar, Kuwait, Argelia y Egipto requieren auditoría de condiciones individuales de autorización; Argelia y Egipto ya tienen fichas generales, pero no legislación específica de ALAN verificada.
+**Otros candidatos:** Qatar, Kuwait, Argelia y Egipto requieren auditoría de condiciones individuales de autorización, aunque Qatar y Kuwait ya tienen fichas sectoriales; Argelia y Egipto ya tienen fichas generales, pero no legislación específica de ALAN verificada.
 
 ## Auditoría de 22 países IAU — 23-11-2026
 
@@ -39,3 +39,7 @@ Las 22 jurisdicciones antes ausentes de la muestra IAU ya tienen ficha ordinaria
 Púlkovo: la Resolución 524/2016, sección 3.16, con actualización de diciembre de 2025 regula construcción industrial y residencial dentro de zona protectora y la intervención del observatorio en otros proyectos. La antigua limitación del resplandor del cielo del art. 71 Ley 29-10/2009 NO revive por ello; falta identificar restricción fotométrica vigente en la zona.
 
 Bielorrusia: SN 2.04.03-2020 está vigente y SP 4.04.01-2022 regula proyecto de alumbrado exterior, pero sigue sin comprobarse en articulado accesible la continuidad de límites verticales de la antigua TKP 2009. No incluir los antiguos lux como vigentes sin cotejo documental.
+
+## Cinco países revisados 23-XI-2026
+
+Seychelles, Moldavia, Jamaica, Kuwait y Trinidad y Tobago tienen ficha ordinaria en el atlas. **Pendiente:** verificar si el nuevo código moldavo NCM C.04.02-2025 fija límites de deslumbramiento o luz intrusa; alcance actual del permiso jamaicano; excepciones reglamentarias pesqueras de Seychelles; reformas de publicidad kuwaití posteriores a 599/2023; condiciones de permisos de playas en Trinidad y Tobago. No extender obligaciones sectoriales a todos los alumbrados.
