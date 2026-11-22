@@ -9,9 +9,9 @@
 El atlas contiene:
 
 - **Mapa SVG mundial interactivo** (funciona offline): países seleccionables, lupa, desplazamiento y filtros por región y tipo de normativa; los puntos de Malta, Singapur, Andorra y Liechtenstein completan la cartografía de Natural Earth de baja resolución.
-- **67 fichas nacionales** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
-- **261 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
-- **90 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
+- **72 fichas nacionales** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
+- **277 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
+- **96 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
 - **19 fichas subnacionales espanolas**: 17 comunidades autonomas y Ceuta y Melilla, con citas al BOE, REECL y fuentes regionales, y advertencias de vigencia.
 - **Derecho internacional y doctrina**: CLRTAP (1979), CDI ONU, Reglamento UE 2024/1991, compilacion checa de 2022, Bara y Yakushina.
 - **Datos reutilizables** (`data/atlas.json`, `data/paises.csv`, `data/fuentes.csv`, `data/medidas_estrella.csv`), informe maestro `INFORME_MAESTRO.md` y fichas Markdown.
@@ -162,4 +162,8 @@ Después de editar `data/atlas.json`, ejecutar `python3 sync_public_data.py` par
 
 ### Serbia y Rumanía (22-XI-2026)
 
-Se añaden Serbia (artículo 81 Ley de Protección de la Naturaleza; proyectores y láseres hacia el cielo) y Rumanía (Plan de Gestión Văcărești 2025, restricciones expresas a la iluminación artificial). Total actualizado: **67 países, 261 fuentes, 90 medidas**. Montenegro permanece en auditoría: existe orientación oficial sobre contaminación lumínica, no límite ALAN vinculante identificado.
+Se añaden Serbia (artículo 81 Ley de Protección de la Naturaleza; proyectores y láseres hacia el cielo) y Rumanía (Plan de Gestión Văcărești 2025, restricciones expresas a la iluminación artificial). Total actualizado: **72 países, 277 fuentes, 96 medidas**. Montenegro permanece en auditoría: existe orientación oficial sobre contaminación lumínica, no límite ALAN vinculante identificado.
+
+## Investigación de Oriente Medio y norte de África (22-XI-2026)
+
+Se han incorporado **Turquía, Israel, Argelia, Egipto y Túnez**, ampliado Omán, y distinguido expresamente normas de iluminación vinculantes, condiciones de licencias locales, políticas territoriales, legislación ambiental indirecta y proyectos normativos no vigentes. Datos actuales: **72 países, 277 fuentes, 96 medidas**. Jordania permanece en investigación: no consta una prohibición ALAN específica contrastada en los reglamentos consultados.
