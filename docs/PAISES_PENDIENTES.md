@@ -26,4 +26,10 @@ Turquía e Israel: estudiar alumbrado exterior, planificación y condiciones amb
 
 Las 22 jurisdicciones antes ausentes de la muestra IAU ya tienen ficha ordinaria en el atlas (sin crear una sección web de 'nuevos países'). Su inclusión no prueba que exista una ley específica de contaminación lumínica.
 
-**Pendientes de fuerza jurídica o vigencia:** Ucrania (consolidación de DBN reformada); Rusia (ley Púlkovo art. 71 derogada; normas vigentes por identificar); Nicaragua (relación de ordenanza 2003 con Ley 1054/2020); Chad y Nigeria (cotejar modificaciones); Pakistán y Tailandia (definición ambiental, falta desarrollo fotométrico); Kenia (licencia EIA que convierta medidas propuestas en condiciones vinculantes); Bielorrusia, Ruanda y Sierra Leona (sin disposición ALAN específica). Qatar, Bangladés y Líbano: certificación técnica voluntaria, no límite legal universal.
+**Pendientes de fuerza jurídica o vigencia:** Ucrania (consolidación de DBN reformada); Rusia (SanPiN vigente para luz intrusa; protección específica Púlkovo aún por cotejar); Nicaragua (relación de ordenanza 2003 con Ley 1054/2020); Chad y Nigeria (cotejar modificaciones); Pakistán y Tailandia (definición ambiental, falta desarrollo fotométrico); Kenia (licencia EIA que convierta medidas propuestas en condiciones vinculantes); Bielorrusia (Ley 225-Z y ordenanzas publicitarias verificadas, sin límite ambiental general ALAN); Ruanda y Sierra Leona (sin disposición ALAN específica). Qatar, Bangladés y Líbano: certificación técnica voluntaria, no límite legal universal.
+
+## Rusia y Bielorrusia — progreso 23-XI-2026
+
+**Rusia ya no está pendiente de regulación sectorial:** normas sanitarias SanPiN 1.2.3685-21, tabla 5.57, valores de iluminación vertical en ventanas 5/7/10/20 lux, más SP 52.13330.2016 y estándar GOST R 55706-2023. **Solo continúa pendiente** el alcance actual de los requisitos astronómicos de la zona de Púlkovo, tras la derogación de la antigua Ley 29-10/2009.
+
+**Bielorrusia ya no está pendiente de regulación sectorial:** Ley 225-Z art. 13(2) y Decreto 395/2021 sobre deslumbramiento de publicidad, más restricciones locales de Nesvizh y Miory (2026). **Pendiente:** verificar si SN 2.04.03-2020 reproduce los límites de luz intrusa del texto TKP 45-2.04-153-2009 al que sustituyó; no atribuirlos al texto actual sin comprobación.
