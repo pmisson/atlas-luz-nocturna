@@ -385,3 +385,13 @@ El inventario actualizado cuenta con **94 países, 306 fuentes y 110 medidas des
 **Fase 3 (once):** Qatar GSAS S.11, Bangladés SREDA SM7 y Líbano ARZ Si-3.1: **certificaciones optativas**, no obligaciones universales. Azerbaiyán y Uzbekistán: normas técnicas de iluminación. Bielorrusia, Kenia, Ruanda y Sierra Leona: marcos ambientales sin límite ALAN específico comprobado. Senegal: homologación de normas de alumbrado. Rusia: art. 71 de antigua ley de San Petersburgo 29-10/2009 sobre Púlkovo **DEROGADO**; restricciones lumínicas actuales por cotejar.
 
 La ampliación **no significa que 94 países dispongan de leyes específicas**. Se separan disposiciones con fuerza jurídica y obligaciones medibles, normas de proyecto, guías, políticas voluntarias, legislación ambiental general y normas derogadas. Las fichas nacionales incorporan enlaces y advertencias. Los CSV y `data/atlas.json` son el registro vigente.
+
+## Rusia y Bielorrusia: verificación jurídica del 23-XI-2026
+
+**94 países, 319 fuentes, 115 medidas**. Ambas fichas dejan la categoría 'pendiente' y pasan a 'sectorial'.
+
+**Rusia:** [SanPiN 1.2.3685-21, tabla 5.57](https://sudact.ru/law/postanovlenie-glavnogo-gosudarstvennogo-sanitarnogo-vracha-rf-ot_1430/sanpin-1.2.3685-21/v/gigienicheskie-normativy-fizicheskikh-faktorov-v/tablitsa-5.57/) determina iluminación vertical máxima de ventanas por efectos sumados del alumbrado arquitectónico, publicitario y urbano: 5 lux para determinados patios y hospitales, y 7/10/20 lux según categoría de calle. SP 52.13330.2016 incluye requisitos de proyecto relacionados y GOST R 55706-2023 cubre alumbrado vial. La antigua Ley 29-10/2009 art. 71 que protegía astroclima de Púlkovo está derogada; persisten protecciones patrimoniales/urbanísticas, no prohibición ALAN general demostrada.
+
+**Bielorrusia:** [Ley de Publicidad 225-Z art. 13(2)](https://world.moleg.go.kr/web/wli/lgslXmlViewerPage.do?DLD_CFM_NO=ANYCB0KO6VKAJDU3E1V6&FL_SEQ=92381) restringe deslumbramiento; el [Decreto 395/2021](https://base.spinform.ru/show_doc.fwx?rgn=133756) prohíbe molestias a conductores y remite a límites técnicos de luminancia. [Nesvizh Decisión 2328/2026](https://bielarus.fyi/acts/R926n0147767/) prohíbe modo pulsante publicitario entre 23 y 07 horas en ámbitos protegidos; [Miory Decisión 1036/2026](https://bielarus.fyi/acts/R926v0148482/) limita destellos y transiciones bruscas nocturnas. La SN 2.04.03-2020 sustituyó la TKP de 2009; no se extrapolan sus viejos límites de lux.
+
+La cantidad de países permanece 94; el cambio es cualitativo en la clasificación y en referencias, no una ampliación del número de países.
