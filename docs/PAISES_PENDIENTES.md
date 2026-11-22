@@ -1,12 +1,8 @@
-# Países investigados pendientes de incorporación jurídica específica
+# Países con investigación jurídica pendiente
 
-**Corte:** 22 de noviembre de 2026. Estos países no se cuentan entre las nuevas fichas porque la búsqueda no ha acreditado una disposición fotométrica o de luz nocturna concreta que permita clasificarlos con suficiente precisión. La ausencia de hallazgo **no prueba inexistencia de legislación**.
+**Corte:** 22 de noviembre de 2026. La ausencia de una disposición verificada no demuestra ausencia de regulación.
 
-## Bulgaria
-
-La Ley de Protección Ambiental (modificación 2026) cubre biodiversidad y EIA, pero no se ha acreditado prohibición lumínica específica en los artículos examinados.
-
-- [Referencia de partida](https://www.moew.government.bg/bg/zakon-za-opazvane-na-okolnata-sreda-6671/)
+Bulgaria, Chipre y Vietnam se han incorporado a las fichas ordinarias del atlas con la fuerza jurídica y cautelas correspondientes; no se mantienen en esta lista.
 
 ## Rumanía
 
@@ -31,3 +27,7 @@ La normativa de evaluación ambiental y conservación puede aplicar indirectamen
 Se encontró reglamentación de radiación óptica artificial relativa a seguridad humana (2026), no equivalente a ley de contaminación del cielo.
 
 - [Referencia de partida](https://invero.me/montenegro/legislation/pravilnik-o-nacinu-odredivanja-procjene-mjerenja-i-ili-proracuna-nivoa-izlozenosti-vjestackom-optickom-zracenju-i-granicnim-vrijednostima-izlozenosti-vjestackom-optickom-zracenju--doc2ab1a99e)
+
+## Otros países de búsqueda prioritaria
+
+Turquía e Israel: estudiar alumbrado exterior, planificación y condiciones ambientales de autorizaciones. Pakistán, Ucrania, Moldavia, Albania, Macedonia del Norte, Bosnia-Herzegovina, Qatar, Jordania, Kenia, Tanzania, Tailandia, Filipinas y otros: normas sectoriales y territoriales aún no confirmadas en la presente edición. Una ley ambiental general sin disposición luminosa explícita no basta para calificarla de norma específica de contaminación lumínica.
