@@ -10,8 +10,8 @@ El atlas contiene:
 
 - **Mapa SVG mundial interactivo** (funciona offline): países seleccionables, lupa, desplazamiento y filtros por región y tipo de normativa; los puntos de Malta y Singapur completan la cartografía de Natural Earth de baja resolución.
 - **51 fichas nacionales** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
-- **213 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
-- **61 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
+- **221 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
+- **67 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
 - **19 fichas subnacionales espanolas**: 17 comunidades autonomas y Ceuta y Melilla, con citas al BOE, REECL y fuentes regionales, y advertencias de vigencia.
 - **Derecho internacional y doctrina**: CLRTAP (1979), CDI ONU, Reglamento UE 2024/1991, compilacion checa de 2022, Bara y Yakushina.
 - **Datos reutilizables** (`data/atlas.json`, `data/paises.csv`, `data/fuentes.csv`, `data/medidas_estrella.csv`), informe maestro `INFORME_MAESTRO.md` y fichas Markdown.
@@ -63,7 +63,7 @@ assets/extras.js           Espanña autonoma, internacional y estudios
 assets/world-data.js       Geometrías simplificadas (Natural Earth)
 assets/atlas-data.js       Datos integrados para apertura offline
 data/atlas.json            Base de datos legible por máquina
-data/paises.csv            Matriz de 51 países
+data/paises.csv            Matriz de 52 países
 data/fuentes.csv           Bibliografía documental (121 registros)
 data/medidas_estrella.csv   Tabla de 45 medidas destacadas
 docs/                      51 fichas nacionales + 3 anexos tematicos en Markdown
@@ -78,7 +78,7 @@ make_map.py                Script de cartografía SVG
 
 ## Cautelas de procedencia y alcance
 
-**No se han recuperado los textos completos de todos los informes previos.** Está disponible el informe de la última ampliación (14 países), y para las demás jurisdicciones se ha realizado una reconstrucción basada en referencias identificadas. Esta es una **compilación documental inicial extensa**, no un dictamen jurídico exhaustivo certificado de toda la legislación municipal de 51 países. Algunas referencias son genéricas, secundarias, proyectos o guías: están etiquetadas para no darles fuerza vinculante indebida. No se afirma que una fuente sectorial regule automáticamente todas las luminarias ni que la falta de una norma específica identificada pruebe que no existe ninguna.
+**No se han recuperado los textos completos de todos los informes previos.** Está disponible el informe de la última ampliación (14 países), y para las demás jurisdicciones se ha realizado una reconstrucción basada en referencias identificadas. Esta es una **compilación documental inicial extensa**, no un dictamen jurídico exhaustivo certificado de toda la legislación municipal de 52 países. Algunas referencias son genéricas, secundarias, proyectos o guías: están etiquetadas para no darles fuerza vinculante indebida. No se afirma que una fuente sectorial regule automáticamente todas las luminarias ni que la falta de una norma específica identificada pruebe que no existe ninguna.
 
 Antes de aplicar la información a legislación, inspección, licitaciones o informes científicos, comprueba la **versión oficial consolidada** de cada instrumento, sus artículos y las excepciones.
 
@@ -110,7 +110,7 @@ Las **121 referencias** también están exportadas como `data/referencias.ris` (
 
 ### Venezuela (revisión jurídica 19-XI-2026)
 
-La ficha `docs/VEN_venezuela.md` documenta la Ley Orgánica del Ambiente de 2006, las Resoluciones 112/2014 (luminarias viales LED) y 73/2011 (publicidad luminosa; horario CORREGIDO 19:00-00:00), el precedente astronómico de Llano del Hato y noticias sobre la ordenanza ambiental de Maracaibo de 2026. Las últimas dos normas requieren cotejo de texto íntegro/vigencia. El atlas tiene actualmente 130 fuentes y 61 medidas estrella. Al regenerar la base con los scripts antiguos, es necesario preservar la revisión de Venezuela para evitar perder esta actualización.
+La ficha `docs/VEN_venezuela.md` documenta la Ley Orgánica del Ambiente de 2006, las Resoluciones 112/2014 (luminarias viales LED) y 73/2011 (publicidad luminosa; horario CORREGIDO 19:00-00:00), el precedente astronómico de Llano del Hato y noticias sobre la ordenanza ambiental de Maracaibo de 2026. Las últimas dos normas requieren cotejo de texto íntegro/vigencia. El atlas tiene actualmente 130 fuentes y 67 medidas estrella. Al regenerar la base con los scripts antiguos, es necesario preservar la revisión de Venezuela para evitar perder esta actualización.
 
 ## Extensión regional e internacional (20-XI-2026)
 
@@ -137,3 +137,9 @@ El apartado `#union-europea` ahora contiene 22 filas y tres fichas principales *
 ## Auditoría CORDIS ampliada (22-XI-2026)
 
 Se encontraron 10 proyectos adicionales con ficha oficial CORDIS: ECOLIGHT, ECOLIGHTSFORSEABIRDS, CORALAN, ECO-EVO ALAN, CITISENSE, CitySleep, DiurnalHealth, STEP, MigDisrupt y Starlight (sensor). El catálogo contiene ahora **31 proyectos financiados** y **2 iniciativas asociadas** (33 entradas). Se identifican por acuerdo de subvención para evitar duplicados. Se separan los relacionados indirectamente y se advierte la cronología contradictoria de CORALAN. Consulte `docs/PROYECTOS_EUROPEOS.md` y `data/proyectos_europeos.csv`.
+
+## Arabia Saudí: regulación de AlUla (22-XI-2026)
+
+Nuevo país **SAU** (52 países en total), 8 fuentes nuevas y 6 medidas estrella: resolución RCU **C/15/25/1 de 22-06-2025** publicada 01-08-2025 y entrada en aplicación por fases desde enero de 2026. CCT ≤2700 K, zonas LZ0–3, presupuestos lumínicos por parcela, iluminancia máxima al lindero 0,5/1/3/8 lx, apagados de 22:00–00:00 y sanciones de 3000 SAR por edificio. Los alcances de seguridad, luminarias decorativas, carreteras públicas, otros supuestos excluidos y exenciones se detallan en `docs/SAU_arabia-saudi.md`. Se distinguen los marcos nacionales medioambientales o viarios de las certificaciones voluntarias DarkSky. **No extrapolar estas normas territoriales a toda Arabia Saudí.**
+
+Los generadores históricos `build_data.py` y `enrich_atlas.py` no deben ejecutarse sin integrar primero todas las actualizaciones manuales del atlas.

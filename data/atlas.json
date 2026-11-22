@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
-    "date": "2026-11-19",
-    "country_count": 51,
-    "source_count": 213,
-    "star_count": 61,
+    "date": "2026-11-22",
+    "country_count": 52,
+    "source_count": 221,
+    "star_count": 67,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -18,7 +18,8 @@
     "transversal_count": 20,
     "note_austria_2026": "Revisión 22-11-2026 con informe aportado: §41b Alta Austria 2024/2029, aviación §123a actualizado 01-09-2026, ÖNORM como estándar salvo incorporación, OGH 6Ob60/20x, Carintia y Viena. CE245/2009 derogado 2021.",
     "eu_framework_count": 22,
-    "note_eu_2026": "Informe europeo de 33 páginas integrado el 22-XI-2026: Directivas Hábitats/Aves/EIA, caso TJUE C-504/14, restauración, ecodiseño y su derogación histórica, EUROBATS, CMS COP15 y estandarización."
+    "note_eu_2026": "Informe europeo de 33 páginas integrado el 22-XI-2026: Directivas Hábitats/Aves/EIA, caso TJUE C-504/14, restauración, ecodiseño y su derogación histórica, EUROBATS, CMS COP15 y estandarización.",
+    "note_saudia_2026": "Arabia Saudí añadida: Res. C/15/25/1 de 2025, aplicación AlUla desde enero 2026 por fases; 8 fuentes, 6 medidas destacadas, certificaciones DarkSky diferenciadas. No extrapolar límites al país completo."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -932,6 +933,35 @@
       ],
       "star_ids": [
         "M37"
+      ]
+    },
+    {
+      "iso": "SAU",
+      "name": "Arabia Saudí",
+      "region": "Asia",
+      "level": "subnacional",
+      "summary": "La Resolución C/15/25/1 (22-06-2025) de la Royal Commission for AlUla establece obligaciones territoriales de iluminación exterior, con zonas LZ0–LZ3, CCT máxima 2700 K, horarios, límites de luz intrusa y sanciones. Aplicación por fases desde enero de 2026. No se ha confirmado una ley nacional general específica de contaminación lumínica.",
+      "scope": "AlUla (regulación vinculante por fases); normas ambientales y técnicas nacionales de alcance distinto; áreas DarkSky voluntarias",
+      "confidence": "Texto normativo oficial completo y fases 2026 verificadas; sin validación de un límite lumínico general para el Estado",
+      "note": "Excluye determinados desarrollos con iluminación ya autorizada, instalaciones deportivas, iluminación de calles/espacios públicos de autoridades municipales y llamas. La Comisión puede eximir obligaciones. La certificación DarkSky de AlUla y AlNufud no es ley. El Saudi Green Building Code 2024 y SHC306 no se han equiparado a límites nacionales de ALAN.",
+      "keywords": "AlUla Al Ula Hegra Sharaan AlNufud AlGharameel Saudi Arabia Royal Commission C/15/25/1 2025 2026 light pollution CCT 2700 K 3000 SAR LZ0 LZ1 LZ2 LZ3 lux luz intrusa apantallamiento skyglow DarkSky Saudi Highway Code",
+      "source_ids": [
+        "F214",
+        "F215",
+        "F216",
+        "F217",
+        "F218",
+        "F219",
+        "F220",
+        "F221"
+      ],
+      "star_ids": [
+        "M62",
+        "M63",
+        "M64",
+        "M65",
+        "M66",
+        "M67"
       ]
     },
     {
@@ -3347,6 +3377,94 @@
       "note": "Doctrina académica de acceso abierto, no legislación.",
       "year": "2026",
       "official": false
+    },
+    {
+      "id": "F214",
+      "country": "SAU",
+      "title": "Res. RCU C/15/25/1 (22 junio 2025): Outdoor Lighting Instructions de AlUla",
+      "url": "https://www.rcu.gov.sa/getmedia/9c4b3396-10db-4ac9-8dd1-34f7f2a71dca/rcu-external-lighting-resolution-and-instructions-english.pdf",
+      "type": "Resolución territorial vinculante",
+      "effect": "Norma explícita contra contaminación lumínica: CCT, límite de lúmenes, apantallamiento, horarios, intrusión y sanción.",
+      "note": "Ámbito de la Royal Commission for AlUla; excluye algunos desarrollos autorizados, instalaciones deportivas y alumbrado viario/espacios públicos municipales. Exenciones discrecionales; entrada en vigor por fases.",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F215",
+      "country": "SAU",
+      "title": "Royal Commission for AlUla: aplicación territorial por fases 2026–2028",
+      "url": "https://www.rcu.gov.sa/en/living-in-alula/outdoor-lighting",
+      "type": "Programa oficial de aplicación normativa",
+      "effect": "Fases 1 (enero-marzo 2026), 2 (agosto-octubre 2026), 3 (marzo-abril 2027) y 4 (diciembre 2027-febrero 2028).",
+      "note": "A 22-XI-2026 están anunciadas y transcurridas las dos primeras fases, sin presuponer cumplimiento material de todos los edificios.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F216",
+      "country": "SAU",
+      "title": "Royal Commission for AlUla: registro de instrumentos regulatorios",
+      "url": "https://www.rcu.gov.sa/en/about-rcu/regulatory-pages",
+      "type": "Registro oficial de legislación territorial",
+      "effect": "Confirma resolución C/15/25/1 de 22-06-2025 y publicación 01-08-2025.",
+      "note": "La norma no se extiende automáticamente al resto de Arabia Saudí.",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F217",
+      "country": "SAU",
+      "title": "Arabia Saudí: Sistema de Medio Ambiente 2020 (نظام البيئة)",
+      "url": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/63831ff6-63d9-4212-8b54-abf800e146bd/1",
+      "type": "Ley ambiental nacional",
+      "effect": "Marco ambiental general, permisos y protección de ecosistemas.",
+      "note": "No se ha acreditado en los artículos consultados un límite nacional de luz artificial, luz azul, ULOR o temperatura de color.",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F218",
+      "country": "SAU",
+      "title": "Saudi Highway Code SHC 306: alumbrado viario y contaminación lumínica",
+      "url": "https://istitlaa.ncc.gov.sa/ar/transportation/mot/saudihighwaycode/Documents/SHC%20306%20final.pdf",
+      "type": "Código técnico viario sectorial",
+      "effect": "Guía para reducir skyglow y luz intrusa; evitar sobreiluminación y orientar y apantallar luminarias.",
+      "note": "Documento de código técnico encontrado en portal gubernamental; no se ha verificado su obligatoriedad general, promulgación ni aplicación a iluminación no vial.",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F219",
+      "country": "SAU",
+      "title": "Saudi Green Building Code 2024 (SBC 1001)",
+      "url": "https://www.sbc.gov.sa/en/BC/Pages/BuildingCode/BCDetails.aspx?codeId=1001&year=2024",
+      "type": "Código nacional de construcción verde",
+      "effect": "Marco de construcción sostenible y uso eficiente de recursos y energía.",
+      "note": "La ficha pública no permite certificar artículo concreto vinculante de contaminación lumínica; citar como marco de eficiencia, no como ley nacional de cielos oscuros.",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F220",
+      "country": "SAU",
+      "title": "DarkSky International: AlUla Dark Sky Parks, acreditaciones 2024 y 2025",
+      "url": "https://darksky.org/places/alula-manara-and-algharameel-nature-reserves/",
+      "type": "Certificación ambiental voluntaria",
+      "effect": "AlUla Manara y AlGharameel (2024), Sharaan y Wadi Nakhlah (2025), 6146 km² de parques reconocidos.",
+      "note": "La acreditación DarkSky no es por sí sola un decreto o régimen sancionador.",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F221",
+      "country": "SAU",
+      "title": "DarkSky International: AlNufud Dark Sky Park (2025), 13.416 km²",
+      "url": "https://darksky.org/news/saudi-arabia-announces-new-dark-sky-park-in-the-mena-region/",
+      "type": "Certificación ambiental voluntaria",
+      "effect": "AlNufud en Hail, 13.416 km², reconocido en diciembre 2025 como Dark Sky Park.",
+      "note": "El reconocimiento es voluntario; exige diferenciarlo de leyes saudíes de áreas protegidas y requisitos técnicos locales.",
+      "year": "2025",
+      "official": true
     }
   ],
   "stars": [
@@ -4229,6 +4347,92 @@
         "F208"
       ],
       "caution": "No equivale a una ley sancionable directamente.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M62",
+      "country": "SAU",
+      "title": "CCT máxima 2700 K y requisitos LED en AlUla",
+      "description": "Las instrucciones 2.1.1 de la RCU exigen para el alumbrado exterior cubierto CCT ≤2700 K, IRC ≥80 y eficacia de fuente LED ≥120 lm/W.",
+      "force": "Resolución territorial vinculante",
+      "param": "CCT ≤2700 K; CRI ≥80; eficacia de fuente ≥120 lm/W",
+      "scope": "AlUla, instalaciones de edificios incluidos en la norma",
+      "sources": [
+        "F214"
+      ],
+      "caution": "Aplicación territorial y excepciones de §1.2; exenciones posibles de la RCU; no es máximo nacional para todas las calles.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M63",
+      "country": "SAU",
+      "title": "Presupuesto máximo de lúmenes por terreno y zona LZ0–LZ3",
+      "description": "La sección 2.7 establece límites por luminaria y por parcela según el uso. En LZ0 la asignación base es 0 lm y la adicional 5,5 lm/m²; prohíbe iluminación decorativa de paisaje.",
+      "force": "Resolución territorial vinculante",
+      "param": "Asignación base LZ0=0 lm; LZ1=3500; LZ2=7000; LZ3=14000 lm; adicional por m² de 5,5 / 13,5 / 27 / 54 lm",
+      "scope": "AlUla: presupuestos combinados, clases y usos específicos",
+      "sources": [
+        "F214"
+      ],
+      "caution": "La asignación base 0 en LZ0 no es prohibición de toda iluminación funcional: tabla 6 permite hasta 600 lm por luminaria funcional en LZ0, y existen asignaciones adicionales.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M64",
+      "country": "SAU",
+      "title": "Horarios obligatorios de apagado y atenuación por zonas",
+      "description": "Para viviendas, el §2.3 dispone apagado en LZ0–LZ1 desde las 22 h y en LZ2 desde 00 h; en LZ3, apagado o reducción ≥40 % desde 00 h hasta una hora antes del alba.",
+      "force": "Resolución territorial vinculante",
+      "param": "Residencial: 22:00 (LZ0-1), 00:00 (LZ2-3); LZ3 apagado o reducción ≥40 %",
+      "scope": "AlUla según fases 2026–2028 y zona territorial",
+      "sources": [
+        "F214",
+        "F215"
+      ],
+      "caution": "Usos no residenciales siguen otro horario (en LZ0–LZ1, 23h); excepciones para seguridad, festividades, negocios 24h y Ramadán.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M65",
+      "country": "SAU",
+      "title": "Iluminancia máxima de luz intrusa en límite de parcela",
+      "description": "La sección 2.6, tabla 4, establece niveles máximos de iluminancia vertical en linderos: 0,5 lx en LZ0; 1 lx en LZ1; 3 lx en LZ2; 8 lx en LZ3.",
+      "force": "Resolución territorial vinculante",
+      "param": "Ev límite parcela: LZ0=0,5 lx; LZ1=1 lx; LZ2=3 lx; LZ3=8 lx",
+      "scope": "Edificios frente a vía pública con acera en AlUla",
+      "sources": [
+        "F214"
+      ],
+      "caution": "Texto específico de límite de parcela, asociado a excepción geométrica de derrame hasta 1,5 m; no umbral genérico de inmisión de toda Arabia Saudí.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M66",
+      "country": "SAU",
+      "title": "Apantallamiento y restricción del flujo luminoso superior",
+      "description": "La sección 2.4 exige apantallamiento y establece criterios cut-off/full-cut-off; §2.5.4 prohíbe iluminación contaminante ascendente.",
+      "force": "Resolución territorial vinculante",
+      "param": "Control del flujo superior; excepción limitada para luces decorativas y fuentes <300 lm según uso y zona",
+      "scope": "AlUla; luminarias incluidas en la resolución",
+      "sources": [
+        "F214"
+      ],
+      "caution": "§2.4.1 usa 'should' para diseño cut-off y hay excepciones decorativas de menos de 300 lm en LZ2-LZ3; no describir como FHS=0 % sin salvedades.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M67",
+      "country": "SAU",
+      "title": "AlUla: sanción municipal por incumplir requisitos de iluminación",
+      "description": "Resolución C/15/25/1: sanción de 3000 SAR por edificio, tras aviso con 14 días para corrección; se duplica al reincidir.",
+      "force": "Resolución territorial vinculante",
+      "param": "3000 SAR por edificio; 14 días para corregir; 6000 SAR en repetición",
+      "scope": "AlUla: edificios sujetos a los requisitos, durante fases de aplicación",
+      "sources": [
+        "F214",
+        "F215"
+      ],
+      "caution": "Respeta condiciones de legislación sancionadora municipal y la ejecución por fases; no sanción estatal universal.",
       "replicability": "Alta"
     }
   ],

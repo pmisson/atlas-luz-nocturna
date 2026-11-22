@@ -2,9 +2,9 @@
 
 **Informe maestro de compilación documental — 19 de noviembre de 2026**
 
-- **51 países** en el universo; no equivale a 51 leyes nacionales.
-- **213 registros bibliográficos** con enlaces a documentos y portales; algunos son guías, borradores o fuentes secundarias.
-- **61 medidas estrella** con fuerza jurídica diferenciada.
+- **52 países** en el universo; no equivale a 51 leyes nacionales.
+- **221 registros bibliográficos** con enlaces a documentos y portales; algunos son guías, borradores o fuentes secundarias.
+- **67 medidas estrella** con fuerza jurídica diferenciada.
 
 ## Alcance y procedencia
 
@@ -21,7 +21,7 @@ El estado de revisión es heterogéneo. La clasificación refleja la **naturalez
 - **Directriz o estándar no general:** categoría de visualización «guia», sin representar ranking de rigor.
 - **Pendiente de documentar:** categoría de visualización «pendiente», sin representar ranking de rigor.
 
-## Matriz comparativa de 51 países
+## Matriz comparativa de 52 países
 
 | País | Región | Tipo de instrumento localizado | Ámbito | Referencias |
 |---|---|---|---|---:|
@@ -219,7 +219,7 @@ La columna fuerza jurídica separa límites exigibles, políticas de planeamient
 - Malasia: el documento MS 825-4 consultado es BORRADOR.
 - Omán: decreto de creación de reserva no equivale a adoptar todas las propuestas de control lumínico.
 - Ecuador: el documento localizado requiere cotejo con fuente oficial.
-- En 51 países, el examen de todas las ordenanzas municipales y sus reformas es un trabajo jurídico abierto.
+- En 52 países, el examen de todas las ordenanzas municipales y sus reformas es un trabajo jurídico abierto.
 
 ## Cómo seguir mejorando esta edición
 
@@ -227,7 +227,7 @@ Actualizar cada ficha comparando textos consolidados oficiales, registrar fecha 
 
 ## Ampliacion autonoma y doctrinal 2026
 
-La base documental ampliada cuenta ahora con **213 referencias** y **61 medidas estrella**. La matriz mundial sigue teniendo 51 paises. Adicionalmente se presentan **17 comunidades autonomas y 2 ciudades autonomas**. Las cifras de 79 fuentes y 40 estrellas de la version original quedan sustituidas por los nuevos totales.
+La base documental ampliada cuenta ahora con **221 referencias** y **67 medidas estrella**. La matriz mundial sigue teniendo 51 paises. Adicionalmente se presentan **17 comunidades autonomas y 2 ciudades autonomas**. Las cifras de 79 fuentes y 40 estrellas de la version original quedan sustituidas por los nuevos totales.
 
 ### Repertorios proporcionados por el usuario
 
@@ -301,7 +301,7 @@ La bibliografía aportada documenta el descenso de radiancia VIIRS durante la cr
 
 ## Anexo actualizado: UICN, Italia, Austria y legislación transversal (20-XI-2026)
 
-La ampliación mantiene el universo de **51 países**, con **213 registros de fuentes** y **61 medidas estrella**. Añade inventarios de **22 ámbitos regionales o provinciales italianos** (incluidas algunas entradas de alcance superpuesto), **9 Länder austriacos**, cuatro documentos UICN, y 12 instrumentos potencialmente aplicables a contaminación lumínica sin ser leyes específicas.
+La ampliación mantiene el universo de **52 países**, con **221 registros de fuentes** y **67 medidas estrella**. Añade inventarios de **22 ámbitos regionales o provinciales italianos** (incluidas algunas entradas de alcance superpuesto), **9 Länder austriacos**, cuatro documentos UICN, y 12 instrumentos potencialmente aplicables a contaminación lumínica sin ser leyes específicas.
 
 - [UICN y sus resoluciones](docs/UICN_DECLARACIONES.md): recomendaciones de 2012, 2020/2021, resolución de 2025 y guía de buenas prácticas 2024. No son vinculantes directamente como ley nacional.
 - [Italia, legislación regional](docs/ITA_REGIONES.md): Lombardía LR 31/2015 (LR 17/2000 derogada), Véneto LR 17/2009, Emilia-Romaña LR 19/2003, Lacio LR 23/2000 y reglamento 8/2005, Marcas, Puglia, Friuli-Venecia Julia, Umbría y provincias autónomas; no se atribuye vigencia actual a fuentes históricas pendientes.
@@ -321,3 +321,9 @@ Documentación: [Austria — ficha completa](docs/AUT_austria.md) · [Nueve Län
 Se integra un informe de 33 páginas sobre Derecho de la Unión Europea, instrumentos del Consejo de Europa y normalización. Las referencias acumuladas del atlas son **213** y las medidas estrella **61**, pero los países siguen siendo **51**. Véase el [dossier europeo](docs/UE_MARCO_NORMATIVO.md) y la [matriz CSV](data/marco_europeo.csv).
 
 Destacan la sentencia [TJUE C-504/14](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:62014CJ0504) contra Grecia por perturbación lumínica a Caretta caretta, las obligaciones procedimentales de la Directiva EIA para emisiones de luz y el Reglamento 2024/1991 de restauración, en el cual las medidas lumínicas propuestas son facultativas. También la revisión **COP15 de 2026** de las directrices CMS, EUROBATS Res.8.6 y la Recomendación PACE 1947 (2010). La serie EN13201 y los criterios de compra pública JRC se clasifican como instrumentos técnicos, no como ley general. Se confirma que el Reglamento CE 245/2009 fue derogado por UE 2019/2020 con efecto 01-09-2021.
+
+## Arabia Saudí: incorporación jurídica de AlUla (22-XI-2026)
+
+Se incorpora Arabia Saudí (SAU) como **país n.º 52**. La Royal Commission for AlUla aprobó la [Resolución C/15/25/1 el 22-06-2025](https://www.rcu.gov.sa/getmedia/9c4b3396-10db-4ac9-8dd1-34f7f2a71dca/rcu-external-lighting-resolution-and-instructions-english.pdf), con [despliegue en fases desde enero de 2026](https://www.rcu.gov.sa/en/living-in-alula/outdoor-lighting). La norma vinculante territorial requiere CCT máxima 2700 K, contiene límites de luz intrusa de 0,5, 1, 3 y 8 lux en zonas LZ0–LZ3, control del flujo superior, presupuestos de lúmenes y apagado/atenuación según zona. Prevé sanción de **3000 SAR por edificio**, 14 días de corrección y duplicación por reincidencia.
+
+No cubre automáticamente los desarrollos nuevos ya autorizados, instalaciones deportivas o el alumbrado viario público gestionado por municipalidades. La Ley Ambiental saudí de 2020 y el SBC1001 de 2024 no se presentan como normas generales específicas de límites de ALAN sin verificación de artículo. En 2024–2025 se acreditaron cuatro áreas DarkSky en AlUla (6146 km²) y AlNufud (13416 km²) en Hail; acreditaciones voluntarias, **no promulgación de ley**. Véase [ficha jurídica saudí](docs/SAU_arabia-saudi.md). El atlas cuenta ahora con **52 países, 221 referencias y 67 medidas estrella**.

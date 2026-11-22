@@ -2553,5 +2553,117 @@
         ]
       ]
     }
+  },
+  {
+    "id": "F214",
+    "type": "webpage",
+    "title": "Res. RCU C/15/25/1 (22 junio 2025): Outdoor Lighting Instructions de AlUla",
+    "URL": "https://www.rcu.gov.sa/getmedia/9c4b3396-10db-4ac9-8dd1-34f7f2a71dca/rcu-external-lighting-resolution-and-instructions-english.pdf",
+    "note": "Resolución territorial vinculante; Norma explícita contra contaminación lumínica: CCT, límite de lúmenes, apantallamiento, horarios, intrusión y sanción.",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F215",
+    "type": "webpage",
+    "title": "Royal Commission for AlUla: aplicación territorial por fases 2026–2028",
+    "URL": "https://www.rcu.gov.sa/en/living-in-alula/outdoor-lighting",
+    "note": "Programa oficial de aplicación normativa; Fases 1 (enero-marzo 2026), 2 (agosto-octubre 2026), 3 (marzo-abril 2027) y 4 (diciembre 2027-febrero 2028).",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F216",
+    "type": "webpage",
+    "title": "Royal Commission for AlUla: registro de instrumentos regulatorios",
+    "URL": "https://www.rcu.gov.sa/en/about-rcu/regulatory-pages",
+    "note": "Registro oficial de legislación territorial; Confirma resolución C/15/25/1 de 22-06-2025 y publicación 01-08-2025.",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F217",
+    "type": "webpage",
+    "title": "Arabia Saudí: Sistema de Medio Ambiente 2020 (نظام البيئة)",
+    "URL": "https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/63831ff6-63d9-4212-8b54-abf800e146bd/1",
+    "note": "Ley ambiental nacional; Marco ambiental general, permisos y protección de ecosistemas.",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F218",
+    "type": "webpage",
+    "title": "Saudi Highway Code SHC 306: alumbrado viario y contaminación lumínica",
+    "URL": "https://istitlaa.ncc.gov.sa/ar/transportation/mot/saudihighwaycode/Documents/SHC%20306%20final.pdf",
+    "note": "Código técnico viario sectorial; Guía para reducir skyglow y luz intrusa; evitar sobreiluminación y orientar y apantallar luminarias.",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F219",
+    "type": "webpage",
+    "title": "Saudi Green Building Code 2024 (SBC 1001)",
+    "URL": "https://www.sbc.gov.sa/en/BC/Pages/BuildingCode/BCDetails.aspx?codeId=1001&year=2024",
+    "note": "Código nacional de construcción verde; Marco de construcción sostenible y uso eficiente de recursos y energía.",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F220",
+    "type": "webpage",
+    "title": "DarkSky International: AlUla Dark Sky Parks, acreditaciones 2024 y 2025",
+    "URL": "https://darksky.org/places/alula-manara-and-algharameel-nature-reserves/",
+    "note": "Certificación ambiental voluntaria; AlUla Manara y AlGharameel (2024), Sharaan y Wadi Nakhlah (2025), 6146 km² de parques reconocidos.",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  {
+    "id": "F221",
+    "type": "webpage",
+    "title": "DarkSky International: AlNufud Dark Sky Park (2025), 13.416 km²",
+    "URL": "https://darksky.org/news/saudi-arabia-announces-new-dark-sky-park-in-the-mena-region/",
+    "note": "Certificación ambiental voluntaria; AlNufud en Hail, 13.416 km², reconocido en diciembre 2025 como Dark Sky Park.",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
   }
 ]

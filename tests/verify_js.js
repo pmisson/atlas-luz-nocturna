@@ -17,12 +17,13 @@ vm.runInContext(fs.readFileSync(path.join(root,'assets/world-data.js'),'utf8'),c
 vm.runInContext(fs.readFileSync(path.join(root,'assets/app.js'),'utf8'),context);
 vm.runInContext(fs.readFileSync(path.join(root,'assets/extras.js'),'utf8'),context);
 if(!items.get('countryDetail').innerHTML.includes('España'))throw Error('Spain detail not rendered');
-if((items.get('starRows').innerHTML.match(/<tr>/g)||[]).length!==61)throw Error('Star table missing entries');
-if((items.get('countryRows').innerHTML.match(/<tr>/g)||[]).length!==51)throw Error('Country rows missing');
+if(!context.window.ATLAS_DATA.countries.some(c=>c.iso==='SAU'))throw Error('Saudi Arabia missing');
+if((items.get('starRows').innerHTML.match(/<tr>/g)||[]).length!==67)throw Error('Star table missing entries');
+if((items.get('countryRows').innerHTML.match(/<tr>/g)||[]).length!==52)throw Error('Country rows missing');
 if((items.get('sourceList').innerHTML.match(/source-item/g)||[]).length!==12)throw Error('Source listing failed');
 if((items.get('spainRows').innerHTML.match(/data-region=/g)||[]).length!==19)throw Error('Spanish regional inventory incomplete');
 if(!items.get('spainDetail').innerHTML.includes('Illes Balears'))throw Error('Balearic detail not rendered');
 if((items.get('intlGrid').innerHTML.match(/legal-research-card/g)||[]).length!==7)throw Error('International cards missing');
 if((items.get('scienceGrid').innerHTML.match(/bibliography-entry/g)||[]).length!==27)throw Error('Scientific bibliography incomplete');
 if((items.get('euRows').innerHTML.match(/<tr>/g)||[]).length!==22)throw Error('EU framework missing');
-console.log('PASS: 61 stars, 51 countries, 19 Spanish territories, 7 international cards, 22 EU instruments.');
+console.log('PASS: 67 stars, 52 countries, 19 Spanish territories, 7 international cards, 22 EU instruments.');
