@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
-    "date": "2026-11-22",
-    "country_count": 72,
-    "source_count": 277,
-    "star_count": 96,
+    "date": "2026-11-23",
+    "country_count": 94,
+    "source_count": 306,
+    "star_count": 110,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -23,7 +23,8 @@
     "expansion_2026": "10 nuevas fichas: Luxemburgo, Andorra, Hungría, Letonia, Indonesia, Liechtenstein, EAU, Estonia, Islandia, Lituania. Puerto Rico, ley territorial de EE.UU. Estados pendientes investigados por separado.",
     "review_november_2026": "Vietnam Ley 72/2020 art89, Bulgaria Ley ordenación art92 y Chipre Lara-Toxeftra; Argentina Malargüe y San Juan; Brasil IBAMA 11/1995; cautela Noruega §6(3).",
     "review_serbia_romania_2026": "Serbia art. 81 Ley Protección Naturaleza; Rumanía plan Văcărești Orden 1363/2025, reemplaza 1136/2023. Montenegro queda pendiente de norma ALAN directa.",
-    "review_mena_turkey_2026": "Turquía art6 50% desde 02:00 en usos definidos; Israel Tel Aviv y planes; Túnez art352 proyecto; Argelia estándar IANOR/pliegos; Egipto Ley 102/1983 fauna; Omán política TE 3.3.2; Jordania pendiente."
+    "review_mena_turkey_2026": "Turquía art6 50% desde 02:00 en usos definidos; Israel Tel Aviv y planes; Túnez art352 proyecto; Argelia estándar IANOR/pliegos; Egipto Ley 102/1983 fauna; Omán política TE 3.3.2; Jordania pendiente.",
+    "revision_iau_2026": "Auditoría 23-11-2026 de los 22 países ausentes del informe comparativo IAU; niveles legal-sectorial, subnacional, ambiental, certificado voluntario y pendiente. Rusia art71 de ley 29-10/2009 derogado."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -1417,6 +1418,371 @@
       ],
       "star_ids": [
         "M95"
+      ]
+    },
+    {
+      "iso": "BHR",
+      "name": "Baréin",
+      "region": "Asia",
+      "level": "sectorial",
+      "summary": "Resolución ministerial 212/2019, Código de Edificios Verdes, art. 25: apantallamiento de luminarias exteriores permanentes para proyectar luz por debajo de la horizontal y menos del 10 % de derrame al cielo en iluminación arquitectónica de fachadas.",
+      "scope": "Nacional: categorías de edificios sujetas al Código de Edificios Verdes",
+      "confidence": "Texto legal original en portal legislativo nacional",
+      "note": "Excepciones para iluminación arquitectónica de acento y seguridad aeronáutica según art. 25; la cifra del 10 % se refiere a la iluminación de muros que se derrama al cielo, no al FHS de todos los equipos.",
+      "keywords": "Bahrain green building code exterior light pollution art25 2019",
+      "source_ids": [
+        "F278"
+      ],
+      "star_ids": [
+        "M97"
+      ]
+    },
+    {
+      "iso": "KAZ",
+      "name": "Kazajistán",
+      "region": "Asia",
+      "level": "subnacional",
+      "summary": "Código de Diseño de Astaná, Resolución municipal 510-2987/2026, apartado 135: limitación de fuentes con alto contenido azul en iluminación arquitectónica vespertina y apagado de iluminación decorativa de fachadas desde las 01:00, salvo iluminación funcional de accesos.",
+      "scope": "Astaná: alumbrado ornamental de fachadas regulado municipalmente",
+      "confidence": "Texto de la resolución publicada en sistema jurídico oficial en agosto 2026",
+      "note": "Reducción de intensidad desde 00:00 es recomendada/permitida, mientras que el apagado desde 01:00 es obligatorio en el supuesto definido. No convertir la restricción espectral cualitativa en un porcentaje cuantitativo.",
+      "keywords": "Astana design code 2026 light pollution 135 blue spectra 01",
+      "source_ids": [
+        "F279"
+      ],
+      "star_ids": [
+        "M98"
+      ]
+    },
+    {
+      "iso": "UKR",
+      "name": "Ucrania",
+      "region": "Europa",
+      "level": "sectorial",
+      "summary": "Norma de construcción DBN V.2.5-28:2018 de iluminación natural y artificial: límites de intensidad de luminarias viarias a ángulos cercanos a la horizontal y restricciones de iluminancia vertical en ventanas y hospitales, según el articulado de referencia. El registro oficial señala una versión vigente.",
+      "scope": "Nacional: diseño de determinadas nuevas instalaciones y reformas de alumbrado exterior",
+      "confidence": "Registro de normas de construcción oficial; valores de una edición publicada",
+      "note": "La ficha textual consultada con límites de 30 cd/1000 lm a 80° y 10 cd/1000 lm a 90° está marcada como archivada en el portal; comprobar modificaciones de 2025/2026 antes de usar esos valores en un expediente.",
+      "keywords": "Ukraine DBN outdoor lighting 8.5.8 light trespass",
+      "source_ids": [
+        "F280",
+        "F281"
+      ],
+      "star_ids": [
+        "M99"
+      ]
+    },
+    {
+      "iso": "PAK",
+      "name": "Pakistán",
+      "region": "Asia",
+      "level": "general",
+      "summary": "Pakistan Environmental Protection Act 1997, art. 2(iii), incluye expresamente la luz entre los contaminantes atmosféricos. No se ha localizado en este artículo un límite numérico aplicable al alumbrado nocturno.",
+      "scope": "Nacional, legislación ambiental general; reparto federal/provincial requiere revisión",
+      "confidence": "Texto en portal gubernamental y copia en Pakistan Code",
+      "note": "Definición legal no implica por sí misma obligación automática de FHS, CCT ni valores de lux; cotejar regímenes provinciales vigentes.",
+      "keywords": "Pakistan light air pollutant PEPA 1997",
+      "source_ids": [
+        "F282"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "LKA",
+      "name": "Sri Lanka",
+      "region": "Asia",
+      "level": "sectorial",
+      "summary": "Fauna and Flora Protection (Amendment) Act 49/1993 sustituyó el art. 52 de la ordenanza: prohíbe utilizar luz artificial para facilitar la captura o destrucción de animales por deslumbramiento, atracción u otros medios.",
+      "scope": "Nacional: actividades de captura de fauna",
+      "confidence": "Ley modificadora publicada por la imprenta oficial del Gobierno",
+      "note": "No regula genéricamente alumbrado público ni protege toda fauna frente a cualquier luz artificial; comprobar reformas posteriores del art. 52.",
+      "keywords": "Sri Lanka fauna light hunting section 52 1993",
+      "source_ids": [
+        "F283"
+      ],
+      "star_ids": [
+        "M100"
+      ]
+    },
+    {
+      "iso": "CMR",
+      "name": "Camerún",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "Ley 2024/008 de 24 de julio de 2024 sobre bosques y fauna, art. 125: prohíbe salvo autorización especial la caza nocturna con focos, lámparas frontales u otros medios de iluminación.",
+      "scope": "Nacional: actividades cinegéticas y conservación de fauna",
+      "confidence": "Texto oficial publicado en la Presidencia de Camerún",
+      "note": "La disposición afecta al uso de luces para cazar; no crea un límite universal de luz artificial nocturna ambiental.",
+      "keywords": "Cameroun chasse au phare nocturne loi 2024 008 art125",
+      "source_ids": [
+        "F284"
+      ],
+      "star_ids": [
+        "M101"
+      ]
+    },
+    {
+      "iso": "TCD",
+      "name": "Chad",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "Ley 014/PR/2008 sobre bosques, fauna y recursos pesqueros, arts. 163 y 165: prohíbe caza nocturna y el uso de iluminación deslumbrante o artefactos luminosos para cazar.",
+      "scope": "Nacional: actividades cinegéticas",
+      "confidence": "Texto legal reproducido por repositorio jurídico; cotejo con Diario Oficial pendiente",
+      "note": "Se refiere al método de caza, no al diseño de iluminación exterior; artículo 166 reafirma prohibición de caza entre ocaso y amanecer.",
+      "keywords": "Tchad 014 PR 2008 163 éclairages aveuglants",
+      "source_ids": [
+        "F285"
+      ],
+      "star_ids": [
+        "M102"
+      ]
+    },
+    {
+      "iso": "NGA",
+      "name": "Nigeria",
+      "region": "África",
+      "level": "subnacional",
+      "summary": "Ley Ambiental del Estado de Lagos de 2017, normas de publicidad exterior (Illumination, apartado 5): los anuncios iluminados no pueden proyectar iluminación directa sobre calles, carreteras, aceras o propiedades colindantes ocasionando deslumbramiento peligroso o molestias.",
+      "scope": "Estado de Lagos: anuncios y estructuras publicitarias",
+      "confidence": "Texto legislativo publicado; autoridad de anuncios LASAA",
+      "note": "No existe límite nacional de contaminación lumínica probado por esta norma; comprobar reformas y aplicación de Lagos.",
+      "keywords": "Lagos illuminated signs glare environmental law 2017",
+      "source_ids": [
+        "F286",
+        "F287"
+      ],
+      "star_ids": [
+        "M103"
+      ]
+    },
+    {
+      "iso": "THA",
+      "name": "Tailandia",
+      "region": "Asia",
+      "level": "general",
+      "summary": "Ley nacional de calidad ambiental B.E. 2535 (1992), sección 4, incluye la luz en la definición de contaminante; Ley de Salud Pública B.E. 2535, art. 25(4), contempla la luz como posible molestia perjudicial para la salud, sujeta a órdenes locales.",
+      "scope": "Nacional: contaminación ambiental y molestias sanitarias aplicadas localmente",
+      "confidence": "Ley sanitaria oficial y traducción ambiental publicada en FAOLEX/centro jurídico",
+      "note": "No se ha acreditado límite ALAN nacional en lux o CCT; aplicación de molestias depende de perjuicio y actuación de autoridad local.",
+      "keywords": "Thailand pollutant light public health act 25(4)",
+      "source_ids": [
+        "F288",
+        "F289"
+      ],
+      "star_ids": [
+        "M104"
+      ]
+    },
+    {
+      "iso": "NIC",
+      "name": "Nicaragua",
+      "region": "América",
+      "level": "subnacional",
+      "summary": "Reglamento de Rótulos del Municipio de Managua, art. 22.I (La Gaceta 215/2003), prohíbe rótulos con focos que deslumbren o distraigan a conductores. Ley nacional 1054/2020 regula permisos de rótulos; necesita cotejo de la pervivencia de la prohibición local de 2003.",
+      "scope": "Managua: publicidad exterior; marco nacional de rótulos 2020",
+      "confidence": "Norma local publicada y nueva ley nacional identificada",
+      "note": "No asignar los supuestos 250/100 lux a este artículo sin texto oficial; posible relación derogatoria/competencial de Ley 1054 pendiente.",
+      "keywords": "Nicaragua Managua rótulos art 22 luces deslumbran 1054",
+      "source_ids": [
+        "F290",
+        "F291"
+      ],
+      "star_ids": [
+        "M105"
+      ]
+    },
+    {
+      "iso": "SLV",
+      "name": "El Salvador",
+      "region": "América",
+      "level": "subnacional",
+      "summary": "Ordenanza Integral de Medio Ambiente de La Paz Oeste, adoptada diciembre 2024 y publicada el 4 de febrero de 2025, art. 15: la municipalidad debe controlar niveles permisibles de contaminación atmosférica incluyendo efectos lumínicos.",
+      "scope": "Municipio de La Paz Oeste, departamento de La Paz",
+      "confidence": "Registro del órgano judicial identifica norma vigente y reforma posterior",
+      "note": "El artículo enuncia deber municipal general sin fijar límites de lux ni valores específicos de ALAN; el reglamento fue reformado en 2025 en otros preceptos.",
+      "keywords": "El Salvador La Paz Oeste efectos lumínicos ordenanza",
+      "source_ids": [
+        "F292",
+        "F293"
+      ],
+      "star_ids": [
+        "M106"
+      ]
+    },
+    {
+      "iso": "QAT",
+      "name": "Qatar",
+      "region": "Asia",
+      "level": "guia",
+      "summary": "Manual GSAS Design & Build, criterio S.11 'Light Pollution', evalúa intrusión luminosa en linderos y flujo ascendente según zonas ambientales; el manual de obras GSAS incluye control de contaminación lumínica temporal.",
+      "scope": "Certificación GSAS y proyectos que la incorporen contractual o reglamentariamente",
+      "confidence": "Manual técnico GSAS vigente localizado; obligatoriedad universal no acreditada",
+      "note": "La puntuación de una certificación no equivale a límite legal universal; solo exigible cuando una licencia, pliego o contrato lo incorpore.",
+      "keywords": "Qatar GSAS S11 light trespass upward light emissions",
+      "source_ids": [
+        "F294"
+      ],
+      "star_ids": [
+        "M107"
+      ]
+    },
+    {
+      "iso": "AZE",
+      "name": "Azerbaiyán",
+      "region": "Asia",
+      "level": "sectorial",
+      "summary": "Resolución 3-35/3-2-7/2023 publicada con aprobación del 25 de diciembre de 2024 fija requisitos técnicos de eficiencia energética y tecnología solar para iluminación de calles y carreteras en territorios delimitados; incluye control escalonado de flujo para luminarias inteligentes.",
+      "scope": "Zonas de aplicación de tecnologías solares viarias; no ámbito nacional ALAN completo",
+      "confidence": "Texto normativo publicado en e-qanun oficial",
+      "note": "No confundir control energético y flujo escalonado con límites de contaminación lumínica ecológica ni extender requisitos a todo el país.",
+      "keywords": "Azerbaijan street road lighting solar green technologies 2024",
+      "source_ids": [
+        "F295"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "BGD",
+      "name": "Bangladés",
+      "region": "Asia",
+      "level": "guia",
+      "summary": "Sistema de calificación de edificios energéticamente eficientes y ambientales de SREDA, crédito SM7 de control de iluminación exterior: 1,6 W/m² máximo de densidad de potencia e impedir emisión ascendente y luz intrusa fuera del predio.",
+      "scope": "Crédito de certificación de edificios nuevos/existentes",
+      "confidence": "Documento oficial SREDA con medidas técnicas cuantificadas",
+      "note": "Criterio voluntario para obtener puntuación; no se ha probado que sea obligación nacional para cualquier alumbrado.",
+      "keywords": "Bangladesh SREDA green building rating outdoor light control SM7",
+      "source_ids": [
+        "F296"
+      ],
+      "star_ids": [
+        "M108"
+      ]
+    },
+    {
+      "iso": "BLR",
+      "name": "Bielorrusia",
+      "region": "Europa",
+      "level": "pendiente",
+      "summary": "Ley 1982-XII de Protección Ambiental y sus reformas regulan factores físicos de impacto ambiental; no se ha localizado un artículo expresamente referido a iluminación artificial nocturna ni límites de emisión hacia el cielo.",
+      "scope": "Nacional, derecho ambiental general",
+      "confidence": "Ley ambiental localizada en FAOLEX y repertorios jurídicos; norma ALAN no verificada",
+      "note": "Clasificación pendiente: la definición genérica de efectos físicos no autoriza a atribuir un límite o prohibición de iluminación nocturna.",
+      "keywords": "Belarus 1982 XII physical environmental factors no ALAN",
+      "source_ids": [
+        "F297"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "KEN",
+      "name": "Kenia",
+      "region": "África",
+      "level": "general",
+      "summary": "La Ley de Gestión y Coordinación Ambiental y su reglamentación de EIA requieren autorización ambiental para determinados proyectos. Estudios ambientales publicados por NEMA mencionan afectaciones de iluminación artificial a playas de anidación de tortugas y proponen mitigación.",
+      "scope": "Nacional: EIA y licencias de proyecto; protección costera cuando proceda",
+      "confidence": "Documentos NEMA oficiales y EIA concreta identificados",
+      "note": "Una medida de mitigación en un estudio EIA no es por sí misma condición exigible: falta la licencia/autorización con cláusula ALAN y umbrales.",
+      "keywords": "Kenya NEMA EIA light pollution turtles",
+      "source_ids": [
+        "F298",
+        "F299"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "LBN",
+      "name": "Líbano",
+      "region": "Asia",
+      "level": "guia",
+      "summary": "El sistema ARZ de calificación ambiental de edificios incorpora el crédito opcional Si-3.1 'Night Light Pollution', para reducir luz ascendente y deslumbramiento en propiedades vecinas y proteger fauna nocturna.",
+      "scope": "Certificación ARZ de edificios participantes",
+      "confidence": "Manual de ARZ identifica expresamente criterio como opcional",
+      "note": "No equivalente a ley nacional de prevención de contaminación lumínica; verificar requisitos contractuales de cada proyecto.",
+      "keywords": "Lebanon ARZ night light pollution optional",
+      "source_ids": [
+        "F300"
+      ],
+      "star_ids": [
+        "M109"
+      ]
+    },
+    {
+      "iso": "RUS",
+      "name": "Rusia",
+      "region": "Europa",
+      "level": "pendiente",
+      "summary": "El art. 71 de la antigua Ley 29-10/2009 de San Petersburgo protegía el astroclima del Observatorio de Púlkovo, incluyendo minimizar brillo de cielo. ESA LEY ESTÁ DEROGADA. La zona de protección del observatorio y las zonas patrimoniales subsisten en otros instrumentos; obligaciones lumínicas concretas vigentes por cotejar.",
+      "scope": "San Petersburgo: entorno del Observatorio de Púlkovo",
+      "confidence": "Norma histórica y derogación contrastadas; zonas actuales descritas por observatorio y normativa de patrimonio",
+      "note": "No reproducir el art. 71 derogado como ley vigente. Determinar alcance jurídico de la zona actual antes de afirmar límite ALAN.",
+      "keywords": "Russia Pulkovo observatory zone historic light sky glow repealed",
+      "source_ids": [
+        "F301",
+        "F302"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "RWA",
+      "name": "Ruanda",
+      "region": "África",
+      "level": "pendiente",
+      "summary": "Ley 48/2018 de Medio Ambiente organiza protección, prevención y evaluación de impacto; sin artículo nacional de contaminación lumínica ni condición de iluminación exterior concreta acreditados en los textos revisados.",
+      "scope": "Nacional, marco ambiental general",
+      "confidence": "Ley vigente localizada en RwandaLII y UNEP",
+      "note": "El país figura como investigado y con legislación ambiental general, no como poseedor de norma ALAN específica.",
+      "keywords": "Rwanda 48 2018 environment ALAN no article",
+      "source_ids": [
+        "F303"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "SEN",
+      "name": "Senegal",
+      "region": "África",
+      "level": "guia",
+      "summary": "Decisión 00038/ASN/PCA/sc de 30 de julio de 2018, publicada en el Diario Oficial de abril de 2019, homologa normas técnicas senegalesas de alumbrado público y lugares de trabajo.",
+      "scope": "Normalización nacional de iluminación",
+      "confidence": "Decisión de homologación publicada en Diario Oficial",
+      "note": "Homologar una norma técnica no prueba su obligatoriedad ambiental general; revisar norma anexa e incorporación en reglamentos o contratos.",
+      "keywords": "Senegal normes homologuées éclairage public 00038 ASN",
+      "source_ids": [
+        "F304"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "SLE",
+      "name": "Sierra Leona",
+      "region": "África",
+      "level": "pendiente",
+      "summary": "Environmental Protection Agency Act 15/2022 crea y dota de competencias ambientales a la agencia, con evaluación y control de proyectos; no se ha verificado un límite o regla directa sobre contaminación lumínica en el articulado examinado.",
+      "scope": "Nacional, legislación institucional y ambiental",
+      "confidence": "Ley 2022 vigente localizada en SierraLII",
+      "note": "No equiparar EIA o protección general de ecosistemas a obligación específica ALAN sin resolución adicional.",
+      "keywords": "Sierra Leone EPA act 15 2022 pollution light no direct",
+      "source_ids": [
+        "F305"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "UZB",
+      "name": "Uzbekistán",
+      "region": "Asia",
+      "level": "sectorial",
+      "summary": "Orden ministerial 01/2-68 de 26 de septiembre de 2024 aprueba la norma SHNQ 2.01.05-24 de iluminación natural y artificial, aplicable a proyectos de edificios, poblaciones y espacios exteriores; reemplaza QMQ 2.01.05-19.",
+      "scope": "Nacional, diseño de construcción y alumbrado exterior dentro de supuestos de la SHNQ",
+      "confidence": "Texto normativo y estado de aprobación disponibles en Lex.uz",
+      "note": "Regula diseño y valores técnicos; no se ha encontrado límite nacional separado de brillo del cielo ni espectro ambiental.",
+      "keywords": "Uzbekistan SHNQ 2.01.05-24 artificial outdoor lighting 2024",
+      "source_ids": [
+        "F306"
+      ],
+      "star_ids": [
+        "M110"
       ]
     }
   ],
@@ -4467,6 +4833,325 @@
       "note": "No límite legal uniforme",
       "year": "2026",
       "official": true
+    },
+    {
+      "id": "F278",
+      "country": "BHR",
+      "title": "Baréin: Resolución 212/2019, Código de Edificios Verdes, art. 25",
+      "url": "https://www.lloc.gov.bh/Legislation/HTM/RWMP21219",
+      "type": "Reglamento nacional de edificación",
+      "effect": "Edificios designados, iluminación exterior permanente, proyección bajo horizontal y derrame arquitectónico <10 %.",
+      "note": "Excluye determinados usos de acento y balizamiento aeronáutico.",
+      "year": "2019",
+      "official": true
+    },
+    {
+      "id": "F279",
+      "country": "KAZ",
+      "title": "Astaná: Resolución 510-2987/2026, Código de Diseño, art. 135",
+      "url": "https://adilet.zan.kz/kaz/docs/G26ABW5102A",
+      "type": "Norma urbanística municipal",
+      "effect": "Limitación azul cualitativa, apagado ornamental obligatorio de fachadas desde 01:00.",
+      "note": "No extrapolar a Kazajistán completo; distinguido del atenuado recomendado desde 00:00.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F280",
+      "country": "UKR",
+      "title": "Ucrania: DBN V.2.5-28:2018, registro de versión vigente",
+      "url": "https://e-construction.gov.ua/laws_detail/3879665444646291006",
+      "type": "Norma técnica estatal de construcción",
+      "effect": "Diseño de alumbrado exterior, límites de deslumbramiento y luz intrusa según disposiciones aplicables.",
+      "note": "El registro de edición histórica no equivale al texto consolidado vigente tras reformas.",
+      "year": "2018",
+      "official": true
+    },
+    {
+      "id": "F281",
+      "country": "UKR",
+      "title": "Ucrania: edición electrónica histórica DBN V.2.5-28:2018, arts. 8.5.8 y 8.5.37",
+      "url": "https://e-construction.gov.ua/laws_detail/3074958732556240833?doc_type=2",
+      "type": "Texto técnico histórico archivado",
+      "effect": "30 cd/1000 lm a 80°, 10 cd/1000 lm a 90° en supuestos viales; ventanas 7/10/20 lux por categorías en versión histórica.",
+      "note": "Advertencia: ficha histórica marcada ARCHIVADA; los valores no se presentan como texto vigente sin cotejo.",
+      "year": "2018",
+      "official": true
+    },
+    {
+      "id": "F282",
+      "country": "PAK",
+      "title": "Pakistan Environmental Protection Act, 1997, sección 2(iii)",
+      "url": "https://tipp.gov.pk/site/display/56",
+      "type": "Ley ambiental nacional",
+      "effect": "La definición legal de contaminante atmosférico enumera la luz.",
+      "note": "No atribuir límites fotométricos derivados de esta definición.",
+      "year": "1997",
+      "official": true
+    },
+    {
+      "id": "F283",
+      "country": "LKA",
+      "title": "Sri Lanka: Fauna and Flora Protection Amendment Act 49/1993, art. 52",
+      "url": "https://www.documents.gov.lk/view/acts/1993/10/49-1993_E.pdf",
+      "type": "Ley nacional de fauna",
+      "effect": "Prohibido utilizar luz artificial para facilitar captura o muerte de animales.",
+      "note": "Texto de modificación oficial; revisar consolidación posterior.",
+      "year": "1993",
+      "official": true
+    },
+    {
+      "id": "F284",
+      "country": "CMR",
+      "title": "Camerún: Ley 2024/008 de 24 de julio de 2024, artículo 125",
+      "url": "https://www.prc.cm/fr/actualites/actes/lois/7298-loi-n-2024-008-du-24-juillet-2024-portant-regime-des-forets-et-de-la-faune",
+      "type": "Ley nacional de fauna",
+      "effect": "Prohíbe caza nocturna con focos y lámparas salvo autorización especial.",
+      "note": "Ámbito cinegético; no alumbrado general.",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F285",
+      "country": "TCD",
+      "title": "Chad: Ley 014/PR/2008 arts. 163-166 sobre caza y luces",
+      "url": "https://juriscom.org/Documentation/Tchad/Environnement_tourisme_peche_chasse/Loi-08-014-2008-06-10-PR_portant_regime_des_forets_de_la_faune_et_des_ressources_halieutiques.pdf",
+      "type": "Ley de fauna en repositorio secundario",
+      "effect": "Prohibición de caza de noche y de medios luminosos deslumbrantes o de caza.",
+      "note": "Cotejar publicación original; no extender a farolas.",
+      "year": "2008",
+      "official": false
+    },
+    {
+      "id": "F286",
+      "country": "NGA",
+      "title": "Lagos State Environmental Management and Protection Law 2017, apartado Illumination 5",
+      "url": "https://ehoanlagos.com/wp-content/uploads/2025/10/ENVIRONMENT-LAW-2017.pdf",
+      "type": "Ley estatal, reproducción documental",
+      "effect": "Prohíbe deslumbramiento directo perjudicial de anuncios sobre carreteras o propiedades colindantes.",
+      "note": "Cotejar enmiendas y regulación de LASAA.",
+      "year": "2017",
+      "official": false
+    },
+    {
+      "id": "F287",
+      "country": "NGA",
+      "title": "Lagos State Signage and Advertisement Agency, reglas publicitarias",
+      "url": "https://lasaa.lg.gov.ng/regulations/regulations-and-rules",
+      "type": "Portal de autoridad estatal",
+      "effect": "Competencias de licenciamiento y control de anuncios exteriores.",
+      "note": "Portal institucional; no contiene por sí mismo valores numéricos.",
+      "year": "",
+      "official": true
+    },
+    {
+      "id": "F288",
+      "country": "THA",
+      "title": "Tailandia: Public Health Act BE 2535, art. 25(4) sobre molestias luminosas",
+      "url": "https://ddc.moph.go.th/uploads/publish/1137020210501020646.pdf",
+      "type": "Ley sanitaria nacional",
+      "effect": "Las molestias por luz que amenazan la salud pueden ser objeto de actuación local.",
+      "note": "No constituye límite ambiental de skyglow.",
+      "year": "1992",
+      "official": true
+    },
+    {
+      "id": "F289",
+      "country": "THA",
+      "title": "Tailandia: ley nacional de calidad ambiental 1992, art. 4",
+      "url": "https://faolex.fao.org/es/documents/LEX-FAOC019415/enhancement-and-conservation-of-national-environmental-quali-tha-1992",
+      "type": "Ley nacional, FAOLEX",
+      "effect": "Incluye la luz dentro de la definición legal de contaminantes.",
+      "note": "Comprobar textos modificatorios posteriores de la definición.",
+      "year": "1992",
+      "official": false
+    },
+    {
+      "id": "F290",
+      "country": "NIC",
+      "title": "Managua: Reglamento de Rótulos 2003, artículo 22.I, Gaceta 215",
+      "url": "https://sajurin.enriquebolanos.org/docs/Gaceta%20No.%20215%20Miercoles%2012%20de%20Noviembre%20de%202003.pdf",
+      "type": "Ordenanza municipal, Gaceta reproducida",
+      "effect": "Prohíbe rótulos que deslumbren o distraigan a conductores.",
+      "note": "Comprobar compatibilidad con Ley 1054/2020.",
+      "year": "2003",
+      "official": false
+    },
+    {
+      "id": "F291",
+      "country": "NIC",
+      "title": "Nicaragua: Ley 1054/2020 de Rótulos",
+      "url": "https://cam.gob.ni/wp-content/uploads/2025/04/9.-LEY-DE-ROTULOS-LEY-1054.pdf",
+      "type": "Ley nacional",
+      "effect": "Regula competencias municipales, licencias y rótulos publicitarios.",
+      "note": "No atribuir límite ALAN nacional sin artículo específico.",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F292",
+      "country": "SLV",
+      "title": "La Paz Oeste: Ordenanza Integral Medio Ambiente publicada 04-02-2025",
+      "url": "https://www.jurisprudencia.gob.sv/busqueda/showFile.php?bd=2&cesta=0&data=DocumentosBoveda%2FD%2F2%2F2020-2029%2F2025%2F02%2F10829B.PDF&fecha=04%2F02%2F2025&number=1082011&numero=ORDENANZA%3DINTEGRAL%3DDE%3DMEDIO%3DAMBIENTE%3DDEL%3DMUNICIPIO%3DDE%3DLA%3DPAZ%3DOESTE%2C%3DDEPARTAMENTO%3DDE%3DLA%3DPAZ&singlePage=false",
+      "type": "Ordenanza ambiental municipal",
+      "effect": "Art. 15 cita efectos lumínicos entre factores ambientales.",
+      "note": "No establece límites cuantitativos de ALAN.",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F293",
+      "country": "SLV",
+      "title": "La Paz Oeste: reforma 2025 de Ordenanza Integral Medio Ambiente",
+      "url": "https://www.jurisprudencia.gob.sv/DocumentosBoveda/R/2/2020-2029/2025/02/1090C0.HTML?embedded=true",
+      "type": "Reforma municipal",
+      "effect": "Reforma otros artículos 10, 41, 57 de la norma de 2025.",
+      "note": "No se identificó modificación del art. 15.",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F294",
+      "country": "QAT",
+      "title": "Qatar: Manual GSAS Design & Build, criterio S.11 contaminación lumínica",
+      "url": "https://gsas.gord.qa/wp-content/uploads/2025/08/GSAS-Design-and-Build-Assessment-Manual-for-Building-Typologies.pdf",
+      "type": "Manual de certificación voluntaria",
+      "effect": "Simulaciones de luz intrusa y emisión superior según zona IESNA.",
+      "note": "Solo exigible si se incorpora a licencia, contrato o certificación aplicable.",
+      "year": "2025",
+      "official": false
+    },
+    {
+      "id": "F295",
+      "country": "AZE",
+      "title": "Azerbaiyán: resolución publicada sobre tecnologías solares en iluminación de calles",
+      "url": "https://e-qanun.az/framework/56025",
+      "type": "Regulación técnica de energía y alumbrado",
+      "effect": "Tecnología solar y control escalonado inteligente en zonas delimitadas.",
+      "note": "No aporta límite de contaminación lumínica ambiental verificado.",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F296",
+      "country": "BGD",
+      "title": "Bangladés: SREDA Building Energy Efficiency and Environment Rating, SM7",
+      "url": "https://sreda.gov.bd/sites/default/files/files/sreda.portal.gov.bd/notices/0b8bbe11_9207_4b0b_bc3d_99775ba8fe52/2023-06-11-05-30-3d85de5318e7bcc39bb27b8d1a6b66fb.pdf",
+      "type": "Certificación técnica optativa",
+      "effect": "LPD 1.6 W/m² y evitar emisión hacia el cielo y linderos para recibir crédito.",
+      "note": "No se probó obligatoriedad universal.",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F297",
+      "country": "BLR",
+      "title": "Bielorrusia: Ley 1982-XII de protección ambiental, repertorio FAOLEX",
+      "url": "https://faolex.fao.org/es/documents/LEX-FAOC232690/law-no-1982-xii-of-1992-on-protection-of-the-environment-blr-2023",
+      "type": "Ley nacional ambiental",
+      "effect": "Normas generales sobre efectos físicos, naturaleza y evaluación ambiental.",
+      "note": "No hay artículo directo ALAN verificado ni valores lux.",
+      "year": "1992",
+      "official": false
+    },
+    {
+      "id": "F298",
+      "country": "KEN",
+      "title": "Kenia: NEMA, normativa y obligación de evaluación de impacto ambiental",
+      "url": "https://nema.go.ke/laws-and-guidelines/environmental-regulations-eia-ea/",
+      "type": "Reglamento EIA y guía institucional",
+      "effect": "Licencias EIA obligatorias en determinados proyectos.",
+      "note": "Límites de ALAN requieren condición individual.",
+      "year": "",
+      "official": true
+    },
+    {
+      "id": "F299",
+      "country": "KEN",
+      "title": "Kenia: NEMA EIA cable Daraja en Nyali; mitigación lumínica para tortugas",
+      "url": "https://nema.go.ke/wp-content/uploads/2025/08/EIA-2348-SR-3591_Daraja-Fibre-Optic-Cable-Project.pdf",
+      "type": "Estudio de impacto ambiental, no ley",
+      "effect": "Propone reducir trabajos nocturnos y luz artificial en playa de tortugas.",
+      "note": "Propuesta no equivale a condición de licencia sin resolución.",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F300",
+      "country": "LBN",
+      "title": "Líbano: ARZ Building Rating System, criterio opcional Si-3.1 Night Light Pollution",
+      "url": "https://arzrating.com/storage/user-guidelines/bHsdnYJzMWfXFLFGdUyFPQCWqNzFrT3YlSzehrIB.pdf",
+      "type": "Estándar voluntario de certificación",
+      "effect": "Minimizar luz ascendente, intrusión luminosa y deslumbramiento.",
+      "note": "El criterio del propio manual indica Optional.",
+      "year": "2022",
+      "official": false
+    },
+    {
+      "id": "F301",
+      "country": "RUS",
+      "title": "Rusia: antigua Ley de San Petersburgo 29-10/2009, art. 71 Púlkovo, DEROGADA",
+      "url": "https://base.garant.ru/35328214/0a49cc04e9ebe1c7f7cc242e6fa458b8/",
+      "type": "Ley histórica derogada",
+      "effect": "Antiguamente ordenaba proteger astroclima y reducir cielo iluminado en torno a observatorio.",
+      "note": "No vigente: conservar solo como antecedente.",
+      "year": "2009",
+      "official": false
+    },
+    {
+      "id": "F302",
+      "country": "RUS",
+      "title": "Rusia: Observatorio de Púlkovo, documentación oficial de zona protectora",
+      "url": "https://www.gaoran.ru/russian/boundaries.html",
+      "type": "Documento institucional",
+      "effect": "Zona protectora astronómica y controversias sobre límites territoriales.",
+      "note": "No prueba por sí solo vigencia de antiguas restricciones de luz.",
+      "year": "",
+      "official": true
+    },
+    {
+      "id": "F303",
+      "country": "RWA",
+      "title": "Ruanda: Ley del Medio Ambiente 48/2018",
+      "url": "https://rwandalii.org/akn/rw/act/law/2018/48/eng%402018-09-21",
+      "type": "Ley ambiental general",
+      "effect": "Estructura protección y conservación del ambiente, control de proyectos.",
+      "note": "Artículo específico ALAN no localizado.",
+      "year": "2018",
+      "official": false
+    },
+    {
+      "id": "F304",
+      "country": "SEN",
+      "title": "Senegal: decisión 00038/ASN/PCA/sc sobre homologación normas de iluminación pública",
+      "url": "https://www.vie-publique.sn/docs/373817e7-a20e-4522-9d7f-9dc2821bae0e/JO-7175-du-13-avril-2019.pdf",
+      "type": "Decisión publicada en Diario Oficial",
+      "effect": "Homologa listado de estándares de alumbrado público y laboral.",
+      "note": "No se ha acreditado obligatoriedad ecológica automática del catálogo.",
+      "year": "2019",
+      "official": true
+    },
+    {
+      "id": "F305",
+      "country": "SLE",
+      "title": "Sierra Leona: Environmental Protection Agency Act 15/2022",
+      "url": "https://sierralii.gov.sl/akn/sl/act/2022/15/eng%402022-09-15",
+      "type": "Ley nacional ambiental",
+      "effect": "Competencias de control y evaluación de impacto ambiental.",
+      "note": "No se ha verificado límite fotométrico ALAN.",
+      "year": "2022",
+      "official": false
+    },
+    {
+      "id": "F306",
+      "country": "UZB",
+      "title": "Uzbekistán: orden 01/2-68/2024 aprueba SHNQ 2.01.05-24",
+      "url": "https://lex.uz/uz/mact/-7218587",
+      "type": "Norma nacional de diseño de alumbrado",
+      "effect": "Normativa técnica vigente de iluminación natural y artificial, viaria y espacios.",
+      "note": "Reemplaza QMQ 2.01.05-19; no confundir iluminancia de seguridad con límites de brillo de cielo.",
+      "year": "2024",
+      "official": true
     }
   ],
   "stars": [
@@ -5842,6 +6527,202 @@
         "F074"
       ],
       "caution": "No equivale al texto del decreto 40/2019 ni impone sanciones generales.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M97",
+      "country": "BHR",
+      "title": "Baréin: apantallamiento integral exterior",
+      "description": "Art. 25 de resolución 212/2019 exige mantener la luz de luminarias permanentes ordinarias por debajo de plano horizontal.",
+      "force": "Reglamento obligatorio para edificios designados",
+      "param": "Proyección por debajo horizontal; derrame de wall-wash al cielo inferior a 10 %",
+      "scope": "Edificios cubiertos por Código Verde",
+      "sources": [
+        "F278"
+      ],
+      "caution": "No aplicar 10 % como límite general de flujo superior de todas las luminarias.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M98",
+      "country": "KAZ",
+      "title": "Astaná: apagado ornamental de fachadas a la 01:00",
+      "description": "Apartado 135 del código municipal exige apagar iluminación arquitectónica de fachadas a la 01:00 salvo accesos y rótulos funcionales.",
+      "force": "Norma municipal aprobada",
+      "param": "Apagado 01:00; restricción cualitativa de azul",
+      "scope": "Ciudad de Astaná",
+      "sources": [
+        "F279"
+      ],
+      "caution": "Reducción tras 00:00 figura como permitida y recomendada, no obligatoria.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M99",
+      "country": "UKR",
+      "title": "Ucrania: control viario de deslumbramiento y luz intrusa",
+      "description": "DBN de iluminación exterior incorpora límites angulares de intensidad y, en versión histórica, iluminancia vertical a ventanas y hospitales.",
+      "force": "Norma técnica estatal de construcción",
+      "param": "Histórico 30 cd/1000 lm (80°), 10 cd/1000 lm (90°); 7/10/20 lux ventanas",
+      "scope": "Supuestos definidos en DBN",
+      "sources": [
+        "F280"
+      ],
+      "caution": "Valores de texto archivado; pendiente cotejar consolidado posterior a 2025 antes de considerarlos exigibles.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M100",
+      "country": "LKA",
+      "title": "Sri Lanka: prohibición de usar luz para capturar fauna",
+      "description": "Art. 52 prohíbe cualquier luz artificial empleada para facilitar captura o muerte de animales.",
+      "force": "Ley nacional de fauna",
+      "param": "Prohibición de método de caza/captura con luz",
+      "scope": "Sri Lanka",
+      "sources": [
+        "F283"
+      ],
+      "caution": "No es un límite de alumbrado exterior.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M101",
+      "country": "CMR",
+      "title": "Camerún: prohibición de caza nocturna con luz",
+      "description": "Ley 2024/008 art. 125 prohíbe focos o frontales para la caza salvo autorización especial.",
+      "force": "Ley nacional de fauna",
+      "param": "Prohibición de caza con medios luminosos",
+      "scope": "Camerún",
+      "sources": [
+        "F284"
+      ],
+      "caution": "No regulaciones fotométricas sobre luminarias públicas.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M102",
+      "country": "TCD",
+      "title": "Chad: luz artificial deslumbrante prohibida para cazar",
+      "description": "Ley 014/PR/2008 arts. 163 y 165 prohíbe caza con iluminadores potentes y dispositivos luminosos.",
+      "force": "Ley de fauna",
+      "param": "Uso cinegético de luz prohibido",
+      "scope": "Chad",
+      "sources": [
+        "F285"
+      ],
+      "caution": "Texto en repositorio secundario; validar vigencia y modificaciones.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M103",
+      "country": "NGA",
+      "title": "Lagos: anuncios luminosos sin deslumbramiento peligroso",
+      "description": "Sección 5 de reglas publicitarias de la Ley Ambiental de Lagos 2017 prohíbe orientar anuncios hacia vías o vecinos generando molestias o peligro.",
+      "force": "Ley de estado federado",
+      "param": "Prohibición cualitativa de deslumbramiento e intrusión",
+      "scope": "Lagos",
+      "sources": [
+        "F286"
+      ],
+      "caution": "No representa legislación federal de Nigeria.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M104",
+      "country": "THA",
+      "title": "Tailandia: luz que causa molestias sanitarias",
+      "description": "Art. 25(4) Ley de Salud Pública puede calificar la luz perjudicial como molestia y habilita intervención local.",
+      "force": "Ley nacional de salud pública",
+      "param": "Protección frente a molestias, sin valores lux",
+      "scope": "Tailandia",
+      "sources": [
+        "F288"
+      ],
+      "caution": "Exige condiciones de perjuicio y aplicación administrativa local.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M105",
+      "country": "NIC",
+      "title": "Managua: anuncios sin deslumbrar tráfico",
+      "description": "Art. 22.I de reglamento municipal de rótulos limita deslumbramiento de conductores.",
+      "force": "Ordenanza municipal histórica; compatibilidad con ley 2020 por verificar",
+      "param": "Prohibición cualitativa",
+      "scope": "Managua",
+      "sources": [
+        "F290"
+      ],
+      "caution": "Revisar vigencia tras Ley 1054/2020.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M106",
+      "country": "SLV",
+      "title": "La Paz Oeste: efectos lumínicos contemplados en contaminación atmosférica",
+      "description": "Art. 15 de ordenanza 2025 obliga a municipio a vigilar factores lumínicos, sin límites fotométricos específicos.",
+      "force": "Ordenanza ambiental municipal",
+      "param": "Deber de control sin límite publicado",
+      "scope": "Municipio La Paz Oeste",
+      "sources": [
+        "F292"
+      ],
+      "caution": "No confundir enunciado general con régimen de sanciones ALAN.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M107",
+      "country": "QAT",
+      "title": "Qatar GSAS: evaluar luz intrusa y emisión ascendente",
+      "description": "Criterio S.11 de certificación GSAS requiere simulaciones de iluminancia en linderos y lumens por encima de horizontal según zona IESNA.",
+      "force": "Certificación de proyecto, opcional salvo incorporación contractual",
+      "param": "Indicadores de luz intrusa y emisión superior por zona",
+      "scope": "Proyectos certificados GSAS",
+      "sources": [
+        "F294"
+      ],
+      "caution": "No ley general de alumbrado en Qatar.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M108",
+      "country": "BGD",
+      "title": "Bangladés SREDA SM7: potencia exterior y flujo superior",
+      "description": "Crédito de certificación para edificios con LPD hasta 1,6 W/m² y medidas anti-uplight e intrusión.",
+      "force": "Crédito voluntario",
+      "param": "1,6 W/m² y evitar luz hacia arriba/linderos",
+      "scope": "Edificios participantes",
+      "sources": [
+        "F296"
+      ],
+      "caution": "No límite obligatorio general.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M109",
+      "country": "LBN",
+      "title": "Líbano ARZ Si-3.1: iluminación nocturna de edificios",
+      "description": "Crédito opcional para contener emisión ascendente, deslumbramiento y luz intrusa.",
+      "force": "Certificación voluntaria",
+      "param": "Control cualitativo",
+      "scope": "Edificios ARZ",
+      "sources": [
+        "F300"
+      ],
+      "caution": "El documento dice Optional; no legalidad nacional.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M110",
+      "country": "UZB",
+      "title": "Uzbekistán: SHNQ 2.01.05-24 de alumbrado exterior",
+      "description": "Norma de proyecto de nueva construcción/reconstrucción regula iluminación artificial, calles y otras instalaciones.",
+      "force": "Norma técnica estatal de construcción",
+      "param": "Niveles y clases de iluminación de proyecto",
+      "scope": "Diseño en supuestos definidos",
+      "sources": [
+        "F306"
+      ],
+      "caution": "No implica control general del cielo nocturno.",
       "replicability": "Media"
     }
   ],
