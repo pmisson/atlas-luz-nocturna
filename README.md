@@ -125,3 +125,11 @@ Actualización basada en informe de 26 páginas facilitado por el usuario, sin r
 ### Unión Europea y acuerdos paneuropeos (22-XI-2026)
 
 Nuevo inventario de 22 entradas con fuente y cautela jurídica: Directivas Hábitats, Aves y EIA; sentencia TJUE C-504/14; restauración de naturaleza 2024; CMS COP15 2026; EUROBATS; CEN/EN13201 y GPP. Cuatro medidas estrella añadidas con ámbito «Internacional» sin contar la UE como país. Documentos: `docs/UE_MARCO_NORMATIVO.md`, `docs/UE_NORMAS_TECNICAS.md`; datos: `data/marco_europeo.csv`. El DOCX de investigación aportado no se publica íntegramente. Los generadores históricos no deben usarse sin integrar todas las ampliaciones acumuladas.
+
+## Inventario de proyectos europeos (22-XI-2026)
+
+Nueva sección pública `#proyectos-europeos`: 21 proyectos con financiación europea (Horizon Europe, H2020, ERC/MSCA, LIFE, Interreg, COST, Erasmus+) y dos iniciativas vinculadas (IMPEL ReLiPo y OpenRed, dependiente de PLAN-B). Enlaces oficiales y programas, fechas, ámbito, estado, objetivos y presupuesto cuando está verificado. Archivos: `data/proyectos_europeos.json`, `.csv`, `.ris`, y `docs/PROYECTOS_EUROPEOS.md`.
+
+### Visualización robusta de la Unión Europea
+
+El apartado `#union-europea` ahora contiene 22 filas y tres fichas principales **integradas en el HTML** para no depender del arranque del JavaScript. Se añade un parámetro de versión a los recursos CSS/JS para refrescar la caché de GitHub Pages.

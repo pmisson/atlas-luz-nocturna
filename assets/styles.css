@@ -88,3 +88,33 @@
 @media(max-width:1000px){.europa-table{min-width:940px}}
 
 #union-europea .europa-table{min-width:1020px}#union-europea .europa-table th:nth-child(1){width:25%}#union-europea .europa-table th:nth-child(2){width:27%}#union-europea .europa-table th:nth-child(3){width:28%}#union-europea .europa-table th:nth-child(4){width:20%}#union-europea .eu-ref-break{height:7px}#union-europea .euro-ref-links a{white-space:normal;line-height:1.35;display:inline-block;overflow-wrap:anywhere}#union-europea .reference-legal-note{margin-bottom:25px}
+
+/* European legal matrix and project catalogue: usable even without JS. */
+.eu-highlight-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:20px 0 26px}
+.eu-law-highlight{border:1px solid #476478;border-radius:9px;padding:20px;background:#1b2b3c}
+.eu-law-highlight h3{font-size:16px;line-height:1.35;margin:0 0 9px}
+.eu-law-highlight a{color:#87efd0;text-decoration:underline;text-underline-offset:3px}
+.eu-law-highlight p{font-size:12px;line-height:1.6;color:#bacedb;margin:0}
+#union-europea .europa-table{min-width:910px}
+#union-europea .europa-table td:first-child strong{color:#e7f9f5}
+#union-europea .eu-ref-item{padding-bottom:8px;overflow-wrap:anywhere}
+#union-europea .eu-ref-item a{white-space:normal;text-decoration:underline;text-underline-offset:2px}
+.eu-project-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:15px;margin-top:22px}
+.eu-project-card{border:1px solid #3d5368;border-radius:11px;background:#15283a;padding:22px;min-width:0;display:flex;flex-direction:column;gap:10px}
+.eu-project-card[hidden]{display:none!important}
+.eu-project-card:hover{border-color:#78bbaf}
+.eu-project-top{display:flex;align-items:center;justify-content:space-between;gap:10px;color:#97ddc8;font-size:11px;font-weight:700}
+.eu-project-programme{font-size:11px}
+.eu-project-date{color:#a9bac8;white-space:nowrap;font-size:11px}
+.eu-project-card h3{font-size:19px;line-height:1.35;margin:0}
+.eu-project-card h3 a{color:#f0f8f7;text-decoration:underline;text-decoration-color:#659e8f;text-underline-offset:4px;overflow-wrap:anywhere}
+.eu-project-card h3 a:hover{color:#75e2c2}
+.eu-project-summary{font-size:13px;line-height:1.6;color:#c8d9e0;margin:0}
+.eu-project-details{display:flex;flex-wrap:wrap;gap:7px 16px;color:#9eb9c8;font-size:11px}
+.eu-project-details b{color:#c4d5db}
+.eu-project-note{font-size:11px;color:#b6adb2;line-height:1.5;margin:0}
+.eu-project-actions{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:auto;padding-top:14px;border-top:1px solid #364c5e}
+.eu-project-actions a{font-size:12px;color:#86eacb;text-decoration:underline}
+.eu-project-tag{font-size:10px;letter-spacing:.02em;padding:5px 8px;border-radius:20px;background:#30465a;color:#dae5e9}
+.project-no-results{padding:14px 0;color:#c2d3dd}
+@media(max-width:900px){.eu-highlight-grid{grid-template-columns:1fr}.eu-project-grid{grid-template-columns:1fr}}
