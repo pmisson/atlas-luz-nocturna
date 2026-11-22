@@ -86,3 +86,5 @@
 .research-section .legal-research-card .euro-ref-links{margin-top:auto}
 .site-header nav{gap:clamp(8px,1.2vw,22px)}
 @media(max-width:1000px){.europa-table{min-width:940px}}
+
+#union-europea .europa-table{min-width:1020px}#union-europea .europa-table th:nth-child(1){width:25%}#union-europea .europa-table th:nth-child(2){width:27%}#union-europea .europa-table th:nth-child(3){width:28%}#union-europea .europa-table th:nth-child(4){width:20%}#union-europea .eu-ref-break{height:7px}#union-europea .euro-ref-links a{white-space:normal;line-height:1.35;display:inline-block;overflow-wrap:anywhere}#union-europea .reference-legal-note{margin-bottom:25px}

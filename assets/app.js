@@ -91,14 +91,14 @@ el('countrySearch').addEventListener('input',renderCountries);
 
 function forceCat(m){const f=m.force.toLowerCase();if(/guía|recomendaci|proyecto|mandato|pendiente|no necesariamente|orientación/.test(f))return 'otra';return /(ley|reglamento|decreto|ordenanza|obligatoria|vinculante|plan de distrito)/.test(f)?'obligatoria':'otra';}
 function renderStars(){const q=el('starSearch').value.trim().toLowerCase(),cat=el('starForce').value;
-  const found=D.stars.filter(m=>{const c=countryIndex.get(m.country);return(cat==='todos'||forceCat(m)===cat)&&(!q||[m.title,m.description,m.param,m.force,m.scope,c.name].some(v=>String(v).toLowerCase().includes(q)));});
+  const found=D.stars.filter(m=>{const c=countryIndex.get(m.country)||{name:'Unión Europea / internacional'};return(cat==='todos'||forceCat(m)===cat)&&(!q||[m.title,m.description,m.param,m.force,m.scope,c.name].some(v=>String(v).toLowerCase().includes(q)));});
   el('starCounter').textContent=found.length+' medidas';
-  el('starRows').innerHTML=found.map(m=>{const c=countryIndex.get(m.country);const links=m.sources.map(sid=>sourceIndex.get(sid)).filter(Boolean);
+  el('starRows').innerHTML=found.map(m=>{const c=countryIndex.get(m.country)||{name:'Unión Europea / internacional'};const links=m.sources.map(sid=>sourceIndex.get(sid)).filter(Boolean);
     return `<tr><td class="star-row-country">${escape(c.name)}</td><td><b>${escape(m.title)}</b><small>${escape(m.description)}</small></td><td>${escape(m.param)}</td><td><span class="star-tag ${forceCat(m)==='obligatoria'?'strong':''}">${escape(m.force)}</span><small class="star-row-warning">${escape(m.caution||'')}</small></td><td class="table-source">${links.map(s=>`<a href="${escape(sourceHref(s))}" target="_blank" rel="noopener noreferrer">↗ ${escape(s.id)}</a>`).join(' ')}</td></tr>`;
   }).join('');
   if(!found.length)el('starRows').innerHTML='<tr><td colspan="5">No hay medidas coincidentes.</td></tr>';
   const limited=(q||cat!=='todos'||showAllStars)?found:found.slice(0,9);
-  el('starsGrid').innerHTML=limited.map(m=>{const c=countryIndex.get(m.country);const links=m.sources.map(sid=>sourceIndex.get(sid)).filter(Boolean);
+  el('starsGrid').innerHTML=limited.map(m=>{const c=countryIndex.get(m.country)||{name:'Unión Europea / internacional'};const links=m.sources.map(sid=>sourceIndex.get(sid)).filter(Boolean);
     return `<article class="star-card"><div class="star-top"><span class="star-n">✦ <span style="font-size:13px;letter-spacing:.04em">${escape(m.id)}</span></span><span class="star-country">${escape(c.name.toUpperCase())}</span></div><h3>${escape(m.title)}</h3><p>${escape(m.description)}</p><div class="star-param"><b>PARÁMETRO:</b> ${escape(m.param)}</div><div class="star-tags"><span class="star-tag ${forceCat(m)==='obligatoria'?'strong':''}">${escape(m.force)}</span><span class="star-tag">${escape(m.scope)}</span></div>${m.caution?`<p class="star-warning">⚠ ${escape(m.caution)}</p>`:''}<div class="star-links">${links.map(s=>`<a href="${escape(sourceHref(s))}" target="_blank" rel="noopener noreferrer">↗ ${escape(s.id)} · Fuente</a>`).join('')}</div></article>`;
   }).join('');
   el('starTableWrap').hidden=starMode!=='table';

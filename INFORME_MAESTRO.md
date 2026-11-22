@@ -3,8 +3,8 @@
 **Informe maestro de compilación documental — 19 de noviembre de 2026**
 
 - **51 países** en el universo; no equivale a 51 leyes nacionales.
-- **188 registros bibliográficos** con enlaces a documentos y portales; algunos son guías, borradores o fuentes secundarias.
-- **57 medidas estrella** con fuerza jurídica diferenciada.
+- **213 registros bibliográficos** con enlaces a documentos y portales; algunos son guías, borradores o fuentes secundarias.
+- **61 medidas estrella** con fuerza jurídica diferenciada.
 
 ## Alcance y procedencia
 
@@ -227,7 +227,7 @@ Actualizar cada ficha comparando textos consolidados oficiales, registrar fecha 
 
 ## Ampliacion autonoma y doctrinal 2026
 
-La base documental ampliada cuenta ahora con **188 referencias** y **57 medidas estrella**. La matriz mundial sigue teniendo 51 paises. Adicionalmente se presentan **17 comunidades autonomas y 2 ciudades autonomas**. Las cifras de 79 fuentes y 40 estrellas de la version original quedan sustituidas por los nuevos totales.
+La base documental ampliada cuenta ahora con **213 referencias** y **61 medidas estrella**. La matriz mundial sigue teniendo 51 paises. Adicionalmente se presentan **17 comunidades autonomas y 2 ciudades autonomas**. Las cifras de 79 fuentes y 40 estrellas de la version original quedan sustituidas por los nuevos totales.
 
 ### Repertorios proporcionados por el usuario
 
@@ -301,7 +301,7 @@ La bibliografía aportada documenta el descenso de radiancia VIIRS durante la cr
 
 ## Anexo actualizado: UICN, Italia, Austria y legislación transversal (20-XI-2026)
 
-La ampliación mantiene el universo de **51 países**, con **188 registros de fuentes** y **57 medidas estrella**. Añade inventarios de **22 ámbitos regionales o provinciales italianos** (incluidas algunas entradas de alcance superpuesto), **9 Länder austriacos**, cuatro documentos UICN, y 12 instrumentos potencialmente aplicables a contaminación lumínica sin ser leyes específicas.
+La ampliación mantiene el universo de **51 países**, con **213 registros de fuentes** y **61 medidas estrella**. Añade inventarios de **22 ámbitos regionales o provinciales italianos** (incluidas algunas entradas de alcance superpuesto), **9 Länder austriacos**, cuatro documentos UICN, y 12 instrumentos potencialmente aplicables a contaminación lumínica sin ser leyes específicas.
 
 - [UICN y sus resoluciones](docs/UICN_DECLARACIONES.md): recomendaciones de 2012, 2020/2021, resolución de 2025 y guía de buenas prácticas 2024. No son vinculantes directamente como ley nacional.
 - [Italia, legislación regional](docs/ITA_REGIONES.md): Lombardía LR 31/2015 (LR 17/2000 derogada), Véneto LR 17/2009, Emilia-Romaña LR 19/2003, Lacio LR 23/2000 y reglamento 8/2005, Marcas, Puglia, Friuli-Venecia Julia, Umbría y provincias autónomas; no se atribuye vigencia actual a fuentes históricas pendientes.
@@ -315,3 +315,9 @@ Se incorporan CSV para consulta y actualización. La norma CIE o ÖNORM no es au
 La ficha de Austria y el inventario de nueve Länder se han ampliado con la [Luftfahrtgesetz §123a, versión 2026](https://ris.bka.gv.at/Dokumente/Bundesnormen/NOR40280164/NOR40280164.html) (balizamiento nocturno según demanda), [§85(4) Bauordnung Wien](https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrW&Gesetzesnummer=20000006&Paragraf=85), [§4(d) Kärntner Naturschutzgesetz](https://ris.bka.gv.at/NormDokument.wxe?Abfrage=LrK&Gesetzesnummer=20000118&Paragraf=4), GewO §§74/77 y [sentencia OGH 6Ob60/20x](https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20200423_OGH0002_0060OB00060_20X0000_000&IncludeSelf=True). Se actualizan 19 referencias y cuatro medidas estrella. El **Reglamento CE 245/2009 está derogado desde septiembre de 2021** por el [Reglamento UE 2019/2020](https://eur-lex.europa.eu/eli/reg/2019/2020); no citar el anterior como vigente. Las cifras de la guía austríaca 2026 y las condiciones particulares de permisos no son límites nacionales generales.
 
 Documentación: [Austria — ficha completa](docs/AUT_austria.md) · [Nueve Länder](docs/AUT_LANDER.md) · [Exportar CSV](data/lander_austria.csv).
+
+## Ampliación europea (22-XI-2026)
+
+Se integra un informe de 33 páginas sobre Derecho de la Unión Europea, instrumentos del Consejo de Europa y normalización. Las referencias acumuladas del atlas son **213** y las medidas estrella **61**, pero los países siguen siendo **51**. Véase el [dossier europeo](docs/UE_MARCO_NORMATIVO.md) y la [matriz CSV](data/marco_europeo.csv).
+
+Destacan la sentencia [TJUE C-504/14](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:62014CJ0504) contra Grecia por perturbación lumínica a Caretta caretta, las obligaciones procedimentales de la Directiva EIA para emisiones de luz y el Reglamento 2024/1991 de restauración, en el cual las medidas lumínicas propuestas son facultativas. También la revisión **COP15 de 2026** de las directrices CMS, EUROBATS Res.8.6 y la Recomendación PACE 1947 (2010). La serie EN13201 y los criterios de compra pública JRC se clasifican como instrumentos técnicos, no como ley general. Se confirma que el Reglamento CE 245/2009 fue derogado por UE 2019/2020 con efecto 01-09-2021.

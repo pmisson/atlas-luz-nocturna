@@ -1,0 +1,23 @@
+﻿id,group,title,effect,caution,source_ids
+EU01,vinculante,Directiva Hábitats 92/43/CEE (arts. 6 y 12),Evitar deterioro y perturbación relevante en Natura 2000; protección de especies del anexo IV también fuera de espacios Natura.,"Requiere comprobar especies, lugar, hechos y régimen aplicable.",F167
+EU02,vinculante,TJUE C-504/14: tortugas y alumbrado en Kyparissia,La sentencia exige medidas frente a contaminación lumínica que perturbaba Caretta caretta por iluminación pública y privada.,No establece prohibición lumínica genérica para toda playa.,F189
+EU03,vinculante,Directiva Aves 2009/147/CE (arts. 4 y 5),Exige conservar aves y evitar determinadas perturbaciones significativas.,Aplicación por caso y especie; no topes universales.,F168
+EU04,vinculante,"Directiva de EIA 2011/92/UE (anexo IV, mod. 2014/52)",Incluye las emisiones de luz en los estudios de proyectos sometidos a evaluación de impacto.,Obligación procedimental; no máximo común de lux o Kelvin.,F169; F191
+EU05,vinculante,Directiva de EAE 2001/42/CE,Evaluación de impacto de planes y programas y de efectos acumulativos.,No somete automáticamente todos los planes a evaluación.,F192
+EU06,facultativo,Reglamento de Restauración de la Naturaleza (UE) 2024/1991,Considerando 49 y anexo VII incluyen medidas de reducir o remediar luz artificial.,Medida lumínica facultativa dentro de un reglamento vinculante.,F110
+EU07,vinculante,Directiva de Estrategia Marina 2008/56/CE y Decisión 2017/848,Descriptor 11 sobre introducción energética; la luz puede afectar ecosistemas marinos.,"Los criterios D11 regulados operativamente se centran en ruido, no luz.",F193; F194
+EU08,vinculante,Directiva de Emisiones Industriales 2010/75/UE y reforma 2024,"Art.3(4) enumera sustancias, vibraciones, calor o ruido, sin mencionar luz.",No excluye otras protecciones ambiental y urbanística.,F195; F196
+EU09,vinculante,Ecodiseño UE 2019/2020 frente al derogado 245/2009,El Reglamento 245/2009 fue derogado el 01-09-2021; el nuevo marco no fija ULOR universal.,No reutilizar como vigente el techo antiguo ULOR.,F187; F188
+EU10,vinculante,Marco de ecodiseño sostenible ESPR (UE) 2024/1781,Faculta nuevos requisitos sobre grupos de productos en futuros actos delegados.,No afirmar límites obligatorios nuevos sin reglamentación de producto.,F199
+EU11,facultativo,Taxonomía UE 2020/852 y actos delegados,Criterios de sostenibilidad y DNSH en actividades cubiertas.,No requisito general de CCT para todas las luminarias.,F197; F198
+EU12,tecnico,Criterios voluntarios EU GPP 2019 (alumbrado viario),"Emisión superior 0 %, control espectral, elección de nivel mínimo y atenuación propuestos para compras.",Sólo vinculantes si se incorporan a normas nacionales o licitaciones.,F111
+EU13,tecnico,Norma técnica EN13201 de alumbrado viario,"Cubre clases y desempeño vial, sin techo general sobre flujo ascendente o luz azul.","Norma técnica, no ley automática.",F211
+EU14,tecnico,CEN/TC169/WG15: luz intrusiva (trabajos técnicos),"Desarrollo de evaluaciones de flujo ascendente, intrusión y espectro.",Borrador y programa de trabajo; no requisito vigente.,F210
+EU15,internacional,Consejo de Europa: Res. 1776 y Rec. 1947 (2010),Instan a los Estados a mejorar legislación y contemplar un marco paneuropeo.,Soft law; no tratado europeo específico sobre luz.,F201; F202
+EU16,internacional,Convenio Europeo del Paisaje (ETS176),"Protección de paisaje y gestión territorial, potencial extensión al paisaje nocturno.",Verificar ratificación y obligación concreta por Estado.,F203
+EU17,internacional,Convenio de Berna: Recomendación 174 (2014),Protección de Caretta caretta y costa del golfo de Kyparissia.,"Recomendación, no sentencia ni ley.",F204
+EU18,internacional,EUROBATS resolución 8.6 y guías de 2018,Medidas para conservar murciélagos y corredores oscuros.,"Revisión de 2026 es borrador, no guía final obligatoria.",F205; F206; F207
+EU19,internacional,CMS Resolución 13.5 Rev.COP15 (2026),Directrices internacionales de iluminación para especies migratorias.,No sancionable por sí sola.,F208
+EU20,internacional,Ramsar XIII.24 (2018),Promueve protección de tortugas marinas y humedales frente a fuentes perturbadoras.,"Recomendación, no límite general de intensidad.",F209
+EU21,facultativo,Parlamento Europeo: Resolución Biodiversidad 2030 (2021),Solicita reducir contaminación lumínica y restaurar biodiversidad.,Resolución política no vinculante.,F200
+EU22,investigacion,IMPEL ReLiPo (2025) y artículo de Hoek (2026),Cooperación inspectora y análisis de gobernanza ambiental indirecta.,"Red institucional y doctrina, no fuente legal vinculante.",F212; F213

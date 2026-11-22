@@ -1080,7 +1080,7 @@ N1  - Noticia municipal / fuente secundaria. Comunicado sobre ordenanza que menc
 PY  - 2026
 ER  - 
 
-TY  - JOUR
+TY  - ELEC
 ID  - F128
 T1  - Estudio académico: áreas para observación astronómica en Trujillo, Venezuela
 UR  - https://doi.org/10.18257/raccefyn.1125
@@ -1154,11 +1154,11 @@ ER  -
 
 TY  - ELEC
 ID  - F136
-T1  - CMS Resolución 13.5 Rev.COP14: directrices internacionales sobre contaminación lumínica
-UR  - https://www.cms.int/sites/default/files/document/cms_cop14_res.13.5_rev.cop14_cms-international-light-pollution-guidelines_s.pdf
+T1  - CMS Resolución 13.5 (Rev.COP15, 2026), directrices internacionales sobre contaminación lumínica
+UR  - https://www.cms.int/cop15docs
 CY  - INT
-N1  - Resolución de convenio ambiental. Directrices para especies migratorias, aves y murciélagos. No convertir recomendaciones técnicas en prohibiciones directas sin norma de implementación
-PY  - 2024
+N1  - Resolución de convenio ambiental. Directrices para especies migratorias, aves y murciélagos. Versión actualizada en COP15, mayo 2026; anterior Rev.COP14 queda como antecedente.
+PY  - 2026
 ER  - 
 
 TY  - STAT
@@ -1431,7 +1431,7 @@ N1  - Reforma penal ambiental. Deterioro significativo y medible de ecosistemas,
 PY  - 2015
 ER  - 
 
-TY  - ELEC
+TY  - STAT
 ID  - F167
 T1  - Directiva Hábitats 92/43/CEE, arts.6(2)-(3) y 12
 UR  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A31992L0043
@@ -1440,7 +1440,7 @@ N1  - Directiva europea. Evitar perturbaciones significativas en Natura 2000; ev
 PY  - 1992
 ER  - 
 
-TY  - ELEC
+TY  - STAT
 ID  - F168
 T1  - Directiva Aves 2009/147/CE, arts.4 y 5
 UR  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32009L0147
@@ -1449,7 +1449,7 @@ N1  - Directiva europea. Prohibiciones de perturbación deliberada significativa
 PY  - 2009
 ER  - 
 
-TY  - ELEC
+TY  - STAT
 ID  - F169
 T1  - Directiva EIA 2011/92/UE, modificada por 2014/52/UE
 UR  - https://eur-lex.europa.eu/eli/dir/2011/92/oj
@@ -1557,7 +1557,7 @@ N1  - Recomendaciones técnico-ambientales. Aconseja apagado 22:00 en zonas verd
 PY  - 2021
 ER  - 
 
-TY  - CASE
+TY  - ELEC
 ID  - F181
 T1  - Tribunal administrativo de Tirol, expediente E 1466/2022, licencia con LED ≤2400 K
 UR  - https://www.lvwg-tirol.gv.at/fileadmin/bilder/E_1466_2022_anonym.pdf
@@ -1627,5 +1627,230 @@ UR  - https://eur-lex.europa.eu/eli/reg/2019/2020
 CY  - INT
 N1  - Reglamento europeo. Texto vigente que deroga 245/2009, con requisitos ecodiseño de fuentes luminosas y mecanismos de control. No crea régimen europeo horizontal de contaminación lumínica ni límite general ULOR en instalaciones urbanas
 PY  - 2019
+ER  - 
+
+TY  - CASE
+ID  - F189
+T1  - TJUE C-504/14, Comisión c. Grecia, Kyparissia
+UR  - https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:62014CJ0504
+CY  - INT
+N1  - Sentencia TJUE. Protección de la tortuga Caretta caretta frente a alumbrado público y establecimientos que perturbaban el lugar de cría.. Jurisprudencia vinculante e interpretativa, sin límites universales de lux.
+PY  - 2016
+ER  - 
+
+TY  - ELEC
+ID  - F190
+T1  - Comisión: orientación protección estricta de especies (2021)
+UR  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021XC1028(02)
+CY  - INT
+N1  - Guía Comisión. Interpretación de los artículos 12 y 16 Directiva Hábitats sobre protección de especies.. Orientativa; la norma vinculante es la Directiva.
+PY  - 2021
+ER  - 
+
+TY  - STAT
+ID  - F191
+T1  - Directiva 2014/52/UE, Anexo IV: la emisión de luz en evaluación ambiental
+UR  - https://eur-lex.europa.eu/eli/dir/2014/52/oj
+CY  - INT
+N1  - Directiva de la UE. Inclusión de emisiones luminosas en estudios de impacto de proyectos sujetos a evaluación.. Obligación procedimental, no umbral general de CCT ni ULOR.
+PY  - 2014
+ER  - 
+
+TY  - STAT
+ID  - F192
+T1  - Directiva 2001/42/CE: evaluación ambiental estratégica
+UR  - https://eur-lex.europa.eu/eli/dir/2001/42/oj
+CY  - INT
+N1  - Directiva de la UE. Evaluación de impactos de planes/programas y efectos acumulativos ambientales.. No establece límites lumínicos ni exige EAE de todo plan.
+PY  - 2001
+ER  - 
+
+TY  - STAT
+ID  - F193
+T1  - Directiva 2008/56/CE de estrategia marina, descriptor 11
+UR  - https://eur-lex.europa.eu/eli/dir/2008/56/oj
+CY  - INT
+N1  - Directiva de la UE. La introducción de energía puede afectar el medio marino, incluida luz artificial.. No hay umbrales operativos europeos específicos de ALAN derivados del D11.
+PY  - 2008
+ER  - 
+
+TY  - ELEC
+ID  - F194
+T1  - Decisión (UE) 2017/848, criterios de descriptor 11
+UR  - https://eur-lex.europa.eu/eli/dec/2017/848/oj
+CY  - INT
+N1  - Decisión de la UE. Criterios D11C1 y D11C2 cuantifican el sonido submarino.. No fija valores mínimos o máximos de luz artificial en aguas.
+PY  - 2017
+ER  - 
+
+TY  - STAT
+ID  - F195
+T1  - Directiva 2010/75/UE de emisiones industriales, artículo 3
+UR  - https://eur-lex.europa.eu/eli/dir/2010/75/oj
+CY  - INT
+N1  - Directiva de la UE. La definición de emisión enumera sustancias, vibraciones, calor y ruido, sin mencionar luz.. No confundir omisión con exención frente a protección de especies y otros permisos.
+PY  - 2010
+ER  - 
+
+TY  - STAT
+ID  - F196
+T1  - Directiva (UE) 2024/1785, reforma de emisiones industriales
+UR  - https://eur-lex.europa.eu/eli/dir/2024/1785/oj
+CY  - INT
+N1  - Directiva modificatoria. Revisión del régimen industrial de la UE, sin añadir luz a la definición del artículo 3(4).. Puede coexistir con obligaciones de fauna y urbanismo.
+PY  - 2024
+ER  - 
+
+TY  - STAT
+ID  - F197
+T1  - Reglamento de Taxonomía (UE) 2020/852
+UR  - https://eur-lex.europa.eu/eli/reg/2020/852/oj
+CY  - INT
+N1  - Reglamento de la UE. Clasificación de actividades ambientalmente sostenibles y principio DNSH.. Solo actividades y criterios aplicables, no prohibición general de una CCT.
+PY  - 2020
+ER  - 
+
+TY  - STAT
+ID  - F198
+T1  - Reglamento delegado de taxonomía (UE) 2023/2486
+UR  - https://eur-lex.europa.eu/eli/reg_del/2023/2486/oj
+CY  - INT
+N1  - Reglamento delegado. Criterios técnicos para determinadas actividades y objetivos ambientales.. No extender requisitos de anexos concretos a todas las luminarias.
+PY  - 2023
+ER  - 
+
+TY  - STAT
+ID  - F199
+T1  - Reglamento (UE) 2024/1781, ecodiseño de productos sostenibles
+UR  - https://eur-lex.europa.eu/eli/reg/2024/1781/oj
+CY  - INT
+N1  - Reglamento marco UE. Marco de futuros requisitos de sostenibilidad por grupos de productos.. No se infiere que existan límites ULOR obligatorios bajo actos todavía no aprobados.
+PY  - 2024
+ER  - 
+
+TY  - ELEC
+ID  - F200
+T1  - Parlamento Europeo: Resolución Estrategia Biodiversidad 2030 (2021)
+UR  - https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:52021IP0277
+CY  - INT
+N1  - Resolución política. Petición de mitigación y reconocimiento de los efectos de la luz artificial.. No vinculante.
+PY  - 2021
+ER  - 
+
+TY  - ELEC
+ID  - F201
+T1  - Consejo de Europa: Resolución 1776 (2010), ruido y luz
+UR  - https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=17923&lang=en
+CY  - INT
+N1  - Resolución política. Reconoce perjuicios ambientales y sanitarios de la contaminación lumínica.. No produce obligaciones nacionales sancionables automáticamente.
+PY  - 2010
+ER  - 
+
+TY  - ELEC
+ID  - F202
+T1  - Consejo de Europa: Recomendación 1947 (2010), ruido y luz
+UR  - https://pace.coe.int/en/files/17935/html
+CY  - INT
+N1  - Recomendación política. Propone revisar legislación y considerar un marco europeo.. No crea un tratado paneuropeo específico.
+PY  - 2010
+ER  - 
+
+TY  - ELEC
+ID  - F203
+T1  - Convenio Europeo del Paisaje, ETS 176 (2000)
+UR  - https://www.coe.int/en/web/conventions/full-list/?module=signatures-by-treaty&treatynum=176
+CY  - INT
+N1  - Tratado internacional. Compromisos de gestión y protección paisajística de Estados parte.. La protección del cielo nocturno es interpretación potencial; comprobar ratificaciones.
+PY  - 2000
+ER  - 
+
+TY  - ELEC
+ID  - F204
+T1  - Convenio de Berna: Recomendación 174 (2014), tortugas de Kyparissia
+UR  - https://www.coe.int/en/web/bern-convention/recommendations-2014
+CY  - INT
+N1  - Recomendación internacional. Protección de tortugas, dunas y áreas costeras mediterráneas.. Soft law diferente de sentencia TJUE vinculante.
+PY  - 2014
+ER  - 
+
+TY  - ELEC
+ID  - F205
+T1  - EUROBATS Resolución 8.6 (2018): Bats and Light Pollution
+UR  - https://www.eurobats.org/document/bats-and-light-pollution
+CY  - INT
+N1  - Resolución de las Partes. Efectos de luz nocturna sobre refugios, rutas, alimentación y conectividad de murciélagos.. Orientación no sancionable por sí sola.
+PY  - 2018
+ER  - 
+
+TY  - ELEC
+ID  - F206
+T1  - EUROBATS: Guidelines for Consideration of Bats in Lighting Projects (2018)
+UR  - https://www.eurobats.org/light-pollution
+CY  - INT
+N1  - Guía técnica. Guía de evaluación y mitigación en proyectos de iluminación para proteger quirópteros.. Orientativa; aplicación jurídica depende de permisos y normas nacionales.
+PY  - 2018
+ER  - 
+
+TY  - ELEC
+ID  - F207
+T1  - EUROBATS Publication Series 8: revisión 2026 en borrador
+UR  - https://www.eurobats.org/document/guidelines-consideration-bats-lighting-projects-rev-2026
+CY  - INT
+N1  - Borrador técnico. Actualización considerada por EUROBATS en 2026.. El propio organismo la califica DRAFT; no tratar como edición aprobada.
+PY  - 2026
+ER  - 
+
+TY  - ELEC
+ID  - F208
+T1  - CMS COP15 (2026): Resolución 13.5 Rev.COP15, luz y especies migratorias
+UR  - https://www.cms.int/cop15docs
+CY  - INT
+N1  - Resolución de convenio. Directrices internacionales sobre iluminación y especies migratorias revisadas en mayo de 2026.. Recomendatoria; no constituye sanción o límite general nacional.
+PY  - 2026
+ER  - 
+
+TY  - ELEC
+ID  - F209
+T1  - Ramsar XIII.24 (2018): tortugas marinas y humedales
+UR  - https://www.ramsar.org/sites/default/files/documents/library/xiii.24_sea_turtles_e.pdf
+CY  - INT
+N1  - Resolución de convenio. Protección de tortugas y humedales de costa contra perturbaciones, incluida luz.. No equivale a norma global de luminancia nocturna.
+PY  - 2018
+ER  - 
+
+TY  - ELEC
+ID  - F210
+T1  - CEN/TC 169: comités europeos de normalización lumínica y WG15
+UR  - https://www.din.de/en/getting-involved/standards-committees/fnl/european-committees
+CY  - INT
+N1  - Programa de normalización. Trabajos técnicos sobre control y evaluación de luz intrusiva en exteriores.. Un proyecto CEN no es una norma vigente ni una ley.
+PY  - 2026
+ER  - 
+
+TY  - ELEC
+ID  - F211
+T1  - COST LoNNe: análisis técnico de EN13201 (alumbrado vial)
+UR  - https://cost-lonne.eu/solutions/en-13201-explained/
+CY  - INT
+N1  - Análisis técnico secundario. La serie EN13201 no fija un límite general de CCT ni ULOR.. No reemplaza el texto completo comercial de la norma.
+PY  - 2025
+ER  - 
+
+TY  - ELEC
+ID  - F212
+T1  - IMPEL ReLiPo: Network to Reduce Light Pollution (2025)
+UR  - https://impel.eu/en/topic/cross-cutting-tools-and-approaches/implementation-of-legislation/projects/network-to-reduce-light-pollution-relipo
+CY  - INT
+N1  - Red institucional. Cooperación europea sobre vigilancia y aplicación de legislación lumínica.. No es ley.
+PY  - 2025
+ER  - 
+
+TY  - ELEC
+ID  - F213
+T1  - Niels Hoek (2026), Light Pollution in EU Law: Unveiling Shadow Governance
+UR  - https://doi.org/10.1017/S2047102525100216
+CY  - INT
+N1  - Artículo jurídico científico. Estudio de gobernanza indirecta de contaminación lumínica mediante políticas ambientales y de ecodiseño.. Doctrina académica de acceso abierto, no legislación.
+PY  - 2026
 ER  - 
 

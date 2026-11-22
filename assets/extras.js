@@ -25,7 +25,7 @@ el('spainLevel').addEventListener('change',drawRegions);
 selectRegion(region);
 el('intlGrid').innerHTML=D.international.map((r,i)=>`<article class="legal-research-card"><span class="tiny">DERECHO INTERNACIONAL / ${String(i+1).padStart(2,'0')}</span><h3>${esc(r.title)}</h3><p class="card-subtitle">${esc(r.subtitle)}</p><span class="legality-status">${esc(r.status)}</span><p>${esc(r.detail)}</p><div class="chip-line">${r.source_ids.map(chip).join('')}</div></article>`).join('');
 (function renderEssentialBibliography(){
-  const core=(D.bibliography||[]).map(r=>{const s=byId.get(r.source_id);return {name:r.name.replace('Bara','Bará'),title:r.title,topic:r.topic,url:s?.url||'',id:r.source_id,category:/F11[4-8]/.test(r.source_id)?'Ciencia':'Recursos',kind:s?.type||'Documento'};});
+  const core=(D.bibliography||[]).map(r=>{const s=byId.get(r.source_id);return {name:r.name.replace('Bara','Bará'),title:r.title,topic:r.topic,url:s?.url||'',id:r.source_id,category:r.category||(/F11[4-8]/.test(r.source_id)?'Ciencia':'Recursos'),kind:s?.type||'Documento'};});
   const more=[
     ['CIE · 1997','CIE 126-1997 · Guidelines for minimizing sky glow','https://www.cie.co.at/publications/guidelines-minimizing-sky-glow','Recomendaciones para minimizar resplandor celeste.','CIE'],
     ['CIE · 2017','CIE 150:2017 · Guide on the Limitation of the Effects of Obtrusive Light','https://www.cie.co.at/publications/guide-limitation-effects-obtrusive-light-outdoor-lighting-installations-2nd-edition','Luz intrusa y efectos no deseados del alumbrado exterior.','CIE'],
@@ -81,4 +81,20 @@ el('intlGrid').innerHTML=D.international.map((r,i)=>`<article class="legal-resea
   g('europeRegionCountry').addEventListener('change',drawRegions);g('europeRegionSearch').addEventListener('input',drawRegions);drawRegions();
   g('uicnGrid').innerHTML=D.iucn_documents.map(r=>'<article class="legal-research-card"><span class="tiny">UICN · '+esc(r.year)+' · '+esc(r.kind)+'</span><h3>'+esc(r.title)+'</h3><p>'+esc(r.summary)+'</p><p class="small-caution">'+esc(r.legal)+'</p><div class="euro-ref-links">'+links(r.source_ids)+'</div></article>').join('');
   g('transversalRows').innerHTML=D.transversal_law.map(r=>'<tr><td><strong>'+esc(r.jurisdiction)+'</strong><small>'+esc(r.domain)+'</small></td><td>'+esc(r.instrument)+'</td><td>'+esc(r.application)+'</td><td class="caution-cell">'+esc(r.caution)+'</td><td class="euro-ref-links">'+links(r.source_ids)+'</td></tr>').join('');
+})();
+
+/* Inventario de la Unión Europea, clasificado por fuerza jurídica. */
+(() => {
+  const d=window.ATLAS_DATA;if(!d?.eu_framework)return;
+  const e=id=>document.getElementById(id),byId=new Map(d.sources.map(s=>[s.id,s]));
+  const esc=v=>String(v??'').replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+  const n=v=>String(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+  const labels={vinculante:'Norma/precedente vinculante',facultativo:'Medida facultativa',internacional:'Convenio / orientación',tecnico:'Norma técnica / GPP',investigacion:'Investigación y redes'};
+  function draw() {
+    const q=n(e('euSearch').value),cat=e('euCategory').value;
+    const rows=d.eu_framework.filter(x=>(cat==='todos'||x.group===cat)&&(!q||n([x.title,x.effect,x.caution,x.group].join(' ')).includes(q)));
+    e('euCount').textContent=rows.length+' de '+d.eu_framework.length+' instrumentos';
+    e('euRows').innerHTML=rows.map(r=>'<tr><td><strong>'+esc(r.title)+'</strong><small>'+esc(labels[r.group]||r.group)+'</small></td><td>'+esc(r.effect)+'</td><td class="caution-cell">'+esc(r.caution)+'</td><td class="euro-ref-links">'+r.source_ids.map(id=>{const s=byId.get(id);return s?'<a href="'+esc(s.url)+'" rel="noopener noreferrer" target="_blank" title="'+esc(s.title)+'">'+esc(s.title)+' ↗</a>':'';}).join('<div class="eu-ref-break"></div>')+'</td></tr>').join('')||'<tr><td colspan="4">Sin coincidencias.</td></tr>';
+  }
+  e('euSearch').addEventListener('input',draw);e('euCategory').addEventListener('change',draw);draw();
 })();

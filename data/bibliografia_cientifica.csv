@@ -1,10 +1,14 @@
-﻿name,title,topic,source_id
-Ministerio checo del Medio Ambiente (2022),Light pollution reduction measures in Europe,Compilacion historica de 32 paises; NO actualizacion automatica a 2026,F113
-"S. Bara, F. Falchi, R. C. Lima y M. Pawley (2021)","Keeping light pollution at bay: A red-lines, target values, top-down approach","Objetivos de inmisiones, presupuestos de emision; propuesta metodologica",F114
-S. Bara y F. Falchi (2023),Artificial light at night: a global disruptor of the night-time environment,Base cientifica de impactos en el medio nocturno,F115
-S. Bara et al. (2025),Por un uso responsable de la iluminacion artificial,Guia y recomendaciones para administraciones publicas,F116
-Y. Yakushina (2025),Light pollution regulations and where to find them,Inventario juridico comparado internacional,F117
-Y. Yakushina (2025),The endangered night: the challenge of light pollution within international environmental legal context,Implicaciones y limite del derecho ambiental internacional,F118
-"Y. Yakushina, D. Smith y A. Sanchez de Miguel (2024)",Manifesto for Tackling Light Pollution & Proposing EU Light Pollution Monitoring,"Declaracion y propuesta cientifico-politica, sin rango de ley",F119
-REECL (UCM),Bibliografia cientifica / ALAN Database,Indice de estudios y recursos academicos,F120
-REECL (2026),Propuestas de control de la contaminacion luminica para el Plan Nacional de Restauracion,"Documento de recomendaciones, no regulacion aprobada",F121
+﻿name,title,topic,source_id,category
+Ministerio checo del Medio Ambiente (2022),Light pollution reduction measures in Europe,Compilacion historica de 32 paises; NO actualizacion automatica a 2026,F113,
+"S. Bara, F. Falchi, R. C. Lima y M. Pawley (2021)","Keeping light pollution at bay: A red-lines, target values, top-down approach","Objetivos de inmisiones, presupuestos de emision; propuesta metodologica",F114,
+S. Bara y F. Falchi (2023),Artificial light at night: a global disruptor of the night-time environment,Base cientifica de impactos en el medio nocturno,F115,
+S. Bara et al. (2025),Por un uso responsable de la iluminacion artificial,Guia y recomendaciones para administraciones publicas,F116,
+Y. Yakushina (2025),Light pollution regulations and where to find them,Inventario juridico comparado internacional,F117,
+Y. Yakushina (2025),The endangered night: the challenge of light pollution within international environmental legal context,Implicaciones y limite del derecho ambiental internacional,F118,
+"Y. Yakushina, D. Smith y A. Sanchez de Miguel (2024)",Manifesto for Tackling Light Pollution & Proposing EU Light Pollution Monitoring,"Declaracion y propuesta cientifico-politica, sin rango de ley",F119,
+REECL (UCM),Bibliografia cientifica / ALAN Database,Indice de estudios y recursos academicos,F120,
+REECL (2026),Propuestas de control de la contaminacion luminica para el Plan Nacional de Restauracion,"Documento de recomendaciones, no regulacion aprobada",F121,
+Niels Hoek (2026),Light Pollution in EU Law: Unveiling Shadow Governance,Artículo jurídico sobre efectos indirectos de la legislación europea en luz nocturna (acceso abierto).,F213,Ciencia
+TJUE (2016),"Comisión contra Grecia: sentencia C-504/14, Kyparissia",Precedente jurisprudencial sobre iluminación y Directiva Hábitats.,F189,Derecho
+Consejo de Europa (2010),Recommendation 1947: Noise and light pollution,Antecedente de las propuestas de regulación paneuropea.,F202,Derecho
+CMS COP15 (2026),International Light Pollution Guidelines for Migratory Species,Versión Rev.COP15 de las directrices internacionales para conservación de especies migratorias.,F208,Derecho

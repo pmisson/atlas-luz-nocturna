@@ -3,20 +3,22 @@
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-19",
     "country_count": 51,
-    "source_count": 188,
-    "star_count": 57,
+    "source_count": 213,
+    "star_count": 61,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
     "spain_cities_count": 2,
-    "bibliography_count": 9,
+    "bibliography_count": 13,
     "note_2026": "Ampliación 2026: UICN 2012/2021/2025, 22 territorios de Italia y 9 Länder austríacos, derecho penal, civil y protección de especies con límites jurídicos y fuentes enlazadas.",
     "note_venezuela_2026": "Venezuela: revisión documental 19-XI-2026. Corrección art. 2 Res. 73 (19:00-00:00). Decreto 1658 y ordenanza Maracaibo necesitan cotejo de texto original y vigencia.",
     "italy_regions_count": 22,
     "austria_lander_count": 9,
     "iucn_count": 4,
-    "transversal_count": 16,
-    "note_austria_2026": "Revisión 22-11-2026 con informe aportado: §41b Alta Austria 2024/2029, aviación §123a actualizado 01-09-2026, ÖNORM como estándar salvo incorporación, OGH 6Ob60/20x, Carintia y Viena. CE245/2009 derogado 2021."
+    "transversal_count": 20,
+    "note_austria_2026": "Revisión 22-11-2026 con informe aportado: §41b Alta Austria 2024/2029, aviación §123a actualizado 01-09-2026, ÖNORM como estándar salvo incorporación, OGH 6Ob60/20x, Carintia y Viena. CE245/2009 derogado 2021.",
+    "eu_framework_count": 22,
+    "note_eu_2026": "Informe europeo de 33 páginas integrado el 22-XI-2026: Directivas Hábitats/Aves/EIA, caso TJUE C-504/14, restauración, ecodiseño y su derogación histórica, EUROBATS, CMS COP15 y estandarización."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -2491,12 +2493,12 @@
     {
       "id": "F136",
       "country": "INT",
-      "title": "CMS Resolución 13.5 Rev.COP14: directrices internacionales sobre contaminación lumínica",
-      "url": "https://www.cms.int/sites/default/files/document/cms_cop14_res.13.5_rev.cop14_cms-international-light-pollution-guidelines_s.pdf",
+      "title": "CMS Resolución 13.5 (Rev.COP15, 2026), directrices internacionales sobre contaminación lumínica",
+      "url": "https://www.cms.int/cop15docs",
       "type": "Resolución de convenio ambiental",
       "effect": "Directrices para especies migratorias, aves y murciélagos",
-      "note": "No convertir recomendaciones técnicas en prohibiciones directas sin norma de implementación",
-      "year": "2024",
+      "note": "Versión actualizada en COP15, mayo 2026; anterior Rev.COP14 queda como antecedente.",
+      "year": "2026",
       "official": true
     },
     {
@@ -3070,6 +3072,281 @@
       "note": "No crea régimen europeo horizontal de contaminación lumínica ni límite general ULOR en instalaciones urbanas",
       "year": "2019",
       "official": true
+    },
+    {
+      "id": "F189",
+      "country": "INT",
+      "title": "TJUE C-504/14, Comisión c. Grecia, Kyparissia",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:62014CJ0504",
+      "type": "Sentencia TJUE",
+      "effect": "Protección de la tortuga Caretta caretta frente a alumbrado público y establecimientos que perturbaban el lugar de cría.",
+      "note": "Jurisprudencia vinculante e interpretativa, sin límites universales de lux.",
+      "year": "2016",
+      "official": true
+    },
+    {
+      "id": "F190",
+      "country": "INT",
+      "title": "Comisión: orientación protección estricta de especies (2021)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021XC1028(02)",
+      "type": "Guía Comisión",
+      "effect": "Interpretación de los artículos 12 y 16 Directiva Hábitats sobre protección de especies.",
+      "note": "Orientativa; la norma vinculante es la Directiva.",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F191",
+      "country": "INT",
+      "title": "Directiva 2014/52/UE, Anexo IV: la emisión de luz en evaluación ambiental",
+      "url": "https://eur-lex.europa.eu/eli/dir/2014/52/oj",
+      "type": "Directiva de la UE",
+      "effect": "Inclusión de emisiones luminosas en estudios de impacto de proyectos sujetos a evaluación.",
+      "note": "Obligación procedimental, no umbral general de CCT ni ULOR.",
+      "year": "2014",
+      "official": true
+    },
+    {
+      "id": "F192",
+      "country": "INT",
+      "title": "Directiva 2001/42/CE: evaluación ambiental estratégica",
+      "url": "https://eur-lex.europa.eu/eli/dir/2001/42/oj",
+      "type": "Directiva de la UE",
+      "effect": "Evaluación de impactos de planes/programas y efectos acumulativos ambientales.",
+      "note": "No establece límites lumínicos ni exige EAE de todo plan.",
+      "year": "2001",
+      "official": true
+    },
+    {
+      "id": "F193",
+      "country": "INT",
+      "title": "Directiva 2008/56/CE de estrategia marina, descriptor 11",
+      "url": "https://eur-lex.europa.eu/eli/dir/2008/56/oj",
+      "type": "Directiva de la UE",
+      "effect": "La introducción de energía puede afectar el medio marino, incluida luz artificial.",
+      "note": "No hay umbrales operativos europeos específicos de ALAN derivados del D11.",
+      "year": "2008",
+      "official": true
+    },
+    {
+      "id": "F194",
+      "country": "INT",
+      "title": "Decisión (UE) 2017/848, criterios de descriptor 11",
+      "url": "https://eur-lex.europa.eu/eli/dec/2017/848/oj",
+      "type": "Decisión de la UE",
+      "effect": "Criterios D11C1 y D11C2 cuantifican el sonido submarino.",
+      "note": "No fija valores mínimos o máximos de luz artificial en aguas.",
+      "year": "2017",
+      "official": true
+    },
+    {
+      "id": "F195",
+      "country": "INT",
+      "title": "Directiva 2010/75/UE de emisiones industriales, artículo 3",
+      "url": "https://eur-lex.europa.eu/eli/dir/2010/75/oj",
+      "type": "Directiva de la UE",
+      "effect": "La definición de emisión enumera sustancias, vibraciones, calor y ruido, sin mencionar luz.",
+      "note": "No confundir omisión con exención frente a protección de especies y otros permisos.",
+      "year": "2010",
+      "official": true
+    },
+    {
+      "id": "F196",
+      "country": "INT",
+      "title": "Directiva (UE) 2024/1785, reforma de emisiones industriales",
+      "url": "https://eur-lex.europa.eu/eli/dir/2024/1785/oj",
+      "type": "Directiva modificatoria",
+      "effect": "Revisión del régimen industrial de la UE, sin añadir luz a la definición del artículo 3(4).",
+      "note": "Puede coexistir con obligaciones de fauna y urbanismo.",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F197",
+      "country": "INT",
+      "title": "Reglamento de Taxonomía (UE) 2020/852",
+      "url": "https://eur-lex.europa.eu/eli/reg/2020/852/oj",
+      "type": "Reglamento de la UE",
+      "effect": "Clasificación de actividades ambientalmente sostenibles y principio DNSH.",
+      "note": "Solo actividades y criterios aplicables, no prohibición general de una CCT.",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F198",
+      "country": "INT",
+      "title": "Reglamento delegado de taxonomía (UE) 2023/2486",
+      "url": "https://eur-lex.europa.eu/eli/reg_del/2023/2486/oj",
+      "type": "Reglamento delegado",
+      "effect": "Criterios técnicos para determinadas actividades y objetivos ambientales.",
+      "note": "No extender requisitos de anexos concretos a todas las luminarias.",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F199",
+      "country": "INT",
+      "title": "Reglamento (UE) 2024/1781, ecodiseño de productos sostenibles",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1781/oj",
+      "type": "Reglamento marco UE",
+      "effect": "Marco de futuros requisitos de sostenibilidad por grupos de productos.",
+      "note": "No se infiere que existan límites ULOR obligatorios bajo actos todavía no aprobados.",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F200",
+      "country": "INT",
+      "title": "Parlamento Europeo: Resolución Estrategia Biodiversidad 2030 (2021)",
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:52021IP0277",
+      "type": "Resolución política",
+      "effect": "Petición de mitigación y reconocimiento de los efectos de la luz artificial.",
+      "note": "No vinculante.",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F201",
+      "country": "INT",
+      "title": "Consejo de Europa: Resolución 1776 (2010), ruido y luz",
+      "url": "https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=17923&lang=en",
+      "type": "Resolución política",
+      "effect": "Reconoce perjuicios ambientales y sanitarios de la contaminación lumínica.",
+      "note": "No produce obligaciones nacionales sancionables automáticamente.",
+      "year": "2010",
+      "official": true
+    },
+    {
+      "id": "F202",
+      "country": "INT",
+      "title": "Consejo de Europa: Recomendación 1947 (2010), ruido y luz",
+      "url": "https://pace.coe.int/en/files/17935/html",
+      "type": "Recomendación política",
+      "effect": "Propone revisar legislación y considerar un marco europeo.",
+      "note": "No crea un tratado paneuropeo específico.",
+      "year": "2010",
+      "official": true
+    },
+    {
+      "id": "F203",
+      "country": "INT",
+      "title": "Convenio Europeo del Paisaje, ETS 176 (2000)",
+      "url": "https://www.coe.int/en/web/conventions/full-list/?module=signatures-by-treaty&treatynum=176",
+      "type": "Tratado internacional",
+      "effect": "Compromisos de gestión y protección paisajística de Estados parte.",
+      "note": "La protección del cielo nocturno es interpretación potencial; comprobar ratificaciones.",
+      "year": "2000",
+      "official": true
+    },
+    {
+      "id": "F204",
+      "country": "INT",
+      "title": "Convenio de Berna: Recomendación 174 (2014), tortugas de Kyparissia",
+      "url": "https://www.coe.int/en/web/bern-convention/recommendations-2014",
+      "type": "Recomendación internacional",
+      "effect": "Protección de tortugas, dunas y áreas costeras mediterráneas.",
+      "note": "Soft law diferente de sentencia TJUE vinculante.",
+      "year": "2014",
+      "official": true
+    },
+    {
+      "id": "F205",
+      "country": "INT",
+      "title": "EUROBATS Resolución 8.6 (2018): Bats and Light Pollution",
+      "url": "https://www.eurobats.org/document/bats-and-light-pollution",
+      "type": "Resolución de las Partes",
+      "effect": "Efectos de luz nocturna sobre refugios, rutas, alimentación y conectividad de murciélagos.",
+      "note": "Orientación no sancionable por sí sola.",
+      "year": "2018",
+      "official": true
+    },
+    {
+      "id": "F206",
+      "country": "INT",
+      "title": "EUROBATS: Guidelines for Consideration of Bats in Lighting Projects (2018)",
+      "url": "https://www.eurobats.org/light-pollution",
+      "type": "Guía técnica",
+      "effect": "Guía de evaluación y mitigación en proyectos de iluminación para proteger quirópteros.",
+      "note": "Orientativa; aplicación jurídica depende de permisos y normas nacionales.",
+      "year": "2018",
+      "official": true
+    },
+    {
+      "id": "F207",
+      "country": "INT",
+      "title": "EUROBATS Publication Series 8: revisión 2026 en borrador",
+      "url": "https://www.eurobats.org/document/guidelines-consideration-bats-lighting-projects-rev-2026",
+      "type": "Borrador técnico",
+      "effect": "Actualización considerada por EUROBATS en 2026.",
+      "note": "El propio organismo la califica DRAFT; no tratar como edición aprobada.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F208",
+      "country": "INT",
+      "title": "CMS COP15 (2026): Resolución 13.5 Rev.COP15, luz y especies migratorias",
+      "url": "https://www.cms.int/cop15docs",
+      "type": "Resolución de convenio",
+      "effect": "Directrices internacionales sobre iluminación y especies migratorias revisadas en mayo de 2026.",
+      "note": "Recomendatoria; no constituye sanción o límite general nacional.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F209",
+      "country": "INT",
+      "title": "Ramsar XIII.24 (2018): tortugas marinas y humedales",
+      "url": "https://www.ramsar.org/sites/default/files/documents/library/xiii.24_sea_turtles_e.pdf",
+      "type": "Resolución de convenio",
+      "effect": "Protección de tortugas y humedales de costa contra perturbaciones, incluida luz.",
+      "note": "No equivale a norma global de luminancia nocturna.",
+      "year": "2018",
+      "official": true
+    },
+    {
+      "id": "F210",
+      "country": "INT",
+      "title": "CEN/TC 169: comités europeos de normalización lumínica y WG15",
+      "url": "https://www.din.de/en/getting-involved/standards-committees/fnl/european-committees",
+      "type": "Programa de normalización",
+      "effect": "Trabajos técnicos sobre control y evaluación de luz intrusiva en exteriores.",
+      "note": "Un proyecto CEN no es una norma vigente ni una ley.",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F211",
+      "country": "INT",
+      "title": "COST LoNNe: análisis técnico de EN13201 (alumbrado vial)",
+      "url": "https://cost-lonne.eu/solutions/en-13201-explained/",
+      "type": "Análisis técnico secundario",
+      "effect": "La serie EN13201 no fija un límite general de CCT ni ULOR.",
+      "note": "No reemplaza el texto completo comercial de la norma.",
+      "year": "2025",
+      "official": false
+    },
+    {
+      "id": "F212",
+      "country": "INT",
+      "title": "IMPEL ReLiPo: Network to Reduce Light Pollution (2025)",
+      "url": "https://impel.eu/en/topic/cross-cutting-tools-and-approaches/implementation-of-legislation/projects/network-to-reduce-light-pollution-relipo",
+      "type": "Red institucional",
+      "effect": "Cooperación europea sobre vigilancia y aplicación de legislación lumínica.",
+      "note": "No es ley.",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F213",
+      "country": "INT",
+      "title": "Niels Hoek (2026), Light Pollution in EU Law: Unveiling Shadow Governance",
+      "url": "https://doi.org/10.1017/S2047102525100216",
+      "type": "Artículo jurídico científico",
+      "effect": "Estudio de gobernanza indirecta de contaminación lumínica mediante políticas ambientales y de ecodiseño.",
+      "note": "Doctrina académica de acceso abierto, no legislación.",
+      "year": "2026",
+      "official": false
     }
   ],
   "stars": [
@@ -3895,6 +4172,64 @@
       ],
       "caution": "No es valor obligatorio para toda instalación en Tirol ni todo el país; identificar el proyecto y autoridad.",
       "replicability": "Alta"
+    },
+    {
+      "id": "M58",
+      "country": "INT",
+      "title": "TJUE C-504/14: obligación de evitar iluminación dañina a tortugas",
+      "description": "El TJUE examinó luces públicas y comerciales que perturbaban la reproducción de Caretta caretta al aplicar Directiva Hábitats.",
+      "force": "Sentencia TJUE vinculante",
+      "param": "Evitar molestias significativas; sin cifra general de lux.",
+      "scope": "UE, especies y lugares protegidos",
+      "sources": [
+        "F189",
+        "F167"
+      ],
+      "caution": "La luz no es delito ni infracción automáticamente: deben acreditarse condiciones y daños.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M59",
+      "country": "INT",
+      "title": "EIA europea: evaluación de emisiones de luz",
+      "description": "La Directiva EIA obliga a describir luz emitida en proyectos sujetos al procedimiento ambiental.",
+      "force": "Directiva vinculante",
+      "param": "Estudio del impacto de luz; medidas de mitigación según proyecto.",
+      "scope": "UE, proyectos sometidos a EIA",
+      "sources": [
+        "F191",
+        "F169"
+      ],
+      "caution": "Obligación de evaluación, no límite general de CCT o ULOR.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M60",
+      "country": "INT",
+      "title": "EU GPP 2019: comprar alumbrado sin emisiones al cielo",
+      "description": "Criterios voluntarios europeos de contratación verde permiten incorporar flujo ascendente nulo y control espectral a pliegos.",
+      "force": "Recomendación de compra verde",
+      "param": "ULOR 0 % como criterio; medidas de intensidad, espectro y regulación temporal.",
+      "scope": "Contrataciones europeas que incorporen dichos criterios",
+      "sources": [
+        "F111"
+      ],
+      "caution": "Los criterios no son legislación común de aplicación automática.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M61",
+      "country": "INT",
+      "title": "CMS COP15 2026: directrices para especies migratorias",
+      "description": "Orientaciones internacionales sobre necesidad, intensidad, dirección, duración y espectro de iluminación cercana a hábitats sensibles.",
+      "force": "Directrices recomendatorias",
+      "param": "Diseño y horarios adaptados a especies; reducir componente azul cuando proceda.",
+      "scope": "Ámbito de conservación de especies migratorias",
+      "sources": [
+        "F208"
+      ],
+      "caution": "No equivale a una ley sancionable directamente.",
+      "replicability": "Alta"
     }
   ],
   "spain_regions": [
@@ -4160,6 +4495,41 @@
         "F111",
         "F112"
       ]
+    },
+    {
+      "id": "INT5",
+      "title": "TJUE: la iluminación puede infringir la Directiva Hábitats",
+      "subtitle": "C-504/14, 10 de noviembre de 2016",
+      "status": "Sentencia vinculante; aplicación según hechos y protección legal",
+      "detail": "La iluminación viaria y de establecimientos próximos a playas de Caretta caretta motivó incumplimientos de obligaciones de protección. Se requiere situación concreta y pruebas.",
+      "source_ids": [
+        "F189",
+        "F167"
+      ]
+    },
+    {
+      "id": "INT6",
+      "title": "Unión Europea: evaluación de luz y medio marino",
+      "subtitle": "EIA 2014/52/UE · Descriptor 11 de estrategia marina",
+      "status": "Directivas obligatorias; no límites universales de iluminación",
+      "detail": "El anexo IV de EIA contempla la emisión de luz; el Descriptor 11 marino contempla energía pero carece de indicadores lumínicos armonizados.",
+      "source_ids": [
+        "F191",
+        "F193",
+        "F194"
+      ]
+    },
+    {
+      "id": "INT7",
+      "title": "Consejo de Europa, EUROBATS y CMS",
+      "subtitle": "PACE 2010 · EUROBATS 2018 · CMS COP15 2026",
+      "status": "Recomendaciones y directrices especializadas",
+      "detail": "Recomendaciones paneuropeas de control de contaminación lumínica y directrices específicas para murciélagos y especies migratorias.",
+      "source_ids": [
+        "F202",
+        "F205",
+        "F208"
+      ]
     }
   ],
   "bibliography": [
@@ -4216,6 +4586,34 @@
       "title": "Propuestas de control de la contaminacion luminica para el Plan Nacional de Restauracion",
       "topic": "Documento de recomendaciones, no regulacion aprobada",
       "source_id": "F121"
+    },
+    {
+      "name": "Niels Hoek (2026)",
+      "title": "Light Pollution in EU Law: Unveiling Shadow Governance",
+      "topic": "Artículo jurídico sobre efectos indirectos de la legislación europea en luz nocturna (acceso abierto).",
+      "source_id": "F213",
+      "category": "Ciencia"
+    },
+    {
+      "name": "TJUE (2016)",
+      "title": "Comisión contra Grecia: sentencia C-504/14, Kyparissia",
+      "topic": "Precedente jurisprudencial sobre iluminación y Directiva Hábitats.",
+      "source_id": "F189",
+      "category": "Derecho"
+    },
+    {
+      "name": "Consejo de Europa (2010)",
+      "title": "Recommendation 1947: Noise and light pollution",
+      "topic": "Antecedente de las propuestas de regulación paneuropea.",
+      "source_id": "F202",
+      "category": "Derecho"
+    },
+    {
+      "name": "CMS COP15 (2026)",
+      "title": "International Light Pollution Guidelines for Migratory Species",
+      "topic": "Versión Rev.COP15 de las directrices internacionales para conservación de especies migratorias.",
+      "source_id": "F208",
+      "category": "Derecho"
     }
   ],
   "iucn_documents": [
@@ -4761,6 +5159,285 @@
       "source_ids": [
         "F178",
         "F179"
+      ]
+    },
+    {
+      "id": "X17",
+      "jurisdiction": "UE",
+      "instrument": "TJUE C-504/14 + Directiva Hábitats",
+      "domain": "Biodiversidad y jurisprudencia",
+      "application": "Medidas frente a iluminación que perturbe Caretta caretta en lugar protegido.",
+      "caution": "Requiere contexto probatorio y elementos del incumplimiento.",
+      "source_ids": [
+        "F167",
+        "F189"
+      ]
+    },
+    {
+      "id": "X18",
+      "jurisdiction": "UE",
+      "instrument": "Directiva EIA Anexo IV",
+      "domain": "Evaluación de impacto",
+      "application": "Incluir emisiones de luz en proyectos sometidos a estudio de impacto.",
+      "caution": "No somete cualquier luminaria a evaluación ni fija un límite de lux.",
+      "source_ids": [
+        "F191",
+        "F169"
+      ]
+    },
+    {
+      "id": "X19",
+      "jurisdiction": "UE",
+      "instrument": "Estrategia Marina y Decisión 2017/848",
+      "domain": "Medio marino",
+      "application": "Introducción de energía en mar, incluida la posible luz, como presión ecosistémica.",
+      "caution": "No hay umbrales operativos específicos de irradiancia nocturna.",
+      "source_ids": [
+        "F193",
+        "F194"
+      ]
+    },
+    {
+      "id": "X20",
+      "jurisdiction": "UE",
+      "instrument": "Directiva IED 2010/75/UE reformada en 2024",
+      "domain": "Industria",
+      "application": "La definición de emisiones no incluye luz expresamente; protección puede operar por normas sectoriales.",
+      "caution": "No equivale a exención general de protección ambiental.",
+      "source_ids": [
+        "F195",
+        "F196"
+      ]
+    }
+  ],
+  "eu_framework": [
+    {
+      "id": "EU01",
+      "group": "vinculante",
+      "title": "Directiva Hábitats 92/43/CEE (arts. 6 y 12)",
+      "effect": "Evitar deterioro y perturbación relevante en Natura 2000; protección de especies del anexo IV también fuera de espacios Natura.",
+      "caution": "Requiere comprobar especies, lugar, hechos y régimen aplicable.",
+      "source_ids": [
+        "F167"
+      ]
+    },
+    {
+      "id": "EU02",
+      "group": "vinculante",
+      "title": "TJUE C-504/14: tortugas y alumbrado en Kyparissia",
+      "effect": "La sentencia exige medidas frente a contaminación lumínica que perturbaba Caretta caretta por iluminación pública y privada.",
+      "caution": "No establece prohibición lumínica genérica para toda playa.",
+      "source_ids": [
+        "F189"
+      ]
+    },
+    {
+      "id": "EU03",
+      "group": "vinculante",
+      "title": "Directiva Aves 2009/147/CE (arts. 4 y 5)",
+      "effect": "Exige conservar aves y evitar determinadas perturbaciones significativas.",
+      "caution": "Aplicación por caso y especie; no topes universales.",
+      "source_ids": [
+        "F168"
+      ]
+    },
+    {
+      "id": "EU04",
+      "group": "vinculante",
+      "title": "Directiva de EIA 2011/92/UE (anexo IV, mod. 2014/52)",
+      "effect": "Incluye las emisiones de luz en los estudios de proyectos sometidos a evaluación de impacto.",
+      "caution": "Obligación procedimental; no máximo común de lux o Kelvin.",
+      "source_ids": [
+        "F169",
+        "F191"
+      ]
+    },
+    {
+      "id": "EU05",
+      "group": "vinculante",
+      "title": "Directiva de EAE 2001/42/CE",
+      "effect": "Evaluación de impacto de planes y programas y de efectos acumulativos.",
+      "caution": "No somete automáticamente todos los planes a evaluación.",
+      "source_ids": [
+        "F192"
+      ]
+    },
+    {
+      "id": "EU06",
+      "group": "facultativo",
+      "title": "Reglamento de Restauración de la Naturaleza (UE) 2024/1991",
+      "effect": "Considerando 49 y anexo VII incluyen medidas de reducir o remediar luz artificial.",
+      "caution": "Medida lumínica facultativa dentro de un reglamento vinculante.",
+      "source_ids": [
+        "F110"
+      ]
+    },
+    {
+      "id": "EU07",
+      "group": "vinculante",
+      "title": "Directiva de Estrategia Marina 2008/56/CE y Decisión 2017/848",
+      "effect": "Descriptor 11 sobre introducción energética; la luz puede afectar ecosistemas marinos.",
+      "caution": "Los criterios D11 regulados operativamente se centran en ruido, no luz.",
+      "source_ids": [
+        "F193",
+        "F194"
+      ]
+    },
+    {
+      "id": "EU08",
+      "group": "vinculante",
+      "title": "Directiva de Emisiones Industriales 2010/75/UE y reforma 2024",
+      "effect": "Art.3(4) enumera sustancias, vibraciones, calor o ruido, sin mencionar luz.",
+      "caution": "No excluye otras protecciones ambiental y urbanística.",
+      "source_ids": [
+        "F195",
+        "F196"
+      ]
+    },
+    {
+      "id": "EU09",
+      "group": "vinculante",
+      "title": "Ecodiseño UE 2019/2020 frente al derogado 245/2009",
+      "effect": "El Reglamento 245/2009 fue derogado el 01-09-2021; el nuevo marco no fija ULOR universal.",
+      "caution": "No reutilizar como vigente el techo antiguo ULOR.",
+      "source_ids": [
+        "F187",
+        "F188"
+      ]
+    },
+    {
+      "id": "EU10",
+      "group": "vinculante",
+      "title": "Marco de ecodiseño sostenible ESPR (UE) 2024/1781",
+      "effect": "Faculta nuevos requisitos sobre grupos de productos en futuros actos delegados.",
+      "caution": "No afirmar límites obligatorios nuevos sin reglamentación de producto.",
+      "source_ids": [
+        "F199"
+      ]
+    },
+    {
+      "id": "EU11",
+      "group": "facultativo",
+      "title": "Taxonomía UE 2020/852 y actos delegados",
+      "effect": "Criterios de sostenibilidad y DNSH en actividades cubiertas.",
+      "caution": "No requisito general de CCT para todas las luminarias.",
+      "source_ids": [
+        "F197",
+        "F198"
+      ]
+    },
+    {
+      "id": "EU12",
+      "group": "tecnico",
+      "title": "Criterios voluntarios EU GPP 2019 (alumbrado viario)",
+      "effect": "Emisión superior 0 %, control espectral, elección de nivel mínimo y atenuación propuestos para compras.",
+      "caution": "Sólo vinculantes si se incorporan a normas nacionales o licitaciones.",
+      "source_ids": [
+        "F111"
+      ]
+    },
+    {
+      "id": "EU13",
+      "group": "tecnico",
+      "title": "Norma técnica EN13201 de alumbrado viario",
+      "effect": "Cubre clases y desempeño vial, sin techo general sobre flujo ascendente o luz azul.",
+      "caution": "Norma técnica, no ley automática.",
+      "source_ids": [
+        "F211"
+      ]
+    },
+    {
+      "id": "EU14",
+      "group": "tecnico",
+      "title": "CEN/TC169/WG15: luz intrusiva (trabajos técnicos)",
+      "effect": "Desarrollo de evaluaciones de flujo ascendente, intrusión y espectro.",
+      "caution": "Borrador y programa de trabajo; no requisito vigente.",
+      "source_ids": [
+        "F210"
+      ]
+    },
+    {
+      "id": "EU15",
+      "group": "internacional",
+      "title": "Consejo de Europa: Res. 1776 y Rec. 1947 (2010)",
+      "effect": "Instan a los Estados a mejorar legislación y contemplar un marco paneuropeo.",
+      "caution": "Soft law; no tratado europeo específico sobre luz.",
+      "source_ids": [
+        "F201",
+        "F202"
+      ]
+    },
+    {
+      "id": "EU16",
+      "group": "internacional",
+      "title": "Convenio Europeo del Paisaje (ETS176)",
+      "effect": "Protección de paisaje y gestión territorial, potencial extensión al paisaje nocturno.",
+      "caution": "Verificar ratificación y obligación concreta por Estado.",
+      "source_ids": [
+        "F203"
+      ]
+    },
+    {
+      "id": "EU17",
+      "group": "internacional",
+      "title": "Convenio de Berna: Recomendación 174 (2014)",
+      "effect": "Protección de Caretta caretta y costa del golfo de Kyparissia.",
+      "caution": "Recomendación, no sentencia ni ley.",
+      "source_ids": [
+        "F204"
+      ]
+    },
+    {
+      "id": "EU18",
+      "group": "internacional",
+      "title": "EUROBATS resolución 8.6 y guías de 2018",
+      "effect": "Medidas para conservar murciélagos y corredores oscuros.",
+      "caution": "Revisión de 2026 es borrador, no guía final obligatoria.",
+      "source_ids": [
+        "F205",
+        "F206",
+        "F207"
+      ]
+    },
+    {
+      "id": "EU19",
+      "group": "internacional",
+      "title": "CMS Resolución 13.5 Rev.COP15 (2026)",
+      "effect": "Directrices internacionales de iluminación para especies migratorias.",
+      "caution": "No sancionable por sí sola.",
+      "source_ids": [
+        "F208"
+      ]
+    },
+    {
+      "id": "EU20",
+      "group": "internacional",
+      "title": "Ramsar XIII.24 (2018)",
+      "effect": "Promueve protección de tortugas marinas y humedales frente a fuentes perturbadoras.",
+      "caution": "Recomendación, no límite general de intensidad.",
+      "source_ids": [
+        "F209"
+      ]
+    },
+    {
+      "id": "EU21",
+      "group": "facultativo",
+      "title": "Parlamento Europeo: Resolución Biodiversidad 2030 (2021)",
+      "effect": "Solicita reducir contaminación lumínica y restaurar biodiversidad.",
+      "caution": "Resolución política no vinculante.",
+      "source_ids": [
+        "F200"
+      ]
+    },
+    {
+      "id": "EU22",
+      "group": "investigacion",
+      "title": "IMPEL ReLiPo (2025) y artículo de Hoek (2026)",
+      "effect": "Cooperación inspectora y análisis de gobernanza ambiental indirecta.",
+      "caution": "Red institucional y doctrina, no fuente legal vinculante.",
+      "source_ids": [
+        "F212",
+        "F213"
       ]
     }
   ]
