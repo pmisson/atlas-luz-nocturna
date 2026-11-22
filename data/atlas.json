@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-22",
-    "country_count": 67,
-    "source_count": 261,
-    "star_count": 90,
+    "country_count": 72,
+    "source_count": 277,
+    "star_count": 96,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -22,7 +22,8 @@
     "note_saudia_2026": "Arabia Saudí añadida: Res. C/15/25/1 de 2025, aplicación AlUla desde enero 2026 por fases; 8 fuentes, 6 medidas destacadas, certificaciones DarkSky diferenciadas. No extrapolar límites al país completo.",
     "expansion_2026": "10 nuevas fichas: Luxemburgo, Andorra, Hungría, Letonia, Indonesia, Liechtenstein, EAU, Estonia, Islandia, Lituania. Puerto Rico, ley territorial de EE.UU. Estados pendientes investigados por separado.",
     "review_november_2026": "Vietnam Ley 72/2020 art89, Bulgaria Ley ordenación art92 y Chipre Lara-Toxeftra; Argentina Malargüe y San Juan; Brasil IBAMA 11/1995; cautela Noruega §6(3).",
-    "review_serbia_romania_2026": "Serbia art. 81 Ley Protección Naturaleza; Rumanía plan Văcărești Orden 1363/2025, reemplaza 1136/2023. Montenegro queda pendiente de norma ALAN directa."
+    "review_serbia_romania_2026": "Serbia art. 81 Ley Protección Naturaleza; Rumanía plan Văcărești Orden 1363/2025, reemplaza 1136/2023. Montenegro queda pendiente de norma ALAN directa.",
+    "review_mena_turkey_2026": "Turquía art6 50% desde 02:00 en usos definidos; Israel Tel Aviv y planes; Túnez art352 proyecto; Argelia estándar IANOR/pliegos; Egipto Ley 102/1983 fauna; Omán política TE 3.3.2; Jordania pendiente."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -983,17 +984,19 @@
       "name": "Omán",
       "region": "Asia",
       "level": "subnacional",
-      "summary": "Decreto real 40/2019 crea reserva Al Hajar Al Gharbi; programas de control de luz propuestos deben diferenciarse de obligaciones jurídicamente adoptadas.",
-      "scope": "Reserva protegida",
-      "confidence": "Fuente primaria identificada",
-      "note": "",
+      "summary": "Decreto Real 40/2019 crea la Reserva Al Hajar Al Gharbi; la política territorial TE 3.3.2 (2023) plantea restricciones a luz en zona central, orientación, densidad, brillo y color. El acuerdo gubernamental de observatorios (2026) prevé limitar contaminación lumínica.",
+      "scope": "Reserva natural, política de desarrollo y autorizaciones de proyectos",
+      "confidence": "Decreto oficial y política del ministerio; límites numéricos no confirmados",
+      "note": "Diferenciar decreto vinculante, directrices de política 2023 y compromisos de proyecto 2026; obligatoriedad técnica por comprobar.",
       "keywords": "",
       "source_ids": [
         "F073",
-        "F074"
+        "F074",
+        "F277"
       ],
       "star_ids": [
-        "M38"
+        "M38",
+        "M96"
       ]
     },
     {
@@ -1321,6 +1324,99 @@
       ],
       "star_ids": [
         "M90"
+      ]
+    },
+    {
+      "iso": "TUR",
+      "name": "Turquía",
+      "region": "Asia",
+      "level": "sectorial",
+      "summary": "Reglamento General de Alumbrado de 2013 modificado, art. 6.2: reducción del 50 % de iluminación como máximo desde 02:00 en parques, jardines, lugares históricos y otros espacios públicos indicados; art. 6.3 exige evitar contaminación lumínica.",
+      "scope": "Nacional: espacios de alumbrado general enumerados",
+      "confidence": "Texto consolidado enero de 2026 cotejado",
+      "note": "No aplica la reducción del 50 % a todos los viales o establecimientos privados.",
+      "keywords": "light pollution contaminación lumínica legislación iluminación artificial",
+      "source_ids": [
+        "F262",
+        "F263",
+        "F264"
+      ],
+      "star_ids": [
+        "M91",
+        "M92"
+      ]
+    },
+    {
+      "iso": "ISR",
+      "name": "Israel",
+      "region": "Asia",
+      "level": "subnacional",
+      "summary": "Tel Aviv impone requisitos ambientales de licencias sobre luz ascendente y deslumbramiento; planes urbanísticos aprobados exigen luminarias cutoff y control de luz hacia espacios naturales.",
+      "scope": "Municipal y planes urbanísticos delimitados",
+      "confidence": "Requisitos municipales y planos aprobados en fuentes oficiales",
+      "note": "CIE 150:2003 es referencia municipal; no se convierte íntegramente en ley estatal.",
+      "keywords": "light pollution contaminación lumínica legislación iluminación artificial",
+      "source_ids": [
+        "F265",
+        "F266",
+        "F267"
+      ],
+      "star_ids": [
+        "M93",
+        "M94"
+      ]
+    },
+    {
+      "iso": "DZA",
+      "name": "Argelia",
+      "region": "África",
+      "level": "general",
+      "summary": "Ley ambiental 03-10/2003 y especificaciones técnicas de alumbrado. Tribunal de Cuentas 2025 documenta uso de normas técnicas y criterios de reducción de contaminación lumínica en pliegos; sin límite nacional ALAN específico localizado.",
+      "scope": "Nacional y contratación pública",
+      "confidence": "Fuentes ministeriales, IANOR y Tribunal de Cuentas",
+      "note": "NA 21984:2023 define presentación de datos fotométricos LED, no por sí misma límites de ALAN.",
+      "keywords": "light pollution contaminación lumínica legislación iluminación artificial",
+      "source_ids": [
+        "F268",
+        "F269",
+        "F270"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "EGY",
+      "name": "Egipto",
+      "region": "África",
+      "level": "general",
+      "summary": "Ley de Reservas Naturales 102/1983 arts. 2 y 3 prohíbe perturbar fauna en reservas y exige permisos para ciertas actividades; no establece un límite fotométrico ALAN expreso.",
+      "scope": "Reservas naturales y autorización ambiental",
+      "confidence": "EEAA y FAOLEX",
+      "note": "No interpretar protección de especies como prohibición general automática de luz.",
+      "keywords": "light pollution contaminación lumínica legislación iluminación artificial",
+      "source_ids": [
+        "F271",
+        "F272",
+        "F273"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "TUN",
+      "name": "Túnez",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "Orden de 23/12/2016 sobre instalación de alumbrado público en dominio público. Art. 352 del proyecto de Código Medio Ambiente de agosto 2023 propone límites de emisiones luminosas futuros; no consta aprobado a noviembre 2026.",
+      "scope": "Alumbrado público (vigente); proyecto ambiental no vigente",
+      "confidence": "Orden JORT identificada y estado de proyecto ministerial comprobado",
+      "note": "Art. 352 no es ley vigente y no hay sanción específica atribuible desde el art. 353 del proyecto.",
+      "keywords": "light pollution contaminación lumínica legislación iluminación artificial",
+      "source_ids": [
+        "F274",
+        "F275",
+        "F276"
+      ],
+      "star_ids": [
+        "M95"
       ]
     }
   ],
@@ -4195,6 +4291,182 @@
       "note": "Citar jurídicamente el plan de 2025 como versión vigente y el portal institucional como consulta.",
       "year": "2025",
       "official": true
+    },
+    {
+      "id": "F262",
+      "country": "TUR",
+      "title": "Reglamento General de Alumbrado turco, consolidación 2026",
+      "url": "https://www.lexpera.com.tr/mevzuat/yonetmelikler/genel-aydinlatma-yonetmeligi",
+      "type": "Reglamento nacional vinculante",
+      "effect": "Art. 6.2 reducción 50% después de 02:00 en espacios definidos y art. 6.3 prevención contaminación lumínica",
+      "note": "Texto consolidado; no toda la iluminación vial",
+      "year": "2013",
+      "official": false
+    },
+    {
+      "id": "F263",
+      "country": "TUR",
+      "title": "Ministerio de Energía turco: texto del Reglamento General de Alumbrado",
+      "url": "https://enerjiverimliligi.enerji.gov.tr/template/dist/pdf/GenelAydinlatma.pdf",
+      "type": "Reglamento alojado en ministerio",
+      "effect": "Regulación nacional de alumbrado",
+      "note": "Cotejar últimas reformas con consolidación",
+      "year": "2013",
+      "official": true
+    },
+    {
+      "id": "F264",
+      "country": "TUR",
+      "title": "Asociación de Municipios de Turquía: reforma diciembre 2025",
+      "url": "https://www.tbb.gov.tr/tr/mevzuat-duyurulari/genel-aydinlatma-yonetmeliginde-degisiklik-yapilmasina-dair-yonetmelik-4",
+      "type": "Aviso legal",
+      "effect": "Modificación publicada en Resmî Gazete el 25-12-2025",
+      "note": "No sustituye consolidación",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F265",
+      "country": "ISR",
+      "title": "Tel Aviv: requisitos ambientales de licencias, contaminación lumínica",
+      "url": "https://www.tel-aviv.gov.il/Business/BusinessLicense/Pages/EnvironmentDemands.aspx",
+      "type": "Condiciones municipales",
+      "effect": "Prohíbe iluminación vertical fuera de empresa y deslumbramiento publicitario con referencia CIE150",
+      "note": "La recomendación nocturna es distinta de las prohibiciones",
+      "year": "",
+      "official": true
+    },
+    {
+      "id": "F266",
+      "country": "ISR",
+      "title": "Plan de Neve Ziv 258-1171479 aprobado en 2024: alumbrado cutoff",
+      "url": "https://apps.land.gov.il/IturTabotData/takanonim/tzafon/2057227.pdf",
+      "type": "Plan territorial aprobado",
+      "effect": "Art. 6.2(d): evitar luz, cutoff y no iluminar espacios abiertos",
+      "note": "Solo infraestructura delimitada en el plan",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F267",
+      "country": "ISR",
+      "title": "Plan Zoharim 151-0482109: control lumínico en autorizaciones",
+      "url": "https://apps.land.gov.il/IturTabotData/takanonim/jerus/1054230.pdf",
+      "type": "Plan territorial",
+      "effect": "Control fuga de luz hacia áreas abiertas; coordinación con autoridad natural",
+      "note": "No es norma nacional",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F268",
+      "country": "DZA",
+      "title": "Ministerio ambiental de Argelia: Ley 03-10/2003 y reglamentación",
+      "url": "https://www.me.gov.dz/fr/reglementation/lenvironnement/",
+      "type": "Ley ambiental y repertorio oficial",
+      "effect": "Normativa general ambiental y de evaluación",
+      "note": "Sin disposiciones lumínicas numéricas identificadas",
+      "year": "2003",
+      "official": true
+    },
+    {
+      "id": "F269",
+      "country": "DZA",
+      "title": "Tribunal de Cuentas argelino: informe anual 2025 sobre alumbrado",
+      "url": "https://ccomptes.dz/wp-content/uploads/2025/12/RA.2025-FR.pdf",
+      "type": "Informe de auditoría estatal",
+      "effect": "Normas técnicas citadas en pliegos, criterios sobre polución lumínica y horarios",
+      "note": "Informe no crea obligaciones generales",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F270",
+      "country": "DZA",
+      "title": "IANOR: catálogo de normas argelinas 30-06-2026",
+      "url": "https://www.ianor.dz/en/2023/10/30/catalogue-of-algerian-standards-na/",
+      "type": "Catálogo técnico",
+      "effect": "NA 21984:2023 presenta datos fotométricos LED",
+      "note": "No fija límite general de ALAN",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F271",
+      "country": "EGY",
+      "title": "EEAA Egipto: Ley Ambiental 4/1994 y Reservas Naturales 102/1983",
+      "url": "https://www.eeaa.gov.eg/laws/55/index",
+      "type": "Portal oficial legislativo",
+      "effect": "Leyes ambientales y permisos de reservas",
+      "note": "No límite general ALAN localizado",
+      "year": "1983",
+      "official": true
+    },
+    {
+      "id": "F272",
+      "country": "EGY",
+      "title": "FAOLEX: Ley egipcia 102/1983 Reservas Naturales arts 2 y 3",
+      "url": "https://faolex.fao.org/docs/pdf/egy20777E.pdf",
+      "type": "Ley de reservas",
+      "effect": "Prohibición de perturbación de fauna y permisos para actividades",
+      "note": "Aplicación indirecta a ALAN exige probar daño y competencia",
+      "year": "1983",
+      "official": true
+    },
+    {
+      "id": "F273",
+      "country": "EGY",
+      "title": "Attum y Nagy 2024: luz y tortugas del Mar Rojo egipcio",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38531203/",
+      "type": "Estudio científico",
+      "effect": "Relación entre iluminación y reproducción de tortugas",
+      "note": "No es legislación",
+      "year": "2024",
+      "official": false
+    },
+    {
+      "id": "F274",
+      "country": "TUN",
+      "title": "Túnez: orden 23 diciembre 2016 instalación de alumbrado público",
+      "url": "https://9anoun.tn/fr/kb/jorts/jort-2017-002-10bb3/arrete-du-ministre-de-lindustrie-et-du-commerce-et-de-la-ministre-de-lenergie-des-mines-et-des-energies-renouvelables-du-23-decembre-2016-relatif-aux-regles-dinstallation-declairag-32de9c1c57662d5bbe6897c1b1678dba",
+      "type": "Orden ministerial publicada en JORT",
+      "effect": "Reglas técnicas y eléctricas en dominio público",
+      "note": "No acredita limitaciones ecológicas concretas",
+      "year": "2016",
+      "official": false
+    },
+    {
+      "id": "F275",
+      "country": "TUN",
+      "title": "Ministerio tunecino: página oficial de PROYECTO de Código Ambiental",
+      "url": "https://www.environnement.gov.tn/projet-de-code-de-lenvironnement/projet-de-code-de-lenvironnement",
+      "type": "Estado de tramitación",
+      "effect": "Portal actualiza mayo 2026, sigue indicando proyecto",
+      "note": "No derecho vigente",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F276",
+      "country": "TUN",
+      "title": "Proyecto de Código Ambiental Túnez, art. 352 emisiones luminosas",
+      "url": "https://environnement.gov.tn/fileadmin/user_upload/2_PCE_FR__V1_3_aout2023.pdf",
+      "type": "Proyecto de norma no vigente",
+      "effect": "Posibles límites futuros por tipo, potencia y zona",
+      "note": "No existe obligación actual desde ese texto",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F277",
+      "country": "OMN",
+      "title": "Omán: acuerdo de observatorios en reserva Al Hajar marzo 2026",
+      "url": "https://www.fm.gov.om/en/39590/",
+      "type": "Comunicación gubernamental",
+      "effect": "Compromiso del proyecto para limitar contaminación lumínica",
+      "note": "No límite legal uniforme",
+      "year": "2026",
+      "official": true
     }
   ],
   "stars": [
@@ -5487,6 +5759,90 @@
       "sources": [
         "F260"
       ]
+    },
+    {
+      "id": "M91",
+      "country": "TUR",
+      "title": "Turquía: reducción nocturna obligatoria del 50 %",
+      "description": "El art. 6.2 obliga reducir nivel de alumbrado al 50 % como máximo a las 02:00 en parques, jardines y otros espacios públicos enumerados.",
+      "force": "Reglamento sectorial vinculante",
+      "param": "50 % de nivel lumínico tras 02:00",
+      "scope": "Ámbito art. 6.2",
+      "sources": [
+        "F262"
+      ],
+      "caution": "No incluye todos los viales ni alumbrado privado.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M92",
+      "country": "TUR",
+      "title": "Turquía: prevención jurídica de contaminación lumínica",
+      "description": "Art. 6.3 exige adoptar medidas para evitar la contaminación lumínica en las instalaciones objeto del reglamento.",
+      "force": "Reglamento sectorial vinculante",
+      "param": "Obligación preventiva cualitativa",
+      "scope": "Alumbrado general cubierto",
+      "sources": [
+        "F262"
+      ],
+      "caution": "No fija FHS 0 %, CCT ni lux.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M93",
+      "country": "ISR",
+      "title": "Tel Aviv: límite de luz ascendente y deslumbramiento",
+      "description": "Requisitos ambientales municipales para licencias prohíben luz vertical exterior y exigen evitar deslumbramiento por anuncios con referencia a CIE150/2003.",
+      "force": "Condición municipal de licencia",
+      "param": "Prohibición cualitativa de luz vertical exterior",
+      "scope": "Actividades con licencia en Tel Aviv",
+      "sources": [
+        "F265"
+      ],
+      "caution": "No aplicar en todo Israel.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M94",
+      "country": "ISR",
+      "title": "Israel: plan Neve Ziv exige luminarias cutoff",
+      "description": "Plan aprobado 258-1171479 prohíbe dirigir luz al espacio abierto y exige luminarias cutoff si se necesita alumbrado.",
+      "force": "Plan territorial aprobado",
+      "param": "Cutoff y orientación hacia patio interno",
+      "scope": "Instalación Neve Ziv",
+      "sources": [
+        "F266"
+      ],
+      "caution": "No legislación nacional.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M95",
+      "country": "TUN",
+      "title": "Túnez: proyecto para regular emisiones luminosas",
+      "description": "Artículo 352 del proyecto ambiental de 2023 propone establecer límites técnicos mediante orden ministerial futura.",
+      "force": "PROYECTO NO VIGENTE",
+      "param": "No hay todavía límites del artículo 352 exigibles",
+      "scope": "Propuesta nacional",
+      "sources": [
+        "F276"
+      ],
+      "caution": "Art. 353 del proyecto sanciona otros artículos, no el 352.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M96",
+      "country": "OMN",
+      "title": "Omán: política de conservación del cielo oscuro TE 3.3.2",
+      "description": "Política Al Hajar Al Gharbi 2023 propone evitar iluminación en zona central y requisitos de brillo, temperatura de color, densidad y dirección para desarrollo.",
+      "force": "Política territorial; exigibilidad por comprobar",
+      "param": "Control cualitativo y criterios de diseño",
+      "scope": "Al Hajar Al Gharbi",
+      "sources": [
+        "F074"
+      ],
+      "caution": "No equivale al texto del decreto 40/2019 ni impone sanciones generales.",
+      "replicability": "Media"
     }
   ],
   "spain_regions": [
