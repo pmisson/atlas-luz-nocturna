@@ -10,8 +10,8 @@ El atlas contiene:
 
 - **Mapa SVG mundial interactivo** (funciona offline): países seleccionables, lupa, desplazamiento y filtros por región y tipo de normativa; los puntos de Malta, Singapur, Andorra y Liechtenstein completan la cartografía de Natural Earth de baja resolución.
 - **94 fichas nacionales** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
-- **306 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
-- **110 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
+- **319 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
+- **115 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
 - **19 fichas subnacionales espanolas**: 17 comunidades autonomas y Ceuta y Melilla, con citas al BOE, REECL y fuentes regionales, y advertencias de vigencia.
 - **Derecho internacional y doctrina**: CLRTAP (1979), CDI ONU, Reglamento UE 2024/1991, compilacion checa de 2022, Bara y Yakushina.
 - **Datos reutilizables** (`data/atlas.json`, `data/paises.csv`, `data/fuentes.csv`, `data/medidas_estrella.csv`), informe maestro `INFORME_MAESTRO.md` y fichas Markdown.
@@ -162,14 +162,18 @@ Después de editar `data/atlas.json`, ejecutar `python3 sync_public_data.py` par
 
 ### Serbia y Rumanía (22-XI-2026)
 
-Se añaden Serbia (artículo 81 Ley de Protección de la Naturaleza; proyectores y láseres hacia el cielo) y Rumanía (Plan de Gestión Văcărești 2025, restricciones expresas a la iluminación artificial). Total actualizado: **94 países, 306 fuentes, 110 medidas**. Montenegro permanece en auditoría: existe orientación oficial sobre contaminación lumínica, no límite ALAN vinculante identificado.
+Se añaden Serbia (artículo 81 Ley de Protección de la Naturaleza; proyectores y láseres hacia el cielo) y Rumanía (Plan de Gestión Văcărești 2025, restricciones expresas a la iluminación artificial). Total actualizado: **94 países, 319 fuentes, 115 medidas**. Montenegro permanece en auditoría: existe orientación oficial sobre contaminación lumínica, no límite ALAN vinculante identificado.
 
 ## Investigación de Oriente Medio y norte de África (22-XI-2026)
 
-Se han incorporado **Turquía, Israel, Argelia, Egipto y Túnez**, ampliado Omán, y distinguido expresamente normas de iluminación vinculantes, condiciones de licencias locales, políticas territoriales, legislación ambiental indirecta y proyectos normativos no vigentes. Datos actuales: **94 países, 306 fuentes, 110 medidas**. Jordania permanece en investigación: no consta una prohibición ALAN específica contrastada en los reglamentos consultados.
+Se han incorporado **Turquía, Israel, Argelia, Egipto y Túnez**, ampliado Omán, y distinguido expresamente normas de iluminación vinculantes, condiciones de licencias locales, políticas territoriales, legislación ambiental indirecta y proyectos normativos no vigentes. Datos actuales: **94 países, 319 fuentes, 115 medidas**. Jordania permanece en investigación: no consta una prohibición ALAN específica contrastada en los reglamentos consultados.
 
 ## Investigación comparada IAU — 23 de noviembre de 2026
 
-Se han integrado 22 países de la muestra de 77 países del informe IAU aún ausentes del atlas. El total del atlas es ahora **94 países, 306 referencias y 110 medidas**. Nuevas fichas: Baréin, Kazajistán, Ucrania, Pakistán, Sri Lanka, Camerún, Chad, Nigeria, Tailandia, Nicaragua, El Salvador, Qatar, Azerbaiyán, Bangladés, Bielorrusia, Kenia, Líbano, Rusia, Ruanda, Senegal, Sierra Leona y Uzbekistán.
+Se han integrado 22 países de la muestra de 77 países del informe IAU aún ausentes del atlas. El total del atlas es ahora **94 países, 319 referencias y 115 medidas**. Nuevas fichas: Baréin, Kazajistán, Ucrania, Pakistán, Sri Lanka, Camerún, Chad, Nigeria, Tailandia, Nicaragua, El Salvador, Qatar, Azerbaiyán, Bangladés, Bielorrusia, Kenia, Líbano, Rusia, Ruanda, Senegal, Sierra Leona y Uzbekistán.
 
 **Nota metodológica:** la presencia en el atlas significa documentación de leyes, reglas técnicas, políticas o estudios de referencia, pero **no prueba la existencia de ley específica de ALAN**. El Código ARZ (Líbano), GSAS (Qatar) y SREDA (Bangladés) son certificaciones generalmente optativas; la antigua norma de Púlkovo (Rusia) fue derogada. Los parámetros ucranianos de una versión archivada no se hacen pasar por valores vigentes. La documentación y las cautelas figuran en cada ficha y en el informe maestro.
+
+## Rusia y Bielorrusia: verificación de 23-XI-2026
+
+Las fichas RUS y BLR pasan de `pendiente` a `sectorial`. Rusia: [SanPiN 1.2.3685-21](https://sudact.ru/law/postanovlenie-glavnogo-gosudarstvennogo-sanitarnogo-vracha-rf-ot_1430/sanpin-1.2.3685-21/v/gigienicheskie-normativy-fizicheskikh-faktorov-v/tablitsa-5.57/), tabla 5.57, límites de luz intrusa a ventanas y SP 52.13330.2016; no se recupera la vigencia de la ley antigua de Púlkovo. Bielorrusia: Ley de Publicidad 225-Z art. 13, Decreto 395/2021, decisiones de Nesvizh 2328/2026 y Miory 1036/2026. Los límites 5/7/10/20 lux de la antigua TKP 2009 bielorrusa **no están verificados en la nueva SN 2.04.03-2020**. Totales actuales: 94 países, 319 fuentes y 115 medidas.
