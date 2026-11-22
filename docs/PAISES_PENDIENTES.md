@@ -33,3 +33,9 @@ Las 22 jurisdicciones antes ausentes de la muestra IAU ya tienen ficha ordinaria
 **Rusia ya no está pendiente de regulación sectorial:** normas sanitarias SanPiN 1.2.3685-21, tabla 5.57, valores de iluminación vertical en ventanas 5/7/10/20 lux, más SP 52.13330.2016 y estándar GOST R 55706-2023. **Solo continúa pendiente** el alcance actual de los requisitos astronómicos de la zona de Púlkovo, tras la derogación de la antigua Ley 29-10/2009.
 
 **Bielorrusia ya no está pendiente de regulación sectorial:** Ley 225-Z art. 13(2) y Decreto 395/2021 sobre deslumbramiento de publicidad, más restricciones locales de Nesvizh y Miory (2026). **Pendiente:** verificar si SN 2.04.03-2020 reproduce los límites de luz intrusa del texto TKP 45-2.04-153-2009 al que sustituyó; no atribuirlos al texto actual sin comprobación.
+
+## Seguimiento 23-XI-2026: Púlkovo y SN bielorrusa
+
+Púlkovo: la Resolución 524/2016, sección 3.16, con actualización de diciembre de 2025 regula construcción industrial y residencial dentro de zona protectora y la intervención del observatorio en otros proyectos. La antigua limitación del resplandor del cielo del art. 71 Ley 29-10/2009 NO revive por ello; falta identificar restricción fotométrica vigente en la zona.
+
+Bielorrusia: SN 2.04.03-2020 está vigente y SP 4.04.01-2022 regula proyecto de alumbrado exterior, pero sigue sin comprobarse en articulado accesible la continuidad de límites verticales de la antigua TKP 2009. No incluir los antiguos lux como vigentes sin cotejo documental.
