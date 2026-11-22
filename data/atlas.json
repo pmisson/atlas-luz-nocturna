@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-22",
-    "country_count": 65,
-    "source_count": 257,
-    "star_count": 88,
+    "country_count": 67,
+    "source_count": 261,
+    "star_count": 90,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -21,7 +21,8 @@
     "note_eu_2026": "Informe europeo de 33 páginas integrado el 22-XI-2026: Directivas Hábitats/Aves/EIA, caso TJUE C-504/14, restauración, ecodiseño y su derogación histórica, EUROBATS, CMS COP15 y estandarización.",
     "note_saudia_2026": "Arabia Saudí añadida: Res. C/15/25/1 de 2025, aplicación AlUla desde enero 2026 por fases; 8 fuentes, 6 medidas destacadas, certificaciones DarkSky diferenciadas. No extrapolar límites al país completo.",
     "expansion_2026": "10 nuevas fichas: Luxemburgo, Andorra, Hungría, Letonia, Indonesia, Liechtenstein, EAU, Estonia, Islandia, Lituania. Puerto Rico, ley territorial de EE.UU. Estados pendientes investigados por separado.",
-    "review_november_2026": "Vietnam Ley 72/2020 art89, Bulgaria Ley ordenación art92 y Chipre Lara-Toxeftra; Argentina Malargüe y San Juan; Brasil IBAMA 11/1995; cautela Noruega §6(3)."
+    "review_november_2026": "Vietnam Ley 72/2020 art89, Bulgaria Ley ordenación art92 y Chipre Lara-Toxeftra; Argentina Malargüe y San Juan; Brasil IBAMA 11/1995; cautela Noruega §6(3).",
+    "review_serbia_romania_2026": "Serbia art. 81 Ley Protección Naturaleza; Rumanía plan Văcărești Orden 1363/2025, reemplaza 1136/2023. Montenegro queda pendiente de norma ALAN directa."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -1284,6 +1285,42 @@
       ],
       "star_ids": [
         "M85"
+      ]
+    },
+    {
+      "iso": "SRB",
+      "name": "Serbia",
+      "region": "Europa",
+      "level": "sectorial",
+      "summary": "El artículo 81 de la Ley nacional de Protección de la Naturaleza exige medidas sobre iluminación de estructuras altas próximas a áreas ecológicamente importantes y prohíbe proyectar al cielo fuentes luminosas intensas (reflectores publicitarios giratorios, láseres y similares), salvo seguridad o control aéreo.",
+      "scope": "Nacional; fuentes luminosas intensas hacia el cielo y estructuras próximas a zonas ecológicas",
+      "confidence": "Art. 81 contrastado en sistema estatal de información jurídica",
+      "note": "La prohibición no cubre toda la iluminación exterior ni supone un límite fotométrico de resplandor, lux, CCT o emisión ascendente para todas las luminarias.",
+      "keywords": "Serbia zakon zaštiti prirode član 81 skyward lighting lasers reflektori priroda",
+      "source_ids": [
+        "F258"
+      ],
+      "star_ids": [
+        "M89"
+      ]
+    },
+    {
+      "iso": "ROU",
+      "name": "Rumanía",
+      "region": "Europa",
+      "level": "subnacional",
+      "summary": "El Plan de gestión del Parque Natural Văcărești (Orden ministerial 1363/2025) restringe el uso de cualquier iluminación artificial en el parque, con excepciones para la administración o luz tenue temporal que no perturbe a la fauna. No existe una ley nacional integral ALAN acreditada.",
+      "scope": "Parque Natural Văcărești, Bucarest; medidas de conservación territorial",
+      "confidence": "Regla p) en el plan de gestión aprobado en 2025; orden anterior 1136/2023 derogada",
+      "note": "La Orden 1363/2025 deroga expresamente la Orden 1136/2023; la prohibición no se extiende fuera del parque.",
+      "keywords": "Romania Parcul Natural Văcărești Ordin 1363 2025 lumina iluminat artificial",
+      "source_ids": [
+        "F259",
+        "F260",
+        "F261"
+      ],
+      "star_ids": [
+        "M90"
       ]
     }
   ],
@@ -4114,6 +4151,50 @@
       "note": "El catálogo del IBAMA la señala en vigor; umbral de 0 lux en franja definida, no todo litoral de Brasil.",
       "year": "1995",
       "official": true
+    },
+    {
+      "id": "F258",
+      "country": "SRB",
+      "title": "Serbia: Ley de Protección de la Naturaleza, art. 81 (texto consolidado)",
+      "url": "https://pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/zakon/2009/36/9",
+      "type": "Ley nacional de conservación",
+      "effect": "Art. 81: iluminación de edificios elevados en proximidad a áreas ecológicas y prohibición de proyectores/lasers intensos dirigidos al cielo",
+      "note": "Se exceptúan seguridad y control del tránsito aéreo. La prohibición no es un límite general de brillo del cielo.",
+      "year": "2009",
+      "official": true
+    },
+    {
+      "id": "F259",
+      "country": "ROU",
+      "title": "Rumanía: Orden ministerial 1363/2025, plan de gestión de Văcărești",
+      "url": "https://www.infodosar.ro/monitorul-oficial/ministerul-mediului-apelor-si-padurilor/6569-ordin-1363-2025",
+      "type": "Orden ministerial de conservación",
+      "effect": "Plan de gestión del Parque Natural Văcărești; deroga Orden 1136/2023",
+      "note": "Art. 2 deroga reglamento de 2023. Prohibiciones siguen en el plan anexo de 2025.",
+      "year": "2025",
+      "official": false
+    },
+    {
+      "id": "F260",
+      "country": "ROU",
+      "title": "Rumanía: Plan de gestión de Văcărești, prohibición de luz artificial (letra p)",
+      "url": "https://infodosar.ro/monitorul-oficial/ministerul-mediului-apelor-si-padurilor/6568-plan-0-2025",
+      "type": "Anexo reglamentario de conservación",
+      "effect": "Parque Natural Văcărești: prohibición general de iluminación artificial con excepciones",
+      "note": "Se permiten necesidades administrativas y luz de baja intensidad durante tiempo definido si no perturba fauna; no regla nacional.",
+      "year": "2025",
+      "official": false
+    },
+    {
+      "id": "F261",
+      "country": "ROU",
+      "title": "Rumanía: administración del Parque Natural Văcărești, reglamento consultable",
+      "url": "https://apnv.ro/en/park-regulations/",
+      "type": "Fuente institucional complementaria",
+      "effect": "Restricción sobre luz artificial en el espacio protegido",
+      "note": "Citar jurídicamente el plan de 2025 como versión vigente y el portal institucional como consulta.",
+      "year": "2025",
+      "official": true
     }
   ],
   "stars": [
@@ -5378,6 +5459,34 @@
       ],
       "caution": "No extender el umbral a toda la costa brasileña ni equipararlo a luminancia del cielo.",
       "replicability": "Alta"
+    },
+    {
+      "id": "M89",
+      "country": "SRB",
+      "title": "Prohibición de proyectores y láseres dirigidos al cielo",
+      "description": "El artículo 81 prohíbe fuentes de luz intensa dirigidas al cielo, incluidos reflectores publicitarios giratorios y láseres, salvo excepciones de seguridad y tráfico aéreo; exige también mitigación lumínica para estructuras elevadas junto a zonas ecológicas.",
+      "force": "Ley nacional vinculante",
+      "param": "Prohibición de fuentes intensas skyward; sin límite numérico de lux o CCT",
+      "scope": "Serbia",
+      "caution": "No implica prohibición de todas las luminarias con emisión ascendente; prohibición tipificada para fuentes intensas.",
+      "replicability": "Alta",
+      "sources": [
+        "F258"
+      ]
+    },
+    {
+      "id": "M90",
+      "country": "ROU",
+      "title": "Văcărești: restricción general de iluminación artificial en reserva",
+      "description": "El plan ministerial de 2025 restringe cualquier iluminación artificial salvo las necesidades del parque o iluminación tenue temporal sin perturbación de fauna.",
+      "force": "Plan de conservación aprobado por orden ministerial",
+      "param": "Prohibición general con excepciones cualitativas; sin valor máximo numérico",
+      "scope": "Parque Natural Văcărești, Bucarest",
+      "caution": "La regla no se extrapola al resto de Rumanía; orden 1136/2023 derogada por 1363/2025.",
+      "replicability": "Media",
+      "sources": [
+        "F260"
+      ]
     }
   ],
   "spain_regions": [
