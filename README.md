@@ -9,9 +9,9 @@
 El atlas contiene:
 
 - **Mapa SVG mundial interactivo** (funciona offline): países seleccionables, lupa, desplazamiento y filtros por región y tipo de normativa; los puntos de Malta, Singapur, Andorra y Liechtenstein completan la cartografía de Natural Earth de baja resolución.
-- **62 fichas nacionales** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
-- **249 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
-- **84 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
+- **65 fichas nacionales** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
+- **257 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
+- **88 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
 - **19 fichas subnacionales espanolas**: 17 comunidades autonomas y Ceuta y Melilla, con citas al BOE, REECL y fuentes regionales, y advertencias de vigencia.
 - **Derecho internacional y doctrina**: CLRTAP (1979), CDI ONU, Reglamento UE 2024/1991, compilacion checa de 2022, Bara y Yakushina.
 - **Datos reutilizables** (`data/atlas.json`, `data/paises.csv`, `data/fuentes.csv`, `data/medidas_estrella.csv`), informe maestro `INFORME_MAESTRO.md` y fichas Markdown.
@@ -151,3 +151,7 @@ Se incorporan **Andorra, Luxemburgo, Hungría, Letonia, Indonesia, Liechtenstein
 Muy destacables: Luxemburgo reconoce expresamente 'pollution lumineuse' en su legislación de biodiversidad; Andorra regula espectro por banda inferior a 500 nm (no basta 3000 K para afirmar bajo azul); Hungría prohíbe proyectar alumbrado causante de fényszennyezés; Letonia limita luminancia de anuncios nacionalmente y Riga la concreta en 2026; Indonesia protege Bosscha; Islandia reforma la regulación en 2026. Las políticas de Abu Dabi y Steinfort se distinguen de leyes generales y sancionadoras.
 
 La cartografía SVG representa Andorra y Liechtenstein como puntos porque la simplificación cartográfica no conserva estos microestados.
+
+## Revisión del 22 de noviembre de 2026
+
+Se incorporaron Bulgaria (regulación urbanística), Chipre (restricciones en área de protección de tortugas y estudios ambientales) y Vietnam (Ley 72/2020, art. 89). Se ampliaron las fichas de Argentina (Malargüe y El Leoncito), Brasil (IBAMA 11/1995) y Noruega (§6 con aplicación condicionada). Los instrumentos indirectos no se presentan como leyes nacionales específicas de cielo oscuro. Véase [auditoría de límites jurídicos](docs/PAISES_PENDIENTES.md).
