@@ -3,8 +3,8 @@
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
     "country_count": 94,
-    "source_count": 306,
-    "star_count": 110,
+    "source_count": 319,
+    "star_count": 115,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -24,7 +24,8 @@
     "review_november_2026": "Vietnam Ley 72/2020 art89, Bulgaria Ley ordenación art92 y Chipre Lara-Toxeftra; Argentina Malargüe y San Juan; Brasil IBAMA 11/1995; cautela Noruega §6(3).",
     "review_serbia_romania_2026": "Serbia art. 81 Ley Protección Naturaleza; Rumanía plan Văcărești Orden 1363/2025, reemplaza 1136/2023. Montenegro queda pendiente de norma ALAN directa.",
     "review_mena_turkey_2026": "Turquía art6 50% desde 02:00 en usos definidos; Israel Tel Aviv y planes; Túnez art352 proyecto; Argelia estándar IANOR/pliegos; Egipto Ley 102/1983 fauna; Omán política TE 3.3.2; Jordania pendiente.",
-    "revision_iau_2026": "Auditoría 23-11-2026 de los 22 países ausentes del informe comparativo IAU; niveles legal-sectorial, subnacional, ambiental, certificado voluntario y pendiente. Rusia art71 de ley 29-10/2009 derogado."
+    "revision_iau_2026": "Auditoría 23-11-2026 de los 22 países ausentes del informe comparativo IAU; niveles legal-sectorial, subnacional, ambiental, certificado voluntario y pendiente. Rusia art71 de ley 29-10/2009 derogado.",
+    "rus_belarus_review_2026": "RUS SanPiN 1.2.3685-21 tab.5.57 (vigencia 2026) luz en ventanas 5/7/10/20 lux, SP 52.13330.2016 y GOST 55706-2023; Pulkovo ley 29-10/2009 art71 derogada. BLR Ley Publicidad 225-Z art13.2 y decreto 395/2021 antideslumbramiento; Nesvizh 2328/2026 23-07 pulsos, Miory 1036/2026 destellos; SN 2.04.03-2020 reemplaza TKP 2009."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -1663,16 +1664,26 @@
       "iso": "BLR",
       "name": "Bielorrusia",
       "region": "Europa",
-      "level": "pendiente",
-      "summary": "Ley 1982-XII de Protección Ambiental y sus reformas regulan factores físicos de impacto ambiental; no se ha localizado un artículo expresamente referido a iluminación artificial nocturna ni límites de emisión hacia el cielo.",
-      "scope": "Nacional, derecho ambiental general",
-      "confidence": "Ley ambiental localizada en FAOLEX y repertorios jurídicos; norma ALAN no verificada",
-      "note": "Clasificación pendiente: la definición genérica de efectos físicos no autoriza a atribuir un límite o prohibición de iluminación nocturna.",
-      "keywords": "Belarus 1982 XII physical environmental factors no ALAN",
+      "level": "sectorial",
+      "summary": "La Ley bielorrusa 225-Z de publicidad, art. 13(2), prohíbe que anuncios exteriores causen deslumbramiento o molestias. El Decreto del Consejo de Ministros 395/2021 (texto modificado hasta 2026, anexo 1) prohíbe deslumbramiento de conductores y superar límites técnicos de luminancia media de anuncios. En Nesvizh, Decisión 2328/2026, art. 14.10, prohíbe la iluminación publicitaria pulsante 23:00–07:00 en ámbitos patrimoniales; en Miory, Decisión 1036/2026, anexo 4, párrafo 13, limita pantallas nocturnas pulsantes o con destellos y cambios intensos no suavizados. SN 2.04.03-2020 regula el diseño de iluminación, pero no se han confirmado en su texto límites actuales de luz intrusa o brillo del cielo.",
+      "scope": "Nacional: publicidad exterior, deslumbramiento y requisitos técnicos de alumbrado; subnacional: Nesvizh y Miory, anuncios nocturnos",
+      "confidence": "Ley 225-Z art. 13, Decreto 395/2021 y decisiones locales 2026 cotejados; SN 2.04.03-2020 vigente",
+      "note": "No trasladar a la SN 2.04.03-2020 los límites 5/7/10/20 lux del TКP 45-2.04-153-2009 derogado. El Decreto 395 remite a máximos técnicos de luminancia sin fijar una cifra única en su anexo; no asumir un límite nacional de skyglow ni que el apagado de Nesvizh rija todo el país.",
+      "keywords": "Belarus 1982 XII physical environmental factors no ALAN реклама 225-З статья 13 ослепление светом 395 2021 luminancia наружная реклама Несвиж 2328 2026 23 07 Миоры 1036 2026",
       "source_ids": [
-        "F297"
+        "F297",
+        "F314",
+        "F315",
+        "F316",
+        "F317",
+        "F318",
+        "F319"
       ],
-      "star_ids": []
+      "star_ids": [
+        "M113",
+        "M114",
+        "M115"
+      ]
     },
     {
       "iso": "KEN",
@@ -1711,17 +1722,27 @@
       "iso": "RUS",
       "name": "Rusia",
       "region": "Europa",
-      "level": "pendiente",
-      "summary": "El art. 71 de la antigua Ley 29-10/2009 de San Petersburgo protegía el astroclima del Observatorio de Púlkovo, incluyendo minimizar brillo de cielo. ESA LEY ESTÁ DEROGADA. La zona de protección del observatorio y las zonas patrimoniales subsisten en otros instrumentos; obligaciones lumínicas concretas vigentes por cotejar.",
-      "scope": "San Petersburgo: entorno del Observatorio de Púlkovo",
-      "confidence": "Norma histórica y derogación contrastadas; zonas actuales descritas por observatorio y normativa de patrimonio",
-      "note": "No reproducir el art. 71 derogado como ley vigente. Determinar alcance jurídico de la zona actual antes de afirmar límite ALAN.",
-      "keywords": "Russia Pulkovo observatory zone historic light sky glow repealed",
+      "level": "sectorial",
+      "summary": "Rusia dispone de límites obligatorios de iluminancia vertical en ventanas por alumbrado exterior: SanPiN 1.2.3685-21 (edición en vigor desde 01-03-2026), tabla 5.57, y SP 52.13330.2016, apartados 7.5.5.2–7.5.5.4, establecen 7, 10 o 20 lux según categoría de calle y 5 lux para patios, determinadas calles peatonales y entornos hospitalarios. GOST R 55706-2023 regula alumbrado vial. La antigua ley 29-10/2009 de Púlkovo fue derogada; existen zonas urbanísticas y patrimoniales vigentes, sin umbral ALAN específico confirmado para Púlkovo.",
+      "scope": "Nacional: límites sanitarios de luz intrusa en ventanas, normas de proyecto de alumbrado vial; protección histórica y urbanística del entorno de Púlkovo",
+      "confidence": "SanPiN 2026 y registro Rosstandart vigentes; textos técnicos y judiciales contrastados; Púlkovo con prohibición histórica derogada",
+      "note": "Valores de luz intrusa medidos en ventana, NO brillo de cielo ni límite general de flujo superior. La exigibilidad del SP depende de su incorporación al régimen de edificación aplicable; SanPiN fija límites higiénicos. La zona patrimonial de Púlkovo no prueba conservación de la cláusula específica derogada del art. 71.",
+      "keywords": "Russia Pulkovo observatory zone historic light sky glow repealed SanPiN 1.2.3685-21 5.57 luz intrusa ventanas 5 7 10 20 lux SP 52.13330.2016 7.5.5 GOST R 55706-2023 Пулковская обсерватория засветка окон световое загрязнение",
       "source_ids": [
         "F301",
-        "F302"
+        "F302",
+        "F307",
+        "F308",
+        "F309",
+        "F310",
+        "F311",
+        "F312",
+        "F313"
       ],
-      "star_ids": []
+      "star_ids": [
+        "M111",
+        "M112"
+      ]
     },
     {
       "iso": "RWA",
@@ -5152,6 +5173,149 @@
       "note": "Reemplaza QMQ 2.01.05-19; no confundir iluminancia de seguridad con límites de brillo de cielo.",
       "year": "2024",
       "official": true
+    },
+    {
+      "id": "F307",
+      "country": "RUS",
+      "title": "Rusia: SanPiN 1.2.3685-21, tabla 5.57 y apartado 164, texto vigente desde 1-3-2026",
+      "url": "https://sudact.ru/law/postanovlenie-glavnogo-gosudarstvennogo-sanitarnogo-vracha-rf-ot_1430/sanpin-1.2.3685-21/v/gigienicheskie-normativy-fizicheskikh-faktorov-v/tablitsa-5.57/",
+      "type": "Norma sanitaria vinculante",
+      "effect": "Iluminancia vertical media sobre ventanas de edificios residenciales y sanitarios: 7, 10, 20 lux según calle; 5 lux en condiciones delimitadas",
+      "note": "Edición consolidada con modificaciones a 24-12-2025 y entrada en vigor 01-03-2026; no se refiere a luminancia de cielo.",
+      "year": "2026",
+      "official": false
+    },
+    {
+      "id": "F308",
+      "country": "RUS",
+      "title": "Rusia: SP 52.13330.2016, apdos. 7.5.5.2–7.5.5.4, protección de ventanas",
+      "url": "https://meganorm.ru/mega_doc/norm/pravila/0/sp_52_13330_2016_svod_pravil_estestvennoe_i_iskusstvennoe.html",
+      "type": "Norma técnica nacional de edificación",
+      "effect": "7/10/20 lux en ventanas según calle; 5 lux en patios y entorno hospitalario; pantallas o ópticas con intensidad limitada hacia ventanas",
+      "note": "Normas de proyecto; obligatoriedad de disposiciones de SP depende del marco de construcción y de proyecto concreto; debe distinguirse de obligación sanitaria.",
+      "year": "2016",
+      "official": false
+    },
+    {
+      "id": "F309",
+      "country": "RUS",
+      "title": "Rosstandart: registro oficial de SP 52.13330.2016",
+      "url": "https://protect.gost.ru/sp/details/9c938e6d-bd3f-4c81-904f-ba8d4c14357b",
+      "type": "Registro técnico oficial",
+      "effect": "Entrada en vigor 08-05-2017, con ámbito de diseño y referencia a luz artificial urbana",
+      "note": "Fuente oficial de existencia y alcance del SP; no reproduce todos los umbrales.",
+      "year": "2016",
+      "official": true
+    },
+    {
+      "id": "F310",
+      "country": "RUS",
+      "title": "Rosstandart: GOST R 55706-2023 alumbrado exterior vial",
+      "url": "https://protect.gost.ru/gost/details/8e827c8c-2279-42bf-8c6b-973bac8b957d",
+      "type": "Estándar técnico nacional vigente",
+      "effect": "Clasificación y normas de alumbrado exterior de carreteras y vías urbanas, en vigor desde octubre de 2023",
+      "note": "Sustituye GOST 55706-2013. No regula por sí mismo iluminación de fachadas ni es ley integral de ALAN.",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F311",
+      "country": "RUS",
+      "title": "Rospotrebnadzor: MUK 4.3.3832-22, apdo. 5.36 método de evaluación de luz intrusa",
+      "url": "https://base.garant.ru/406981052/",
+      "type": "Metodología oficial de medida",
+      "effect": "Medida de iluminancia vertical en ventanas considerando la incertidumbre expandida; cumplimiento cuando Ev,media+U <= límite aplicable",
+      "note": "Método de evaluación, no nuevo umbral material.",
+      "year": "2022",
+      "official": false
+    },
+    {
+      "id": "F312",
+      "country": "RUS",
+      "title": "San Petersburgo: ley 820-7 patrimonio Púlkovo, modificación 2023, zona ZRZ(14)09",
+      "url": "https://base.garant.ru/406670009/9e3305d0d08ff111955ebd93afd10878/",
+      "type": "Protección patrimonial subnacional",
+      "effect": "Zonas de protección de la observatorio Púlkovo, restricciones volumétricas y de edificación",
+      "note": "No demuestra vigencia de antiguo artículo 71 de Ley 29-10/2009 sobre luces del cielo.",
+      "year": "2023",
+      "official": false
+    },
+    {
+      "id": "F313",
+      "country": "RUS",
+      "title": "Tribunal Supremo ruso, 78-APG18-11 (2018): protección histórica de Púlkovo",
+      "url": "https://meganorm.ru/mega_doc/dop1/10/postanovlenie_arbitrazhnogo_suda_severo-kavkazskogo_okruga/0/apellyatsionnoe_opredelenie_sudebnoy_kollegii_po_44056.html",
+      "type": "Jurisprudencia histórica",
+      "effect": "Menciona orden de 1945 y antigua regla de protección de astroclima del art. 71, ya derogado",
+      "note": "Decisión histórica; no reemplaza la normativa actual de protección del cielo.",
+      "year": "2018",
+      "official": false
+    },
+    {
+      "id": "F314",
+      "country": "BLR",
+      "title": "Bielorrusia: Ley 225-Z de Publicidad, art. 13.2, prohibición de deslumbrar",
+      "url": "https://world.moleg.go.kr/web/wli/lgslXmlViewerPage.do?DLD_CFM_NO=ANYCB0KO6VKAJDU3E1V6&FL_SEQ=92381",
+      "type": "Ley nacional de publicidad",
+      "effect": "Anuncios exteriores no deben deslumbrar con luz a receptores ni generar molestias a la ciudadanía",
+      "note": "Texto consolidado reproducido, modificaciones 2024 incluidas; ámbito publicitario exclusivamente.",
+      "year": "2007",
+      "official": false
+    },
+    {
+      "id": "F315",
+      "country": "BLR",
+      "title": "Bielorrusia: Decreto del Consejo de Ministros 395/2021, anexo 1, versión 2026",
+      "url": "https://base.spinform.ru/show_doc.fwx?rgn=133756",
+      "type": "Decreto nacional sectorial de publicidad",
+      "effect": "Anexo 1: prohíbe deslumbramiento de conductores y luminancia media superior al máximo fijado por normas técnicas",
+      "note": "Norma vigente con modificaciones 04-05-2026; la cifra de cd/m² debe identificarse en estándar técnico aplicable, no inventarse.",
+      "year": "2021",
+      "official": false
+    },
+    {
+      "id": "F316",
+      "country": "BLR",
+      "title": "Nesvizh: Decisión 2328/2026, párrafo 14.10, prohibición de anuncios intermitentes 23:00–07:00",
+      "url": "https://bielarus.fyi/acts/R926n0147767/",
+      "type": "Ordenanza local obligatoria",
+      "effect": "Prohíbe modo pulsante de iluminación publicitaria en fachadas patrimoniales y sus zonas de protección entre las 23 y las 07 h",
+      "note": "En vigor 04-10-2026; fuente espejo del portal oficial pravo.by; no prohibición nacional.",
+      "year": "2026",
+      "official": false
+    },
+    {
+      "id": "F317",
+      "country": "BLR",
+      "title": "Miory: Decisión 1036/2026, anexo 4, apartado 13, pantallas y destellos nocturnos",
+      "url": "https://bielarus.fyi/acts/R926v0148482/",
+      "type": "Ordenanza local de publicidad",
+      "effect": "No permite anuncios multimedia/electrónicos con pulsos, destellos o cuadros contrastantes nocturnos sin suavizado de intensidad",
+      "note": "En vigor 15-11-2026. No es prohibición general de pantallas LED nocturnas.",
+      "year": "2026",
+      "official": false
+    },
+    {
+      "id": "F318",
+      "country": "BLR",
+      "title": "Bielorrusia: SN 2.04.03-2020, iluminación natural y artificial, Resolución 70/2020",
+      "url": "https://otb.by/polezno/onpa/jan2021",
+      "type": "Norma técnica de construcción vigente",
+      "effect": "Vigente desde 24-03-2021: diseño de iluminación de edificios, trabajos exteriores y recintos industriales",
+      "note": "Reemplazó TKP 45-2.04-153-2009; no trasladar límites de ventanas del documento sustituido.",
+      "year": "2020",
+      "official": false
+    },
+    {
+      "id": "F319",
+      "country": "BLR",
+      "title": "Bielorrusia: TКP 45-2.04-153-2009, antiguo límite de luz intrusa, SUSTITUIDO",
+      "url": "https://www.evn.by/wp-content/uploads/2016/07/%D0%A2%D0%9A%D0%9F-45-2.04-153-200902250-%D0%95%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D0%B8-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.pdf",
+      "type": "Norma histórica sustituida",
+      "effect": "Contenía 5, 7, 10, 20 lux en ventanas y reglas para anuncios, reemplazada desde marzo 2021",
+      "note": "NO presentar esos parámetros como vigentes en 2026 sin hallar su continuidad en SN 2.04.03-2020.",
+      "year": "2009",
+      "official": false
     }
   ],
   "stars": [
@@ -6724,6 +6888,79 @@
       ],
       "caution": "No implica control general del cielo nocturno.",
       "replicability": "Media"
+    },
+    {
+      "id": "M111",
+      "country": "RUS",
+      "title": "Rusia: limitación sanitaria de luz intrusa en viviendas",
+      "description": "El SanPiN vigente en 2026 establece valores máximos de iluminancia vertical media sobre ventanas por efecto conjunto de alumbrado vial, publicitario, arquitectónico y escaparates.",
+      "force": "Norma sanitaria nacional vinculante",
+      "param": "7, 10 o 20 lux según nivel viario; 5 lux en patios, zonas peatonales especificadas y entornos hospitalarios",
+      "scope": "Residencias, hospitales y centros sociales sujetos al SanPiN",
+      "sources": [
+        "F307",
+        "F308"
+      ],
+      "caution": "NO mide brillo del cielo. El límite se selecciona conforme a tipo de calle y condiciones normativas.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M112",
+      "country": "RUS",
+      "title": "Rusia: verificación de luz intrusa con incertidumbre",
+      "description": "MUK 4.3.3832-22 propone evaluar luz intrusa sobre ventanas considerando la incertidumbre de medición.",
+      "force": "Metodología oficial de evaluación",
+      "param": "Ev,media + incertidumbre expandida <= límite SanPiN",
+      "scope": "Inspección/medición sanitaria",
+      "sources": [
+        "F311",
+        "F307"
+      ],
+      "caution": "No constituye nuevo límite fotométrico independiente.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M113",
+      "country": "BLR",
+      "title": "Bielorrusia: publicidad exterior sin deslumbramiento",
+      "description": "Ley 225-Z art. 13.2 y Decreto 395/2021 anexo 1 limitan deslumbramiento y remiten a límites de luminancia media de publicidad exterior.",
+      "force": "Ley y decreto nacionales vinculantes",
+      "param": "Prohibición cualitativa; máximo cd/m² definido por estándar técnico aplicable no verificado",
+      "scope": "Publicidad exterior y vial en Bielorrusia",
+      "sources": [
+        "F314",
+        "F315"
+      ],
+      "caution": "No extrapolar a luminarias viales ni fijar valores numéricos no hallados.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M114",
+      "country": "BLR",
+      "title": "Bielorrusia: límite horario al modo pulsante de anuncios en Nesvizh",
+      "description": "El apartado 14.10 de la Decisión 2328/2026 prohíbe la pulsación lumínica nocturna de anuncios en fachadas patrimoniales.",
+      "force": "Decisión distrital obligatoria",
+      "param": "Sin modo pulsante 23:00–07:00",
+      "scope": "Nesvizh: edificios protegidos, territorios y zonas patrimoniales",
+      "sources": [
+        "F316"
+      ],
+      "caution": "No implica apagado de todos los anuncios; se restringe modo pulsante.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M115",
+      "country": "BLR",
+      "title": "Bielorrusia: control de pulsos y destellos nocturnos en Miory",
+      "description": "La decisión local 1036/2026 restringe pantallas con destellos, cambios de alto contraste y pulsación sin transiciones suaves de brillo.",
+      "force": "Decisión distrital obligatoria",
+      "param": "Prohibición cualitativa de pulsación, destellos y cambios bruscos sin suavizado",
+      "scope": "Miory: anuncios exteriores sujetos a ordenanza",
+      "sources": [
+        "F317"
+      ],
+      "caution": "No prohibición general de anuncios luminosos nocturnos.",
+      "replicability": "Alta"
     }
   ],
   "spain_regions": [
