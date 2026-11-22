@@ -357,3 +357,7 @@ La base general cuenta con **65 países, 257 fuentes y 88 medidas estrella** (ve
 - **Noruega (NOR):** §6(3) de la Forurensningsloven contempla la luz en la medida en que así lo determine la autoridad; no aplica automáticamente el régimen a todo el alumbrado. [Texto oficial](https://lovdata.no/dokument/NL/lov/1981-03-13-6).
 
 Se mantienen pendientes de comprobación específica Rumanía, Serbia, Montenegro y otros países recogidos en `docs/PAISES_PENDIENTES.md`. No se incorporan afirmaciones de ley específica sin articulado identificado.
+
+## Serbia y Rumanía — ampliación 22-XI-2026
+
+El atlas contiene ahora **67 países, 261 referencias y 90 medidas destacadas**. Serbia: artículo 81 de la [Ley de Protección de la Naturaleza](https://pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/zakon/2009/36/9) prohíbe fuentes luminosas intensas proyectadas al cielo, con excepciones de seguridad y tráfico aéreo. Rumanía: el [plan Văcărești 2025](https://infodosar.ro/monitorul-oficial/ministerul-mediului-apelor-si-padurilor/6568-plan-0-2025), letra p), limita luz artificial salvo excepciones estrechas; la [Orden 1363/2025](https://www.infodosar.ro/monitorul-oficial/ministerul-mediului-apelor-si-padurilor/6569-ordin-1363-2025) deroga expresamente 1136/2023. Montenegro: glosario ministerial y evaluación estratégica mencionan ALAN, pero no se ha probado norma general vinculante. La matriz histórica de 51 países al comienzo de este documento queda preservada como versión documental histórica, no como el inventario actual.
