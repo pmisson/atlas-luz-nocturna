@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 94,
-    "source_count": 325,
-    "star_count": 116,
+    "country_count": 99,
+    "source_count": 341,
+    "star_count": 121,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -26,7 +26,8 @@
     "review_mena_turkey_2026": "Turquía art6 50% desde 02:00 en usos definidos; Israel Tel Aviv y planes; Túnez art352 proyecto; Argelia estándar IANOR/pliegos; Egipto Ley 102/1983 fauna; Omán política TE 3.3.2; Jordania pendiente.",
     "revision_iau_2026": "Auditoría 23-11-2026 de los 22 países ausentes del informe comparativo IAU; niveles legal-sectorial, subnacional, ambiental, certificado voluntario y pendiente. Rusia art71 de ley 29-10/2009 derogado.",
     "rus_belarus_review_2026": "RUS SanPiN 1.2.3685-21 tab.5.57 (vigencia 2026) luz en ventanas 5/7/10/20 lux, SP 52.13330.2016 y GOST 55706-2023; Pulkovo ley 29-10/2009 art71 derogada. BLR Ley Publicidad 225-Z art13.2 y decreto 395/2021 antideslumbramiento; Nesvizh 2328/2026 23-07 pulsos, Miory 1036/2026 destellos; SN 2.04.03-2020 reemplaza TKP 2009.",
-    "rus_blr_followup_2026": "Púlkovo PZZ Resolución 524/2016 redacción 1008/2025 apartado 3.16 protege zona vía limitaciones urbanísticas, no límite de resplandor de cielo verificado. Bielorrusia SN 2.04.03-2020 y SP 4.04.01-2022 vigente pero antiguos 5/7/10/20 lux de TKP 2009 no verificados en texto SN vigente."
+    "rus_blr_followup_2026": "Púlkovo PZZ Resolución 524/2016 redacción 1008/2025 apartado 3.16 protege zona vía limitaciones urbanísticas, no límite de resplandor de cielo verificado. Bielorrusia SN 2.04.03-2020 y SP 4.04.01-2022 vigente pero antiguos 5/7/10/20 lux de TKP 2009 no verificados en texto SN vigente.",
+    "review_island_moldova_2026": "Seychelles luz de pesca art21 2025; Moldavia ANRE 498/2024 ap9 excluye criterios de fotometría y NCM 2025 sustituye NCM 2017; Jamaica permiso NEPA Fiesta condición22; Kuwait regla publicidad 599/2023 art13.12; Trinidad-Tobago notice 90/2014 tortuga verde y flash."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -1812,6 +1813,102 @@
       ],
       "star_ids": [
         "M110"
+      ]
+    },
+    {
+      "iso": "SYC",
+      "name": "Seychelles",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "La Fisheries and Aquaculture Act 3/2025, art. 21, prohíbe utilizar o instalar luces artificiales superficiales o sumergidas para atraer peces en las aguas de Seychelles y, para determinados buques de bandera nacional, fuera de ellas, salvo autorización y excepciones expresas. No es una ley de contaminación lumínica atmosférica.",
+      "scope": "Nacional: actividad pesquera y buques comprendidos por el art. 21",
+      "confidence": "Art. 21 de ley de 2025 y aviso de entrada en vigor S.I.43/2025 identificados",
+      "note": "Excepciones: luces de navegación, seguridad de trabajo, barritas luminosas para pez espada y embarcaciones de pesca locales. Requiere cotejar autorizaciones individuales; no prohíbe alumbrado en tierra.",
+      "keywords": "Seychelles artificial fishing lights fisheries aquaculture 2025 section 21 nocturnal marine light",
+      "source_ids": [
+        "F326",
+        "F327",
+        "F328"
+      ],
+      "star_ids": [
+        "M117"
+      ]
+    },
+    {
+      "iso": "MDA",
+      "name": "Moldavia",
+      "region": "Europa",
+      "level": "sectorial",
+      "summary": "Resolución ANRE 498/2024: normas obligatorias para redes de alumbrado público nuevas y reconstruidas. Sus apartados 9 y 26 remiten los parámetros fotométricos, deslumbramiento y otros indicadores a la normativa de construcción, en lugar de fijarlos directamente. La NCM C.04.02-2025 sustituyó a la edición de 2017 desde el 24-10-2025.",
+      "scope": "Nacional: diseño/modernización de redes públicas urbanas y normativa constructiva",
+      "confidence": "Texto final ANRE 498/2024 y registro oficial de NCM 2025 cotejados",
+      "note": "Apartado 9 de ANRE excluye expresamente límites de iluminancia, deslumbramiento directo, pulsaciones y calidad fotométrica; evitar presentar 498/2024 como ley específica de contaminación lumínica. NCM 2017 sustituida en 2025; obligaciones técnicas de 2025 por examinar.",
+      "keywords": "Moldova ANRE 498 2024 iluminat public NCM C.04.02-2025 glare light spill pollution",
+      "source_ids": [
+        "F329",
+        "F330",
+        "F331",
+        "F332"
+      ],
+      "star_ids": [
+        "M118"
+      ]
+    },
+    {
+      "iso": "JAM",
+      "name": "Jamaica",
+      "region": "América",
+      "level": "sectorial",
+      "summary": "La autoridad NEPA/NRCA ha establecido condiciones vinculantes de protección de tortugas frente a luz artificial en permisos ambientales de desarrollo costero. Ejemplo documentado: permiso 2005-09017-EP00199, condición 22, prohíbe iluminación directa e indirecta en playas de anidación, exige apantallamiento y prevé sodio de baja presión para ciertas aplicaciones intensas. También existe una política nacional de playas.",
+      "scope": "Permiso ambiental del proyecto Fiesta Jamaica, Hanover; política nacional de costas",
+      "confidence": "Permiso individual con condición 22 identificada en archivo oficial de NEPA; política de playas oficial",
+      "note": "NO es una prohibición general para todos los complejos de Jamaica. La condición es individual y la vigencia actual del permiso histórico no se ha cotejado. Lámparas tipo 'bug' <=50 W son una alternativa expresamente definida para luminarias concretas visibles desde la playa.",
+      "keywords": "Jamaica NEPA Fiesta permit sea turtles shielding low pressure sodium artificial lighting beaches 2005-09017-EP00199",
+      "source_ids": [
+        "F333",
+        "F334",
+        "F335"
+      ],
+      "star_ids": [
+        "M119"
+      ]
+    },
+    {
+      "iso": "KWT",
+      "name": "Kuwait",
+      "region": "Asia",
+      "level": "sectorial",
+      "summary": "La Decisión Ministerial 599/2023 sobre publicidad, publicada en Kuwait Today el 7-1-2024, art. 13, apartado 12, prohíbe anuncios con iluminación intensa y deslumbrante que afecte a seguridad y salud y prevé desarrollar estándares de intensidad y brillo para evitar contaminación visual. Régimen sectorial sobre publicidad, no límites de brillo del cielo.",
+      "scope": "Nacional: publicidad exterior y anuncios sujetos a licencia municipal",
+      "confidence": "Texto primario en PDF del Ayuntamiento de Kuwait y publicación oficial de 2024",
+      "note": "El art. 13.12 no fija un valor universal de cd/m², lux o resplandor. Modificaciones y circulares de 2024-2026 requieren cotejo para cifras de brillo; no usar noticia sobre Failaka como prueba de límite ALAN general.",
+      "keywords": "Kuwait ministerial 599 2023 billboard glare luminance advertising light 13 12 lighting visual pollution",
+      "source_ids": [
+        "F336",
+        "F337",
+        "F338"
+      ],
+      "star_ids": [
+        "M120"
+      ]
+    },
+    {
+      "iso": "TTO",
+      "name": "Trinidad y Tobago",
+      "region": "América",
+      "level": "sectorial",
+      "summary": "La Environmental Management Act y el aviso legal 90/2014 de protección de la tortuga verde definen como perturbación el uso de fotografía con flash y fuentes luminosas cerca del animal durante la anidación, imponiendo restricciones a actividades dañinas. Otras especies de tortuga están protegidas mediante avisos específicos y existen playas de acceso restringido.",
+      "scope": "Nacional: protección de tortuga verde y actividad en playas de anidación; reservas y autorizaciones de acceso",
+      "confidence": "Aviso legal 90/2014 en gaceta oficial y comunicados ministeriales de 2025/2026",
+      "note": "La mención de flash y luces está en la definición de perturbación de tortuga verde, no en una prohibición fotométrica general de todos los edificios. Los avisos de evitación de luz en playas son recomendaciones salvo condiciones de permisos u obligaciones de conservación aplicables.",
+      "keywords": "Trinidad Tobago green turtle ESS Notice 90 2014 flash photography light sources nesting beach forest 2026",
+      "source_ids": [
+        "F339",
+        "F340",
+        "F341"
+      ],
+      "star_ids": [
+        "M121"
       ]
     }
   ],
@@ -5390,6 +5487,182 @@
       "note": "No atribuir valores de luz intrusa sin inspección de versión completa; reglas de proyecto y normas de construcción tienen rango distinto.",
       "year": "2022",
       "official": false
+    },
+    {
+      "id": "F326",
+      "country": "SYC",
+      "title": "Seychelles: Fisheries and Aquaculture Act 3/2025, artículo 21: prohibición de luces artificiales para pescar",
+      "url": "https://seylii.org/akn/sc/act/2025/3/eng%402025-06-23/source",
+      "type": "Ley nacional sectorial",
+      "effect": "Art. 21(1)-(4): luces artificiales superficiales y submarinas utilizadas para atraer peces, autorizaciones, exenciones y sanciones",
+      "note": "Exenciones para luces de navegación/seguridad y determinados usos/locales; no regulan contaminación lumínica de alumbrado urbano",
+      "year": "2025",
+      "official": false
+    },
+    {
+      "id": "F327",
+      "country": "SYC",
+      "title": "Ministerio de Pesca de Seychelles: repertorio oficial de leyes pesqueras",
+      "url": "https://mofbe.gov.sc/fisheries-legislations-and-regulations/",
+      "type": "Registro ministerial oficial",
+      "effect": "Confirma Fisheries and Aquaculture Act 2025 entre normas pesqueras",
+      "note": "Ficha de acceso, no especifica el artículo 21 íntegro",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F328",
+      "country": "SYC",
+      "title": "Asamblea de Seychelles: S.I. 43/2025 aviso de entrada en vigor de la Fisheries and Aquaculture Act",
+      "url": "https://www.nationalassembly.sc/legislation/statutory-instrument-sis/si-43-2025-fisheries-and-aquaculture-act-commencement-notice",
+      "type": "Aviso reglamentario de vigencia",
+      "effect": "Instrumento de inicio de vigencia publicado julio de 2025",
+      "note": "Verificar texto íntegro del aviso para fecha efectiva de cada disposición",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F329",
+      "country": "MDA",
+      "title": "ANRE Moldavia: Resolución 498/2024, normas finales de redes de alumbrado público, apartados 1-9 y 26",
+      "url": "https://anre.md/storage/upload/administration/reports/1637/6.%20Norme%20de%20amenajare%20a%20re%C8%9Belelor%20de%20iluminat%20public.pdf",
+      "type": "Reglamento nacional sectorial obligatorio",
+      "effect": "Redes nuevas y renovadas en localidades; apartado 9 excluye regular intensidad/deslumbramiento/pulsaciones; apartado 26 remite a NCM",
+      "note": "El texto original remite a NCM 2017, pero esta edición fue sustituida en octubre 2025",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F330",
+      "country": "MDA",
+      "title": "ANRE: anuncio de aprobación de normas obligatorias de redes de alumbrado, 20-8-2024",
+      "url": "https://anre.md/index.php/anre-a-aprobat-normele-de-amenajare-a-retelelor-de-iluminat-public-3-911",
+      "type": "Comunicado del regulador",
+      "effect": "Obligatoriedad para municipios, operadores, empresas de diseño y ejecución",
+      "note": "Distinguir aprobación formal de desarrollo de exigencias fotométricas",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F331",
+      "country": "MDA",
+      "title": "Diario Oficial moldavo: Monitorul Oficial 373-376, Resolución ANRE 498/2024",
+      "url": "https://mo.gov.md/ro/monitor/2952",
+      "type": "Publicación oficial",
+      "effect": "Registra el acto 678: Hotărârea 498 del 20 agosto 2024",
+      "note": "Fuente de vigencia del reglamento de redes",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F332",
+      "country": "MDA",
+      "title": "Moldavia: NCM C.04.02-2025 Iluminación natural y artificial, vigente desde 24-10-2025",
+      "url": "https://ednc.gov.md/ncm-c-04-02-2025/",
+      "type": "Norma de construcción vigente",
+      "effect": "Sustituye NCM C.04.02:2017, dispone criterios fotométricos y de proyecto",
+      "note": "No se han confirmado valores ALAN específicos en articulado completo de NCM 2025",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F333",
+      "country": "JAM",
+      "title": "Jamaica: permiso ambiental NRCA 2005-09017-EP00199, condición 22: iluminación protectora de tortugas",
+      "url": "https://websitearchive2020.nepa.gov.jm/Permits/2005-09017-EP00199%20FIESTA%20PERMIT.pdf",
+      "type": "Permiso ambiental individual vinculado a proyecto",
+      "effect": "Condición 22: punto de luz no visible desde playa, sin iluminación costera acumulada, downlight apantallado, LPS para alta intensidad, exclusión de uplights ornamentales",
+      "note": "Permiso original para Fiesta Jamaica Limited en The Point, Hanover; vigencia actual del permiso no revisada; no norma nacional uniforme",
+      "year": "2006",
+      "official": true
+    },
+    {
+      "id": "F334",
+      "country": "JAM",
+      "title": "Jamaica: NEPA Beach Policy 2000, medidas contra luz artificial en playas de tortugas",
+      "url": "https://websitearchive2020.nepa.gov.jm/policies/beach/BeachPolicy2000.pdf",
+      "type": "Política pública nacional no directamente sancionadora",
+      "effect": "Propone conservar vegetación costera y exigir iluminación que no alcance playas de anidación",
+      "note": "La política puede aplicarse mediante condiciones de autorizaciones; no contiene prohibición universal por sí sola",
+      "year": "2000",
+      "official": true
+    },
+    {
+      "id": "F335",
+      "country": "JAM",
+      "title": "Jamaica: NEPA guía de conservación de tortugas y apagado de luces visibles desde playas",
+      "url": "https://websitearchive2020.nepa.gov.jm/new/services_products/subsites/beach_guide/sea_turtles.php",
+      "type": "Guía oficial ambiental",
+      "effect": "Apantallar/apagar luces y evitar flash en playas de anidación",
+      "note": "Guía orientativa, distinta del permiso obligatorio",
+      "year": "",
+      "official": true
+    },
+    {
+      "id": "F336",
+      "country": "KWT",
+      "title": "Kuwait: Decisión ministerial 599/2023, art. 13.12 de publicidad: prohibición de deslumbramiento",
+      "url": "https://baladia.gov.kw/sites/ar/municipalityServices/Documents/599-2023.pdf",
+      "type": "Reglamento nacional/municipal de publicidad",
+      "effect": "Prohibición de anuncios con luz intensa/deslumbrante que perjudique salud/seguridad; previsión de criterios de brillo e intensidad",
+      "note": "Texto primario publicado 7 enero 2024; posteriores modificaciones 2024-2026 por cotejar",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F337",
+      "country": "KWT",
+      "title": "Kuwait: Ley de protección ambiental 42/2014, texto del organismo EPA",
+      "url": "https://epa.gov.kw/en-us/EPALaw",
+      "type": "Ley ambiental general",
+      "effect": "Autoridad de protección ambiental y mecanismos de control",
+      "note": "No se ha acreditado límite ALAN específico por esta ley",
+      "year": "2014",
+      "official": true
+    },
+    {
+      "id": "F338",
+      "country": "KWT",
+      "title": "Kuwait: campaña oficial EPA isla Failaka 27-9-2024, iluminación y pesca",
+      "url": "https://epa.gov.kw/en-us/InspectionCampaigns/Id/3523",
+      "type": "Actuación administrativa",
+      "effect": "Comunicado refiere infracción relativa a iluminación/equipos de pesca en inspección",
+      "note": "Traducción ambigua; no identifica artículo ni acredita prohibición general de ALAN",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F339",
+      "country": "TTO",
+      "title": "Trinidad y Tobago: Legal Notice 90/2014, tortuga verde, definición de perturbación por flash y luz",
+      "url": "https://www.ec.gov.tt/images/stories/2019-pdf/legislation/ESS%20%28GreenTurtle%29%20Notice%202014.pdf",
+      "type": "Reglamento nacional de especie ambientalmente sensible",
+      "effect": "Artículo 2 incluye fotografía con flash y fuentes de luz durante anidación en concepto de perturbación; se imponen restricciones Part III",
+      "note": "Solo tortuga verde en este aviso. Otras especies tienen instrumentos propios; no hay norma general de iluminancia costera",
+      "year": "2014",
+      "official": true
+    },
+    {
+      "id": "F340",
+      "country": "TTO",
+      "title": "Ministerio Agricultura Trinidad y Tobago, temporada de tortugas 2026: advertencia sobre luces intensas",
+      "url": "https://agriculture.gov.tt/media-releases/announcement-of-sea-turtle-nesting-season/",
+      "type": "Guía institucional 2026",
+      "effect": "Recomienda evitar focos, faros, antorchas o luces fuertes en playas, recuerda acceso restringido",
+      "note": "Distinguir recomendación de sanciones por daño a especies y permisos de acceso",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F341",
+      "country": "TTO",
+      "title": "Ministerio Agricultura Trinidad y Tobago, playas de anidación y zonas prohibidas 2025",
+      "url": "https://agriculture.gov.tt/media-releases/2025-sea-turtle-nesting-season-begins-march-1st/",
+      "type": "Información oficial sobre permisos de acceso",
+      "effect": "Matura, Grande Rivière y Fishing Pond: acceso regulado en áreas protegidas",
+      "note": "No confundir limitación de visitantes con prohibición nacional general de iluminación",
+      "year": "2025",
+      "official": true
     }
   ],
   "stars": [
@@ -7048,6 +7321,77 @@
         "F320"
       ],
       "caution": "No confundir con el art. 71 derogado de la antigua ley 29-10/2009. No se ha corroborado un límite actual de brillo de cielo.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M117",
+      "country": "SYC",
+      "title": "Seychelles: prohibición pesquera de luces para atraer peces",
+      "description": "La ley 3/2025, artículo 21, prohíbe salvo autorización usar luces artificiales flotantes o sumergidas para agregar peces; prevé sanciones y exenciones taxativas.",
+      "force": "Ley nacional de pesca vinculante",
+      "param": "Prohibición de modalidad de pesca, sin umbrales lux/radiancia",
+      "scope": "Buques/aguas enumerados por art. 21",
+      "sources": [
+        "F326"
+      ],
+      "caution": "No confundir con prohibición de iluminación urbana; exceptuadas navegación, seguridad y embarcaciones locales.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M118",
+      "country": "MDA",
+      "title": "Moldavia: norma de redes de alumbrado público ANRE 498/2024",
+      "description": "Exige requisitos mínimos técnicos para redes nuevas y reconstruidas; el apartado 9 no fija calidad de luz, deslumbramiento ni iluminancia, que remite a reglas de construcción externas.",
+      "force": "Reglamento de redes nacional vinculante",
+      "param": "Diseño y control de red; no límite ALAN explícito en acto 498/2024",
+      "scope": "Nuevas y renovadas redes públicas urbanas",
+      "sources": [
+        "F329",
+        "F332"
+      ],
+      "caution": "El apartado 26 cita NCM de 2017, hoy sustituida por NCM 2025; no trasladar antiguos valores sin revisión.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M119",
+      "country": "JAM",
+      "title": "Jamaica: autorización costera con iluminación favorable a tortugas",
+      "description": "La condición 22 del permiso Fiesta Jamaica exige evitar la visión directa y acumulación de iluminación en playa, instalar pantallas/luminarias downlight y sodio baja presión en alumbrado intenso.",
+      "force": "Condición de permiso ambiental del titular",
+      "param": "FHS y luz intrusa: orientación/dirección; hasta 50 W en una alternativa de luminaria; LPS para usos intensos",
+      "scope": "Proyecto específico The Point, Hanover",
+      "sources": [
+        "F333"
+      ],
+      "caution": "Permiso 2005/2006 de ámbito individual; vigencia actual por verificar.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M120",
+      "country": "KWT",
+      "title": "Kuwait: prohibición de anuncios luminosos deslumbrantes",
+      "description": "El artículo 13.12 de la Decisión 599/2023 prohíbe publicidad con iluminación intensa/deslumbrante perjudicial para salud y seguridad y requiere criterios de brillo adecuados.",
+      "force": "Regulación obligatoria de publicidad exterior",
+      "param": "Prohibición cualitativa de luz excesiva o deslumbramiento; sin cifra de luminancia universal comprobada",
+      "scope": "Publicidad exterior sujeta a licencias municipales",
+      "sources": [
+        "F336"
+      ],
+      "caution": "Revisar modificaciones posteriores y órdenes de brillo específicas de carreteras; no extrapolar a luminarias urbanas.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M121",
+      "country": "TTO",
+      "title": "Trinidad y Tobago: luz que perturba anidación de tortuga verde",
+      "description": "Legal Notice 90/2014 incluye el uso de flash o fuentes de luz cerca de tortuga verde en anidación como perturbación sujeta a protección, además de otras prohibiciones a la especie.",
+      "force": "Reglamento vinculante de protección de tortuga verde",
+      "param": "Prohibición de perturbación por luces cercanas durante anidación; sin lux/CCT",
+      "scope": "Ámbitos de anidación y actividades que afecten a tortuga verde",
+      "sources": [
+        "F339"
+      ],
+      "caution": "No equivale a norma de alumbrado de todos los hoteles o todas las playas.",
       "replicability": "Media"
     }
   ],
