@@ -2,25 +2,7 @@
 
 **Corte:** 22 de noviembre de 2026. La ausencia de una disposición verificada no demuestra ausencia de regulación.
 
-Bulgaria, Chipre y Vietnam se han incorporado a las fichas ordinarias del atlas con la fuerza jurídica y cautelas correspondientes; no se mantienen en esta lista.
-
-## Rumanía
-
-Se ha localizado legislación de alumbrado público y ambiental general; no ley nacional específica de contaminación lumínica verificada.
-
-- [Referencia de partida](https://www.anrsc.ro/wp-content/uploads/2021/12/Raport-privind-%E2%80%9EAnaliza-cadrului-de-reglementare-economica-in-domeniul-iluminatului-public-in-statele-membre-UE-versiune-finala-1.pdf)
-
-## Chipre
-
-Normativa ambiental general y transposición europea confirmadas; no se atribuye un límite ALAN nacional propio sin fuente primaria.
-
-- [Referencia de partida](https://leap.unep.org/en/countries/cy/national-legislation/law-no-127i2025-reduction-national-emissions-certain-atmospheric)
-
-## Serbia
-
-La normativa de evaluación ambiental y conservación puede aplicar indirectamente; investigación específica pendiente.
-
-- [Referencia de partida](https://www.obnova.gov.rs/uploads/useruploads/Documents/Final%20ESSA.Clean%2020171024.pdf)
+Bulgaria, Chipre, Vietnam, Serbia y Rumanía se han incorporado a las fichas ordinarias del atlas con la fuerza jurídica y cautelas correspondientes; no se mantienen en esta lista.
 
 ## Montenegro
 
@@ -31,3 +13,5 @@ Se encontró reglamentación de radiación óptica artificial relativa a segurid
 ## Otros países de búsqueda prioritaria
 
 Turquía e Israel: estudiar alumbrado exterior, planificación y condiciones ambientales de autorizaciones. Pakistán, Ucrania, Moldavia, Albania, Macedonia del Norte, Bosnia-Herzegovina, Qatar, Jordania, Kenia, Tanzania, Tailandia, Filipinas y otros: normas sectoriales y territoriales aún no confirmadas en la presente edición. Una ley ambiental general sin disposición luminosa explícita no basta para calificarla de norma específica de contaminación lumínica.
+
+**Montenegro, evidencia complementaria:** el ministerio de ecología define contaminación lumínica en su glosario ambiental y un informe oficial de evaluación estratégica propone minimizarla mediante luminarias adecuadas. Esos documentos no acreditan por sí mismos obligación general o umbral legal de emisión. [Glosario ministerial](https://wapi.gov.me/download/3c5c6bc5-ee8f-42d4-94b7-590e8c8e6980?version=1.0), [evaluación estratégica](https://wapi.gov.me/download/edc97188-16d8-495c-a234-da8ab0d627e3?version=1.0).
