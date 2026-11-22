@@ -373,3 +373,15 @@ El atlas contiene ahora **67 países, 261 referencias y 90 medidas destacadas**.
 - **Túnez:** [Orden 23-XII-2016](https://9anoun.tn/fr/kb/jorts/jort-2017-002-10bb3/arrete-du-ministre-de-lindustrie-et-du-commerce-et-de-la-ministre-de-lenergie-des-mines-et-des-energies-renouvelables-du-23-decembre-2016-relatif-aux-regles-dinstallation-declairag-32de9c1c57662d5bbe6897c1b1678dba) de alumbrado público y [proyecto de Código Ambiental](https://environnement.gov.tn/fileadmin/user_upload/2_PCE_FR__V1_3_aout2023.pdf), art. 352. Este último **NO está acreditado como ley vigente**.
 - **Omán:** [política TE 3.3.2](https://cms.mohup.gov.om/uploads/Al_Hajar_Al_Gharbi_1_9a47aebac2.pdf) de protección de sitios de cielo oscuro, distinta del Decreto 40/2019 y de permisos individuales.
 - **Jordania:** la protección general de Wadi Rum no basta para atribuir requisitos específicos ALAN. Investigación abierta.
+
+## Auditoría de la muestra IAU — 23-XI-2026
+
+El inventario actualizado cuenta con **94 países, 306 fuentes y 110 medidas destacadas**. Se han incorporado los 22 países ausentes en NOCTIS ATLAS respecto a la muestra de 77 países estudiada por la IAU. La coincidencia anterior era de 55; ahora están representadas las 77 jurisdicciones de esa muestra, junto con 17 adicionales.
+
+**Fase 1 (cinco):** Baréin: art. 25 Resolución 212/2019, apantallamiento exterior; Astaná, Kazajistán: art. 135 Código Diseño 2026, apagado ornamental 01:00; Ucrania: DBN V.2.5-28:2018, límites angulares de la edición histórica, por cotejar reforma; Pakistán: sección 2(iii) de ley 1997 incluye luz; Sri Lanka: art. 52 fauna, luz usada para capturar animales.
+
+**Fase 2 (seis):** Camerún (Ley 2024/008 art. 125) y Chad (Ley 014/PR/2008 arts. 163-166) prohíben determinadas luces durante la caza; Lagos, Nigeria, restringe deslumbramiento de anuncios (2017); Tailandia incorpora la luz en noción de contaminación y molestias sanitarias; Managua limita anuncios que deslumbren (vigencia 2003/2020 a cotejar); La Paz Oeste, El Salvador, ordenanza 2025 art. 15 incluye efectos lumínicos.
+
+**Fase 3 (once):** Qatar GSAS S.11, Bangladés SREDA SM7 y Líbano ARZ Si-3.1: **certificaciones optativas**, no obligaciones universales. Azerbaiyán y Uzbekistán: normas técnicas de iluminación. Bielorrusia, Kenia, Ruanda y Sierra Leona: marcos ambientales sin límite ALAN específico comprobado. Senegal: homologación de normas de alumbrado. Rusia: art. 71 de antigua ley de San Petersburgo 29-10/2009 sobre Púlkovo **DEROGADO**; restricciones lumínicas actuales por cotejar.
+
+La ampliación **no significa que 94 países dispongan de leyes específicas**. Se separan disposiciones con fuerza jurídica y obligaciones medibles, normas de proyecto, guías, políticas voluntarias, legislación ambiental general y normas derogadas. Las fichas nacionales incorporan enlaces y advertencias. Los CSV y `data/atlas.json` son el registro vigente.
