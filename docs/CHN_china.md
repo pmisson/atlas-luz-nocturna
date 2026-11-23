@@ -25,3 +25,9 @@ El código de 2026 incorpora un capítulo independiente para la prevención/cont
 
 ---
 La ficha no sustituye el texto oficial consolidado. No extrapolar normas de territorios subnacionales a todo el país.
+
+
+### Auditoría jurídica — 23-11-2026
+La **Ley de Código Ecológico y Ambiental de China** fue aprobada el 12 de marzo de 2026, entró en vigor el **15 de agosto de 2026** y establece en el **capítulo XXXVI, artículos 667-673**, medidas específicas frente a la contaminación lumínica: definición (667), autoridades (668), planificación (669), desarrollo de límites técnicos (670), prevención en alumbrado vial, anuncios y actividades (671), materiales y fachadas (672) y zonificación (673). **Obligaciones legales confirmadas**, pero los límites numéricos dependen de normas técnicas complementarias.
+
+Fuentes oficiales: [Ministerio de Ecología y Ambiente](https://ecro.mee.gov.cn/fgbz/fl/202604/t20260416_1148993.html) y [Ministerio de Justicia](https://legalinfo.moj.gov.cn/pub/sfbzhfx/zt/2026zt0106/xxxcsthjfd20260817/sthjfd20260817/202608/t20260818_538611.html).
