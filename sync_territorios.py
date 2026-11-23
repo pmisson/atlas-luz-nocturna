@@ -38,6 +38,19 @@ for entry in additions:
     })
 atlas["meta"].update(date="2026-11-23", country_count=len(atlas["countries"]),
                      source_count=len(atlas["sources"]), star_count=len(atlas["stars"]))
+# Preserve an explicit, reproducible territorial/statistical classification.
+nonsovereign = set("GRL GUF PRI NCL CYM PYF HKG FRO BMU GUM IMN JEY ABW GGY SXM CUW VGB TCA AIA MSR GIB PCN SHN ASC FLK TAA IOT SJM TKL WLF SPM".split())
+for country in atlas["countries"]:
+    iso = country["iso"]
+    country["political_status"] = ("territorio_no_soberano" if iso in nonsovereign else
+        "libre_asociacion" if iso in ("NIU", "COK") else
+        "observador_onu" if iso in ("PSE", "VAT") else
+        "estatus_especial" if iso == "TWN" else "miembro_onu")
+atlas["meta"]["political_status_counts"] = {
+    key: sum(c["political_status"] == key for c in atlas["countries"])
+    for key in ("miembro_onu", "observador_onu", "libre_asociacion", "estatus_especial", "territorio_no_soberano")
+}
+atlas["meta"]["documented_binding_count"] = sum(c.get("alan_binding_review") == "documentada" for c in atlas["countries"])
 data_file.write_text(json.dumps(atlas, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 (ROOT / "assets" / "atlas-data.js").write_text("window.ATLAS_DATA=" + json.dumps(atlas, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8")
 def output_csv(path, rows, keys):
@@ -46,7 +59,7 @@ def output_csv(path, rows, keys):
         out.writeheader()
         for row in rows:
             out.writerow({k: "; ".join(v) if isinstance(v := row.get(k, ""), list) else v for k in keys})
-output_csv("data/paises.csv", atlas["countries"], ["iso", "name", "region", "level", "summary", "scope", "confidence", "note", "keywords", "source_ids", "star_ids", "alan_scope", "alan_scope_note", "alan_legal_class", "alan_binding_review", "alan_binding_note"])
+output_csv("data/paises.csv", atlas["countries"], ["iso", "name", "region", "level", "summary", "scope", "confidence", "note", "keywords", "source_ids", "star_ids", "alan_scope", "alan_scope_note", "alan_legal_class", "alan_binding_review", "alan_binding_note", "political_status"])
 output_csv("data/fuentes.csv", atlas["sources"], ["id", "country", "title", "url", "type", "effect", "note", "year", "official"])
 for e in additions:
     c = next(c for c in atlas["countries"] if c["iso"] == e["iso"])
@@ -62,5 +75,9 @@ html = htmlfile.read_text(encoding="utf-8")
 import re
 html = re.sub(r'(id="metric-countries">)\d+', lambda m: m.group(1) + str(len(atlas["countries"])), html)
 html = re.sub(r'(id="metric-sources">)\d+', lambda m: m.group(1) + str(len(atlas["sources"])), html)
+html = re.sub(r'(id="metric-states">)\\d+', lambda m: m.group(1) + str(atlas["meta"]["political_status_counts"]["miembro_onu"]), html)
+html = re.sub(r'(id="metric-territories">)\\d+', lambda m: m.group(1) + str(atlas["meta"]["political_status_counts"]["territorio_no_soberano"]), html)
+html = re.sub(r'(id="metric-binding">)\\d+', lambda m: m.group(1) + str(atlas["meta"]["documented_binding_count"]), html)
+html = re.sub(r'(id="metric-stars">)\\d+', lambda m: m.group(1) + str(len(atlas["stars"])), html)
 htmlfile.write_text(html, encoding="utf-8")
 print("Atlas:", len(atlas["countries"]), "jurisdicciones,", len(atlas["sources"]), "fuentes")
