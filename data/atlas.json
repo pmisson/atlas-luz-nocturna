@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 224,
-    "source_count": 569,
+    "country_count": 229,
+    "source_count": 579,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -50,7 +50,8 @@
     "new_territories_2026": "2026-11-23: NCL provincial aves marinas; CYM permisos costeros; PYF fondeo 2025; HKG programa voluntario. Territorios, no nuevos Estados soberanos. Guam, Feroe, Cook y Bermudas añadidas; solo Feroe con obligación de prevención general identificada en norma ambiental.",
     "review_territories_phase2_2026": "Isla de Man (ENV22), Jersey (GD8), Aruba (ROPV 14.3), Guernsey (art.3 control en conservación); Sint Maarten y Curazao indirectas.",
     "review_territories_phase3_2026": "VGB borrador §10.6.4 no aprobado; TCA EIA y política playas; AIA plan propone legislación; MSR plan 2012-2022 vigencia de exigibilidad incierta; GIB plan 2009 iluminación arquitectónica.",
-    "review_territories_phase4_2026": "Pitcairn Part XII restricciones ALAN específicas; Ascensión luz reservada playas; Santa Elena reforma 2021 entrada en vigor incierta; Malvinas condiciones portuarias propuestas; Tristán y BIOT sin norma de iluminación vinculante verificada."
+    "review_territories_phase4_2026": "Pitcairn Part XII restricciones ALAN específicas; Ascensión luz reservada playas; Santa Elena reforma 2021 entrada en vigor incierta; Malvinas condiciones portuarias propuestas; Tristán y BIOT sin norma de iluminación vinculante verificada.",
+    "review_territories_phase5_2026": "Evaluación de viabilidad: SJM Svalbard luz en definición ambiental §3 (Jan Mayen régimen distinto), NIU plan no legal, TKL sin ALAN verificada, WLF aplicación de derecho francés no automática, SPM arrêté 2018 aplicabilidad territorial pendiente."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -5091,6 +5092,111 @@
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
       "alan_binding_note": "Requiere cotejo de entrada en vigor, autorización final o fuerza normativa antes de declarar obligación."
+    },
+    {
+      "iso": "SJM",
+      "name": "Svalbard y Jan Mayen",
+      "region": "Europa",
+      "level": "general",
+      "summary": "Ficha territorial de agrupación ISO SJM. En Svalbard, la Environmental Protection Act 79/2001 §3(a) incluye expresamente la luz y otras radiaciones dentro de la contaminación cuando la autoridad ambiental así lo determine y puedan causar daño o molestia ambiental. Jan Mayen se rige por su propia regulación de reserva natural (2010, consolidada 2021), sin límite general de iluminación identificado.",
+      "scope": "Dos ámbitos jurídicos separados: Svalbard y Jan Mayen (Noruega); esta ficha no los equipara",
+      "confidence": "Lovdata, texto legal y reglamento de reserva",
+      "note": "Agrupación estadística ISO; no interpretar la definición condicionada de Svalbard como prohibición automática de todo alumbrado. Jan Mayen es un régimen distinto.",
+      "keywords": "Svalbard Jan Mayen light pollution radiation regulation environmental protection lys",
+      "source_ids": [
+        "F570",
+        "F571"
+      ],
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Svalbard ley ambiental define contaminación por luz bajo condiciones; Jan Mayen sin restricción lumínica específica identificada.",
+      "alan_legal_class": "norma_amplia",
+      "alan_binding_review": "no_acreditada",
+      "alan_binding_note": "No verificada prohibición concreta de iluminación; no contar como obligación ALAN exigible."
+    },
+    {
+      "iso": "NIU",
+      "name": "Niue",
+      "region": "Oceanía",
+      "level": "guia",
+      "summary": "Niue recibió en 2020 reconocimiento Dark Sky de alcance nacional como santuario y comunidad, acompañado de renovación del alumbrado público y el Niue Outdoor Lighting Plan respaldado por el Gobierno. Existe Environment Act 2015 que habilita estándares ambientales, pero no se ha localizado norma publicada que haga exigibles universalmente los estándares de iluminación Dark Sky.",
+      "scope": "Programa de gestión de iluminación y certificación de alcance nacional; fuerza legal por verificar",
+      "confidence": "DarkSky International, documentación gubernamental y texto legislativo oficial",
+      "note": "Certificación y plan no equivalen a ley; no atribuir umbral de temperatura de color universal ni régimen sancionador sin el documento adoptado.",
+      "keywords": "dark sky nation outdoor lighting plan 2020 international sanctuary community",
+      "source_ids": [
+        "F572",
+        "F573",
+        "F574"
+      ],
+      "star_ids": [],
+      "alan_scope": "indirecto",
+      "alan_scope_note": "Instrumentos no obligatorios, ambientales generales o aplicabilidad pendiente.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "no_acreditada",
+      "alan_binding_note": "No acreditar obligación ALAN general."
+    },
+    {
+      "iso": "TKL",
+      "name": "Tokelau",
+      "region": "Oceanía",
+      "level": "pendiente",
+      "summary": "La revisión de legislación ambiental de SPREP describe un marco disperso de normas y reglas de aldeas. El Gobierno de Tokelau confirma competencias legislativas locales y que la legislación de Nueva Zelanda no se extiende automáticamente al territorio. No se ha localizado una obligación explícita de iluminación artificial nocturna.",
+      "scope": "Reglas propias de Tokelau y aldeas; no extrapolar derecho de Nueva Zelanda",
+      "confidence": "Revisión regional legislativa y portal gubernamental",
+      "note": "La ausencia de norma localizada no acredita inexistencia; revisar reglas de Atafu, Fakaofo y Nukunonu.",
+      "keywords": "Tokelau village rules environment light at night conservation",
+      "source_ids": [
+        "F575",
+        "F576"
+      ],
+      "star_ids": [],
+      "alan_scope": "indirecto",
+      "alan_scope_note": "Instrumentos no obligatorios, ambientales generales o aplicabilidad pendiente.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "no_acreditada",
+      "alan_binding_note": "No acreditar obligación ALAN general."
+    },
+    {
+      "iso": "WLF",
+      "name": "Wallis y Futuna",
+      "region": "Oceanía",
+      "level": "pendiente",
+      "summary": "El Code de l'environnement francés tiene disposiciones especiales de aplicación territorial en Wallis y Futuna (R631–R635), sin trasladar automáticamente la totalidad de las normas metropolitanas. No se ha localizado en las disposiciones examinadas una obligación específica sobre contaminación lumínica o aplicación expresa del arrêté nacional de 27-12-2018.",
+      "scope": "Colectividad francesa con especialidad legislativa y normas aplicables expresamente",
+      "confidence": "Légifrance, libro VI, título III",
+      "note": "No importar automáticamente los límites y horarios del arrêté 2018 sin fundamentación de aplicabilidad territorial.",
+      "keywords": "Wallis Futuna nuisances lumineuses code environnement R631",
+      "source_ids": [
+        "F577"
+      ],
+      "star_ids": [],
+      "alan_scope": "indirecto",
+      "alan_scope_note": "Instrumentos no obligatorios, ambientales generales o aplicabilidad pendiente.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "no_acreditada",
+      "alan_binding_note": "No acreditar obligación ALAN general."
+    },
+    {
+      "iso": "SPM",
+      "name": "San Pedro y Miquelón",
+      "region": "América",
+      "level": "pendiente",
+      "summary": "Existe el arrêté francés de 27 diciembre 2018 sobre nuisances lumineuses y regulación urbanística propia del archipiélago. No se ha acreditado aún, artículo por artículo, que el arrêté nacional se aplique directamente en San Pedro y Miquelón; por tanto no se atribuyen sus restricciones técnicas y horarias como obligaciones territoriales verificadas.",
+      "scope": "Colectividad francesa de ultramar; aplicabilidad y posible adaptación pendiente de cotejo",
+      "confidence": "Légifrance y règlement d'urbanisme local",
+      "note": "La generalidad del arrêté no prueba por sí sola su aplicación en todas las colectividades. Verificar competencias y norma de extensión.",
+      "keywords": "Saint Pierre Miquelon nuisances lumineuses règlement urbanisme territorial",
+      "source_ids": [
+        "F578",
+        "F579"
+      ],
+      "star_ids": [],
+      "alan_scope": "indirecto",
+      "alan_scope_note": "Instrumentos no obligatorios, ambientales generales o aplicabilidad pendiente.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "no_acreditada",
+      "alan_binding_note": "No acreditar obligación ALAN general."
     }
   ],
   "sources": [
@@ -11352,6 +11458,116 @@
       "note": "No norma técnica vinculante",
       "year": "2025",
       "official": false
+    },
+    {
+      "id": "F570",
+      "country": "SJM",
+      "title": "Svalbard Environmental Protection Act 15 June 2001 No.79, §3(a)",
+      "url": "https://lovdata.no/dokument/NLE/lov/2001-06-15-79",
+      "type": "Ley ambiental específica territorial",
+      "effect": "Luz susceptible de constituir contaminación si se cumplen las condiciones legales",
+      "note": "Definición dependiente de autoridad; no límite fotométrico general",
+      "year": "2001",
+      "official": true
+    },
+    {
+      "id": "F571",
+      "country": "SJM",
+      "title": "Jan Mayen Nature Reserve Regulation FOR-2010-11-19-1456, consolidated 2021",
+      "url": "https://lovdata.no/dokument/SFE/forskrift/2010-11-19-1456",
+      "type": "Reglamento de reserva natural",
+      "effect": "Conservación y limitaciones de actividades en la reserva",
+      "note": "No localizada prohibición específica de luces exteriores",
+      "year": "2010",
+      "official": true
+    },
+    {
+      "id": "F572",
+      "country": "NIU",
+      "title": "DarkSky International — Niue Dark Sky Sanctuary, designated 2020",
+      "url": "https://darksky.org/places/niue-dark-sky-sanctuary/",
+      "type": "Certificación voluntaria",
+      "effect": "Programa integral de preservación del cielo nocturno",
+      "note": "No es legislación vinculante",
+      "year": "2020",
+      "official": false
+    },
+    {
+      "id": "F573",
+      "country": "NIU",
+      "title": "Government of Niue — consolidated Environment Act 2015 and legislation",
+      "url": "https://gov.nu/information",
+      "type": "Fuente legislativa oficial",
+      "effect": "Posibilidad de adoptar estándares ambientales",
+      "note": "No demuestra estándar lumínico promulgado",
+      "year": "2015",
+      "official": true
+    },
+    {
+      "id": "F574",
+      "country": "NIU",
+      "title": "Niue sustainability journey — Outdoor Lighting Plan, government-supported presentation",
+      "url": "https://webunwto.s3.eu-west-1.amazonaws.com/s3fs-public/2021-04/UNWTO%20PIC%20workshop_Session%20I_Ms.%20Moka%20Ioane-Laufoli_Niue_0.pdf",
+      "type": "Presentación institucional",
+      "effect": "Plan para preservar oscuridad nocturna y participación comunitaria",
+      "note": "Verificar texto, aprobación y fuerza del plan",
+      "year": "2021",
+      "official": false
+    },
+    {
+      "id": "F575",
+      "country": "TKL",
+      "title": "SPREP — Tokelau Review of Natural Resource and Environmental Legislation",
+      "url": "https://library.sprep.org/sites/default/files/sprep-legislative-review-tokelau.pdf",
+      "type": "Revisión jurídica institucional",
+      "effect": "Normativa ambiental dispersa, sin regla ALAN específica verificada",
+      "note": "Informe de contexto, no fuente de obligaciones de alumbrado",
+      "year": "2021",
+      "official": false
+    },
+    {
+      "id": "F576",
+      "country": "TKL",
+      "title": "Government of Tokelau — law and village powers",
+      "url": "https://www.tokelau.org.nz/About%2BUs/Government.html",
+      "type": "Portal gubernamental",
+      "effect": "Competencias y aplicación territorial del derecho",
+      "note": "La legislación neozelandesa no se aplica automáticamente",
+      "year": "",
+      "official": true
+    },
+    {
+      "id": "F577",
+      "country": "WLF",
+      "title": "Code de l'environnement — dispositions applicables à Wallis-et-Futuna, R631–R635",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006143794/",
+      "type": "Texto legal territorial",
+      "effect": "Disposiciones ambientales aplicables a Wallis y Futuna",
+      "note": "Sin aplicación expresa de L583 y arrêté 2018 localizada",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F578",
+      "country": "SPM",
+      "title": "Arrêté du 27 décembre 2018 relatif aux nuisances lumineuses (France)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037864346/",
+      "type": "Norma francesa de alcance territorial por verificar",
+      "effect": "Regula luminarias en el ámbito donde sea aplicable",
+      "note": "No asumir directamente aplicabilidad a SPM",
+      "year": "2018",
+      "official": true
+    },
+    {
+      "id": "F579",
+      "country": "SPM",
+      "title": "Archipel de Saint-Pierre-et-Miquelon — Règlement d'Urbanisme Local",
+      "url": "https://www.saint-pierre-et-miquelon.developpement-durable.gouv.fr/IMG/pdf/Reglement_Urbanisme_Local_cle26b824.pdf",
+      "type": "Regulación urbanística territorial",
+      "effect": "Condiciones generales de proyectos y construcciones",
+      "note": "No hay umbral de iluminación específico acreditado en los artículos examinados",
+      "year": "",
+      "official": true
     }
   ],
   "stars": [
