@@ -11,7 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 data_file = ROOT / "data" / "atlas.json"
 additions = []
-for filename in ("territorios_20261123.json", "territorios_20261123_fase2.json", "territorios_20261123_fase3.json"):
+for filename in ("territorios_20261123.json", "territorios_20261123_fase2.json", "territorios_20261123_fase3.json", "territorios_20261123_fase4.json"):
     additions.extend(json.loads((ROOT / "data" / filename).read_text(encoding="utf-8"))["entries"])
 atlas = json.loads(data_file.read_text(encoding="utf-8"))
 if len(atlas["countries"]) < 200:
