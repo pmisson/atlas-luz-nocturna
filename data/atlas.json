@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 157,
-    "source_count": 465,
+    "country_count": 158,
+    "source_count": 467,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -3230,6 +3230,24 @@
       "star_ids": [],
       "alan_scope": "contexto",
       "alan_scope_note": "Marco ambiental general; articulado relativo a luces pendiente de corroboración."
+    },
+    {
+      "iso": "MLI",
+      "name": "Malí",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "Arrêté interministériel n.º 2018-2934 de 10 de agosto de 2018, que desarrolla el Decreto 2017-0326 relativo a la higiene de la vivienda, prohíbe equipos o instalaciones que causen molestias, incluida expresamente la fuerte luminosidad, en las viviendas y su entorno próximo.",
+      "scope": "Nacional: higiene de la vivienda, fuerte luminosidad como molestia del entorno residencial",
+      "confidence": "Ficha FAOLEX/ECOLEX con resumen normativo y referencia a publicación oficial; cotejo del articulado original pendiente",
+      "note": "Obligación localizada contra fuerte luminosidad molesta, sin umbrales fotométricos ni protección general del brillo de cielo; confirmar texto completo y vigencia de modificaciones.",
+      "keywords": "Mali arrêté 2018-2934 forte luminosité nuisances hygiène habitat décret 2017-0326",
+      "source_ids": [
+        "F466",
+        "F467"
+      ],
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Restricción expresa de molestias por fuerte luminosidad en viviendas y alrededores. Alcance sectorial limitado, no ley específica de skyglow."
     }
   ],
   "sources": [
@@ -8346,6 +8364,28 @@
       "effect": "Corrobora existencia y fecha de ley ambiental",
       "note": "Necesaria revisión del articulado sobre posibles molestias luminosas",
       "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F466",
+      "country": "MLI",
+      "title": "Malí — Arrêté interministériel n°2018-2934 du 10 août 2018 (hygiène de l'habitat)",
+      "url": "https://www.ecolex.org/fr/details/legislation/arrete-interministeriel-n2018-2934mshp-maedd-ma-mee-mhu-mep-sg-du-10-aout-2018-fixant-les-modalites-dapplication-du-decret-n2017-0326p-rm-du-11-avril-2017-regissant-lhygiene-de-lhabitat-en-republique-du-mali-lex-faoc180463/",
+      "type": "Reglamento interministerial; resumen FAOLEX/ECOLEX",
+      "effect": "Prohíbe equipos próximos a viviendas que produzcan molestias como fuerte luminosidad",
+      "note": "Falta cotejo textual del articulado y de consolidación; no fija límites cuantificados identificados",
+      "year": "2018",
+      "official": false
+    },
+    {
+      "id": "F467",
+      "country": "MLI",
+      "title": "FAOLEX — Malí, inventario ambiental y ley 2021-032 sobre polución y molestias",
+      "url": "https://www.fao.org/faolex/country-profiles/general-profile/see-more/es/?area=Environment&countryname=Mal%C3%AD&iso3=MLI",
+      "type": "Inventario legislativo institucional",
+      "effect": "Confirma marco general de molestias y desarrollo normativo ambiental",
+      "note": "Ley 2021-032 modificada por Ordenanza 2025-018; relación normativa con higiene de vivienda requiere comprobación",
+      "year": "2025",
       "official": true
     }
   ],
