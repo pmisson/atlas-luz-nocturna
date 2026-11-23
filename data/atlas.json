@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 116,
-    "source_count": 385,
-    "star_count": 142,
+    "country_count": 119,
+    "source_count": 391,
+    "star_count": 145,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -33,7 +33,8 @@
     "review_phase_2026_11_23": "Armenia 5/7/10/20 lux, Nepal reglamento ambiental y ESMP contractual, Bután guías, Mauricio Fisheries Act 2023 art31, Madagascar régimen IOTC-ATF. Georgia pendiente de fuente precisa.",
     "review_balkans_central_asia_2026": "Bosnia Herzegovina FBiH art.21 Ley Ambiental 2021 contaminación lumínica expresa; Kirguistán СН КР 23-05:2019 §§11.5 y 11.8 máximos ventanas 5/7/10/20 lx y límites anuncios. Albania Macedonia Norte Georgia y Tayikistán pendientes de norma específica comprobada.",
     "review_africa_caribbean_oceania_2026": "Ghana GS1207:2018 §5.17 regula uplight y B/G; Barbados Physical Development Plan 2023 política costera luz-tortugas; Bahamas Coastal Infrastructure Design Guidance 2023 reconoce riesgo luz nocturna. Vanuatu, Fiji y otras islas pendientes de obligación ALAN específica.",
-    "review_turtles_africa_2026": "República Dominicana Res. 0024/2025, reglamento costero vinculante; Etiopía Adís Abeba Directiva 185/2025, medidas preventivas ALAN; Tanzania EMA art.140(1)(h) y TANAPA §3.10.4 oscuridad parques. Fiyi Samoa Vanuatu PNG Botswana no incorporados por falta de medida específica acreditada."
+    "review_turtles_africa_2026": "República Dominicana Res. 0024/2025, reglamento costero vinculante; Etiopía Adís Abeba Directiva 185/2025, medidas preventivas ALAN; Tanzania EMA art.140(1)(h) y TANAPA §3.10.4 oscuridad parques. Fiyi Samoa Vanuatu PNG Botswana no incorporados por falta de medida específica acreditada.",
+    "review_oceania_caribbean_nov2026": "Honduras plan ICF 089-2025 sustituye 047-2024; Belice directrices DOE 2010 §7 alumbrado estructuras sobre agua; Vanuatu NPOA tortugas 2016-2020 (histórico), SPREP 2025 guía no vinculante. Fiyi, Samoa, PNG, Botswana, Cuba, Mozambique, Uganda y Zambia pendientes."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -2232,6 +2233,60 @@
       "star_ids": [
         "M141",
         "M142"
+      ]
+    },
+    {
+      "iso": "HND",
+      "name": "Honduras",
+      "region": "América",
+      "level": "subnacional",
+      "summary": "El Acuerdo ICF 089-2025 (La Gaceta n.º 36.961, 8 de octubre de 2025) derogó el Acuerdo 047-2024 y aprobó la versión revisada del Plan de Manejo del Parque Nacional Marino Islas de la Bahía. El componente normativo del plan exige considerar el impacto de la iluminación de costas sobre playas de anidación de tortugas y migraciones de aves, incluidos cambios de luminarias y permisos para obras costeras.",
+      "scope": "Parque Nacional Marino Islas de la Bahía; municipios de Útila, Guanaja, Roatán y Santos Guardiola",
+      "confidence": "Diario oficial reproducido por Leyes.HN con Acuerdo 089-2025 y componente de iluminación del plan; verificar cláusulas definitivas en versión íntegra 2025",
+      "note": "El Acuerdo ICF 047-2024 fue derogado por 089-2025: no citarlo como vigente. No se han encontrado máximos nacionales de lux, espectro o emisión superior. Aplicación territorial de parque.",
+      "keywords": "Honduras ICF 089-2025 Islas de la Bahia plan manejo iluminación tortugas migración aves acuerdo 047-2024 derogado",
+      "source_ids": [
+        "F386",
+        "F387"
+      ],
+      "star_ids": [
+        "M143"
+      ]
+    },
+    {
+      "iso": "BLZ",
+      "name": "Belice",
+      "region": "América",
+      "level": "sectorial",
+      "summary": "Las National Environmental Guidelines on Overwater Structures (Departamento de Medio Ambiente, enero de 2010), sección 7, regulan la iluminación de construcciones sobre el agua para proteger playas de anidación. Exigen no ver directamente fuentes desde playa, no iluminar dunas, apantallar luminarias, evitar focos ascendentes visibles desde playa y limitar luces de seguridad. La sección 1 vincula la aplicación de las guías a autorizaciones ambientales.",
+      "scope": "Construcciones sobre el agua sometidas a evaluación y autorización ambiental por el Department of the Environment de Belice",
+      "confidence": "Documento oficial íntegro del DOE y sección 7.1-7.9 identificadas; página oficial de directrices ambientales",
+      "note": "Guía técnica que puede condicionar una autorización de proyecto; no es ley general de alumbrado de Belice. La alternativa de 50 W se aplica a luminarias concretas según sección 7.3, no es umbral universal.",
+      "keywords": "Belize overwater structures national environmental guidelines 2010 section 7 lighting sea turtles shielded beach <=50 watts",
+      "source_ids": [
+        "F388",
+        "F389"
+      ],
+      "star_ids": [
+        "M144"
+      ]
+    },
+    {
+      "iso": "VUT",
+      "name": "Vanuatu",
+      "region": "Oceanía",
+      "level": "guia",
+      "summary": "El National Plan of Action on Sea Turtles 2016–2020, aprobado en 2015 bajo la Fisheries Act 2014, incorpora una acción explícita para reducir contaminación lumínica en playas de anidación próximas a urbanizaciones o complejos turísticos: orientar luz hacia el interior, bajar la altura y potencia e instalar barreras vegetales. Existe además material de divulgación posterior para mantener oscuras las playas.",
+      "scope": "Política nacional de conservación de tortugas, documento histórico 2016–2020; recomendaciones de proyectos y comunidades costeras",
+      "confidence": "Plan nacional oficial de Vanuatu Fisheries Department archivado por la Pacific Community; ficha de programa regional SPREP 2025",
+      "note": "El plan 2016–2020 tiene período formal concluido; no se ha demostrado renovación ni obligatoriedad de esas medidas en 2026. Se recoge como precedente histórico de política ambiental, no legislación actual específica.",
+      "keywords": "Vanuatu National Plan Action sea turtles 2016 2020 light pollution turtle nesting beaches lighting long wavelength SPREP",
+      "source_ids": [
+        "F390",
+        "F391"
+      ],
+      "star_ids": [
+        "M145"
       ]
     }
   ],
@@ -6470,6 +6525,72 @@
       "note": "Consultar consolidación 2025 para artículo 140 actualizado",
       "year": "2004",
       "official": false
+    },
+    {
+      "id": "F386",
+      "country": "HND",
+      "title": "Honduras La Gaceta n.º 36.961 (8-10-2025), acuerdo ICF 089-2025 sobre Islas de la Bahía",
+      "url": "https://leyes.hn/gaceta/36961",
+      "type": "Acuerdo de aprobación de plan de manejo de área protegida",
+      "effect": "Deroga 047-2024 y aprueba plan revisado del Parque Nacional Marino Islas de la Bahía; contiene normas sobre iluminación costera y fauna",
+      "note": "Consultar componente normativo aprobado en 2025 para la aplicación exacta",
+      "year": "2025",
+      "official": false
+    },
+    {
+      "id": "F387",
+      "country": "HND",
+      "title": "Honduras: texto del Plan de Manejo Islas de la Bahía, reglas sobre alumbrado y tortugas",
+      "url": "https://leyes.hn/documento/43607-plan-de-manejo-parque-nacional-marino-islas-de-la-bahia-2024",
+      "type": "Texto del plan en repertorio jurídico",
+      "effect": "Normas costeras sobre cambios de luces, impactos en anidación y aves y obras de iluminación con autorización",
+      "note": "La ficha mantiene título 2024; cotejar versión modificada y aprobada en 2025. No atribuir vigencia al acuerdo 047-2024",
+      "year": "2025",
+      "official": false
+    },
+    {
+      "id": "F388",
+      "country": "BLZ",
+      "title": "Belice Department of the Environment: National Environmental Guidelines on Overwater Structures, 2010",
+      "url": "https://doe.gov.bz/wp-content/uploads/2024/02/OverWater-Environmental-Guidelines-Jan-2010-Final-Version.pdf",
+      "type": "Guía técnica ambiental oficial para autorizaciones",
+      "effect": "Sección 7: apantallamiento, no iluminación directa de playa, restricción de proyectores visibles, luces de seguridad mínimas",
+      "note": "La obligatoriedad depende del procedimiento y condiciones de autorización; no ley nacional general",
+      "year": "2010",
+      "official": true
+    },
+    {
+      "id": "F389",
+      "country": "BLZ",
+      "title": "Belice Department of the Environment: repositorio de directrices ambientales",
+      "url": "https://doe.gov.bz/resource-center/environmental-guidelines/",
+      "type": "Portal gubernamental",
+      "effect": "Incluye directrices de estructuras sobre el agua y explica finalidad ambiental",
+      "note": "Referencia de localización de guías, no norma nueva",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F390",
+      "country": "VUT",
+      "title": "Vanuatu Fisheries Department: National Plan of Action on Sea Turtles 2016–2020, apartado sobre contaminación lumínica",
+      "url": "https://www.spc.int/CoastalFisheries/CFM/Document/ShowDocument/32dec26f-1c40-4ed2-93fb-861fc4d432cf?attachment=True",
+      "type": "Plan nacional de acción aprobado en 2015 (histórico)",
+      "effect": "Página 20: medidas voluntarias contra contaminación lumínica de playas de anidación, orientación y reducción de altura y potencia",
+      "note": "Marco temporal 2016-2020 finalizado; renovación no verificada",
+      "year": "2015",
+      "official": true
+    },
+    {
+      "id": "F391",
+      "country": "VUT",
+      "title": "SPREP BioScapes: folleto Keeping Vanuatu Beaches Turtle-Friendly",
+      "url": "https://library.sprep.org/sites/default/files/2025-09/007-ENG-A3-Turtle-friendly-beaches.pdf",
+      "type": "Guía divulgativa de conservación apoyada por programa regional",
+      "effect": "Recomienda apagar luces, utilizar ámbar/rojo, baja potencia, apantallamiento y evitar flash en anidación",
+      "note": "Guía no vinculante, no supone legislación nacional actual",
+      "year": "2025",
+      "official": false
     }
   ],
   "stars": [
@@ -8502,6 +8623,50 @@
       ],
       "caution": "No tratar habilitación para crear estándares como si ya existieran límites nacionales concretos.",
       "replicability": "Media"
+    },
+    {
+      "id": "M143",
+      "country": "HND",
+      "title": "Honduras: evaluación de iluminación costera por impacto en tortugas y aves",
+      "description": "Plan de Manejo del Parque Nacional Marino Islas de la Bahía prevé considerar cambios de luces y efectos de obras de iluminación sobre anidación de tortugas y migración de aves.",
+      "force": "Normas del plan de manejo de área protegida aprobado en 2025",
+      "param": "Revisión de luminarias y condiciones de obras sin lux ni CCT universal",
+      "scope": "Parque Nacional Marino Islas de la Bahía",
+      "sources": [
+        "F386",
+        "F387"
+      ],
+      "caution": "Verificar texto final 2025, dado que el Acuerdo 047-2024 fue expresamente derogado.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M144",
+      "country": "BLZ",
+      "title": "Belice: limitar luz visible desde playas en estructuras sobre el agua",
+      "description": "National Environmental Guidelines on Overwater Structures §§7.1-7.9: evitar visión de fuentes desde playas, impedir luz directa e indirecta sobre dunas, apantallar luminarias y evitar proyectores visibles.",
+      "force": "Directrices ambientales de autorización; exigibilidad según permiso",
+      "param": "Luminarias apantalladas y bajas; alternativa específica <=50 W para luminarias costeras; prohibición de proyectores visibles desde playa en guía",
+      "scope": "Estructuras sobre el agua sometidas a autorización ambiental",
+      "sources": [
+        "F388"
+      ],
+      "caution": "No es límite de potencia de todas las luces ni prohibición general de alumbrado en Belice.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M145",
+      "country": "VUT",
+      "title": "Vanuatu: plan histórico para reducir contaminación lumínica de playas de tortugas",
+      "description": "El Plan Nacional de Acción 2016–2020 preveía orientar las luminarias hacia tierra, reducir su altura y potencia y utilizar vegetación para proteger las playas de anidación.",
+      "force": "Política histórica de conservación; no obligación actual verificada",
+      "param": "Orientación, altura y potencia de luminarias, barreras vegetales; sin máximos generales",
+      "scope": "Playas de anidación junto a complejos turísticos y subdivisiones costeras",
+      "sources": [
+        "F390",
+        "F391"
+      ],
+      "caution": "Plan 2016–2020 expirado como período de planificación; no atribuir vigencia en 2026 sin nueva norma.",
+      "replicability": "Alta"
     }
   ],
   "spain_regions": [
