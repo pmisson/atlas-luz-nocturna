@@ -1,0 +1,204 @@
+{
+  "countries": [
+    {
+      "iso": "YEM",
+      "name": "Yemen",
+      "level": "general",
+      "summary": "La Ley 26/1995 de protección ambiental incluye expresamente «وهج الإضاءة» (resplandor de la iluminación) como posible agente contaminante en su art. 2.4. Los arts. 23–24 establecen deberes generales de prevención y evaluación de impactos; falta verificar desarrollo técnico y vigencia consolidada.",
+      "scope": "Nacional: definición de contaminación ambiental y evaluación de proyectos",
+      "confidence": "Texto legal en portal de la Fiscalía General y Centro Nacional de Información de Yemen",
+      "note": "La mención expresa no acredita límites fotométricos ni prohibición general automática de luces. Aplicación institucional y modificaciones posteriores sin cotejo.",
+      "keywords": "Yemen وهج الإضاءة pollution light glare law 26 1995",
+      "alan_scope": "proteccion",
+      "alan_scope_note": "La definición legal de agentes contaminantes incluye explícitamente resplandor de iluminación.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "Deberes ambientales generales identificados, pero obligación lumínica concreta y vigencia consolidada por verificar.",
+      "source_ids": [
+        "F469",
+        "F470"
+      ],
+      "star_ids": [],
+      "region": "Asia"
+    },
+    {
+      "iso": "BRN",
+      "name": "Brunéi",
+      "level": "guia",
+      "summary": "Guía ESCOM/2024/01 de mayo de 2024 para diseño e instalación del alumbrado público; fija requisitos técnicos y de seguridad eléctrica, sin identificar en lo revisado un límite explícito de contaminación lumínica.",
+      "scope": "Alumbrado público y equipos de iluminación en entornos exteriores contemplados por la guía",
+      "confidence": "Guía pública del regulador energético ESCOM/SHENA",
+      "note": "No equiparar reglas eléctricas y de seguridad con límites ambientales ALAN; verificar incorporación normativa y condiciones de contratación.",
+      "keywords": "Brunei ESCOM public lighting 2024 SHENA",
+      "alan_scope": "contexto",
+      "alan_scope_note": "Guía de alumbrado, sin protección lumínica ambiental concreta acreditada.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se documenta obligación de limitar contaminación lumínica.",
+      "source_ids": [
+        "F471"
+      ],
+      "star_ids": [],
+      "region": "Asia"
+    },
+    {
+      "iso": "MMR",
+      "name": "Myanmar",
+      "level": "general",
+      "summary": "Ley de Conservación Ambiental de 2012 y procedimiento de evaluación de impacto ambiental aprobado por Notification 616/2015. No se ha identificado un mandato explícito contra contaminación lumínica.",
+      "scope": "Nacional: evaluación de impacto ambiental de proyectos",
+      "confidence": "Ministerio de Conservación Ambiental y Bosques, procedimiento EIA oficial de 2015",
+      "note": "Una EIA general puede abarcar impactos lumínicos si se exigen, pero no demuestra que sean objeto obligatorio de evaluación universal.",
+      "keywords": "Myanmar Burma Environmental Impact Assessment Procedure 616/2015",
+      "alan_scope": "contexto",
+      "alan_scope_note": "EIA ambiental general sin referencia ALAN expresa verificada.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación expresa ALAN.",
+      "source_ids": [
+        "F472"
+      ],
+      "star_ids": [],
+      "region": "Asia"
+    },
+    {
+      "iso": "TKM",
+      "name": "Turkmenistán",
+      "level": "general",
+      "summary": "Ley de Protección de la Naturaleza de 1 de marzo de 2014, con reforma identificada por FAOLEX el 20 de marzo de 2017. Marco general de conservación sin artículo específico contra contaminación lumínica localizado.",
+      "scope": "Nacional: protección ambiental y conservación de ecosistemas",
+      "confidence": "Registro legislativo FAOLEX",
+      "note": "Pendiente revisar texto vigente y posible normativa técnica urbanística o de alumbrado.",
+      "keywords": "Turkmenistan Об охране природы light pollution 2014",
+      "alan_scope": "contexto",
+      "alan_scope_note": "Marco de conservación ambiental indirecta.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación específica ALAN.",
+      "source_ids": [
+        "F473"
+      ],
+      "star_ids": [],
+      "region": "Asia"
+    },
+    {
+      "iso": "TJK",
+      "name": "Tayikistán",
+      "level": "general",
+      "summary": "Código Ecológico n.º 2299 de 21 de octubre de 2026, vigente según el registro jurídico oficial ADLIA; sustituye a la Ley 760/2011 de protección ambiental. En el código consultado no se ha identificado aún disposición expresa sobre contaminación lumínica.",
+      "scope": "Nacional: marco ecológico y evaluación ambiental",
+      "confidence": "Texto primario en base jurídica oficial ADLIA",
+      "note": "No citar la Ley 760/2011 como vigente principal; pendiente examen sistemático de capítulos y reglamentos técnicos sobre alumbrado.",
+      "keywords": "Tajikistan ecological code 2299 2026 light pollution",
+      "alan_scope": "contexto",
+      "alan_scope_note": "Código ambiental moderno; protección específica de ALAN no demostrada.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación explícita de iluminación en el nuevo código.",
+      "source_ids": [
+        "F474"
+      ],
+      "star_ids": [],
+      "region": "Asia"
+    },
+    {
+      "iso": "PRK",
+      "name": "Corea del Norte",
+      "level": "general",
+      "summary": "Existe legislación general de protección ambiental y documentos oficiales de biodiversidad recogidos en FAOLEX, pero no se ha verificado una norma que identifique expresamente contaminación lumínica.",
+      "scope": "Nacional: marco ambiental general identificado de manera indirecta",
+      "confidence": "Registro documental de estrategia de biodiversidad en FAOLEX",
+      "note": "Dificultad de acceso a versiones consolidadas; ausencia de hallazgo no implica inexistencia de legislación.",
+      "keywords": "DPRK North Korea environmental protection law biodiversity",
+      "alan_scope": "contexto",
+      "alan_scope_note": "Sin protección de contaminación lumínica expresa identificada.",
+      "alan_legal_class": "pendiente",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "Falta fuente primaria lumínica.",
+      "source_ids": [
+        "F475"
+      ],
+      "star_ids": [],
+      "region": "Asia"
+    }
+  ],
+  "sources": [
+    {
+      "id": "F469",
+      "country": "YEM",
+      "title": "Fiscalía General de Yemen — Ley 26/1995, art. 2.4",
+      "url": "https://agoye.gov.ye/page.php?id=323",
+      "type": "Ley ambiental, reproducción oficial",
+      "effect": "Incluye expresamente resplandor de iluminación entre posibles agentes contaminantes",
+      "note": "Definición legal; no límite fotométrico universal",
+      "year": "1995",
+      "official": true
+    },
+    {
+      "id": "F470",
+      "country": "YEM",
+      "title": "Centro Nacional de Información de Yemen — Ley 26/1995",
+      "url": "https://www.yemen-nic.info/contents/laws_ye/detail.php?ID=11458&print=Y",
+      "type": "Texto legal institucional",
+      "effect": "Arts. 2.4 y 23–24 sobre contaminación y prevención de impacto",
+      "note": "Cotejar reformas y aplicación institucional",
+      "year": "1995",
+      "official": true
+    },
+    {
+      "id": "F471",
+      "country": "BRN",
+      "title": "SHENA/ESCOM — Guidelines and Best Practices for Public Lighting ESCOM/2024/01",
+      "url": "https://shena.gov.bn/assets/publication_and_resources/escom_2024_01---guidelines-and-best-practices-for-public-lightingv2.pdf",
+      "type": "Guía pública técnica",
+      "effect": "Requisitos mínimos de instalación y seguridad para alumbrado público",
+      "note": "No acreditar por ello protección contra contaminación lumínica",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F472",
+      "country": "MMR",
+      "title": "Myanmar — Environmental Impact Assessment Procedure Notification 616/2015",
+      "url": "https://www.ecd.gov.mm/wp-content/uploads/2020/12/Myanmar-EIA-Procedure_Main-Text_English.pdf",
+      "type": "Procedimiento gubernamental EIA",
+      "effect": "Regulación de evaluación ambiental general",
+      "note": "Sin requisito lumínico específico identificado",
+      "year": "2015",
+      "official": true
+    },
+    {
+      "id": "F473",
+      "country": "TKM",
+      "title": "FAOLEX — Law On environmental protection, Turkmenistan",
+      "url": "https://www.fao.org/faolex/en/documents/LEX-FAOC132755/law-on-environmental-protection-tkm-2014",
+      "type": "Registro legislativo FAOLEX",
+      "effect": "Ley ambiental de 2014; modificación 2017",
+      "note": "No establece por esta referencia un control ALAN concreto",
+      "year": "2014",
+      "official": false
+    },
+    {
+      "id": "F474",
+      "country": "TJK",
+      "title": "ADLIA — Código Ecológico de Tayikistán 2299/2026",
+      "url": "https://mmih.adlia.tj/Search/DocumentView?DocumentId=174541",
+      "type": "Código ecológico en registro oficial",
+      "effect": "Texto legal vigente, de 21-10-2026",
+      "note": "Sustituye la antigua Ley 760/2011; inspeccionar capítulos sobre luz",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F475",
+      "country": "PRK",
+      "title": "FAOLEX — Estrategia y plan nacional de biodiversidad de Corea del Norte",
+      "url": "https://faolex.fao.org/docs/pdf/prk163532.pdf",
+      "type": "Documento público de estrategia",
+      "effect": "Identifica marco nacional ambiental y biodiversidad",
+      "note": "Fuente secundaria respecto de obligaciones de iluminación",
+      "year": "",
+      "official": false
+    }
+  ]
+}
