@@ -221,3 +221,7 @@ Seychelles (Ley de pesca 3/2025, art. 21: luces para atraer peces); Moldavia (AN
 ## Ampliación Fiyi, Botsuana y Cuba — 23-11-2026
 
 **Estado vigente del atlas: 124 países, 402 referencias, 150 medidas destacadas.** Fiyi: FRA Road Lighting Design Guide 2019, reglas sectoriales para skyglow, luz intrusa y emisión ascendente; Botsuana: Wildlife Conservation and National Parks Act 1992 art.55, uso de luces deslumbrantes para caza, con excepciones; Cuba: Ley 150/2022 art.84, evaluación ambiental de emisiones de energía lumínica sin límite fotométrico nacional identificado. Samoa, Papúa Nueva Guinea y Mozambique siguen pendientes de disposiciones precisas. Fuente vigente `data/atlas.json`; contadores anteriores son históricos.
+
+## Actualización Mozambique — 23 noviembre 2026
+
+**Inventario vigente: 125 países, 406 referencias y 152 medidas destacadas.** Mozambique: Decreto 89/2020 REPMAR art.42 sobre fuentes de luz para atração pesquera (exclusión de atún y máximo 100 kW para supuestos autorizados); Resolución 63/2024 y POEM: reducción de iluminación nocturna durante la anidación de tortugas. Samoa y Papúa Nueva Guinea siguen sin norma de ALAN suficientemente acreditada. Los totales históricos de apartados anteriores no son vigentes; consultar `data/atlas.json`.
