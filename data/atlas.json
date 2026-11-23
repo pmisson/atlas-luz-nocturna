@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 131,
-    "source_count": 418,
+    "country_count": 135,
+    "source_count": 424,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -2503,6 +2503,68 @@
       "keywords": "Papua New Guinea road maintenance plan light pollution lighting environment",
       "source_ids": [
         "F418"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "MDV",
+      "name": "Maldivas",
+      "region": "Asia",
+      "level": "sectorial",
+      "summary": "El plan oficial de conservación del área marina protegida K. Okkobey Thila (2025), en su relación de actividades prohibidas, incluye utilizar iluminación artificial nocturna que ilumine la zona protegida (punto 13), y usar luz para atraer peces con excepciones de pesca autorizada (punto 16).",
+      "scope": "Área marina protegida K. Okkobey Thila, regulación de actividades de conservación",
+      "confidence": "Plan oficial final 1.4 de julio de 2025 alojado por la administración de áreas protegidas",
+      "note": "La prohibición se documenta para esta área protegida, no para todo el territorio nacional; verificar anuncio de declaración aplicable al régimen sancionador.",
+      "keywords": "Maldives marine protected area artificial lighting nighttime Okkobey Thila",
+      "source_ids": [
+        "F419"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "LCA",
+      "name": "Santa Lucía",
+      "region": "América",
+      "level": "guia",
+      "summary": "Las directrices de control del desarrollo para Pitons Management Area, reproducidas en documentación oficial de licitación ambiental, establecen reducir la contaminación lumínica limitando el número, potencia, orientación y duración de las luminarias; recomiendan temporizadores y apantallamiento.",
+      "scope": "Directrices de diseño y control de desarrollos en Pitons Management Area (PMA)",
+      "confidence": "Documento oficial gubernamental que reproduce directrices de desarrollo del PMA",
+      "note": "El archivo publicado es un pliego de términos de referencia, no por sí mismo la norma promulgada; no atribuir obligatoriedad jurídica general sin cotejar instrumento de aprobación.",
+      "keywords": "Saint Lucia Pitons Management Area light pollution development guidelines",
+      "source_ids": [
+        "F420"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "ATG",
+      "name": "Antigua y Barbuda",
+      "region": "América",
+      "level": "guia",
+      "summary": "Evaluaciones de impacto ambiental publicadas por la administración contienen medidas explícitas de prevención de contaminación lumínica: plan de iluminación, controles de presencia y apagado cuando no sea necesaria la iluminación, y luminarias de baja intensidad orientadas hacia abajo cerca de playas de tortugas.",
+      "scope": "Evaluaciones ambientales de proyectos concretos (Crabbs Boatyard y Johnsons Point)",
+      "confidence": "Informes de impacto ambiental de proyectos accesibles desde portal gubernamental",
+      "note": "Son compromisos o medidas propuestos por promotores en evaluaciones; no se ha demostrado su imposición como condiciones de permisos ni ley de carácter general.",
+      "keywords": "Antigua Barbuda EIA light pollution lighting plan sea turtles",
+      "source_ids": [
+        "F421",
+        "F422"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "GEO",
+      "name": "Georgia",
+      "region": "Europa",
+      "level": "guia",
+      "summary": "La Estrategia de Desarrollo a Largo Plazo de Bajas Emisiones de Georgia (2023) incorpora la reducción de contaminación lumínica como criterio para optimizar la iluminación interior y exterior; el Ministerio de Medio Ambiente anunció evaluación de contaminación lumínica en el proyecto del cañón Baldi (2024).",
+      "scope": "Estrategia nacional de descarbonización y evaluación ambiental de proyecto protegido",
+      "confidence": "Estrategia de Georgia depositada ante CMNUCC y comunicación oficial del Ministerio",
+      "note": "Estrategia y evaluación de proyectos; no acreditan límite fotométrico general ni ley específicamente vinculante contra contaminación lumínica.",
+      "keywords": "Georgia LT LEDS 2023 light pollution Baldi Canyon assessment",
+      "source_ids": [
+        "F423",
+        "F424"
       ],
       "star_ids": []
     }
@@ -7104,6 +7166,72 @@
       "effect": "Identifica light pollution de streetlighting como intrusión ambiental y prevé coordinación de mantenimiento con municipios",
       "note": "No contempla límite fotométrico legal concreto",
       "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F419",
+      "country": "MDV",
+      "title": "K. Okkobey Thila Region MPA — Conservation Action Plan, julio 2025, pp. 11-12",
+      "url": "https://protectedareas.environment.gov.mv/storage/uploads/9kob0GY8/0cv3q6ni.pdf",
+      "type": "Plan oficial de conservación de área protegida",
+      "effect": "Prohíbe iluminación artificial nocturna que ilumine el área marina protegida y determinadas luces para atraer peces",
+      "note": "Restricción espacial del área protegida; cotejar acto de declaración",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F420",
+      "country": "LCA",
+      "title": "Saint Lucia — documento oficial de elaboración de reglamentos ESIA, anexo PMA Development Guidelines",
+      "url": "https://www.govt.lc/media.govt.lc/www/Vacancies/Consultancies/tor-for-esia-regulations.pdf",
+      "type": "Directrices incorporadas en documentación oficial",
+      "effect": "Minimizar contaminación lumínica en PMA mediante apantallamiento, dirección, intensidad y horario",
+      "note": "La publicación es un pliego; verificar vigor de la guía reproducida",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F421",
+      "country": "ATG",
+      "title": "Crabbs Boatyard & Marina — Environmental Impact Assessment, enero 2025",
+      "url": "https://ab.gov.ag/pdf/notices/crabbs-boatyard-env-impact-assessment-final.pdf",
+      "type": "Evaluación ambiental de proyecto publicada por gobierno",
+      "effect": "Plan de alumbrado y detección de movimiento para limitar contaminación lumínica",
+      "note": "No se demuestra condición de permiso obligatoria",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F422",
+      "country": "ATG",
+      "title": "Johnsons Point EIA — Environmental Impact Assessment 2025",
+      "url": "https://ab.gov.ag/media/notices/2025/notices_2025_may_21-johnsons-point-impact-assessment-final.pdf",
+      "type": "Evaluación ambiental de proyecto publicada por gobierno",
+      "effect": "Luminarias de baja intensidad y dirigidas abajo para evitar desorientación de tortugas",
+      "note": "Mitigación propuesta, no reglamento nacional",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F423",
+      "country": "GEO",
+      "title": "Georgia — Long-Term Low Emission Development Strategy 2023",
+      "url": "https://unfccc.int/sites/default/files/resource/Georgia%2527s%2520LT-LEDS%25202023-eng.pdf",
+      "type": "Estrategia nacional publicada ante CMNUCC",
+      "effect": "Reducción de contaminación lumínica como componente de optimización de iluminación",
+      "note": "Política estratégica no necesariamente exigencia directa",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F424",
+      "country": "GEO",
+      "title": "Georgia Ministry of Environmental Protection — Baldi Canyon light pollution assessment",
+      "url": "https://www.mepa.gov.ge/En/News/Details/21597",
+      "type": "Comunicación institucional de evaluación de proyecto",
+      "effect": "Incluye contaminación lumínica en evaluación ambiental de Baldi Canyon",
+      "note": "Comunicación de evaluación sin prohibición normativa general",
+      "year": "2024",
       "official": true
     }
   ],
