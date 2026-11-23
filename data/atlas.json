@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 103,
-    "source_count": 353,
-    "star_count": 126,
+    "country_count": 108,
+    "source_count": 364,
+    "star_count": 131,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -29,7 +29,8 @@
     "rus_blr_followup_2026": "Púlkovo PZZ Resolución 524/2016 redacción 1008/2025 apartado 3.16 protege zona vía limitaciones urbanísticas, no límite de resplandor de cielo verificado. Bielorrusia SN 2.04.03-2020 y SP 4.04.01-2022 vigente pero antiguos 5/7/10/20 lux de TKP 2009 no verificados en texto SN vigente.",
     "review_island_moldova_2026": "Seychelles luz de pesca art21 2025; Moldavia ANRE 498/2024 ap9 excluye criterios de fotometría y NCM 2025 sustituye NCM 2017; Jamaica permiso NEPA Fiesta condición22; Kuwait regla publicidad 599/2023 art13.12; Trinidad-Tobago notice 90/2014 tortuga verde y flash.",
     "review_jordan_montenegro_2026": "Jordania: Ley ambiental 6/2017 y JS 2253-2:2020, sin límites ALAN específicos; Montenegro: Ley Naturaleza 117/2026 art.96 uso de luz como medio prohibido de perturbación de aves, no regla general de alumbrado.",
-    "review_mongolia_philippines_2026": "Mongolia БНбД 23-02-08 §§7.45/7.71 límites Ev 5/7/10/20 lx y atenuación condicionada, vigencia consolidada por verificar; Filipinas DENR-BMB TB 2020-05 directrices tortugas, JMC 01/2020 §8.16 prohibición flash/estrobos/video en turismo con fauna marina."
+    "review_mongolia_philippines_2026": "Mongolia БНбД 23-02-08 §§7.45/7.71 límites Ev 5/7/10/20 lx y atenuación condicionada, vigencia consolidada por verificar; Filipinas DENR-BMB TB 2020-05 directrices tortugas, JMC 01/2020 §8.16 prohibición flash/estrobos/video en turismo con fauna marina.",
+    "review_phase_2026_11_23": "Armenia 5/7/10/20 lux, Nepal reglamento ambiental y ESMP contractual, Bután guías, Mauricio Fisheries Act 2023 art31, Madagascar régimen IOTC-ATF. Georgia pendiente de fuente precisa."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -1987,6 +1988,96 @@
       "star_ids": [
         "M125",
         "M126"
+      ]
+    },
+    {
+      "iso": "ARM",
+      "name": "Armenia",
+      "region": "Europa",
+      "level": "sectorial",
+      "summary": "La normativa de iluminación natural y artificial ՀՀՇՆ II-8.03-96, modificada en 2004, impone límites de iluminancia vertical en ventanas residenciales de 5, 7, 10 o 20 lx según tipología de calle y luminancia media, y prevé reducción nocturna condicionada del alumbrado exterior.",
+      "scope": "Nacional: diseño de iluminación exterior en vías y zonas residenciales",
+      "confidence": "Texto oficial ARLIS de modificación 2004 con apartados 6.44 y 6.45",
+      "note": "Verificar modificaciones posteriores y consolidación; los 5/7/10/20 lx no son límites generales de brillo del cielo.",
+      "keywords": "Armenia artificial light pollution outdoor lighting fisheries law nature",
+      "source_ids": [
+        "F354",
+        "F355"
+      ],
+      "star_ids": [
+        "M127",
+        "M128"
+      ]
+    },
+    {
+      "iso": "NPL",
+      "name": "Nepal",
+      "region": "Asia",
+      "level": "sectorial",
+      "summary": "El Reglamento de Protección Ambiental de 2020 (2077) prevé un sistema de certificado de control de contaminación que contempla pruebas de luz en el contexto industrial. Documentos de contratación ambiental de la Autoridad de Electricidad incluyen medidas sobre luz artificial nocturna para subestaciones, con iluminación de baja intensidad, apantallada, poco azul y sensores.",
+      "scope": "Nacional: certificación de contaminación industrial; obligaciones de proyectos específicos de energía",
+      "confidence": "Ley/Reglamento en Comisión Jurídica y ministerio; ESMP del proyecto de la autoridad eléctrica",
+      "note": "No extrapolar las obligaciones contractuales de una subestación a todo Nepal; no se ha verificado umbral de lux o CCT obligatorio nacional.",
+      "keywords": "Nepal artificial light pollution outdoor lighting fisheries law nature",
+      "source_ids": [
+        "F356",
+        "F357",
+        "F358"
+      ],
+      "star_ids": [
+        "M129"
+      ]
+    },
+    {
+      "iso": "BTN",
+      "name": "Bután",
+      "region": "Asia",
+      "level": "guia",
+      "summary": "Las Green Building Design Guidelines 2013 señalan explícitamente la contaminación lumínica como problema del alumbrado exterior y la luz derramada en viviendas; los Spatial Planning Standards 2017 fijan pautas de alumbrado vial y espacios públicos, orientadas principalmente a niveles mínimos y eficiencia.",
+      "scope": "Nacional: directrices de edificación sostenible y planificación espacial",
+      "confidence": "Documentos publicados por ministerios de Bután",
+      "note": "No se ha comprobado carácter vinculante general ni límites máximos específicos de contaminación lumínica.",
+      "keywords": "Bután artificial light pollution outdoor lighting fisheries law nature",
+      "source_ids": [
+        "F359",
+        "F360"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "MUS",
+      "name": "Mauricio",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "La Fisheries Act 2023, sección 31, prohíbe o sujeta a licencia el empleo de luces artificiales superficiales o sumergidas para concentrar peces, con excepciones y supuestos de aplicación según clase de buque. La restricción es pesquera y no constituye normativa general de iluminación exterior.",
+      "scope": "Nacional: pesca en zonas marítimas y determinados buques en aguas exteriores",
+      "confidence": "Texto Fisheries Act 2023 reproducido en repertorio jurídico y documentación del ministerio público",
+      "note": "No confundir con la Fisheries and Marine Resources Act 2007 derogada ni con prohibición de luces de navegación o seguridad.",
+      "keywords": "Mauricio artificial light pollution outdoor lighting fisheries law nature",
+      "source_ids": [
+        "F361",
+        "F362"
+      ],
+      "star_ids": [
+        "M130"
+      ]
+    },
+    {
+      "iso": "MDG",
+      "name": "Madagascar",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "Madagascar comunica a la Comisión del Atún del Océano Índico la aplicación de restricciones de luces artificiales superficiales y sumergidas para atraer túnidos, mediante el Código de Pesca y Acuicultura y condiciones de autorización de pesca (ATF).",
+      "scope": "Pesca de túnidos en el ámbito de competencia aplicable de la IOTC y de autorizaciones pesqueras",
+      "confidence": "Cuestionario gubernamental de cumplimiento IOTC de 2026, con identificación de normas y condiciones de licencia",
+      "note": "La prohibición deriva de régimen pesquero y condiciones ATF; no se ha verificado prohibición general de luces de todos los barcos ni normativa del alumbrado costero.",
+      "keywords": "Madagascar artificial light pollution outdoor lighting fisheries law nature",
+      "source_ids": [
+        "F363",
+        "F364"
+      ],
+      "star_ids": [
+        "M131"
       ]
     }
   ],
@@ -5873,6 +5964,127 @@
       "note": "Índice; consultar el documento original para requisitos y recomendaciones",
       "year": "2020",
       "official": true
+    },
+    {
+      "id": "F354",
+      "country": "ARM",
+      "title": "Armenia: modificación 2004 de normas de iluminación artificial, sección 6.45",
+      "url": "https://www.arlis.am/en/acts/35091",
+      "type": "Modificación de norma de edificación",
+      "effect": "Límites verticales 5/7/10/20 lx en ventanas; atenuación nocturna en 6.44",
+      "note": "Verificar versión consolidada",
+      "year": "2004",
+      "official": true
+    },
+    {
+      "id": "F355",
+      "country": "ARM",
+      "title": "Armenia: orden ministerial 82/1996 sobre iluminación natural y artificial",
+      "url": "https://www.arlis.am/en/acts/34658/print/act",
+      "type": "Norma de construcción",
+      "effect": "Normas de iluminación exterior, control de deslumbramiento y luces hacia ventanas",
+      "note": "Consultar modificaciones posteriores, incluida 2004",
+      "year": "1996",
+      "official": true
+    },
+    {
+      "id": "F356",
+      "country": "NPL",
+      "title": "Nepal: Environment Protection Rules, 2077, Comisión Jurídica",
+      "url": "https://repository.lawcommission.gov.np/np/documents/%E0%A4%B5%E0%A4%BE%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3-%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3-%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%80/",
+      "type": "Reglamento ambiental",
+      "effect": "Regulación de certificación/control de contaminación, incluye evaluación de luz",
+      "note": "No supone límites de ALAN de aplicación universal",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F357",
+      "country": "NPL",
+      "title": "Nepal Ministerio de Bosques: Environment Protection Rules 2077",
+      "url": "https://www.mofe.gov.np/content/63/environment-protection-rules--2077/",
+      "type": "Repositorio gubernamental",
+      "effect": "Publicación del reglamento ambiental",
+      "note": "Texto nepalí; cotejar procedimiento preciso",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F358",
+      "country": "NPL",
+      "title": "Nepal Electricity Authority: documentación ambiental contractual de subestaciones, vol. II",
+      "url": "https://www.nea.org.np/admin/assets/uploads/supportive_docs/1742903281_VOL-II_Final_compressed.pdf",
+      "type": "Condiciones de proyecto público",
+      "effect": "Exige minimizar luz exterior, usar apantallamiento, poco azul y PIR en contexto de subestaciones",
+      "note": "No norma general nacional de iluminación; pertenece al documento de proyecto",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F359",
+      "country": "BTN",
+      "title": "Bután: Green Building Design Guidelines 2013, sección Outdoor Lighting",
+      "url": "https://cas.moit.gov.bt/uploads/Bhutan_GREEN_Building_Design_Guidelines.pdf",
+      "type": "Directrices ministeriales",
+      "effect": "Reconoce explícitamente contaminación lumínica por derrame de luz exterior",
+      "note": "Guía; no acreditar límites jurídicos generales",
+      "year": "2013",
+      "official": true
+    },
+    {
+      "id": "F360",
+      "country": "BTN",
+      "title": "Bután: Spatial Planning Standards 2017, sección 3.9 Lighting",
+      "url": "https://www.moit.gov.bt/wp-content/uploads/2018/01/Spatial-Planning-Standards.pdf",
+      "type": "Estándares de planificación",
+      "effect": "Criterios de iluminancia mínima en calles, sendas y aparcamientos y eficiencia",
+      "note": "Los mínimos no son límites máximos de ALAN",
+      "year": "2017",
+      "official": true
+    },
+    {
+      "id": "F361",
+      "country": "MUS",
+      "title": "Mauricio: Fisheries Act 2023, sección 31, uso de luz para agrupar peces",
+      "url": "https://juris.mu/law/fisheries-act-2023/s/31/",
+      "type": "Ley nacional pesquera",
+      "effect": "Prohíbe o exige licencia para luces de agregación de peces, según buque; excepciones",
+      "note": "Repositorio jurídico no es versión oficial consolidada",
+      "year": "2023",
+      "official": false
+    },
+    {
+      "id": "F362",
+      "country": "MUS",
+      "title": "Mauricio: Director of Public Prosecutions, boletín sobre Fisheries Act 2023",
+      "url": "https://dpp.govmu.org/Documents/Newsletter/Issue133.pdf",
+      "type": "Publicación institucional",
+      "effect": "Contexto sobre entrada en vigor de ley pesquera 2023 y protección marina",
+      "note": "No sustituye texto legal consolidado",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F363",
+      "country": "MDG",
+      "title": "Madagascar: IOTC informe oficial de cumplimiento 2026, luces artificiales en pesca de atún",
+      "url": "https://iotc.org/sites/default/files/documents/2026/04/IOTC-2026-CoC23-CQ13E-Madagascar.pdf",
+      "type": "Informe gubernamental de cumplimiento",
+      "effect": "Declara prohibición de luces artificiales de agregación de peces mediante legislación y ATF",
+      "note": "Verificar diferencias por caladero, pesca y autorización",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F364",
+      "country": "MDG",
+      "title": "Madagascar: IOTC informe de cumplimiento 2025 sobre iluminación para pesca",
+      "url": "https://iotc.org/sites/default/files/documents/2025/02/IOTC-2025-CoC22-CQ13E-Madagascar.pdf",
+      "type": "Informe gubernamental de cumplimiento",
+      "effect": "Identifica Código pesquero 2015-053, reforma 2018-026 y condiciones ATF",
+      "note": "No extrapolar a iluminación urbana",
+      "year": "2025",
+      "official": true
     }
   ],
   "stars": [
@@ -7673,6 +7885,78 @@
         "F352"
       ],
       "caution": "No extrapolar esta prohibición al uso ordinario de cámaras o iluminación de calles y playas.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M127",
+      "country": "ARM",
+      "title": "Armenia: máximos de iluminación vertical en viviendas",
+      "description": "Norma modificada de iluminación exterior limita a 5/7/10/20 lx la luz vertical sobre ventanas residenciales según categoría de zona y vía.",
+      "force": "Norma de edificación en su ámbito",
+      "param": "Ev <= 5/7/10/20 lx en ventanas según supuestos normados",
+      "scope": "Diseño de alumbrado exterior regulado",
+      "sources": [
+        "F354",
+        "F355"
+      ],
+      "caution": "Vigencia consolidada a cotejar; no límites de brillo de cielo.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M128",
+      "country": "ARM",
+      "title": "Armenia: reducción nocturna condicionada de alumbrado vial",
+      "description": "Normativa de iluminación permite bajar iluminación nocturna mediante apagado selectivo o regulación bajo condiciones sobre el nivel de iluminación y continuidad de luminarias.",
+      "force": "Posibilidad técnica regulada",
+      "param": "Atenuación en condiciones de >4 lx o >0,4 cd/m²",
+      "scope": "Vías urbanas que cumplen los umbrales",
+      "sources": [
+        "F354"
+      ],
+      "caution": "No obligación general ni permiso indiscriminado de apagar.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M129",
+      "country": "NPL",
+      "title": "Nepal: iluminación de subestaciones respetuosa con fauna nocturna",
+      "description": "Documento ambiental de la autoridad eléctrica exige baja intensidad, escasa radiación azul, apantallado y sensor PIR para no mantener luz exterior encendida toda la noche.",
+      "force": "Condición de proyecto público",
+      "param": "Luz baja, poco azul, apantallamiento, activación PIR",
+      "scope": "Subestaciones del proyecto cubierto por documento",
+      "sources": [
+        "F358"
+      ],
+      "caution": "No extrapolar a todas las subestaciones nepalíes.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M130",
+      "country": "MUS",
+      "title": "Mauricio: restricciones a luces para atraer peces",
+      "description": "Sección 31 Fisheries Act 2023 restringe luces artificiales superficiales y sumergidas para concentrar peces, con licencias y excepciones.",
+      "force": "Ley pesquera vinculante",
+      "param": "Luz artificial como herramienta de agregación de peces",
+      "scope": "Flotas y aguas comprendidas por sección 31",
+      "sources": [
+        "F361"
+      ],
+      "caution": "No restringe iluminación general ni luces de navegación.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M131",
+      "country": "MDG",
+      "title": "Madagascar: restricciones a luces artificiales para agregar túnidos",
+      "description": "Madagascar informa a IOTC que la limitación de luces para agregación de peces opera mediante legislación pesquera y condiciones ATF.",
+      "force": "Medidas pesqueras y permisos",
+      "param": "Uso de luz superficial o sumergida para atraer peces",
+      "scope": "Pesca de túnidos comprendida por autorizaciones y medidas IOTC",
+      "sources": [
+        "F363",
+        "F364"
+      ],
+      "caution": "La declaración estatal no demuestra prohibición universal fuera del ámbito pesquero.",
       "replicability": "Media"
     }
   ],
