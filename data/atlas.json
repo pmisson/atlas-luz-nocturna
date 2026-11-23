@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 144,
-    "source_count": 439,
+    "country_count": 145,
+    "source_count": 442,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -2706,6 +2706,23 @@
       "keywords": "Cambodia NDC 3.0 2025 MEPS national lighting code reduced light pollution",
       "source_ids": [
         "F439"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "LAO",
+      "name": "Laos",
+      "region": "Asia",
+      "level": "general",
+      "summary": "Ley de Protección Ambiental revisada 29/NA (2012), arts. 23, 25, 29-31 y 68: identifica la luz como contaminación/molestia ambiental y prohíbe impactos y emisiones lumínicas que excedan los límites establecidos. La directriz 0745/MoNRE (2015), apartado 2.4, exige controlar las molestias luminosas y prevé permisos para ciertas emisiones. La Ley de Protección Ambiental de 12-03-2024 entró en vigor el 01-06-2024, y requiere cotejar su articulado para determinar continuidad exacta.",
+      "scope": "Nacional: contaminación y molestias luminosas en actividades y proyectos",
+      "confidence": "Texto de ley de 2012 y directriz 2015 en Lao Trade Portal; Ley 2024 identificada por FAOLEX/PNUMA",
+      "note": "La base normativa explícita de 2012 puede haber sido sustituida o modificada por la ley de 2024; no afirmar vigencia textual de artículos 2012 sin revisión. No se han localizado máximos de iluminancia o radiancia específicos vigentes.",
+      "keywords": "Lao PDR light pollution law 29 NA 2012 article 68 guideline 0745 MONRE 2015 law 2024",
+      "source_ids": [
+        "F440",
+        "F441",
+        "F442"
       ],
       "star_ids": []
     }
@@ -7538,6 +7555,39 @@
       "effect": "Prevé código nacional de iluminación y reducción de contaminación lumínica como cobeneficio",
       "note": "No prueba que el código se haya promulgado; medida futura 2026-2035",
       "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F440",
+      "country": "LAO",
+      "title": "Environmental Protection Law (Revised Version) No. 29/NA, 18 Dec 2012, arts. 23, 25, 29-31, 68",
+      "url": "https://www.laotradeportal.gov.la/en-gb/site/display/1012",
+      "type": "Ley nacional ambiental (traducción no oficial en portal gubernamental)",
+      "effect": "Reconoce luz como contaminación y prohíbe perturbaciones lumínicas sobre estándares nacionales",
+      "note": "Confirmar relación con nueva Ley Ambiental de 2024",
+      "year": "2012",
+      "official": true
+    },
+    {
+      "id": "F441",
+      "country": "LAO",
+      "title": "Guideline on Pollution Control No. 0745/MoNRE, 11 Dec 2015, section 2.4",
+      "url": "https://laotradeportal.gov.la/en-gb/site/display/963",
+      "type": "Directriz ministerial de control de contaminación",
+      "effect": "Regula interferencias por luz y permite exigir permisos de emisión de contaminantes para proyectos",
+      "note": "Cotejar continuidad bajo marco legal 2024; no hay límite lumínico numérico recuperado",
+      "year": "2015",
+      "official": true
+    },
+    {
+      "id": "F442",
+      "country": "LAO",
+      "title": "Environmental Protection Law (Lao PDR), 12 Mar 2024 — FAOLEX/UNEP",
+      "url": "https://leap.unep.org/en/countries/la/national-legislation/environmental-protection-law-0",
+      "type": "Ley ambiental nueva, registro institucional FAOLEX/PNUMA",
+      "effect": "Nueva ley de protección ambiental vigente desde 1 junio de 2024",
+      "note": "Texto operativo sobre luz aún sin cotejar: no atribuir artículos 2012 a esta ley",
+      "year": "2024",
       "official": true
     }
   ],
