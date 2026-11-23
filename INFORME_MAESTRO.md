@@ -415,3 +415,7 @@ El atlas dispone de **99 países, 341 fuentes y 121 medidas**, con datos canóni
 ## Ampliación documental 23-11-2026 (fase 108)
 
 **Estado actual del inventario: 108 países, 364 referencias documentales y 131 medidas destacadas.** Se incorporan Armenia (normas de luz intrusa en ventanas), Nepal (control ambiental y obligaciones de proyectos), Bután (guías de edificación y planeamiento), Mauricio (Fisheries Act 2023 §31) y Madagascar (restricciones de luces de agregación de atunes documentadas ante IOTC). Georgia permanece pendiente por falta de una disposición específica verificada. Cifras antiguas de otras secciones del informe son históricas. La base vigente es `data/atlas.json`.
+
+## Revisión Balcanes y Asia central — 23 noviembre 2026
+
+**Estado vigente: 110 países, 368 fuentes, 134 medidas destacadas.** Añadidas Federación de Bosnia y Herzegovina (Ley ambiental 2021 art. 21, definición expresa de contaminación lumínica, solo jurisdicción FBiH) y Kirguistán (СН КР 23-05:2019, iluminancia vertical máxima en ventanas de 5/7/10/20 lx y reglas sobre publicidad iluminada). Albania, Macedonia del Norte, Georgia y Tayikistán continúan en investigación: no contabilizados sin referencia legal suficiente. Los contadores antiguos de secciones históricas no representan el estado vigente; consultar `data/atlas.json`.
