@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 108,
-    "source_count": 364,
-    "star_count": 131,
+    "country_count": 110,
+    "source_count": 368,
+    "star_count": 134,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -30,7 +30,8 @@
     "review_island_moldova_2026": "Seychelles luz de pesca art21 2025; Moldavia ANRE 498/2024 ap9 excluye criterios de fotometría y NCM 2025 sustituye NCM 2017; Jamaica permiso NEPA Fiesta condición22; Kuwait regla publicidad 599/2023 art13.12; Trinidad-Tobago notice 90/2014 tortuga verde y flash.",
     "review_jordan_montenegro_2026": "Jordania: Ley ambiental 6/2017 y JS 2253-2:2020, sin límites ALAN específicos; Montenegro: Ley Naturaleza 117/2026 art.96 uso de luz como medio prohibido de perturbación de aves, no regla general de alumbrado.",
     "review_mongolia_philippines_2026": "Mongolia БНбД 23-02-08 §§7.45/7.71 límites Ev 5/7/10/20 lx y atenuación condicionada, vigencia consolidada por verificar; Filipinas DENR-BMB TB 2020-05 directrices tortugas, JMC 01/2020 §8.16 prohibición flash/estrobos/video en turismo con fauna marina.",
-    "review_phase_2026_11_23": "Armenia 5/7/10/20 lux, Nepal reglamento ambiental y ESMP contractual, Bután guías, Mauricio Fisheries Act 2023 art31, Madagascar régimen IOTC-ATF. Georgia pendiente de fuente precisa."
+    "review_phase_2026_11_23": "Armenia 5/7/10/20 lux, Nepal reglamento ambiental y ESMP contractual, Bután guías, Mauricio Fisheries Act 2023 art31, Madagascar régimen IOTC-ATF. Georgia pendiente de fuente precisa.",
+    "review_balkans_central_asia_2026": "Bosnia Herzegovina FBiH art.21 Ley Ambiental 2021 contaminación lumínica expresa; Kirguistán СН КР 23-05:2019 §§11.5 y 11.8 máximos ventanas 5/7/10/20 lx y límites anuncios. Albania Macedonia Norte Georgia y Tayikistán pendientes de norma específica comprobada."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -2078,6 +2079,43 @@
       ],
       "star_ids": [
         "M131"
+      ]
+    },
+    {
+      "iso": "BIH",
+      "name": "Bosnia y Herzegovina",
+      "region": "Europa",
+      "level": "subnacional",
+      "summary": "La Ley de Protección Ambiental de la Federación de Bosnia y Herzegovina de 2021, artículo 21, define expresamente la contaminación lumínica como alteración de luz natural nocturna por luz humana; incluye medidas para prevenir emisiones de luz innecesarias, inútiles o dañinas dentro y fuera de la zona a iluminar, y proteger el cielo nocturno del exceso de iluminación. El apartado 4 encomienda al ministerio federal competente regular las medidas mediante reglamentos.",
+      "scope": "Federación de Bosnia y Herzegovina (FBiH), entidad federada; no todo el Estado",
+      "confidence": "Artículo 21 publicado íntegramente por el Gobierno de la Federación de Bosnia y Herzegovina y corroborado por informe institucional del Fondo Ambiental",
+      "note": "La ley contiene mandato regulatorio y definición expresa; el informe del fondo de 2022 señala que faltaba regulación detallada por zonas y valores. No suponer que sigue faltando sin consultar nuevas disposiciones.",
+      "keywords": "Bosnia Herzegovina Federacija BiH Zakon zaštiti okoliša 2021 član 21 svjetlosno zagađenje noćno nebo",
+      "source_ids": [
+        "F365",
+        "F366"
+      ],
+      "star_ids": [
+        "M132"
+      ]
+    },
+    {
+      "iso": "KGZ",
+      "name": "Kirguistán",
+      "region": "Asia",
+      "level": "sectorial",
+      "summary": "La norma nacional de construcción СН КР 23-05:2019, vigente para diseño de instalaciones de iluminación urbana, establece en los apartados 11.5.2 y 11.5.3 límites de iluminancia vertical en ventanas residenciales de 7, 10 y 20 lx según clase de vía y de 5 lx en determinados espacios peatonales, patios y hospitales; el apartado 11.8.2 incluye suma de iluminación exterior, arquitectónica y publicitaria y 11.8.3 controla efectos dinámicos de publicidad.",
+      "scope": "Nacional, proyectos de iluminación de ciudades, poblaciones y espacios exteriores cubiertos por СН КР 23-05:2019",
+      "confidence": "PDF del texto íntegro publicado por Ministerio de Construcción de Kirguistán; apartados 1.1, 11.5.2, 11.5.3 y 11.8.2–11.8.3",
+      "note": "No extrapolar estos límites de ventanas a brillo de cielo ni a instalaciones excluidas por apartado 1.2; consultar eventuales reformas desde 2019.",
+      "keywords": "Kyrgyzstan СН КР 23-05:2019 11.5.2 11.5.3 11.8.3 засветка окон 5 7 10 20 лк наружное освещение",
+      "source_ids": [
+        "F367",
+        "F368"
+      ],
+      "star_ids": [
+        "M133",
+        "M134"
       ]
     }
   ],
@@ -6085,6 +6123,50 @@
       "note": "No extrapolar a iluminación urbana",
       "year": "2025",
       "official": true
+    },
+    {
+      "id": "F365",
+      "country": "BIH",
+      "title": "Gobierno Federación Bosnia y Herzegovina: Ley Protección Ambiental 2021, artículo 21",
+      "url": "https://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/9-9.htm",
+      "type": "Ley de entidad federada, texto primario oficial",
+      "effect": "Define contaminación lumínica y protección de cielo nocturno; ordena al ministerio desarrollar medidas",
+      "note": "Ámbito solo de Federación BiH, no todo Estado ni Republika Srpska",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F366",
+      "country": "BIH",
+      "title": "Fondo Protección Ambiental FBiH: informe ambiental, apartado 5.2 contaminación lumínica",
+      "url": "https://fzofbih.org.ba/wp-content/uploads/2022/10/ISO_FBiH_izvjestaj.pdf",
+      "type": "Informe oficial institucional",
+      "effect": "Explica alcance del art.21 y constata ausencia de normativa fotométrica detallada en la fecha del informe",
+      "note": "La constatación de 2022 no demuestra ausencia normativa en 2026",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F367",
+      "country": "KGZ",
+      "title": "Ministerio Construcción Kirguistán: СН КР 23-05:2019 Iluminación natural y artificial",
+      "url": "https://minstroy.gov.kg/kg/state_program/download-pdf/snkr23052019estetstvennoeiiskustvennoeosvesenie-5736858c4d8aeaa66.09361777.pdf",
+      "type": "Norma nacional de construcción, fuente primaria",
+      "effect": "§§11.5.2–11.5.4 limitan luz intrusa en ventanas a 5/7/10/20 lx; §§11.8.2–11.8.3 controlan publicidad y emisión combinada",
+      "note": "Aplicación al diseño del alumbrado en su ámbito; posibles actualizaciones pendientes de cotejo",
+      "year": "2019",
+      "official": true
+    },
+    {
+      "id": "F368",
+      "country": "KGZ",
+      "title": "Ministerio Justicia Kirguistán: normas de higiene de iluminación artificial en edificios, Res. 201/2016",
+      "url": "https://cbd.minjust.gov.kg/51-644/edition/24328/ru",
+      "type": "Normas sanitarias en repositorio oficial",
+      "effect": "Establecen requisitos de iluminación de interiores residenciales y edificios públicos",
+      "note": "Referencia complementaria: los niveles mínimos interiores no equivalen a límites de contaminación lumínica",
+      "year": "2016",
+      "official": true
     }
   ],
   "stars": [
@@ -7958,6 +8040,49 @@
       ],
       "caution": "La declaración estatal no demuestra prohibición universal fuera del ámbito pesquero.",
       "replicability": "Media"
+    },
+    {
+      "id": "M132",
+      "country": "BIH",
+      "title": "Federación de Bosnia y Herzegovina: protección legal expresa del cielo nocturno",
+      "description": "El art. 21 de la Ley de Protección Ambiental 2021 define la contaminación lumínica y protege frente a emisiones innecesarias e iluminación excesiva del cielo nocturno, encomendando desarrollo al ministerio.",
+      "force": "Ley ambiental vinculante de una entidad federada",
+      "param": "Prevención cualitativa y mandato regulatorio, sin umbral en lux/CCT demostrado en el artículo",
+      "scope": "Federación de Bosnia y Herzegovina",
+      "sources": [
+        "F365",
+        "F366"
+      ],
+      "caution": "No confundir mandato legal con límites fotométricos establecidos por reglamento; no extrapolar a todo el Estado.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M133",
+      "country": "KGZ",
+      "title": "Kirguistán: máximo de luz vertical en ventanas de viviendas",
+      "description": "La norma de construcción СН КР 23-05:2019 §§11.5.2–11.5.3 fija límites de 5, 7, 10 y 20 lx en ventanas, incluyendo alumbrado vial y zonas sensibles.",
+      "force": "Norma técnica nacional de construcción en el ámbito de diseño",
+      "param": "Ev <= 5/7/10/20 lx según tipo de calle/entorno",
+      "scope": "Instalaciones y proyectos urbanos comprendidos por norma",
+      "sources": [
+        "F367"
+      ],
+      "caution": "No es límite de cielo ni límite general en toda parcela; verificar revisiones posteriores.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M134",
+      "country": "KGZ",
+      "title": "Kirguistán: control de anuncios iluminados y fachadas multimedia",
+      "description": "La norma СН КР 23-05:2019 §11.8.3 limita la frecuencia y efectos dinámicos en cartelería y fachadas multimedia nocturnas; §11.8.2 suma iluminación publicitaria y arquitectónica en el máximo de ventanas.",
+      "force": "Norma técnica nacional de diseño",
+      "param": "Restricciones a animaciones y tiempos de cambio de anuncios; suma de intrusión luminosa",
+      "scope": "Publicidad exterior iluminada y mediafachadas cubiertas por la norma",
+      "sources": [
+        "F367"
+      ],
+      "caution": "Interpretar literalmente condiciones y excepciones por tipo de pantalla; no es veto general a publicidad LED.",
+      "replicability": "Alta"
     }
   ],
   "spain_regions": [
