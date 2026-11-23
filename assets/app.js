@@ -19,17 +19,22 @@ const starsByCountry=new Map(D.countries.map(c=>[c.iso,D.stars.filter(x=>x.count
 const sourceByCountry=new Map(D.countries.map(c=>[c.iso,D.sources.filter(x=>x.country===c.iso)]));
 const escape=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const slug=s=>String(s).normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
-const allMatches=(country,q)=>[country.name,country.region,country.summary,country.keywords,D.levels[country.level],country.scope].some(s=>String(s||'').toLowerCase().includes(q));
+const allMatches=(country,q)=>[country.name,country.region,country.summary,country.keywords,D.levels[country.level],country.scope,legalClassName(country)].some(s=>String(s||'').toLowerCase().includes(q));
 const kindName=(c)=>D.levels[c.level];
 const alanLabels={proteccion:'Protección lumínica explícita',uso:'Uso de luz / instrumento sectorial',contexto:'Sin protección lumínica explícita acreditada'};
 const alanName=c=>alanLabels[c.alan_scope]||alanLabels.contexto;
+const legalClassLabels={"dedicada":"Normativa dedicada a contaminación lumínica","integrada":"Obligación lumínica en otra norma","no_vinculante":"Guía, plan o recomendación sin obligatoriedad acreditada","indirecta":"Regulación indirecta o uso de luces","pendiente":"Obligatoriedad o alcance pendiente de cotejo"};
+const legalClassName=c=>legalClassLabels[c.alan_legal_class]||legalClassLabels.pendiente;
+const bindingName=c=>c.alan_binding_review==='documentada'?'Obligación documentada (revisar vigencia)':'Obligación no acreditada de forma suficiente';
 const sourceHref=src=>src?.url&&/^https?:\/\//.test(src.url)?src.url:'#fuentes';
-let selected='ESP'; let region='todos'; let level='todos'; let zoom=1,tx=0,ty=0,showAllStars=false,sourceShown=12,starMode='table';
+let selected='ESP'; let region='todos'; let level='todos'; let legalClass='todos'; let zoom=1,tx=0,ty=0,showAllStars=false,sourceShown=12,starMode='table';
 
 // Counters and legend
 el('metric-countries').textContent=D.countries.length;
 el('metric-sources').textContent=D.sources.length;
 el('metric-stars').textContent=D.stars.length;
+const bindingCount=D.countries.filter(c=>c.alan_binding_review==='documentada').length;
+const bindingMetric=el('metric-binding');if(bindingMetric)bindingMetric.textContent=bindingCount;
 el('legendItems').innerHTML=Object.entries(palette).map(([key,v])=>`<span class="legend-item"><span class="legend-swatch" style="background:${v.fill}"></span>${escape(v.name)}</span>`).join('');
 el('legendItems').insertAdjacentHTML('beforeend',`<span class="legend-item"><span class="legend-swatch" style="background:repeating-linear-gradient(135deg,#718092,#718092 3px,#162435 3px,#162435 7px);border:1px solid #9eb0c4"></span>Rayado: sin protección ALAN explícita acreditada (uso sectorial o contexto)</span><span class="legend-item">Color = tipo de instrumento · Rayado = evidencia sobre la luz</span>`);
 
@@ -44,7 +49,7 @@ for(const [key,v] of Object.entries(palette)){
 }
 const mapFill=c=>c.alan_scope!=='proteccion'?`url(#hatch-${c.level})`:palette[c.level].fill;
 let tip=el('mapTooltip');
-const matchFilters=c=>!!c&&(region==='todos'||c.region===region)&&(level==='todos'||c.level===level);
+const matchFilters=c=>!!c&&(region==='todos'||c.region===region)&&(level==='todos'||c.level===level)&&(legalClass==='todos'||c.alan_legal_class===legalClass);
 for (const g of GEO) {
   const p=document.createElementNS(ns,'path'); p.setAttribute('d',g.d);p.setAttribute('data-iso',g.iso);
   const c=countryIndex.get(g.iso);
@@ -69,7 +74,7 @@ for(const {iso,lon,lat} of localDots){
   dot.addEventListener('mouseenter',e=>showTip(e,c));dot.addEventListener('mousemove',moveTip);dot.addEventListener('mouseleave',hideTip);dot.addEventListener('click',()=>{if(!hasDragged)selectCountry(iso)});dot.addEventListener('keydown',e=>{if(e.key==='Enter'){selectCountry(iso)}});
   markers.appendChild(dot);shapes.set(iso,dot);
 }
-function showTip(e,c){tip.innerHTML=`<strong>${escape(c.name)}</strong><br><span style="color:#9fb5bb">${escape(kindName(c))}</span><br><span>${escape(alanName(c))}</span>`;tip.style.display='block';moveTip(e);}
+function showTip(e,c){tip.innerHTML=`<strong>${escape(c.name)}</strong><br><span style="color:#9fb5bb">${escape(kindName(c))}</span><br><span>${escape(legalClassName(c))}</span>`;tip.style.display='block';moveTip(e);}
 function moveTip(e){const rec=el('mapCanvas').getBoundingClientRect();let x=e.clientX-rec.left+13,y=e.clientY-rec.top-10; if(x>rec.width-200)x-=205;if(y>rec.height-65)y-=54;tip.style.left=Math.max(0,x)+'px';tip.style.top=Math.max(0,y)+'px';}
 function hideTip(){tip.style.display='none';}
 function updateMapStyles(){for(const c of D.countries){const p=shapes.get(c.iso);if(!p)continue;p.classList.toggle('filtered',!matchFilters(c));p.classList.toggle('is-selected',c.iso===selected);p.setAttribute('opacity',matchFilters(c)?'1':'.55');}}
@@ -86,14 +91,14 @@ canvas.addEventListener('wheel',e=>{e.preventDefault();const box=canvas.getBound
 function viewDoc(c){return 'docs/'+c.iso+'_'+slug(c.name)+'.md';}
 function selectCountry(iso,scroll=false){const c=countryIndex.get(iso);if(!c)return;selected=c.iso;updateMapStyles();
   const refs=sourceByCountry.get(iso)||[];const star=starsByCountry.get(iso)||[];
-  el('countryDetail').innerHTML=`<div class="detail-top"><div class="tiny">EXPEDIENTE / ${escape(c.region.toUpperCase())} / ${escape(c.iso)}</div><h3>${escape(c.name)}</h3><span class="detail-status"><i style="background:${palette[c.level].fill}"></i>${escape(kindName(c))}</span></div><div class="detail-body"><p class="detail-label">PANORAMA JURÍDICO</p><p class="detail-claim">${escape(c.summary)}</p><p class="detail-label">RELACIÓN CON LA CONTAMINACIÓN LUMÍNICA</p><p class="detail-small"><strong>${escape(alanName(c))}</strong>. ${escape(c.alan_scope_note||"")}</p><p class="detail-label">ÁMBITO</p><p class="detail-small">${escape(c.scope)}</p><p class="detail-label">GRADO DE REVISIÓN</p><p class="detail-small">${escape(c.confidence)}</p>${c.note?`<div class="detail-caution">${escape(c.note)}</div>`:''}${star.length?`<p class="detail-label">MEDIDAS DESTACADAS (${star.length})</p><p class="detail-small">${star.map(m=>escape(m.title)).join(' · ')}</p>`:''}<p class="detail-label">REFERENCIAS (${refs.length})</p><div class="detail-sources">${refs.map(s=>`<a class="detail-source" href="${escape(sourceHref(s))}" target="_blank" rel="noopener noreferrer"><b>${escape(s.id)}</b>${escape(s.title)} ↗</a>`).join('')}</div><a class="detail-link" href="${escape(viewDoc(c))}" download="${escape(c.iso)}_ficha.md">↓ Descargar ficha del país</a></div>`;
+  el('countryDetail').innerHTML=`<div class="detail-top"><div class="tiny">EXPEDIENTE / ${escape(c.region.toUpperCase())} / ${escape(c.iso)}</div><h3>${escape(c.name)}</h3><span class="detail-status"><i style="background:${palette[c.level].fill}"></i>${escape(kindName(c))}</span></div><div class="detail-body"><p class="detail-label">PANORAMA JURÍDICO</p><p class="detail-claim">${escape(c.summary)}</p><p class="detail-label">RELACIÓN CON LA CONTAMINACIÓN LUMÍNICA</p><p class="detail-small"><strong>${escape(alanName(c))}</strong>. ${escape(c.alan_scope_note||"")}</p><p class="detail-label">CLASIFICACIÓN JURÍDICA ALAN</p><p class="detail-small"><strong>${escape(legalClassName(c))}</strong> · ${escape(bindingName(c))}</p><p class="detail-small">${escape(c.alan_binding_note||"")}</p><p class="detail-label">ÁMBITO</p><p class="detail-small">${escape(c.scope)}</p><p class="detail-label">GRADO DE REVISIÓN</p><p class="detail-small">${escape(c.confidence)}</p>${c.note?`<div class="detail-caution">${escape(c.note)}</div>`:''}${star.length?`<p class="detail-label">MEDIDAS DESTACADAS (${star.length})</p><p class="detail-small">${star.map(m=>escape(m.title)).join(' · ')}</p>`:''}<p class="detail-label">REFERENCIAS (${refs.length})</p><div class="detail-sources">${refs.map(s=>`<a class="detail-source" href="${escape(sourceHref(s))}" target="_blank" rel="noopener noreferrer"><b>${escape(s.id)}</b>${escape(s.title)} ↗</a>`).join('')}</div><a class="detail-link" href="${escape(viewDoc(c))}" download="${escape(c.iso)}_ficha.md">↓ Descargar ficha del país</a></div>`;
   if(scroll){el('mapa').scrollIntoView({behavior:'smooth',block:'start'});}
 }
-function updateFilters(){region=el('regionFilter').value;level=el('levelFilter').value;updateMapStyles();renderCountries();}
-el('regionFilter').addEventListener('change',updateFilters);el('levelFilter').addEventListener('change',updateFilters);
-el('resetMap').addEventListener('click',()=>{region='todos';level='todos';el('regionFilter').value='todos';el('levelFilter').value='todos';resetZoom();updateFilters();});
+function updateFilters(){region=el('regionFilter').value;level=el('levelFilter').value;legalClass=el('legalClassFilter').value;updateMapStyles();renderCountries();}
+el('regionFilter').addEventListener('change',updateFilters);el('levelFilter').addEventListener('change',updateFilters);el('legalClassFilter').addEventListener('change',updateFilters);
+el('resetMap').addEventListener('click',()=>{region='todos';level='todos';el('regionFilter').value='todos';el('levelFilter').value='todos';el('legalClassFilter').value='todos';resetZoom();updateFilters();});
 
-function badgeKind(c){return `<span class="row-dot" style="background:${palette[c.level].fill}"></span>${escape(kindName(c))}<small class="alan-meta">${escape(alanName(c))}</small>`;}
+function badgeKind(c){return `<span class="row-dot" style="background:${palette[c.level].fill}"></span>${escape(kindName(c))}<small class="alan-meta">${escape(legalClassName(c))} · ${c.alan_binding_review==='documentada'?'Obligación documentada':'Pendiente de corroborar'}</small>`;}
 function renderCountries(){const q=el('countrySearch').value.trim().toLowerCase();const found=D.countries.filter(c=>matchFilters(c)&&(!q||allMatches(c,q))).sort((a,b)=>a.name.localeCompare(b.name,'es'));
   el('countryRows').innerHTML=found.map(c=>`<tr><td>${escape(c.name)}</td><td>${escape(c.region)}</td><td>${badgeKind(c)}</td><td>${c.source_ids.length}</td><td><button type="button" class="row-view" data-country="${escape(c.iso)}">Ver ficha ↗</button></td></tr>`).join('');el('countryEmpty').hidden=found.length>0;
 }
