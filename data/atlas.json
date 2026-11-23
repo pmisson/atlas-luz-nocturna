@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 140,
-    "source_count": 434,
+    "country_count": 144,
+    "source_count": 439,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -2645,6 +2645,67 @@
         "F432",
         "F433",
         "F434"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "DJI",
+      "name": "Yibuti",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "Arrêté n.º 2019-072/PR/MERN, de 31-03-2019, sobre eficiencia energética del alumbrado público: art. 2 define contaminación lumínica, luz intrusa y resplandor del cielo; art. 6 impone que la proporción de flujo emitido por encima del horizonte no supere el 1 % en luminarias instaladas óptimamente; art. 4 obliga a optimizar consumos e incluye atenuación nocturna como práctica.",
+      "scope": "Nacional: alumbrado público conectado a la red eléctrica",
+      "confidence": "Fuente primaria: Journal Officiel de la République de Djibouti",
+      "note": "El límite es para luminarias del alumbrado público contempladas por el decreto, no para cualquier luz exterior. El intervalo 00:00-05:00 se ofrece como ejemplo de atenuación; no es horario universal obligatorio. Art. 9 prevé entrada en vigor doce meses después de firma.",
+      "keywords": "Djibouti pollution lumineuse 2019-072 flux au-dessus horizon 1 pour cent",
+      "source_ids": [
+        "F435",
+        "F436"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "SDN",
+      "name": "Sudán",
+      "region": "África",
+      "level": "especifica",
+      "summary": "Environment (Protection) Act de 2001: la relación de prohibiciones ambientales del capítulo IV incluye expresamente light pollution (contaminación lumínica), junto con contaminación sonora, radiológica y otras. ECOLEX/FAOLEX identifica reformas de 2020.",
+      "scope": "Nacional: protección ambiental y prohibición explícita de contaminación lumínica",
+      "confidence": "Registro legislativo ECOLEX/FAOLEX con resumen normativo y referencia a texto inglés/árabe",
+      "note": "Aún no se ha podido cotejar directamente el artículo exacto en texto oficial ni normativa de desarrollo, sanciones y vigencia consolidada. 'Específica' aquí significa prohibición ALAN explícita en ley general, no una ley exclusivamente dedicada al alumbrado.",
+      "keywords": "Sudan Environment Protection Act 2001 light pollution prohibited chapter IV",
+      "source_ids": [
+        "F437"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "TLS",
+      "name": "Timor Oriental",
+      "region": "Asia",
+      "level": "sectorial",
+      "summary": "Decreto-Lei n.º 26/2012 (Lei de Bases do Ambiente), artículo 37(1): toda luz fija o intermitente cuya dimensión, características o localización pueda afectar salud, bienestar, componentes ambientales o especies amenazadas debe mantenerse dentro de límites de calidad y emisión ambiental establecidos; el art. 37(2) obliga al Estado a crear mecanismos de control de contaminación visual.",
+      "scope": "Nacional: luz fija/intermitente perjudicial para personas o medio ambiente y especies protegidas",
+      "confidence": "Texto primario en Jornal da República del Ministerio de Justicia de Timor-Leste",
+      "note": "La ley remite a patrones y normativa de calidad y emisión para cuantificar límites; no se ha localizado todavía reglamento de valores fotométricos específico.",
+      "keywords": "Timor Leste lei bases ambiente artigo 37 poluição visual luz fixa intermitente",
+      "source_ids": [
+        "F438"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "KHM",
+      "name": "Camboya",
+      "region": "Asia",
+      "level": "guia",
+      "summary": "NDC 3.0 de Camboya presentada ante CMNUCC en 2025, medida 10 (Ministerio de Minas y Energía), propone crear estándares mínimos de rendimiento energético (MEPS) y un código nacional de alumbrado público en 2026-2035; incorpora 'reduced light pollution improving urban livability' como cobeneficio. El documento indica que no existía código nacional de iluminación en la línea base.",
+      "scope": "Plan nacional de mitigación climática 2026-2035, alumbrado urbano y público",
+      "confidence": "Documento gubernamental original NDC 3.0 alojado en la Secretaría de la CMNUCC",
+      "note": "Compromiso prospectivo de política pública; no se ha verificado adopción efectiva del código ni límites obligatorios de contaminación lumínica.",
+      "keywords": "Cambodia NDC 3.0 2025 MEPS national lighting code reduced light pollution",
+      "source_ids": [
+        "F439"
       ],
       "star_ids": []
     }
@@ -7423,6 +7484,61 @@
       "note": "Fuentes de prensa contienen discrepancia tipográfica 2/2009 vs 3/2009",
       "year": "2017",
       "official": false
+    },
+    {
+      "id": "F435",
+      "country": "DJI",
+      "title": "Arrêté n.º 2019-072/PR/MERN — alumbrado público, arts. 2, 4 y 6",
+      "url": "https://www.journalofficiel.dj/texte-juridique/arrete-n2019-072-pr-mern-portant-application-de-larticle-15-de-la-loi-90-an-15-7eme-l-sur-lefficacite-energetique-de-leclairage-public/",
+      "type": "Reglamento nacional vinculante (Diario Oficial)",
+      "effect": "Define contaminación lumínica y limita el flujo emitido sobre horizonte al 1 % en luminarias de alumbrado público",
+      "note": "No extrapolar a toda la iluminación privada; horario 00:00-05:00 solo ilustrativo",
+      "year": "2019",
+      "official": true
+    },
+    {
+      "id": "F436",
+      "country": "DJI",
+      "title": "Loi n.º 51/AN/09/6ème L — Code de l'Environnement, art. 74",
+      "url": "https://www.journalofficiel.dj/texte-juridique/loi-n51-an-09-6eme-l-portant-code-de-lenvironnement/",
+      "type": "Ley marco ambiental nacional",
+      "effect": "Prohíbe radiaciones perjudiciales y remite límites físicos a reglamentación",
+      "note": "Marco general complementario, no límite fotométrico del 1 %",
+      "year": "2009",
+      "official": true
+    },
+    {
+      "id": "F437",
+      "country": "SDN",
+      "title": "Sudan Environment (Protection) Act 2001 — registro jurídico ECOLEX/FAOLEX",
+      "url": "https://www.ecolex.org/details/legislation/environment-protection-act-of-2001-lex-faoc068174/",
+      "type": "Ley nacional — ficha jurídica de texto legislativo",
+      "effect": "Prohíbe expresamente light pollution entre categorías de contaminación ambiental",
+      "note": "Pendiente comprobar artículo exacto, sanciones y texto consolidado posterior a modificación 2020",
+      "year": "2001",
+      "official": false
+    },
+    {
+      "id": "F438",
+      "country": "TLS",
+      "title": "Timor-Leste Decreto-Lei n.º 26/2012, Lei de Bases do Ambiente, art. 37",
+      "url": "https://mj.gov.tl/jornal/?q=node/1083",
+      "type": "Decreto-ley nacional de protección ambiental, texto oficial",
+      "effect": "Luz fija o intermitente perjudicial debe mantenerse bajo límites de calidad y emisión; protege especies amenazadas",
+      "note": "No asignar límites numéricos sin reglamentación adicional",
+      "year": "2012",
+      "official": true
+    },
+    {
+      "id": "F439",
+      "country": "KHM",
+      "title": "Cambodia NDC 3.0 (2025), medida 10: estándares de alumbrado público",
+      "url": "https://www.unfccc.int/sites/default/files/2025-08/Cambodia-NDC%203.0_0.pdf",
+      "type": "Plan gubernamental climático depositado en CMNUCC",
+      "effect": "Prevé código nacional de iluminación y reducción de contaminación lumínica como cobeneficio",
+      "note": "No prueba que el código se haya promulgado; medida futura 2026-2035",
+      "year": "2025",
+      "official": true
     }
   ],
   "stars": [
