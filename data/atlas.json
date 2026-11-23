@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 182,
-    "source_count": 503,
+    "country_count": 198,
+    "source_count": 519,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -44,7 +44,8 @@
     "review_asia_2026": "Seis Estados asiáticos añadidos 23-11-2026: YEM BRN MMR TKM TJK PRK. TJK Código 2299/2026 sustituye Ley 760/2011. Yemen menciona luz en art 2.4, sin obligación ALAN operativa acreditada.",
     "review_africa_2026": "14 Estados africanos incorporados 23-11-2026 sin atribución de obligaciones ALAN no acreditadas; Comoras reforma 2025, Santo Tomé reforma 2026, Somalia ley 2024, Sudán del Sur proyecto pendiente.",
     "africa_audit_2026": "Mpatamanga Malawi: ESMMP 2024 medidas M 8-122–125 y OC-23; Telecom Comoros: BAP 2021 e informe AXIAN. Esuatini: EA Regulations 2022; ALAN no expresamente obligatorio.",
-    "review_greenland_guianas_2026": "2026-11-23: Groenlandia, Guyana, Surinam y Guayana Francesa añadidas. Groenlandia y Guayana Francesa son territorios no soberanos. Guayana Francesa tiene ALAN vinculante por derecho francés; no duplicar conteo soberano."
+    "review_greenland_guianas_2026": "2026-11-23: Groenlandia, Guyana, Surinam y Guayana Francesa añadidas. Groenlandia y Guayana Francesa son territorios no soberanos. Guayana Francesa tiene ALAN vinculante por derecho francés; no duplicar conteo soberano.",
+    "completion_2026": "Dieciséis Estados añadidos el 23-11-2026: 8 Oceanía, 4 América, 4 Europa. Registro de Estados miembros y observadores ONU completo bajo convención geopolítica del atlas; Mónaco y Vaticano ALAN no vinculante."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -4220,6 +4221,326 @@
         "F503"
       ],
       "star_ids": []
+    },
+    {
+      "iso": "SLB",
+      "name": "Islas Salomón",
+      "region": "Oceanía",
+      "level": "general",
+      "summary": "Ley ambiental 8/1998, vigente desde 2003, y reglamento de 2008 de evaluación ambiental. No se ha identificado una obligación expresa sobre iluminación artificial.",
+      "scope": "Nacional; protección ambiental, biodiversidad o evaluación de proyectos",
+      "confidence": "Norma o fuente jurídica identificada",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Islas Salomón artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F504"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "TON",
+      "name": "Tonga",
+      "region": "Oceanía",
+      "level": "general",
+      "summary": "Environmental Impact Assessment Act 16/2003 y reglamento de 2010; prevén evaluación de impactos de proyectos, sin control ALAN específico comprobado.",
+      "scope": "Nacional; protección ambiental, biodiversidad o evaluación de proyectos",
+      "confidence": "Norma o fuente jurídica identificada",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Tonga artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F505"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "KIR",
+      "name": "Kiribati",
+      "region": "Oceanía",
+      "level": "general",
+      "summary": "Environment Act 18/2021, promulgada en 2022 según registro FAOLEX; reemplaza la Environment Act 1999 y regula biodiversidad, licencias y evaluación ambiental. Entrada en vigor efectiva a cotejar.",
+      "scope": "Nacional; protección ambiental, biodiversidad o evaluación de proyectos",
+      "confidence": "Norma o fuente jurídica identificada",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Kiribati artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F506"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "TUV",
+      "name": "Tuvalu",
+      "region": "Oceanía",
+      "level": "general",
+      "summary": "Environment Protection Act 2008 y reglamento EIA 2014, identificados en las directrices regionales de evaluación ambiental. No se ha verificado disposición lumínica específica.",
+      "scope": "Nacional; protección ambiental, biodiversidad o evaluación de proyectos",
+      "confidence": "Compilación regional; cotejo legal primario pendiente",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Tuvalu artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F507"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "NRU",
+      "name": "Nauru",
+      "region": "Oceanía",
+      "level": "general",
+      "summary": "Environmental Management and Climate Change Act 2020, con procedimientos de protección ambiental y evaluación de impactos. Sin límite de iluminación exterior localizado.",
+      "scope": "Nacional; protección ambiental, biodiversidad o evaluación de proyectos",
+      "confidence": "Norma o fuente jurídica identificada",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Nauru artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F508"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "PLW",
+      "name": "Palaos",
+      "region": "Oceanía",
+      "level": "general",
+      "summary": "Environmental Quality Protection Act y marco de zonas protegidas; la Estrategia de Gestión Ambiental Nacional 2022–2030 describe estos instrumentos. No se ha verificado mandato lumínico general.",
+      "scope": "Nacional; protección ambiental, biodiversidad o evaluación de proyectos",
+      "confidence": "Norma o fuente jurídica identificada",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Palaos artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F509"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "FSM",
+      "name": "Estados Federados de Micronesia",
+      "region": "Oceanía",
+      "level": "general",
+      "summary": "Título 25 del Código Federal y Environmental Impact Assessment Regulations. Existe regulación de evaluación ambiental general; variaciones por estado federado, sin obligación ALAN general comprobada.",
+      "scope": "Nacional; protección ambiental, biodiversidad o evaluación de proyectos",
+      "confidence": "Norma o fuente jurídica identificada",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Estados Federados de Micronesia artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F510"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "MHL",
+      "name": "Islas Marshall",
+      "region": "Oceanía",
+      "level": "general",
+      "summary": "National Environmental Protection Act 1984, capítulo 1 del título 35 del código nacional; regula protección ambiental y autoridad competente, sin requisito lumínico expreso identificado.",
+      "scope": "Nacional; protección ambiental, biodiversidad o evaluación de proyectos",
+      "confidence": "Norma o fuente jurídica identificada",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Islas Marshall artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F511"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "HTI",
+      "name": "Haití",
+      "region": "América",
+      "level": "general",
+      "summary": "Decreto de 12 de octubre de 2005 relativo a gestión ambiental y desarrollo sostenible, con principios de evaluación de impactos y conservación. No consta disposición específica de contaminación lumínica.",
+      "scope": "Nacional; ámbito ambiental o planificación según instrumento",
+      "confidence": "Norma o fuente jurídica identificada",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Haití artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F512"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "DMA",
+      "name": "Dominica",
+      "region": "América",
+      "level": "general",
+      "summary": "Physical Planning Act 2002 incluye planificación y procedimiento de evaluación ambiental; no se ha identificado un artículo expresamente sobre contaminación lumínica.",
+      "scope": "Nacional; ámbito ambiental o planificación según instrumento",
+      "confidence": "Norma o fuente jurídica identificada",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Dominica artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F513"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "GRD",
+      "name": "Granada (país)",
+      "region": "América",
+      "level": "general",
+      "summary": "Physical Planning and Development Control Act 25/2002 regula proyectos, planificación territorial y evaluación ambiental, sin disposición fotométrica expresa identificada.",
+      "scope": "Nacional; ámbito ambiental o planificación según instrumento",
+      "confidence": "Norma o fuente jurídica identificada",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Granada (país) artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F514"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "VCT",
+      "name": "San Vicente y las Granadinas",
+      "region": "América",
+      "level": "general",
+      "summary": "Normativa de evaluación ambiental vinculada a permisos de planificación, con procedimientos de informes y medidas de mitigación. Sin requisito ALAN general identificado.",
+      "scope": "Nacional; ámbito ambiental o planificación según instrumento",
+      "confidence": "Norma o fuente jurídica identificada",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "San Vicente y las Granadinas artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F515"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "MCO",
+      "name": "Mónaco",
+      "region": "Europa",
+      "level": "guia",
+      "summary": "Código del Medio Ambiente 2017 y charte de iluminación de edificios con criterios expresos de contaminación lumínica y biodiversidad nocturna. Las órdenes de apagado 2023-86 y 2023-426 terminaron en 2023; no tratarlas como obligaciones actuales.",
+      "scope": "Nacional; ámbito ambiental o planificación según instrumento",
+      "confidence": "Referencia institucional",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Mónaco artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F516"
+      ],
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Se mencionan expresamente impactos de luz artificial, pero no se ha acreditado mandato ALAN vigente.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "SMR",
+      "name": "San Marino",
+      "region": "Europa",
+      "level": "general",
+      "summary": "Decreto delegado 44/2012 (Codice Ambientale), con recopilaciones coordinadas de legislación ambiental. No se ha cotejado requisito explícito sobre contaminación lumínica.",
+      "scope": "Nacional; ámbito ambiental o planificación según instrumento",
+      "confidence": "Norma o fuente jurídica identificada",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "San Marino artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F517"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "VAT",
+      "name": "Ciudad del Vaticano",
+      "region": "Europa",
+      "level": "guia",
+      "summary": "El Observatorio Vaticano publica orientaciones sobre contaminación lumínica y el Governatorato desarrolla actuaciones de eficiencia energética. No se identifica una norma estatal específica y vinculante de alumbrado exterior.",
+      "scope": "Nacional; ámbito ambiental o planificación según instrumento",
+      "confidence": "Referencia institucional",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Ciudad del Vaticano artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F518"
+      ],
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Se mencionan expresamente impactos de luz artificial, pero no se ha acreditado mandato ALAN vigente.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "MKD",
+      "name": "Macedonia del Norte",
+      "region": "Europa",
+      "level": "general",
+      "summary": "Ley de Medio Ambiente de 2005 identificada en la base FAOLEX. Se requieren comprobaciones de normativa urbana, de protección natural y de alumbrado; no hay obligación ALAN específica corroborada.",
+      "scope": "Nacional; ámbito ambiental o planificación según instrumento",
+      "confidence": "Norma o fuente jurídica identificada",
+      "note": "No interpretar automáticamente leyes ambientales generales, guías, ni disposiciones temporales ya expiradas como obligaciones vigentes de control de ALAN.",
+      "keywords": "Macedonia del Norte artificial light pollution outdoor lighting environment",
+      "source_ids": [
+        "F519"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
     }
   ],
   "sources": [
@@ -9755,6 +10076,182 @@
       "note": "No sustituye cotejo del texto vinculante consolidado",
       "year": "2026",
       "official": true
+    },
+    {
+      "id": "F504",
+      "country": "SLB",
+      "title": "Environment Act 1998",
+      "url": "https://faolex.fao.org/docs/pdf/sol65422.pdf",
+      "type": "Ley reproducida por FAOLEX",
+      "effect": "Ley ambiental 8/1998, vigente desde 2003, y reglamento de 2008 de evaluación ambiental. No se ha identificado una obligación expresa sobre iluminación artificial.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "1998",
+      "official": true
+    },
+    {
+      "id": "F505",
+      "country": "TON",
+      "title": "Environmental Impact Assessment Act 2003",
+      "url": "https://faolex.fao.org/docs/pdf/ton49306Original.pdf",
+      "type": "Ley reproducida por FAOLEX",
+      "effect": "Environmental Impact Assessment Act 16/2003 y reglamento de 2010; prevén evaluación de impactos de proyectos, sin control ALAN específico comprobado.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "2003",
+      "official": true
+    },
+    {
+      "id": "F506",
+      "country": "KIR",
+      "title": "Environment Act 18/2021",
+      "url": "https://leap.unep.org/en/countries/ki/national-legislation/environment-act-no-18-2021",
+      "type": "Registro jurídico PNUMA/FAOLEX",
+      "effect": "Environment Act 18/2021, promulgada en 2022 según registro FAOLEX; reemplaza la Environment Act 1999 y regula biodiversidad, licencias y evaluación ambiental. Entrada en vigor efectiva a cotejar.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F507",
+      "country": "TUV",
+      "title": "Environment Protection Act 2008 y EIA Regulations 2014",
+      "url": "https://piat.org.nz/uploads/PIAT_content/pdfs/regional-eia-guidelines.pdf",
+      "type": "Compilación regional de legislación EIA",
+      "effect": "Environment Protection Act 2008 y reglamento EIA 2014, identificados en las directrices regionales de evaluación ambiental. No se ha verificado disposición lumínica específica.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "2014",
+      "official": false
+    },
+    {
+      "id": "F508",
+      "country": "NRU",
+      "title": "Environmental Management and Climate Change Act 2020",
+      "url": "https://faolex.fao.org/docs/pdf/nau202024.pdf",
+      "type": "Texto primario reproducido en FAOLEX",
+      "effect": "Environmental Management and Climate Change Act 2020, con procedimientos de protección ambiental y evaluación de impactos. Sin límite de iluminación exterior localizado.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F509",
+      "country": "PLW",
+      "title": "Palau National Environmental Management Strategy 2022–2030",
+      "url": "https://faolex.fao.org/docs/pdf/pau228921.pdf",
+      "type": "Estrategia gubernamental y referencias al código",
+      "effect": "Environmental Quality Protection Act y marco de zonas protegidas; la Estrategia de Gestión Ambiental Nacional 2022–2030 describe estos instrumentos. No se ha verificado mandato lumínico general.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "2022",
+      "official": false
+    },
+    {
+      "id": "F510",
+      "country": "FSM",
+      "title": "Title 25 FSM Code, Environmental Protection",
+      "url": "https://faolex.fao.org/docs/pdf/mic78922.pdf",
+      "type": "Código nacional reproducido en FAOLEX",
+      "effect": "Título 25 del Código Federal y Environmental Impact Assessment Regulations. Existe regulación de evaluación ambiental general; variaciones por estado federado, sin obligación ALAN general comprobada.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "",
+      "official": true
+    },
+    {
+      "id": "F511",
+      "country": "MHL",
+      "title": "National Environmental Protection Act 1984",
+      "url": "https://faolex.fao.org/docs/pdf/mas64985.pdf",
+      "type": "Ley consolidada reproducida en FAOLEX",
+      "effect": "National Environmental Protection Act 1984, capítulo 1 del título 35 del código nacional; regula protección ambiental y autoridad competente, sin requisito lumínico expreso identificado.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "1984",
+      "official": true
+    },
+    {
+      "id": "F512",
+      "country": "HTI",
+      "title": "Décret sur la gestion de l'environnement (2005)",
+      "url": "https://faolex.fao.org/en/documents/LEX-FAOC065901/decret-portant-sur-la-gestion-de-l-environnement-et-de-regul-hti-2005",
+      "type": "Registro jurídico FAOLEX",
+      "effect": "Decreto de 12 de octubre de 2005 relativo a gestión ambiental y desarrollo sostenible, con principios de evaluación de impactos y conservación. No consta disposición específica de contaminación lumínica.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "2005",
+      "official": true
+    },
+    {
+      "id": "F513",
+      "country": "DMA",
+      "title": "Physical Planning Act 2002",
+      "url": "https://faolex.fao.org/docs/pdf/dmi33169.pdf",
+      "type": "Ley reproducida en FAOLEX",
+      "effect": "Physical Planning Act 2002 incluye planificación y procedimiento de evaluación ambiental; no se ha identificado un artículo expresamente sobre contaminación lumínica.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "2002",
+      "official": true
+    },
+    {
+      "id": "F514",
+      "country": "GRD",
+      "title": "Physical Planning and Development Control Act 2002",
+      "url": "https://faolex.fao.org/docs/pdf/grn86841.pdf",
+      "type": "Ley reproducida en FAOLEX",
+      "effect": "Physical Planning and Development Control Act 25/2002 regula proyectos, planificación territorial y evaluación ambiental, sin disposición fotométrica expresa identificada.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "2002",
+      "official": true
+    },
+    {
+      "id": "F515",
+      "country": "VCT",
+      "title": "Environmental Impact Assessment Regulations",
+      "url": "https://faolex.fao.org/docs/pdf/stv52994.pdf",
+      "type": "Reglamento reproducido en FAOLEX",
+      "effect": "Normativa de evaluación ambiental vinculada a permisos de planificación, con procedimientos de informes y medidas de mitigación. Sin requisito ALAN general identificado.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "",
+      "official": true
+    },
+    {
+      "id": "F516",
+      "country": "MCO",
+      "title": "Charte de mise en lumière des bâtiments",
+      "url": "https://monentreprise.gouv.mc/en/content/download/26377/file/Charte%20de%20mise%20en%20lumi%C3%A8re%20des%20b%C3%A2timents.pdf?inLanguage=fre-FR&version=2",
+      "type": "Guía gubernamental específica",
+      "effect": "Código del Medio Ambiente 2017 y charte de iluminación de edificios con criterios expresos de contaminación lumínica y biodiversidad nocturna. Las órdenes de apagado 2023-86 y 2023-426 terminaron en 2023; no tratarlas como obligaciones actuales.",
+      "note": "Guía gubernamental no equivalente a ley; órdenes temporales de 2023 expiradas.",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F517",
+      "country": "SMR",
+      "title": "Decreto Delegato 44/2012, Codice Ambientale",
+      "url": "https://faolex.fao.org/docs/pdf/smr119781.pdf",
+      "type": "Código ambiental reproducido en FAOLEX",
+      "effect": "Decreto delegado 44/2012 (Codice Ambientale), con recopilaciones coordinadas de legislación ambiental. No se ha cotejado requisito explícito sobre contaminación lumínica.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "2012",
+      "official": true
+    },
+    {
+      "id": "F518",
+      "country": "VAT",
+      "title": "Vatican Observatory — Light Pollution",
+      "url": "https://www.vaticanobservatory.org/light-pollution/",
+      "type": "Guía institucional no legislativa",
+      "effect": "El Observatorio Vaticano publica orientaciones sobre contaminación lumínica y el Governatorato desarrolla actuaciones de eficiencia energética. No se identifica una norma estatal específica y vinculante de alumbrado exterior.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "",
+      "official": true
+    },
+    {
+      "id": "F519",
+      "country": "MKD",
+      "title": "FAOLEX — North Macedonia country profile, Law on Environment 2005",
+      "url": "https://faolex.fao.org/ar/countries/MKD",
+      "type": "Catálogo jurídico FAOLEX",
+      "effect": "Ley de Medio Ambiente de 2005 identificada en la base FAOLEX. Se requieren comprobaciones de normativa urbana, de protección natural y de alumbrado; no hay obligación ALAN específica corroborada.",
+      "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
+      "year": "2005",
+      "official": false
     }
   ],
   "stars": [
