@@ -205,3 +205,7 @@ Seychelles (Ley de pesca 3/2025, art. 21: luces para atraer peces); Moldavia (AN
 ## Ampliación Ghana, Barbados y Bahamas — 23-11-2026
 
 **Estado vigente: 113 países, 377 fuentes, 137 medidas destacadas.** Ghana GS 1207:2018 §5.17: zonas de contaminación lumínica, uplight e intrusión y deslumbramiento B/G. Barbados Physical Development Plan Amendment 2023: evaluación de iluminación en playas de tortugas, con cautelas sobre su exigibilidad. Bahamas: Coastal Infrastructure Design Guidance 2023, guía no equivalente a ley general. Fiyi, Samoa, Vanuatu y otras jurisdicciones siguen pendientes de instrumentos específicos suficientemente documentados. El registro canónico es `data/atlas.json`.
+
+## Fase tortugas y espacios protegidos — 23 noviembre 2026
+
+**Estado vigente del atlas: 116 países, 385 referencias y 142 medidas destacadas.** Añadidos República Dominicana (Resolución 0024/2025 y reglamento de iluminación en áreas de anidamiento de tortugas marinas), Etiopía (Adís Abeba Directiva 185/2025 de alumbrado exterior) y Tanzania (Ley de Gestión Ambiental art.140 contaminación lumínica y TANAPA políticas de parques §3.10.4). Fiyi, Samoa, Vanuatu, Papúa Nueva Guinea y Botsuana quedan pendientes de normas específicas acreditadas. La base canónica es `data/atlas.json`.
