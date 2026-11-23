@@ -3745,7 +3745,8 @@
         "F469",
         "F470"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "region": "Asia"
     },
     {
       "iso": "BRN",
@@ -3764,7 +3765,8 @@
       "source_ids": [
         "F471"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "region": "Asia"
     },
     {
       "iso": "MMR",
@@ -3783,7 +3785,8 @@
       "source_ids": [
         "F472"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "region": "Asia"
     },
     {
       "iso": "TKM",
@@ -3802,7 +3805,8 @@
       "source_ids": [
         "F473"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "region": "Asia"
     },
     {
       "iso": "TJK",
@@ -3821,7 +3825,8 @@
       "source_ids": [
         "F474"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "region": "Asia"
     },
     {
       "iso": "PRK",
@@ -3840,7 +3845,8 @@
       "source_ids": [
         "F475"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "region": "Asia"
     }
   ],
   "sources": [
