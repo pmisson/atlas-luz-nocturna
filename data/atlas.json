@@ -51,7 +51,16 @@
     "review_territories_phase2_2026": "Isla de Man (ENV22), Jersey (GD8), Aruba (ROPV 14.3), Guernsey (art.3 control en conservación); Sint Maarten y Curazao indirectas.",
     "review_territories_phase3_2026": "VGB borrador §10.6.4 no aprobado; TCA EIA y política playas; AIA plan propone legislación; MSR plan 2012-2022 vigencia de exigibilidad incierta; GIB plan 2009 iluminación arquitectónica.",
     "review_territories_phase4_2026": "Pitcairn Part XII restricciones ALAN específicas; Ascensión luz reservada playas; Santa Elena reforma 2021 entrada en vigor incierta; Malvinas condiciones portuarias propuestas; Tristán y BIOT sin norma de iluminación vinculante verificada.",
-    "review_territories_phase5_2026": "Evaluación de viabilidad: SJM Svalbard luz en definición ambiental §3 (Jan Mayen régimen distinto), NIU plan no legal, TKL sin ALAN verificada, WLF aplicación de derecho francés no automática, SPM arrêté 2018 aplicabilidad territorial pendiente."
+    "review_territories_phase5_2026": "Evaluación de viabilidad: SJM Svalbard luz en definición ambiental §3 (Jan Mayen régimen distinto), NIU plan no legal, TKL sin ALAN verificada, WLF aplicación de derecho francés no automática, SPM arrêté 2018 aplicabilidad territorial pendiente.",
+    "political_status_counts": {
+      "miembro_onu": 193,
+      "estatus_especial": 1,
+      "observador_onu": 2,
+      "territorio_no_soberano": 31,
+      "libre_asociacion": 2
+    },
+    "political_status_method": "ONU: miembros (193), observadores (Palestina y Santa Sede, representada por Ciudad del Vaticano), libre asociación (Cook y Niue), Taiwán categoría diferenciada y territorios no soberanos. Svalbard y Jan Mayen se cuentan como una unidad ISO SJM.",
+    "documented_binding_count": 75
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -84,7 +93,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "dedicada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "CHL",
@@ -107,7 +117,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "dedicada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ARG",
@@ -133,7 +144,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "URY",
@@ -156,7 +168,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "VEN",
@@ -190,7 +203,8 @@
       "alan_scope_note": "Control técnico explícito de emisión ascendente (0 % FHS) para LED vial modular y protección territorial del observatorio; no ley integral contra contaminación lumínica.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Obligaciones sectoriales documentadas en textos primarios (Resolución 112/2014 y Decreto 631/1989); vigencia posterior y aplicación deben cotejarse antes de uso jurídico."
+      "alan_binding_note": "Obligaciones sectoriales documentadas en textos primarios (Resolución 112/2014 y Decreto 631/1989); vigencia posterior y aplicación deben cotejarse antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MEX",
@@ -212,7 +226,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "USA",
@@ -236,7 +251,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "CAN",
@@ -258,7 +274,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BRA",
@@ -282,7 +299,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "COL",
@@ -305,7 +323,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ECU",
@@ -327,7 +346,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "CRI",
@@ -349,7 +369,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "PAN",
@@ -371,7 +392,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BOL",
@@ -392,7 +414,8 @@
       "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual.",
       "alan_legal_class": "pendiente",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "PRY",
@@ -414,7 +437,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "GTM",
@@ -434,7 +458,8 @@
       "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual.",
       "alan_legal_class": "pendiente",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ESP",
@@ -495,7 +520,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ITA",
@@ -541,7 +567,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "FRA",
@@ -564,7 +591,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "dedicada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SVN",
@@ -586,7 +614,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "dedicada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "HRV",
@@ -608,7 +637,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "dedicada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "GBR",
@@ -630,7 +660,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "DEU",
@@ -652,7 +683,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "PRT",
@@ -674,7 +706,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "CZE",
@@ -696,7 +729,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BEL",
@@ -718,7 +752,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "CHE",
@@ -741,7 +776,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "NLD",
@@ -761,7 +797,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "AUT",
@@ -812,7 +849,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SVK",
@@ -832,7 +870,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "DNK",
@@ -852,7 +891,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SWE",
@@ -872,7 +912,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "NOR",
@@ -894,7 +935,8 @@
       "alan_scope_note": "§6.3 de la Forurensningsloven incorpora luz y radiaciones a la definición de contaminación solo cuando la autoridad competente así lo determine; no se ha acreditado disposición general de control ALAN aplicable sin esa determinación.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La mención condicional de luz en la definición legal no basta para contar obligación específica de reducción sin decisión o reglamentación aplicable."
+      "alan_binding_note": "La mención condicional de luz en la definición legal no basta para contar obligación específica de reducción sin decisión o reglamentación aplicable.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "FIN",
@@ -916,7 +958,8 @@
       "alan_scope_note": "§5 de la Ley de Protección Ambiental 527/2014 incluye luz como posible emisión y daño ambiental, pero no acredita de manera autónoma límites fotométricos ni mandato general de reducción de alumbrado exterior.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "Se verifica reconocimiento legal de luz como emisión potencialmente contaminante; falta identificar una obligación técnica concreta aplicable a fuentes exteriores."
+      "alan_binding_note": "Se verifica reconocimiento legal de luz como emisión potencialmente contaminante; falta identificar una obligación técnica concreta aplicable a fuentes exteriores.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "POL",
@@ -939,7 +982,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "IRL",
@@ -961,7 +1005,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "GRC",
@@ -981,7 +1026,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "CHN",
@@ -1004,7 +1050,8 @@
       "alan_scope_note": "Capítulo 36 de un código ambiental nacional vigente, con deberes explícitos de prevención y reducción de contaminación lumínica.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Obligación legal nacional documentada (vigente desde 15-08-2026); límites cuantitativos sujetos a desarrollo normativo."
+      "alan_binding_note": "Obligación legal nacional documentada (vigente desde 15-08-2026); límites cuantitativos sujetos a desarrollo normativo.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "KOR",
@@ -1027,7 +1074,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "dedicada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "JPN",
@@ -1049,7 +1097,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "TWN",
@@ -1072,7 +1121,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "estatus_especial"
     },
     {
       "iso": "SGP",
@@ -1096,7 +1146,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MYS",
@@ -1119,7 +1170,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "IND",
@@ -1141,7 +1193,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "AUS",
@@ -1163,7 +1216,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "NZL",
@@ -1186,7 +1240,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ZAF",
@@ -1209,7 +1264,8 @@
       "alan_scope_note": "Protección de observatorios astronómicos, no una prohibición general en todo el territorio.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SAU",
@@ -1243,7 +1299,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "OMN",
@@ -1268,7 +1325,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MAR",
@@ -1291,7 +1349,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "NAM",
@@ -1311,7 +1370,8 @@
       "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual.",
       "alan_legal_class": "pendiente",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MLT",
@@ -1334,7 +1394,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "AND",
@@ -1361,7 +1422,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "dedicada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "LUX",
@@ -1388,7 +1450,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "HUN",
@@ -1410,7 +1473,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "LVA",
@@ -1435,7 +1499,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "IDN",
@@ -1459,7 +1524,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "LIE",
@@ -1482,7 +1548,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ARE",
@@ -1506,7 +1573,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "EST",
@@ -1528,7 +1596,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ISL",
@@ -1553,7 +1622,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "LTU",
@@ -1575,7 +1645,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BGR",
@@ -1595,7 +1666,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "CYP",
@@ -1616,7 +1688,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "VNM",
@@ -1639,7 +1712,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SRB",
@@ -1661,7 +1735,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ROU",
@@ -1685,7 +1760,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "TUR",
@@ -1710,7 +1786,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ISR",
@@ -1735,7 +1812,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "DZA",
@@ -1757,7 +1835,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "EGY",
@@ -1779,7 +1858,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "TUN",
@@ -1803,7 +1883,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BHR",
@@ -1825,7 +1906,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "KAZ",
@@ -1847,7 +1929,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "UKR",
@@ -1870,7 +1953,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "PAK",
@@ -1890,7 +1974,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "LKA",
@@ -1912,7 +1997,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "CMR",
@@ -1934,7 +2020,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "TCD",
@@ -1956,7 +2043,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "NGA",
@@ -1979,7 +2067,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "THA",
@@ -2002,7 +2091,8 @@
       "alan_scope_note": "La Public Health Act B.E. 2535 (1992), art. 25(4), identifica expresamente la luz perjudicial para la salud como molestia; permite acción administrativa frente a supuestos concretos. No es límite fotométrico universal.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Obligación de intervención en el régimen de molestias de salud pública, condicionada al daño o riesgo y las competencias locales. Verificar disposiciones modificatorias."
+      "alan_binding_note": "Obligación de intervención en el régimen de molestias de salud pública, condicionada al daño o riesgo y las competencias locales. Verificar disposiciones modificatorias.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "NIC",
@@ -2025,7 +2115,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SLV",
@@ -2048,7 +2139,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "QAT",
@@ -2070,7 +2162,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "AZE",
@@ -2090,7 +2183,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BGD",
@@ -2112,7 +2206,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BLR",
@@ -2144,7 +2239,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "KEN",
@@ -2165,7 +2261,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "LBN",
@@ -2187,7 +2284,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "RUS",
@@ -2223,7 +2321,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "RWA",
@@ -2243,7 +2342,8 @@
       "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual.",
       "alan_legal_class": "pendiente",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SEN",
@@ -2263,7 +2363,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SLE",
@@ -2285,7 +2386,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "UZB",
@@ -2307,7 +2409,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SYC",
@@ -2331,7 +2434,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MDA",
@@ -2356,7 +2460,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "JAM",
@@ -2380,7 +2485,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "KWT",
@@ -2404,7 +2510,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "TTO",
@@ -2428,7 +2535,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "JOR",
@@ -2450,7 +2558,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MNE",
@@ -2474,7 +2583,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MNG",
@@ -2499,7 +2609,8 @@
       "alan_scope_note": "Norma técnica de iluminación БНбД 23-02-08, reglas de alumbrado exterior sobre iluminancia vertical en ventanas (5/7/10/20 lx según entorno). Protección explícita frente a intrusión luminosa residencial; no ley integral de cielo oscuro.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Límites fotométricos de iluminación vertical comprobados documentalmente. Debe verificarse edición vigente y aplicabilidad exacta de cada categoría de vía."
+      "alan_binding_note": "Límites fotométricos de iluminación vertical comprobados documentalmente. Debe verificarse edición vigente y aplicabilidad exacta de cada categoría de vía.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "PHL",
@@ -2524,7 +2635,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ARM",
@@ -2548,7 +2660,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "NPL",
@@ -2572,7 +2685,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BTN",
@@ -2593,7 +2707,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MUS",
@@ -2616,7 +2731,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MDG",
@@ -2639,7 +2755,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BIH",
@@ -2662,7 +2779,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "KGZ",
@@ -2686,7 +2804,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "GHA",
@@ -2711,7 +2830,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BRB",
@@ -2736,7 +2856,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BHS",
@@ -2757,7 +2878,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "DOM",
@@ -2782,7 +2904,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "dedicada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ETH",
@@ -2805,7 +2928,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "TZA",
@@ -2830,7 +2954,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "HND",
@@ -2853,7 +2978,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BLZ",
@@ -2876,7 +3002,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "VUT",
@@ -2899,7 +3026,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "UGA",
@@ -2923,7 +3051,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ZMB",
@@ -2946,7 +3075,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "FJI",
@@ -2969,7 +3099,8 @@
       "alan_scope_note": "La guía oficial FRA 2019 incorpora parámetros expresos sobre deslumbramiento, emisión ascendente, skyglow y luz intrusa en diseños viales.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "Guía técnica de la autoridad vial, potencialmente contractual o administrativa en proyectos FRA. No se ha probado que sea una obligación legislativa nacional general."
+      "alan_binding_note": "Guía técnica de la autoridad vial, potencialmente contractual o administrativa en proyectos FRA. No se ha probado que sea una obligación legislativa nacional general.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BWA",
@@ -2992,7 +3123,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "CUB",
@@ -3015,7 +3147,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MOZ",
@@ -3041,7 +3174,8 @@
       "alan_scope_note": "El POEM aprobado por Resolución 63/2024 contempla reducir iluminación nocturna durante anidación de tortugas. La medida es de planificación ecológica, no límite general.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "Plan nacional aprobado y publicado en Boletim da República, pero falta demostrar que la instrucción de reducir iluminación sea directamente exigible sin instrumentos específicos de ejecución."
+      "alan_binding_note": "Plan nacional aprobado y publicado en Boletim da República, pero falta demostrar que la instrucción de reducir iluminación sea directamente exigible sin instrumentos específicos de ejecución.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "WSM",
@@ -3065,7 +3199,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ALB",
@@ -3088,7 +3223,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "CPV",
@@ -3109,7 +3245,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "PSE",
@@ -3129,7 +3266,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "observador_onu"
     },
     {
       "iso": "KNA",
@@ -3150,7 +3288,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "PNG",
@@ -3170,7 +3309,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MDV",
@@ -3190,7 +3330,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "LCA",
@@ -3210,7 +3351,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ATG",
@@ -3231,7 +3373,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "GEO",
@@ -3252,7 +3395,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "IRQ",
@@ -3273,7 +3417,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "LBY",
@@ -3293,7 +3438,8 @@
       "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "IRN",
@@ -3314,7 +3460,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MRT",
@@ -3335,7 +3482,8 @@
       "alan_scope_note": "Prohibición textual de fuentes luminosas con radiaciones nocivas, dependiente de las condiciones de protección reglamentarias.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "Texto histórico vinculante verificado; vigencia concreta tras Ley 2025-019 y reglamento de radiaciones no corroborados, por lo que se excluye del contador de obligaciones verificadas."
+      "alan_binding_note": "Texto histórico vinculante verificado; vigencia concreta tras Ley 2025-019 y reglamento de radiaciones no corroborados, por lo que se excluye del contador de obligaciones verificadas.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SYR",
@@ -3357,7 +3505,8 @@
       "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual.",
       "alan_legal_class": "pendiente",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "DJI",
@@ -3378,7 +3527,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SDN",
@@ -3398,7 +3548,8 @@
       "alan_scope_note": "Prohibición explícita de contaminación lumínica según fuentes secundarias; cotejo de artículo exacto y vigencia pendiente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "TLS",
@@ -3418,7 +3569,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "KHM",
@@ -3438,7 +3590,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "LAO",
@@ -3460,7 +3613,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "GIN",
@@ -3481,7 +3635,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "TGO",
@@ -3502,7 +3657,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "GAB",
@@ -3523,7 +3679,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "LBR",
@@ -3543,7 +3700,8 @@
       "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BFA",
@@ -3564,7 +3722,8 @@
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "COG",
@@ -3585,7 +3744,8 @@
       "alan_scope_note": "Art. 91 obliga a reducir intensidad de luces que perturben la visión; no fija límites de cielo nocturno.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "AGO",
@@ -3606,7 +3766,8 @@
       "alan_scope_note": "Programa sectorial e información sobre molestias luminosas en evaluación de impacto, sin límites de luz general.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ZWE",
@@ -3627,7 +3788,8 @@
       "alan_scope_note": "El formulario reglamentario EHMF exige valorar riesgo de contaminación lumínica y proponer mitigación en proyectos de comercio de carbono.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Regulación nacional vigente desde 02-05-2025, obligatoria para los proyectos comprendidos; no impone un límite fotométrico general. Identifica un procedimiento de evaluación y mitigación, no una prohibición universal."
+      "alan_binding_note": "Regulación nacional vigente desde 02-05-2025, obligatoria para los proyectos comprendidos; no impone un límite fotométrico general. Identifica un procedimiento de evaluación y mitigación, no una prohibición universal.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "CIV",
@@ -3648,7 +3810,8 @@
       "alan_scope_note": "Obligación legal expresa de controlar molestias luminosas en el Código de Higiene.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "COD",
@@ -3669,7 +3832,8 @@
       "alan_scope_note": "No consta artículo específico sobre luz artificial en las normas revisadas.",
       "alan_legal_class": "pendiente",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "AFG",
@@ -3690,7 +3854,8 @@
       "alan_scope_note": "Marco ambiental general; no se ha identificado una disposición lumínica explícita.",
       "alan_legal_class": "pendiente",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BEN",
@@ -3711,7 +3876,8 @@
       "alan_scope_note": "Marco ambiental general; articulado relativo a luces pendiente de corroboración.",
       "alan_legal_class": "pendiente",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MLI",
@@ -3732,7 +3898,8 @@
       "alan_scope_note": "Restricción expresa de molestias por fuerte luminosidad en viviendas y alrededores. Alcance sectorial limitado, no ley específica de skyglow.",
       "alan_legal_class": "integrada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "YEM",
@@ -3753,7 +3920,8 @@
         "F470"
       ],
       "star_ids": [],
-      "region": "Asia"
+      "region": "Asia",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BRN",
@@ -3773,7 +3941,8 @@
         "F471"
       ],
       "star_ids": [],
-      "region": "Asia"
+      "region": "Asia",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MMR",
@@ -3793,7 +3962,8 @@
         "F472"
       ],
       "star_ids": [],
-      "region": "Asia"
+      "region": "Asia",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "TKM",
@@ -3813,7 +3983,8 @@
         "F473"
       ],
       "star_ids": [],
-      "region": "Asia"
+      "region": "Asia",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "TJK",
@@ -3833,7 +4004,8 @@
         "F474"
       ],
       "star_ids": [],
-      "region": "Asia"
+      "region": "Asia",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "PRK",
@@ -3853,7 +4025,8 @@
         "F475"
       ],
       "star_ids": [],
-      "region": "Asia"
+      "region": "Asia",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "BDI",
@@ -3873,7 +4046,8 @@
       "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "CAF",
@@ -3893,7 +4067,8 @@
       "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "COM",
@@ -3915,7 +4090,8 @@
       "alan_scope_note": "Medida ecológica explícita en un plan empresarial de torres, no norma general.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "Compromisos de gestión empresarial identificados; exigibilidad contractual o por permiso sin acreditar."
+      "alan_binding_note": "Compromisos de gestión empresarial identificados; exigibilidad contractual o por permiso sin acreditar.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "ERI",
@@ -3935,7 +4111,8 @@
       "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
       "alan_legal_class": "pendiente",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "GMB",
@@ -3955,7 +4132,8 @@
       "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "GNB",
@@ -3975,7 +4153,8 @@
       "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "GNQ",
@@ -3995,7 +4174,8 @@
       "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "LSO",
@@ -4015,7 +4195,8 @@
       "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MWI",
@@ -4037,7 +4218,8 @@
       "alan_scope_note": "Mitigación ALAN expresa en ESMMP del proyecto Mpatamanga (no límite nacional).",
       "alan_legal_class": "pendiente",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "El plan de proyecto establece compromisos concretos; falta verificar incorporación a permiso y fuerza contractual final."
+      "alan_binding_note": "El plan de proyecto establece compromisos concretos; falta verificar incorporación a permiso y fuerza contractual final.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "NER",
@@ -4057,7 +4239,8 @@
       "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SSD",
@@ -4077,7 +4260,8 @@
       "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
       "alan_legal_class": "pendiente",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "STP",
@@ -4097,7 +4281,8 @@
       "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SWZ",
@@ -4119,7 +4304,8 @@
       "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SOM",
@@ -4139,7 +4325,8 @@
       "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "GRL",
@@ -4160,7 +4347,8 @@
         "F496",
         "F497"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "GUY",
@@ -4181,7 +4369,8 @@
         "F498",
         "F499"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SUR",
@@ -4202,7 +4391,8 @@
         "F500",
         "F501"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "political_status": "miembro_onu"
     },
     {
       "iso": "GUF",
@@ -4223,7 +4413,8 @@
         "F502",
         "F503"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "SLB",
@@ -4243,7 +4434,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "TON",
@@ -4263,7 +4455,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "KIR",
@@ -4283,7 +4476,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "TUV",
@@ -4303,7 +4497,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "NRU",
@@ -4323,7 +4518,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "PLW",
@@ -4343,7 +4539,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "FSM",
@@ -4363,7 +4560,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MHL",
@@ -4383,7 +4581,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "HTI",
@@ -4403,7 +4602,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "DMA",
@@ -4423,7 +4623,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "GRD",
@@ -4443,7 +4644,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "VCT",
@@ -4463,7 +4665,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "MCO",
@@ -4483,7 +4686,8 @@
       "alan_scope_note": "Se mencionan expresamente impactos de luz artificial, pero no se ha acreditado mandato ALAN vigente.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "SMR",
@@ -4503,7 +4707,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "VAT",
@@ -4523,7 +4728,8 @@
       "alan_scope_note": "Se mencionan expresamente impactos de luz artificial, pero no se ha acreditado mandato ALAN vigente.",
       "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "observador_onu"
     },
     {
       "iso": "MKD",
@@ -4543,7 +4749,8 @@
       "alan_scope_note": "No se ha corroborado disposición específica que regule la contaminación lumínica.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+      "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible.",
+      "political_status": "miembro_onu"
     },
     {
       "iso": "PRI",
@@ -4566,7 +4773,8 @@
       "alan_scope_note": "Ley territorial y reglamento dedicados expresamente a prevención y control de contaminación lumínica.",
       "alan_legal_class": "dedicada",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Obligaciones territoriales documentadas de iluminación exterior; revisar enmiendas y excepciones. Jurisdicción distinta, no Estado soberano."
+      "alan_binding_note": "Obligaciones territoriales documentadas de iluminación exterior; revisar enmiendas y excepciones. Jurisdicción distinta, no Estado soberano.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "NCL",
@@ -4586,7 +4794,8 @@
       "source_ids": [
         "F520"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "CYM",
@@ -4607,7 +4816,8 @@
         "F521",
         "F522"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "PYF",
@@ -4628,7 +4838,8 @@
         "F523",
         "F524"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "HKG",
@@ -4649,7 +4860,8 @@
         "F525",
         "F526"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "FRO",
@@ -4669,7 +4881,8 @@
       "alan_scope_note": "Contaminación por luz comprendida en norma ambiental general; sin umbrales generales comprobados.",
       "alan_legal_class": "norma_amplia",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Prevención sujeta al ámbito de los artículos 2 y 3 de la ley."
+      "alan_binding_note": "Prevención sujeta al ámbito de los artículos 2 y 3 de la ley.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "BMU",
@@ -4689,7 +4902,8 @@
       "alan_scope_note": "Referencia ambiental o de proyecto, sin obligación ALAN general demostrada.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "No computar como regulación específica vinculante general."
+      "alan_binding_note": "No computar como regulación específica vinculante general.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "GUM",
@@ -4710,7 +4924,8 @@
       "alan_scope_note": "Referencia ambiental o de proyecto, sin obligación ALAN general demostrada.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "No computar como regulación específica vinculante general."
+      "alan_binding_note": "No computar como regulación específica vinculante general.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "COK",
@@ -4731,7 +4946,8 @@
       "alan_scope_note": "Referencia ambiental o de proyecto, sin obligación ALAN general demostrada.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "No computar como regulación específica vinculante general."
+      "alan_binding_note": "No computar como regulación específica vinculante general.",
+      "political_status": "libre_asociacion"
     },
     {
       "iso": "IMN",
@@ -4753,7 +4969,8 @@
       "alan_scope_note": "Control de impacto lumínico dentro del ámbito delimitado del instrumento.",
       "alan_legal_class": "norma_amplia",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Restricción aplicable dentro de competencia urbanística y sus condiciones, sin límite general de luz."
+      "alan_binding_note": "Restricción aplicable dentro de competencia urbanística y sus condiciones, sin límite general de luz.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "JEY",
@@ -4775,7 +4992,8 @@
       "alan_scope_note": "Control de impacto lumínico dentro del ámbito delimitado del instrumento.",
       "alan_legal_class": "norma_amplia",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Restricción aplicable dentro de competencia urbanística y sus condiciones, sin límite general de luz."
+      "alan_binding_note": "Restricción aplicable dentro de competencia urbanística y sus condiciones, sin límite general de luz.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "ABW",
@@ -4796,7 +5014,8 @@
       "alan_scope_note": "Control de impacto lumínico dentro del ámbito delimitado del instrumento.",
       "alan_legal_class": "norma_amplia",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Restricción aplicable dentro de competencia urbanística y sus condiciones, sin límite general de luz."
+      "alan_binding_note": "Restricción aplicable dentro de competencia urbanística y sus condiciones, sin límite general de luz.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "GGY",
@@ -4817,7 +5036,8 @@
       "alan_scope_note": "Control de impacto lumínico dentro del ámbito delimitado del instrumento.",
       "alan_legal_class": "norma_amplia",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Restricción aplicable dentro de competencia urbanística y sus condiciones, sin límite general de luz."
+      "alan_binding_note": "Restricción aplicable dentro de competencia urbanística y sus condiciones, sin límite general de luz.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "SXM",
@@ -4838,7 +5058,8 @@
       "alan_scope_note": "Protección ambiental o faunística sin norma de iluminación verificable.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "No atribuir límite legal de iluminación sin texto expreso."
+      "alan_binding_note": "No atribuir límite legal de iluminación sin texto expreso.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "CUW",
@@ -4859,7 +5080,8 @@
       "alan_scope_note": "Protección ambiental o faunística sin norma de iluminación verificable.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "No atribuir límite legal de iluminación sin texto expreso."
+      "alan_binding_note": "No atribuir límite legal de iluminación sin texto expreso.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "VGB",
@@ -4879,7 +5101,8 @@
       "alan_scope_note": "Plan, borrador o evaluación ambiental sin obligación general de alumbrado verificada",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "Verificar fuerza vigente de cualquier permiso o instrumento antes de considerarlo vinculante"
+      "alan_binding_note": "Verificar fuerza vigente de cualquier permiso o instrumento antes de considerarlo vinculante",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "TCA",
@@ -4900,7 +5123,8 @@
       "alan_scope_note": "Plan, borrador o evaluación ambiental sin obligación general de alumbrado verificada",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "Verificar fuerza vigente de cualquier permiso o instrumento antes de considerarlo vinculante"
+      "alan_binding_note": "Verificar fuerza vigente de cualquier permiso o instrumento antes de considerarlo vinculante",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "AIA",
@@ -4921,7 +5145,8 @@
       "alan_scope_note": "Plan, borrador o evaluación ambiental sin obligación general de alumbrado verificada",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "Verificar fuerza vigente de cualquier permiso o instrumento antes de considerarlo vinculante"
+      "alan_binding_note": "Verificar fuerza vigente de cualquier permiso o instrumento antes de considerarlo vinculante",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "MSR",
@@ -4942,7 +5167,8 @@
       "alan_scope_note": "Plan, borrador o evaluación ambiental sin obligación general de alumbrado verificada",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "Verificar fuerza vigente de cualquier permiso o instrumento antes de considerarlo vinculante"
+      "alan_binding_note": "Verificar fuerza vigente de cualquier permiso o instrumento antes de considerarlo vinculante",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "GIB",
@@ -4964,7 +5190,8 @@
       "alan_scope_note": "Control urbanístico de luz arquitectónica sujeto a aprobación",
       "alan_legal_class": "norma_amplia",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Alcance urbanístico delimitado; sin umbrales de emisiones generales"
+      "alan_binding_note": "Alcance urbanístico delimitado; sin umbrales de emisiones generales",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "PCN",
@@ -4985,7 +5212,8 @@
       "alan_scope_note": "Restricciones expresas de iluminación dentro de ámbito territorial o sectorial definido.",
       "alan_legal_class": "norma_amplia",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Aplicar límites y excepciones según texto vigente y ámbito."
+      "alan_binding_note": "Aplicar límites y excepciones según texto vigente y ámbito.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "SHN",
@@ -5007,7 +5235,8 @@
       "alan_scope_note": "Norma ambiental, propuesta urbanística o reconocimiento de impacto sin obligación lumínica general confirmada.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "Requiere cotejo de entrada en vigor, autorización final o fuerza normativa antes de declarar obligación."
+      "alan_binding_note": "Requiere cotejo de entrada en vigor, autorización final o fuerza normativa antes de declarar obligación.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "ASC",
@@ -5027,7 +5256,8 @@
       "alan_scope_note": "Restricciones expresas de iluminación dentro de ámbito territorial o sectorial definido.",
       "alan_legal_class": "norma_amplia",
       "alan_binding_review": "documentada",
-      "alan_binding_note": "Aplicar límites y excepciones según texto vigente y ámbito."
+      "alan_binding_note": "Aplicar límites y excepciones según texto vigente y ámbito.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "FLK",
@@ -5048,7 +5278,8 @@
       "alan_scope_note": "Norma ambiental, propuesta urbanística o reconocimiento de impacto sin obligación lumínica general confirmada.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "Requiere cotejo de entrada en vigor, autorización final o fuerza normativa antes de declarar obligación."
+      "alan_binding_note": "Requiere cotejo de entrada en vigor, autorización final o fuerza normativa antes de declarar obligación.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "TAA",
@@ -5069,7 +5300,8 @@
       "alan_scope_note": "Norma ambiental, propuesta urbanística o reconocimiento de impacto sin obligación lumínica general confirmada.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "Requiere cotejo de entrada en vigor, autorización final o fuerza normativa antes de declarar obligación."
+      "alan_binding_note": "Requiere cotejo de entrada en vigor, autorización final o fuerza normativa antes de declarar obligación.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "IOT",
@@ -5091,7 +5323,8 @@
       "alan_scope_note": "Norma ambiental, propuesta urbanística o reconocimiento de impacto sin obligación lumínica general confirmada.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "Requiere cotejo de entrada en vigor, autorización final o fuerza normativa antes de declarar obligación."
+      "alan_binding_note": "Requiere cotejo de entrada en vigor, autorización final o fuerza normativa antes de declarar obligación.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "SJM",
@@ -5112,7 +5345,8 @@
       "alan_scope_note": "Svalbard ley ambiental define contaminación por luz bajo condiciones; Jan Mayen sin restricción lumínica específica identificada.",
       "alan_legal_class": "norma_amplia",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "No verificada prohibición concreta de iluminación; no contar como obligación ALAN exigible."
+      "alan_binding_note": "No verificada prohibición concreta de iluminación; no contar como obligación ALAN exigible.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "NIU",
@@ -5134,7 +5368,8 @@
       "alan_scope_note": "Instrumentos no obligatorios, ambientales generales o aplicabilidad pendiente.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "No acreditar obligación ALAN general."
+      "alan_binding_note": "No acreditar obligación ALAN general.",
+      "political_status": "libre_asociacion"
     },
     {
       "iso": "TKL",
@@ -5155,7 +5390,8 @@
       "alan_scope_note": "Instrumentos no obligatorios, ambientales generales o aplicabilidad pendiente.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "No acreditar obligación ALAN general."
+      "alan_binding_note": "No acreditar obligación ALAN general.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "WLF",
@@ -5175,7 +5411,8 @@
       "alan_scope_note": "Instrumentos no obligatorios, ambientales generales o aplicabilidad pendiente.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "No acreditar obligación ALAN general."
+      "alan_binding_note": "No acreditar obligación ALAN general.",
+      "political_status": "territorio_no_soberano"
     },
     {
       "iso": "SPM",
@@ -5196,7 +5433,8 @@
       "alan_scope_note": "Instrumentos no obligatorios, ambientales generales o aplicabilidad pendiente.",
       "alan_legal_class": "indirecta",
       "alan_binding_review": "no_acreditada",
-      "alan_binding_note": "No acreditar obligación ALAN general."
+      "alan_binding_note": "No acreditar obligación ALAN general.",
+      "political_status": "territorio_no_soberano"
     }
   ],
   "sources": [
