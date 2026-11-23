@@ -878,8 +878,8 @@
       "star_ids": [
         "M28"
       ],
-      "alan_scope": "uso",
-      "alan_scope_note": "Requiere confirmación del texto definitivo y de la entrada en vigor del código ecológico de 2026."
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Capítulo dedicado a contaminación lumínica en código ambiental 2026; pendiente confirmar vigencia y artículos efectivos."
     },
     {
       "iso": "KOR",
@@ -2960,8 +2960,8 @@
         "F437"
       ],
       "star_ids": [],
-      "alan_scope": "contexto",
-      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Prohibición explícita de contaminación lumínica según fuentes secundarias; cotejo de artículo exacto y vigencia pendiente."
     },
     {
       "iso": "TLS",
@@ -3156,8 +3156,8 @@
         "F457"
       ],
       "star_ids": [],
-      "alan_scope": "uso",
-      "alan_scope_note": "Obligación de evaluación y mitigación de luz en proyectos de comercio de carbono; no regulación general."
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Exige evaluación y mitigación explícita de contaminación lumínica en proyectos de comercio de carbono; ámbito sectorial."
     },
     {
       "iso": "CIV",
