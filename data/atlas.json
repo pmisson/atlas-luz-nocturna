@@ -66,7 +66,9 @@
       ],
       "star_ids": [
         "M01"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "CHL",
@@ -84,7 +86,9 @@
       ],
       "star_ids": [
         "M02"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "ARG",
@@ -105,7 +109,9 @@
       "star_ids": [
         "M86",
         "M87"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "URY",
@@ -123,7 +129,9 @@
       ],
       "star_ids": [
         "M03"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "VEN",
@@ -151,7 +159,9 @@
         "M46",
         "M47",
         "M48"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "MEX",
@@ -168,7 +178,9 @@
       ],
       "star_ids": [
         "M04"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "USA",
@@ -190,7 +202,9 @@
       "star_ids": [
         "M05",
         "M84"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "CAN",
@@ -207,7 +221,9 @@
       ],
       "star_ids": [
         "M06"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "BRA",
@@ -226,7 +242,9 @@
       ],
       "star_ids": [
         "M88"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "COL",
@@ -244,7 +262,9 @@
       ],
       "star_ids": [
         "M07"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "ECU",
@@ -261,7 +281,9 @@
       ],
       "star_ids": [
         "M08"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "CRI",
@@ -278,7 +300,9 @@
       ],
       "star_ids": [
         "M09"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "PAN",
@@ -295,7 +319,9 @@
       ],
       "star_ids": [
         "M10"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "BOL",
@@ -311,7 +337,9 @@
         "F023",
         "F024"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
     },
     {
       "iso": "PRY",
@@ -328,7 +356,9 @@
       ],
       "star_ids": [
         "M11"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "GTM",
@@ -343,7 +373,9 @@
       "source_ids": [
         "F026"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
     },
     {
       "iso": "ESP",
@@ -399,7 +431,9 @@
         "M43",
         "M44",
         "M45"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "ITA",
@@ -440,7 +474,9 @@
         "M51",
         "M52",
         "M53"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "FRA",
@@ -458,7 +494,9 @@
       ],
       "star_ids": [
         "M14"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "SVN",
@@ -475,7 +513,9 @@
       ],
       "star_ids": [
         "M15"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "HRV",
@@ -492,7 +532,9 @@
       ],
       "star_ids": [
         "M16"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "GBR",
@@ -509,7 +551,9 @@
       ],
       "star_ids": [
         "M17"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "DEU",
@@ -526,7 +570,9 @@
       ],
       "star_ids": [
         "M18"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "PRT",
@@ -543,7 +589,9 @@
       ],
       "star_ids": [
         "M19"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "CZE",
@@ -560,7 +608,9 @@
       ],
       "star_ids": [
         "M20"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "BEL",
@@ -577,7 +627,9 @@
       ],
       "star_ids": [
         "M21"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "CHE",
@@ -595,7 +647,9 @@
       ],
       "star_ids": [
         "M22"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "NLD",
@@ -610,7 +664,9 @@
       "source_ids": [
         "F044"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "AUT",
@@ -656,7 +712,9 @@
         "M55",
         "M56",
         "M57"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "SVK",
@@ -671,7 +729,9 @@
       "source_ids": [
         "F046"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "DNK",
@@ -686,7 +746,9 @@
       "source_ids": [
         "F047"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "SWE",
@@ -701,7 +763,9 @@
       "source_ids": [
         "F048"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "NOR",
@@ -718,7 +782,9 @@
       ],
       "star_ids": [
         "M24"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "La luz figura expresamente en el régimen de contaminación; comprobar condiciones de aplicación por caso."
     },
     {
       "iso": "FIN",
@@ -735,7 +801,9 @@
       ],
       "star_ids": [
         "M25"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "POL",
@@ -753,7 +821,9 @@
       ],
       "star_ids": [
         "M26"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "IRL",
@@ -770,7 +840,9 @@
       ],
       "star_ids": [
         "M27"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "GRC",
@@ -785,7 +857,9 @@
       "source_ids": [
         "F054"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "CHN",
@@ -803,7 +877,9 @@
       ],
       "star_ids": [
         "M28"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Requiere confirmación del texto definitivo y de la entrada en vigor del código ecológico de 2026."
     },
     {
       "iso": "KOR",
@@ -821,7 +897,9 @@
       ],
       "star_ids": [
         "M29"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "JPN",
@@ -838,7 +916,9 @@
       ],
       "star_ids": [
         "M30"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "TWN",
@@ -856,7 +936,9 @@
       ],
       "star_ids": [
         "M31"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "SGP",
@@ -875,7 +957,9 @@
       ],
       "star_ids": [
         "M32"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "MYS",
@@ -893,7 +977,9 @@
       ],
       "star_ids": [
         "M33"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "IND",
@@ -910,7 +996,9 @@
       ],
       "star_ids": [
         "M34"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "AUS",
@@ -927,7 +1015,9 @@
       ],
       "star_ids": [
         "M35"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "NZL",
@@ -945,7 +1035,9 @@
       ],
       "star_ids": [
         "M36"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "ZAF",
@@ -963,7 +1055,9 @@
       ],
       "star_ids": [
         "M37"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Protección de observatorios astronómicos, no una prohibición general en todo el territorio."
     },
     {
       "iso": "SAU",
@@ -992,7 +1086,9 @@
         "M65",
         "M66",
         "M67"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "OMN",
@@ -1012,7 +1108,9 @@
       "star_ids": [
         "M38",
         "M96"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "MAR",
@@ -1030,7 +1128,9 @@
       ],
       "star_ids": [
         "M39"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "NAM",
@@ -1045,7 +1145,9 @@
       "source_ids": [
         "F077"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
     },
     {
       "iso": "MLT",
@@ -1063,7 +1165,9 @@
       ],
       "star_ids": [
         "M40"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "AND",
@@ -1085,7 +1189,9 @@
         "M69",
         "M70",
         "M71"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "LUX",
@@ -1107,7 +1213,9 @@
       "star_ids": [
         "M72",
         "M73"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "HUN",
@@ -1124,7 +1232,9 @@
       ],
       "star_ids": [
         "M74"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "LVA",
@@ -1144,7 +1254,9 @@
       "star_ids": [
         "M75",
         "M76"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "IDN",
@@ -1163,7 +1275,9 @@
       ],
       "star_ids": [
         "M77"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "LIE",
@@ -1181,7 +1295,9 @@
       ],
       "star_ids": [
         "M78"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "ARE",
@@ -1200,7 +1316,9 @@
       "star_ids": [
         "M79",
         "M80"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "EST",
@@ -1217,7 +1335,9 @@
       ],
       "star_ids": [
         "M81"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "ISL",
@@ -1237,7 +1357,9 @@
       "star_ids": [
         "M82",
         "M83"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "LTU",
@@ -1254,7 +1376,9 @@
         "F246",
         "F247"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "BGR",
@@ -1269,7 +1393,9 @@
       "source_ids": [
         "F250"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "CYP",
@@ -1285,7 +1411,9 @@
         "F251",
         "F252"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "VNM",
@@ -1303,7 +1431,9 @@
       ],
       "star_ids": [
         "M85"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "SRB",
@@ -1320,7 +1450,9 @@
       ],
       "star_ids": [
         "M89"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "ROU",
@@ -1339,7 +1471,9 @@
       ],
       "star_ids": [
         "M90"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "TUR",
@@ -1359,7 +1493,9 @@
       "star_ids": [
         "M91",
         "M92"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "ISR",
@@ -1379,7 +1515,9 @@
       "star_ids": [
         "M93",
         "M94"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "DZA",
@@ -1396,7 +1534,9 @@
         "F269",
         "F270"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "EGY",
@@ -1413,7 +1553,9 @@
         "F272",
         "F273"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "TUN",
@@ -1432,7 +1574,9 @@
       ],
       "star_ids": [
         "M95"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "BHR",
@@ -1449,7 +1593,9 @@
       ],
       "star_ids": [
         "M97"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "KAZ",
@@ -1466,7 +1612,9 @@
       ],
       "star_ids": [
         "M98"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "UKR",
@@ -1484,7 +1632,9 @@
       ],
       "star_ids": [
         "M99"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "PAK",
@@ -1499,7 +1649,9 @@
       "source_ids": [
         "F282"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "LKA",
@@ -1516,7 +1668,9 @@
       ],
       "star_ids": [
         "M100"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "CMR",
@@ -1533,7 +1687,9 @@
       ],
       "star_ids": [
         "M101"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "TCD",
@@ -1550,7 +1706,9 @@
       ],
       "star_ids": [
         "M102"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "NGA",
@@ -1568,7 +1726,9 @@
       ],
       "star_ids": [
         "M103"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "THA",
@@ -1586,7 +1746,9 @@
       ],
       "star_ids": [
         "M104"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "NIC",
@@ -1604,7 +1766,9 @@
       ],
       "star_ids": [
         "M105"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "SLV",
@@ -1622,7 +1786,9 @@
       ],
       "star_ids": [
         "M106"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "QAT",
@@ -1639,7 +1805,9 @@
       ],
       "star_ids": [
         "M107"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "AZE",
@@ -1654,7 +1822,9 @@
       "source_ids": [
         "F295"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "BGD",
@@ -1671,7 +1841,9 @@
       ],
       "star_ids": [
         "M108"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "BLR",
@@ -1698,7 +1870,9 @@
         "M113",
         "M114",
         "M115"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "KEN",
@@ -1714,7 +1888,9 @@
         "F298",
         "F299"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "LBN",
@@ -1731,7 +1907,9 @@
       ],
       "star_ids": [
         "M109"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "RUS",
@@ -1762,7 +1940,9 @@
         "M111",
         "M112",
         "M116"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "RWA",
@@ -1777,7 +1957,9 @@
       "source_ids": [
         "F303"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
     },
     {
       "iso": "SEN",
@@ -1792,7 +1974,9 @@
       "source_ids": [
         "F304"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "SLE",
@@ -1809,7 +1993,9 @@
         "F411",
         "F412"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "UZB",
@@ -1826,7 +2012,9 @@
       ],
       "star_ids": [
         "M110"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "SYC",
@@ -1845,7 +2033,9 @@
       ],
       "star_ids": [
         "M117"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "MDA",
@@ -1865,7 +2055,9 @@
       ],
       "star_ids": [
         "M118"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "JAM",
@@ -1884,7 +2076,9 @@
       ],
       "star_ids": [
         "M119"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "KWT",
@@ -1903,7 +2097,9 @@
       ],
       "star_ids": [
         "M120"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "TTO",
@@ -1922,7 +2118,9 @@
       ],
       "star_ids": [
         "M121"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "JOR",
@@ -1939,7 +2137,9 @@
         "F343",
         "F344"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "MNE",
@@ -1958,7 +2158,9 @@
       ],
       "star_ids": [
         "M122"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "MNG",
@@ -1978,7 +2180,9 @@
       "star_ids": [
         "M123",
         "M124"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "PHL",
@@ -1998,7 +2202,9 @@
       "star_ids": [
         "M125",
         "M126"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "ARM",
@@ -2017,7 +2223,9 @@
       "star_ids": [
         "M127",
         "M128"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "NPL",
@@ -2036,7 +2244,9 @@
       ],
       "star_ids": [
         "M129"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "BTN",
@@ -2052,7 +2262,9 @@
         "F359",
         "F360"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "MUS",
@@ -2070,7 +2282,9 @@
       ],
       "star_ids": [
         "M130"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "MDG",
@@ -2088,7 +2302,9 @@
       ],
       "star_ids": [
         "M131"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "BIH",
@@ -2106,7 +2322,9 @@
       ],
       "star_ids": [
         "M132"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "KGZ",
@@ -2125,7 +2343,9 @@
       "star_ids": [
         "M133",
         "M134"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "GHA",
@@ -2145,7 +2365,9 @@
       "star_ids": [
         "M135",
         "M136"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "BRB",
@@ -2165,7 +2387,9 @@
       ],
       "star_ids": [
         "M137"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "BHS",
@@ -2181,7 +2405,9 @@
         "F376",
         "F377"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "DOM",
@@ -2201,7 +2427,9 @@
       "star_ids": [
         "M138",
         "M139"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "ETH",
@@ -2219,7 +2447,9 @@
       ],
       "star_ids": [
         "M140"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "TZA",
@@ -2239,7 +2469,9 @@
       "star_ids": [
         "M141",
         "M142"
-      ]
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "HND",
@@ -2257,7 +2489,9 @@
       ],
       "star_ids": [
         "M143"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "BLZ",
@@ -2275,7 +2509,9 @@
       ],
       "star_ids": [
         "M144"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "VUT",
@@ -2293,7 +2529,9 @@
       ],
       "star_ids": [
         "M145"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "UGA",
@@ -2312,7 +2550,9 @@
       ],
       "star_ids": [
         "M146"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "ZMB",
@@ -2330,7 +2570,9 @@
       ],
       "star_ids": [
         "M147"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "FJI",
@@ -2348,7 +2590,9 @@
       ],
       "star_ids": [
         "M148"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "BWA",
@@ -2366,7 +2610,9 @@
       ],
       "star_ids": [
         "M149"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "CUB",
@@ -2384,7 +2630,9 @@
       ],
       "star_ids": [
         "M150"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "MOZ",
@@ -2405,7 +2653,9 @@
       "star_ids": [
         "M151",
         "M152"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "WSM",
@@ -2424,7 +2674,9 @@
       "star_ids": [
         "M153",
         "M154"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "ALB",
@@ -2442,7 +2694,9 @@
       ],
       "star_ids": [
         "M155"
-      ]
+      ],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "CPV",
@@ -2458,7 +2712,9 @@
         "F413",
         "F414"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "PSE",
@@ -2473,7 +2729,9 @@
       "source_ids": [
         "F415"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "KNA",
@@ -2489,7 +2747,9 @@
         "F416",
         "F417"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "PNG",
@@ -2504,7 +2764,9 @@
       "source_ids": [
         "F418"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "MDV",
@@ -2519,7 +2781,9 @@
       "source_ids": [
         "F419"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "LCA",
@@ -2534,7 +2798,9 @@
       "source_ids": [
         "F420"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "ATG",
@@ -2550,7 +2816,9 @@
         "F421",
         "F422"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "GEO",
@@ -2566,7 +2834,9 @@
         "F423",
         "F424"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "IRQ",
@@ -2582,7 +2852,9 @@
         "F425",
         "F426"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "LBY",
@@ -2597,7 +2869,9 @@
       "source_ids": [
         "F427"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
     },
     {
       "iso": "IRN",
@@ -2613,7 +2887,9 @@
         "F428",
         "F429"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "MRT",
@@ -2629,7 +2905,9 @@
         "F430",
         "F431"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "SYR",
@@ -2646,7 +2924,9 @@
         "F433",
         "F434"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
     },
     {
       "iso": "DJI",
@@ -2662,7 +2942,9 @@
         "F435",
         "F436"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "SDN",
@@ -2677,7 +2959,9 @@
       "source_ids": [
         "F437"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
     },
     {
       "iso": "TLS",
@@ -2692,7 +2976,9 @@
       "source_ids": [
         "F438"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "KHM",
@@ -2707,7 +2993,9 @@
       "source_ids": [
         "F439"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "LAO",
@@ -2724,7 +3012,9 @@
         "F441",
         "F442"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "GIN",
@@ -2740,7 +3030,9 @@
         "F443",
         "F444"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "TGO",
@@ -2756,7 +3048,9 @@
         "F445",
         "F446"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "GAB",
@@ -2772,7 +3066,9 @@
         "F447",
         "F448"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "LBR",
@@ -2787,7 +3083,9 @@
       "source_ids": [
         "F449"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
     },
     {
       "iso": "BFA",
@@ -2803,7 +3101,9 @@
         "F450",
         "F451"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
     },
     {
       "iso": "COG",
@@ -2819,7 +3119,9 @@
         "F452",
         "F453"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Art. 91 obliga a reducir intensidad de luces que perturben la visión; no fija límites de cielo nocturno."
     },
     {
       "iso": "AGO",
@@ -2835,7 +3137,9 @@
         "F454",
         "F455"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Programa sectorial e información sobre molestias luminosas en evaluación de impacto, sin límites de luz general."
     },
     {
       "iso": "ZWE",
@@ -2851,7 +3155,9 @@
         "F456",
         "F457"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "uso",
+      "alan_scope_note": "Obligación de evaluación y mitigación de luz en proyectos de comercio de carbono; no regulación general."
     },
     {
       "iso": "CIV",
@@ -2867,7 +3173,9 @@
         "F458",
         "F459"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Obligación legal expresa de controlar molestias luminosas en el Código de Higiene."
     },
     {
       "iso": "COD",
@@ -2883,7 +3191,9 @@
         "F460",
         "F461"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No consta artículo específico sobre luz artificial en las normas revisadas."
     },
     {
       "iso": "AFG",
@@ -2899,7 +3209,9 @@
         "F462",
         "F463"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "Marco ambiental general; no se ha identificado una disposición lumínica explícita."
     },
     {
       "iso": "BEN",
@@ -2915,7 +3227,9 @@
         "F464",
         "F465"
       ],
-      "star_ids": []
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "Marco ambiental general; articulado relativo a luces pendiente de corroboración."
     }
   ],
   "sources": [
