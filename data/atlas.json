@@ -2,7 +2,7 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 198,
+    "country_count": 199,
     "source_count": 519,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
@@ -45,7 +45,8 @@
     "review_africa_2026": "14 Estados africanos incorporados 23-11-2026 sin atribución de obligaciones ALAN no acreditadas; Comoras reforma 2025, Santo Tomé reforma 2026, Somalia ley 2024, Sudán del Sur proyecto pendiente.",
     "africa_audit_2026": "Mpatamanga Malawi: ESMMP 2024 medidas M 8-122–125 y OC-23; Telecom Comoros: BAP 2021 e informe AXIAN. Esuatini: EA Regulations 2022; ALAN no expresamente obligatorio.",
     "review_greenland_guianas_2026": "2026-11-23: Groenlandia, Guyana, Surinam y Guayana Francesa añadidas. Groenlandia y Guayana Francesa son territorios no soberanos. Guayana Francesa tiene ALAN vinculante por derecho francés; no duplicar conteo soberano.",
-    "completion_2026": "Dieciséis Estados añadidos el 23-11-2026: 8 Oceanía, 4 América, 4 Europa. Registro de Estados miembros y observadores ONU completo bajo convención geopolítica del atlas; Mónaco y Vaticano ALAN no vinculante."
+    "completion_2026": "Dieciséis Estados añadidos el 23-11-2026: 8 Oceanía, 4 América, 4 Europa. Registro de Estados miembros y observadores ONU completo bajo convención geopolítica del atlas; Mónaco y Vaticano ALAN no vinculante.",
+    "puerto_rico_2026": "Puerto Rico desagregado de USA: Ley 218/2008, Ley 103/2020 y reglamento DRNA. Cuenta como jurisdicción territorial, no Estado soberano."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -213,21 +214,18 @@
       "name": "Estados Unidos",
       "region": "América",
       "level": "subnacional",
-      "summary": "No existe un régimen federal general único. Diversos estados y municipios regulan apantallamiento, horario y zonas astronómicas. Puerto Rico dispone de ley específica 218/2008 y reglamento territorial de control de contaminación lumínica.",
+      "summary": "No existe un régimen federal general único de control de contaminación lumínica. Diversos estados y municipios regulan apantallamiento, horarios y zonas astronómicas. Puerto Rico dispone de legislación territorial propia y figura como jurisdicción independiente en este atlas.",
       "scope": "Estatal / municipal",
       "confidence": "Fuente primaria identificada",
-      "note": " Puerto Rico se documenta como jurisdicción territorial separada, no país adicional. Véase docs/USA_puerto-rico.md.",
+      "note": "La regulación territorial de Puerto Rico se documenta en la ficha PRI, separada de los estados federados.",
       "keywords": "",
       "source_ids": [
         "F012",
         "F013",
-        "F014",
-        "F248",
-        "F249"
+        "F014"
       ],
       "star_ids": [
-        "M05",
-        "M84"
+        "M05"
       ],
       "alan_scope": "proteccion",
       "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
@@ -4541,6 +4539,29 @@
       "alan_legal_class": "indirecta",
       "alan_binding_review": "pendiente",
       "alan_binding_note": "No se acredita obligación de control de contaminación lumínica específica y actualmente exigible."
+    },
+    {
+      "iso": "PRI",
+      "name": "Puerto Rico",
+      "region": "América",
+      "level": "especifica",
+      "summary": "La Ley 218-2008 de Control y Prevención de la Contaminación Lumínica, enmendada entre otras por la Ley 103-2020, y su reglamento territorial establecen un régimen específico de alumbrado exterior para reducir emisiones innecesarias hacia el cielo, luz intrusa y afecciones ambientales. La documentación oficial de 2026 sigue citando el reglamento.",
+      "scope": "Territorio no incorporado de Estados Unidos; legislación territorial puertorriqueña, no federal ni de Estado soberano",
+      "confidence": "Ley en compilación de OGP y reglamento publicado por DRNA; referencias administrativas de 2026",
+      "note": "Vigencia documentada en normativa territorial; cotejar modificaciones más recientes y excepciones para cada instalación. No contar como Estado independiente.",
+      "keywords": "Puerto Rico Ley 218 2008 ley contaminación lumínica reglamento DRNA cielo nocturno tortugas bioluminiscencia",
+      "source_ids": [
+        "F248",
+        "F249"
+      ],
+      "star_ids": [
+        "M84"
+      ],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Ley territorial y reglamento dedicados expresamente a prevención y control de contaminación lumínica.",
+      "alan_legal_class": "dedicada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Obligaciones territoriales documentadas de iluminación exterior; revisar enmiendas y excepciones. Jurisdicción distinta, no Estado soberano."
     }
   ],
   "sources": [
@@ -7263,7 +7284,7 @@
     },
     {
       "id": "F248",
-      "country": "USA",
+      "country": "PRI",
       "title": "Puerto Rico: Ley 218/2008 de Control y Prevención de la Contaminación Lumínica, texto enmendado",
       "url": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/Ambientales/218-2008/218-2008.pdf",
       "type": "Ley territorial específica",
@@ -7274,7 +7295,7 @@
     },
     {
       "id": "F249",
-      "country": "USA",
+      "country": "PRI",
       "title": "Puerto Rico: Reglamento para el Control y la Prevención de la Contaminación Lumínica",
       "url": "https://www.drna.pr.gov/wp-content/uploads/2020/08/3__Reglamento-Para-El-Controly-la-Prevenci%C3%B3n-de-la-Contaminaci%C3%B3n-Lum%C3%ADnica.pdf",
       "type": "Reglamento territorial",
@@ -11448,7 +11469,7 @@
     },
     {
       "id": "M84",
-      "country": "USA",
+      "country": "PRI",
       "title": "Puerto Rico: ley territorial específica de contaminación lumínica",
       "description": "La Ley 218-2008, modificada hasta 2020, establece un programa jurídico de prevención de emisiones excesivas, protege bioluminiscencia, tortugas y cielo astronómico y prevé un reglamento territorial.",
       "force": "Ley territorial vinculante",
