@@ -209,3 +209,7 @@ Seychelles (Ley de pesca 3/2025, art. 21: luces para atraer peces); Moldavia (AN
 ## Fase tortugas y espacios protegidos — 23 noviembre 2026
 
 **Estado vigente del atlas: 116 países, 385 referencias y 142 medidas destacadas.** Añadidos República Dominicana (Resolución 0024/2025 y reglamento de iluminación en áreas de anidamiento de tortugas marinas), Etiopía (Adís Abeba Directiva 185/2025 de alumbrado exterior) y Tanzania (Ley de Gestión Ambiental art.140 contaminación lumínica y TANAPA políticas de parques §3.10.4). Fiyi, Samoa, Vanuatu, Papúa Nueva Guinea y Botsuana quedan pendientes de normas específicas acreditadas. La base canónica es `data/atlas.json`.
+
+## Ampliación Caribe y Pacífico — 23 noviembre 2026
+
+**Estado vigente: 119 países, 391 fuentes y 145 medidas.** Honduras: Plan de Manejo Islas de la Bahía, acuerdo ICF 089-2025, sustituye 047-2024; Belice: guía DOE 2010 sobre iluminación de estructuras sobre el agua y protección de anidación de tortugas, exigible según permiso; Vanuatu: plan de acción 2016–2020 (histórico, no atribuir vigencia en 2026) y folleto SPREP 2025 no vinculante. Otros países evaluados aún pendientes de normativa concreta. Registro canónico en `data/atlas.json`.
