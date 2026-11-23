@@ -1,0 +1,106 @@
+{
+  "review_date": "2026-11-23",
+  "criteria": "Ninguna mención en una evaluación ambiental demuestra por sí sola prohibición general o ley lumínica.",
+  "entries": [
+    {
+      "iso": "FRO",
+      "name": "Islas Feroe",
+      "region": "Europa",
+      "level": "general",
+      "summary": "La Ley de Protección Ambiental n.º 134/1988, vigente y modificada en 2021, incluye expresamente la luz (ljós) en su art. 2 y establece deberes de prevención en su art. 3 para actividades comprendidas en su ámbito. No se han identificado límites fotométricos generales de alumbrado exterior.",
+      "scope": "Territorio autónomo (Reino de Dinamarca)",
+      "confidence": "Texto oficial consolidado y artículos 2-3 cotejados",
+      "note": "Aplicación vinculada a las actividades cubiertas por la ley; no extrapolar a todas las luminarias.",
+      "keywords": "ljós luz prevención medio ambiente",
+      "refs": [
+        {
+          "title": "Løgtingslóg nr. 134/1988 um umhvørvisvernd (consolidada 2021), §§2-3",
+          "url": "https://www.logir.fo/Logtingslog/134-fra-29-10-1988-um-umhvorvisvernd-sum-seinast-broytt-vid-logtingslog-nr-128-fra-22",
+          "type": "Ley ambiental",
+          "effect": "Territorio feroés; contaminación por luz contemplada en ámbito de aplicación",
+          "note": "La mención a ljós no establece un umbral cuantitativo general",
+          "year": "1988"
+        }
+      ]
+    },
+    {
+      "iso": "BMU",
+      "name": "Bermudas",
+      "region": "América",
+      "level": "guia",
+      "summary": "Documentación gubernamental de evaluación ambiental del proyecto South Basin identifica expresamente la contaminación lumínica nocturna como potencial impacto en viviendas vecinas. No se ha acreditado una prohibición general de iluminación.",
+      "scope": "Expediente de proyecto (territorio británico de ultramar)",
+      "confidence": "Documento oficial de planificación",
+      "note": "Referencia administrativa de impacto; no calificar como ley específica ni obligación aplicable a toda Bermudas.",
+      "keywords": "light pollution environmental impact South Basin",
+      "refs": [
+        {
+          "title": "Department of Planning — South Basin Environmental Impact Statement, observaciones sobre light pollution",
+          "url": "https://planning.gov.bm/wp-content/uploads/2018/11/SouthBasinEIS.pdf",
+          "type": "Evaluación de impacto",
+          "effect": "Proyecto South Basin; impacto potencial sobre viviendas próximas",
+          "note": "No demuestra norma general vinculante de alumbrado",
+          "year": "2018"
+        }
+      ]
+    },
+    {
+      "iso": "GUM",
+      "name": "Guam",
+      "region": "Oceanía",
+      "level": "guia",
+      "summary": "Documentos oficiales de proyectos federales incluyen medidas para evitar la desorientación de tortugas por iluminación nocturna, como limitar trabajos de noche, dirigir luminarias y usar espectros apropiados. Son condiciones o buenas prácticas de proyecto, no una regulación general de Guam acreditada.",
+      "scope": "Proyectos y hábitats costeros (territorio de EE. UU.)",
+      "confidence": "Documentación oficial de evaluación y medidas de protección",
+      "note": "Comprobar caso por caso si la medida está incorporada a permiso vinculante.",
+      "keywords": "sea turtles outdoor lighting nighttime construction",
+      "refs": [
+        {
+          "title": "US Army Corps of Engineers — Agat BMPs (2026), medidas de iluminación para tortugas",
+          "url": "https://www.poh.usace.army.mil/Portals/10/docs/publicnotices/2026/PN%20Att%202%20Agat%20BMPs%20FINAL.pdf?ver=ISDQhSFXikJNf_3ZtCptKA%3D%3D",
+          "type": "Medidas ambientales de proyecto",
+          "effect": "Obras y playas sensibles del proyecto; protección de tortugas marinas",
+          "note": "Requisitos sectoriales del proyecto; no extrapolar a todo Guam",
+          "year": "2026"
+        },
+        {
+          "title": "Government of Guam — Ajayan Bridge coastal permit application (2017)",
+          "url": "https://www.guam.gov/wpdev-content/uploads/public_notice/BSP/APP_GQ-ER-0004%28114%29%20Ajayan%20Bridge%20GCZM%20Permit-Application_FINAL_03FEB2017.pdf",
+          "type": "Solicitud y documentación ambiental",
+          "effect": "Medidas propuestas para iluminación de obra y fauna en el proyecto",
+          "note": "La solicitud no prueba por sí sola una obligación general o permiso concedido",
+          "year": "2017"
+        }
+      ]
+    },
+    {
+      "iso": "COK",
+      "name": "Islas Cook",
+      "region": "Oceanía",
+      "level": "general",
+      "summary": "La Environment Act 2003 sigue aplicándose a la gestión ambiental y evaluaciones de impacto. La Environment Act 2026 fue aprobada el 23 de junio de 2026 pero, según el NES, solo entrará en vigor mediante Order in Executive Council; no consta todavía su entrada en vigor ni límite general de iluminación.",
+      "scope": "Jurisdicción autónoma en libre asociación con Nueva Zelanda",
+      "confidence": "Autoridad ambiental nacional, estado de vigencia consultado 23-11-2026",
+      "note": "No presentar la ley de 2026 como vigente antes de la orden de entrada en vigor.",
+      "keywords": "Environment Act 2003 2026 commencement",
+      "refs": [
+        {
+          "title": "NES — Environment Act 2003, régimen vigente y transición a Environment Act 2026",
+          "url": "https://environment.gov.ck/environment-act/",
+          "type": "Autoridad oficial",
+          "effect": "Régimen ambiental general vigente (2003)",
+          "note": "El portal confirma que 2026 no entra en vigor automáticamente",
+          "year": "2003"
+        },
+        {
+          "title": "NES — Environment Act 2026 passed by Parliament (16 julio 2026)",
+          "url": "https://environment.gov.ck/environment-act-2026-passed-by-parliament/",
+          "type": "Comunicación oficial legislativa",
+          "effect": "Aprobada pero pendiente de Order in Executive Council",
+          "note": "Previsión de enero 2027 sujeta a orden formal",
+          "year": "2026"
+        }
+      ]
+    }
+  ]
+}
