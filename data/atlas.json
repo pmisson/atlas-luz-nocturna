@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 149,
-    "source_count": 449,
+    "country_count": 150,
+    "source_count": 451,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -2786,6 +2786,22 @@
       "keywords": "Liberia Electricity Corporation Bushrod HFO ESIA light pollution 2013",
       "source_ids": [
         "F449"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "BFA",
+      "name": "Burkina Faso",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "Ley n.º 006-2013/AN, de 2 de abril de 2013, Código del Medio Ambiente: artículo 85 exige a las colectividades territoriales combatir las emisiones luminosas intensas cuando perjudiquen la calidad de vida; establece que la naturaleza de las molestias, los niveles de emisión y los procedimientos de control se determinen mediante decreto. Arts. 5 y 103 incluyen vías generales de reclamación y sanción ambiental, sin asignarles automáticamente sanción específica por ALAN.",
+      "scope": "Nacional: molestias por emisiones luminosas intensas con responsabilidad de autoridades territoriales",
+      "confidence": "Texto primario del Ministerio de Medio Ambiente y ficha legislativa FAOLEX",
+      "note": "No se ha localizado el decreto de desarrollo que fije niveles fotométricos de emisiones luminosas. No extrapolar prohibición general de flujo ascendente ni sanciones concretas exclusivamente para ALAN.",
+      "keywords": "Burkina Faso loi 006-2013 AN Code environnement article 85 émissions lumineuses vives nuisances",
+      "source_ids": [
+        "F450",
+        "F451"
       ],
       "star_ids": []
     }
@@ -7727,6 +7743,28 @@
       "type": "Evaluación de impacto ambiental publicada por Banco Mundial",
       "effect": "Identifica light pollution como molestia por operación industrial 24 horas",
       "note": "No implica que exista prohibición lumínica nacional ni medida vinculante concreta",
+      "year": "2013",
+      "official": true
+    },
+    {
+      "id": "F450",
+      "country": "BFA",
+      "title": "Burkina Faso — Loi n.º 006-2013/AN portant Code de l'environnement, art. 85",
+      "url": "https://www.environnement.gov.bf/fileadmin/user_upload/code_de_lenvironnement_02_04_2013.pdf",
+      "type": "Ley nacional ambiental vinculante, texto ministerial",
+      "effect": "Obliga a autoridades territoriales a combatir molestias por emisiones luminosas intensas y remite límites a decreto",
+      "note": "No se ha confirmado decreto de límites lumínicos específicos",
+      "year": "2013",
+      "official": true
+    },
+    {
+      "id": "F451",
+      "country": "BFA",
+      "title": "FAOLEX — Loi n.º 006-2013/AN portant Code de l'environnement du Burkina Faso",
+      "url": "https://faolex.fao.org/en/documents/LEX-FAOC124369/loi-n-006-2013-an-portant-code-de-l-environnement-du-burkina-bfa-2013",
+      "type": "Registro legislativo FAO",
+      "effect": "Confirma ley ambiental, estructura y fecha de aprobación",
+      "note": "Fuente complementaria, consultar artículo 85 en texto primario",
       "year": "2013",
       "official": true
     }
