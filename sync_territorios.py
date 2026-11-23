@@ -58,7 +58,7 @@ for e in additions:
 htmlfile = ROOT / "index.html"
 html = htmlfile.read_text(encoding="utf-8")
 import re
-html = re.sub(r'(id="metric-countries">)\\d+', lambda m: m.group(1) + str(len(atlas["countries"])), html)
-html = re.sub(r'(id="metric-sources">)\\d+', lambda m: m.group(1) + str(len(atlas["sources"])), html)
+html = re.sub(r'(id="metric-countries">)\d+', lambda m: m.group(1) + str(len(atlas["countries"])), html)
+html = re.sub(r'(id="metric-sources">)\d+', lambda m: m.group(1) + str(len(atlas["sources"])), html)
 htmlfile.write_text(html, encoding="utf-8")
 print("Atlas:", len(atlas["countries"]), "jurisdicciones,", len(atlas["sources"]), "fuentes")
