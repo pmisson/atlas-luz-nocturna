@@ -28,3 +28,15 @@ Ficha documental: no extrapolar reglas sectoriales a una prohibición nacional d
 La **Fiji Roads Authority Road Lighting Design Guide**, versión 3, marzo 2019, §§4.2.2–4.2.3, exige como objetivos de diseño controlar **upward spill**, **glare**, **skyglow** y **light trespass**. Se clasifica como **guía técnica con criterios explícitos de protección ALAN**, no como ley nacional vinculante. Es necesario verificar su incorporación a pliegos, contratos o licencias para conocer su obligatoriedad en cada proyecto.
 
 Fuente: [FRA Road Lighting Design Guide](https://www.fijiroads.org/wp-content/uploads/2024/04/FRA-Road-Lighting-Design-Guide-Rev-V3.0.pdf).
+
+## Ficha jurídica normalizada — auditoría 23-11-2026
+
+- **Fuerza jurídica:** Guía técnica de autoridad vial.
+- **Ámbito territorial o sectorial:** Diseños y proyectos de alumbrado viario bajo Fiji Roads Authority.
+- **Vigencia:** Guía de 2019 identificada; incorporación contractual y revisiones por comprobar.
+- **Objeto de protección:** Resplandor del cielo, deslumbramiento, luz intrusa y flujo ascendente.
+- **¿Obligación ALAN acreditada?:** No acreditada como obligación jurídica general.
+- **Localizador preciso:** Road Lighting Design Guide v3 (2019), §§ 4.2.1–4.2.3.
+- **Texto de referencia:** [fuente normativa o técnica](https://www.fijiroads.org/wp-content/uploads/2024/04/FRA-Road-Lighting-Design-Guide-Rev-V3.0.pdf).
+
+Esta clasificación distingue la mención expresa de contaminación lumínica de su exigibilidad y evita extrapolar obligaciones sectoriales a todo el alumbrado exterior.
