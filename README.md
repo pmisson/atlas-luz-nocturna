@@ -189,3 +189,7 @@ Seychelles (Ley de pesca 3/2025, art. 21: luces para atraer peces); Moldavia (AN
 ## Actualización 23-11-2026
 
 101 países, 347 referencias y 122 medidas destacadas. Incorporados Jordania (marco ambiental y estándar de iluminación exterior) y Montenegro (Ley de Protección de la Naturaleza 117/2026, art. 96, prohibición de luz como medio de captura o perturbación de aves). Véase `data/atlas.json` y `docs/JOR_jordania.md`, `docs/MNE_montenegro.md`. La incorporación no presupone una ley general de contaminación lumínica.
+
+## Actualización Mongolia y Filipinas — 23 noviembre 2026
+
+**Estado vigente:** 103 países; 353 referencias documentales; 126 medidas destacadas. Mongolia incorpora la norma de diseño БНбД 23-02-08 sobre iluminancia vertical en ventanas y atenuación condicionada. Filipinas incorpora el Boletín DENR-BMB 2020-05, con recomendaciones sobre iluminación de playas de anidación, y la circular interministerial 01/2020 con restricciones sobre flashes y luces en actividades turísticas con fauna marina. No equivalen a leyes generales de contaminación lumínica. Fuente consolidada: `data/atlas.json`.
