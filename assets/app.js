@@ -33,6 +33,8 @@ let selected='ESP'; let region='todos'; let level='todos'; let legalClass='todos
 el('metric-countries').textContent=D.countries.length;
 el('metric-sources').textContent=D.sources.length;
 el('metric-stars').textContent=D.stars.length;
+const stateMetric=el('metric-states');if(stateMetric)stateMetric.textContent=D.countries.filter(c=>c.political_status==='miembro_onu').length;
+const territoryMetric=el('metric-territories');if(territoryMetric)territoryMetric.textContent=D.countries.filter(c=>c.political_status==='territorio_no_soberano').length;
 const bindingCount=D.countries.filter(c=>c.alan_binding_review==='documentada').length;
 const bindingMetric=el('metric-binding');if(bindingMetric)bindingMetric.textContent=bindingCount;
 el('legendItems').innerHTML=Object.entries(palette).map(([key,v])=>`<span class="legend-item"><span class="legend-swatch" style="background:${v.fill}"></span>${escape(v.name)}</span>`).join('');
