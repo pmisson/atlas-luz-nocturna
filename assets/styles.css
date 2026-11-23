@@ -130,3 +130,6 @@
 
 /* Dos dimensiones jurídicas: tipo de norma (color) y alcance ALAN (rayado). */
 .alan-meta{display:block;color:#a6b7c9;font-size:.75rem;line-height:1.35;margin-top:4px;font-weight:400;}
+
+/* Selector independiente para fuerza jurídica de las medidas ALAN. */
+#legalClassFilter{max-width:100%;}
