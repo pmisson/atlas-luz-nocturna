@@ -419,3 +419,7 @@ El atlas dispone de **99 países, 341 fuentes y 121 medidas**, con datos canóni
 ## Revisión Balcanes y Asia central — 23 noviembre 2026
 
 **Estado vigente: 110 países, 368 fuentes, 134 medidas destacadas.** Añadidas Federación de Bosnia y Herzegovina (Ley ambiental 2021 art. 21, definición expresa de contaminación lumínica, solo jurisdicción FBiH) y Kirguistán (СН КР 23-05:2019, iluminancia vertical máxima en ventanas de 5/7/10/20 lx y reglas sobre publicidad iluminada). Albania, Macedonia del Norte, Georgia y Tayikistán continúan en investigación: no contabilizados sin referencia legal suficiente. Los contadores antiguos de secciones históricas no representan el estado vigente; consultar `data/atlas.json`.
+
+## Ampliación Ghana, Barbados y Bahamas — 23-11-2026
+
+**Estado vigente: 113 países, 377 fuentes, 137 medidas destacadas.** Ghana GS 1207:2018 §5.17: zonas de contaminación lumínica, uplight e intrusión y deslumbramiento B/G. Barbados Physical Development Plan Amendment 2023: evaluación de iluminación en playas de tortugas, con cautelas sobre su exigibilidad. Bahamas: Coastal Infrastructure Design Guidance 2023, guía no equivalente a ley general. Fiyi, Samoa, Vanuatu y otras jurisdicciones siguen pendientes de instrumentos específicos suficientemente documentados. El registro canónico es `data/atlas.json`.
