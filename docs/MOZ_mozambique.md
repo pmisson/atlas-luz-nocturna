@@ -31,3 +31,15 @@ La medida pesquera de 100 kW no es un límite general de contaminación lumínic
 La **Resolución 63/2024** (Boletim da República, 15-11-2024) aprueba el Plan de Ordenación del Espacio Marítimo (POEM), que prevé reducir la iluminación nocturna y restringir accesos en temporadas de anidación de tortugas. Se trata de **protección ecológica explícita por planificación**, distinta de la normativa sobre luces usadas para pesca (Decreto 89/2020, art. 42). Falta comprobar instrumentos de ejecución, obligatoriedad de la reducción en proyectos individuales y parámetros fotométricos.
 
 Fuente: [POEM, SIBMOZ](https://sibmoz.gov.mz/content/uploads/2025/11/Resolucao-n.o-63_2024-que-aprova-o-Plano-de-Ordenamento-do-Espaco-Maritimo.pdf).
+
+## Ficha jurídica normalizada — auditoría 23-11-2026
+
+- **Fuerza jurídica:** Plan de ordenación marítima aprobado por resolución; además reglamento pesquero.
+- **Ámbito territorial o sectorial:** Áreas de anidación de tortugas; por separado pesca marina regulada.
+- **Vigencia:** POEM aprobado 15-11-2024; exigibilidad de reducción lumínica en proyectos concretos no acreditada.
+- **Objeto de protección:** Biodiversidad nocturna; tortugas marinas.
+- **¿Obligación ALAN acreditada?:** Directriz planificadora explícita; no contabilizar como obligación universal de reducción ALAN.
+- **Localizador preciso:** Resolución 63/2024 POEM, áreas de nidificación; Decreto 89/2020 art. 42 para pesca.
+- **Texto de referencia:** [fuente normativa o técnica](https://sibmoz.gov.mz/content/uploads/2025/11/Resolucao-n.o-63_2024-que-aprova-o-Plano-de-Ordenamento-do-Espaco-Maritimo.pdf).
+
+Esta clasificación distingue la mención expresa de contaminación lumínica de su exigibilidad y evita extrapolar obligaciones sectoriales a todo el alumbrado exterior.
