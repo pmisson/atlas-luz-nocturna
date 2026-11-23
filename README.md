@@ -213,3 +213,7 @@ Seychelles (Ley de pesca 3/2025, art. 21: luces para atraer peces); Moldavia (AN
 ## Ampliación Caribe y Pacífico — 23 noviembre 2026
 
 **Estado vigente: 119 países, 391 fuentes y 145 medidas.** Honduras: Plan de Manejo Islas de la Bahía, acuerdo ICF 089-2025, sustituye 047-2024; Belice: guía DOE 2010 sobre iluminación de estructuras sobre el agua y protección de anidación de tortugas, exigible según permiso; Vanuatu: plan de acción 2016–2020 (histórico, no atribuir vigencia en 2026) y folleto SPREP 2025 no vinculante. Otros países evaluados aún pendientes de normativa concreta. Registro canónico en `data/atlas.json`.
+
+## Revisión África y Oceanía — 23 noviembre 2026
+
+**Estado vigente: 121 países, 396 referencias y 147 medidas.** Incorporados Uganda (Reglamento SI 53/2026 art.89, restricción de luces que afectan visibilidad en vías) y Zambia (Wildlife Act 2015 art.73, restricción de linternas y fuentes de luz durante caza nocturna, con permiso como excepción). Los dos son regímenes sectoriales, no leyes generales contra la contaminación lumínica. Fiyi, Samoa, Papúa Nueva Guinea, Botsuana, Cuba y Mozambique aún pendientes de norma específica verificada. Fuente canónica `data/atlas.json`.
