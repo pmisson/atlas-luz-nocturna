@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 128,
-    "source_count": 414,
+    "country_count": 131,
+    "source_count": 418,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -2457,6 +2457,52 @@
       "source_ids": [
         "F413",
         "F414"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "PSE",
+      "name": "Palestina",
+      "region": "Asia",
+      "level": "guia",
+      "summary": "Green Buildings Guideline (2.ª ed., 2023), apartado 2.13: criterios explícitos para prevenir contaminación lumínica; apagado automático de iluminación exterior no esencial entre las 23:00 y las 07:00, orientación descendente y valores de iluminancia en límites de parcela (lux).",
+      "scope": "Directriz nacional de edificación sostenible, aplicación en proyectos que opten a evaluación",
+      "confidence": "Documento técnico primario del Palestine Higher Green Building Council (2023)",
+      "note": "Directriz/criterio de puntuación; no consta incorporación general obligatoria al ordenamiento. Los valores en lux no son límites legales nacionales.",
+      "keywords": "Palestine green buildings guideline light pollution 2.13 outdoor lighting",
+      "source_ids": [
+        "F415"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "KNA",
+      "name": "San Cristóbal y Nieves",
+      "region": "América",
+      "level": "guia",
+      "summary": "El Plan de Sistemas de Áreas Protegidas (OECS/Environment Department) propone hacer cumplir normas urbanísticas para evitar iluminación artificial excesiva en playas durante la anidación de tortugas. En 2020 la empresa eléctrica pública instaló luminarias ámbar favorables a tortugas en Keys Beach.",
+      "scope": "Protección de playas de anidación y proyectos públicos de alumbrado",
+      "confidence": "Plan institucional de áreas protegidas y comunicados oficiales gubernamentales",
+      "note": "El plan menciona aplicación de planning regulations pero no se ha cotejado una disposición legal concreta; las luminarias ámbar son actuación pública, no mandato general.",
+      "keywords": "St Kitts and Nevis turtle nesting beaches artificial lighting planning regulations Keys Beach",
+      "source_ids": [
+        "F416",
+        "F417"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "PNG",
+      "name": "Papúa Nueva Guinea",
+      "region": "Oceanía",
+      "level": "guia",
+      "summary": "El Road Management & Maintenance Plan 2025–2040 del Department of Works and Highways identifica explícitamente la contaminación lumínica del alumbrado vial como intrusión ambiental y plantea coordinar con autoridades urbanas la gestión de iluminación y activos asociados.",
+      "scope": "Planificación nacional sectorial de conservación y mantenimiento viario",
+      "confidence": "Plan oficial 2025–2040 del Department of Works and Highways",
+      "note": "Reconocimiento en instrumento de planificación vial; no establece por sí solo límites ni prohibiciones fotométricas vinculantes.",
+      "keywords": "Papua New Guinea road maintenance plan light pollution lighting environment",
+      "source_ids": [
+        "F418"
       ],
       "star_ids": []
     }
@@ -7013,6 +7059,50 @@
       "type": "Reglamento urbanístico municipal aprobado",
       "effect": "Artículo 79: luminarias de bajo consumo en proyectos de urbanización en el área protegida",
       "note": "No establece límite fotométrico general ni longitud de onda",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F415",
+      "country": "PSE",
+      "title": "Palestine Green Buildings Guideline — 2nd ed. 2023, apartado 2.13",
+      "url": "https://www-cdn.najah.edu/media/filer_public/a0/b6/a0b639d0-4379-4cc7-894f-f2127c360f01/palestine_green_guidelines_buildings_-_second_edition.pdf",
+      "type": "Directriz técnica de edificación sostenible",
+      "effect": "Requisitos de orientación, horario de apagado exterior 23:00–07:00 y límites de iluminancia en evaluación de edificios verdes",
+      "note": "No equivale a ley nacional vinculante general",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F416",
+      "country": "KNA",
+      "title": "OECS Protected Areas Systems Plan — St Kitts and Nevis, apartado 7.7.2",
+      "url": "https://www.environment.gov.kn/wp-content/uploads/2021/03/Final-Systems-Plan-Report-full-2-min.pdf",
+      "type": "Plan institucional de áreas protegidas",
+      "effect": "Estrategia de hacer cumplir planificación contra excesiva iluminación artificial en playas de tortugas",
+      "note": "No se acredita aquí texto de ordenanza exigible específica",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F417",
+      "country": "KNA",
+      "title": "St Kitts government: SKELEC turtle-friendly amber LED lighting at Keys Beach",
+      "url": "https://www.sknis.gov.kn/2020/04/24/skelec-changes-over-to-energy-efficient-streetlights/",
+      "type": "Comunicación oficial de actuación pública",
+      "effect": "Instalación anunciada de 26 luminarias ámbar para proteger tortugas de playa Keys",
+      "note": "Medida de proyecto, no norma obligatoria",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F418",
+      "country": "PNG",
+      "title": "Department of Works and Highways — Road Management & Maintenance Plan 2025–2040, sección 13",
+      "url": "https://storage.works.gov.pg/prod/articles/Road%20Management%20%26%20Maintenance%20Plan%202025-2040.pdf",
+      "type": "Plan sectorial oficial",
+      "effect": "Identifica light pollution de streetlighting como intrusión ambiental y prevé coordinación de mantenimiento con municipios",
+      "note": "No contempla límite fotométrico legal concreto",
       "year": "2025",
       "official": true
     }
