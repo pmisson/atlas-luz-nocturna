@@ -411,3 +411,7 @@ El atlas dispone de **99 países, 341 fuentes y 121 medidas**, con datos canóni
 ## Actualización Mongolia y Filipinas — 23 noviembre 2026
 
 **Estado vigente:** 103 países; 353 referencias documentales; 126 medidas destacadas. Mongolia incorpora la norma de diseño БНбД 23-02-08 sobre iluminancia vertical en ventanas y atenuación condicionada. Filipinas incorpora el Boletín DENR-BMB 2020-05, con recomendaciones sobre iluminación de playas de anidación, y la circular interministerial 01/2020 con restricciones sobre flashes y luces en actividades turísticas con fauna marina. No equivalen a leyes generales de contaminación lumínica. Fuente consolidada: `data/atlas.json`.
+
+## Ampliación documental 23-11-2026 (fase 108)
+
+**Estado actual del inventario: 108 países, 364 referencias documentales y 131 medidas destacadas.** Se incorporan Armenia (normas de luz intrusa en ventanas), Nepal (control ambiental y obligaciones de proyectos), Bután (guías de edificación y planeamiento), Mauricio (Fisheries Act 2023 §31) y Madagascar (restricciones de luces de agregación de atunes documentadas ante IOTC). Georgia permanece pendiente por falta de una disposición específica verificada. Cifras antiguas de otras secciones del informe son históricas. La base vigente es `data/atlas.json`.
