@@ -31,7 +31,7 @@ el('metric-countries').textContent=D.countries.length;
 el('metric-sources').textContent=D.sources.length;
 el('metric-stars').textContent=D.stars.length;
 el('legendItems').innerHTML=Object.entries(palette).map(([key,v])=>`<span class="legend-item"><span class="legend-swatch" style="background:${v.fill}"></span>${escape(v.name)}</span>`).join('');
-el('legendItems').insertAdjacentHTML('beforeend',`<span class="legend-item"><span class="legend-swatch" style="background:repeating-linear-gradient(135deg,#718092,#718092 3px,#162435 3px,#162435 7px);border:1px solid #9eb0c4"></span>Rayado: sin protección lumínica explícita verificada</span><span class="legend-item">Color = tipo de instrumento · Rayado = evidencia sobre la luz</span>`);
+el('legendItems').insertAdjacentHTML('beforeend',`<span class="legend-item"><span class="legend-swatch" style="background:repeating-linear-gradient(135deg,#718092,#718092 3px,#162435 3px,#162435 7px);border:1px solid #9eb0c4"></span>Rayado: sin protección ALAN explícita acreditada (uso sectorial o contexto)</span><span class="legend-item">Color = tipo de instrumento · Rayado = evidencia sobre la luz</span>`);
 
 const ns='http://www.w3.org/2000/svg',world=el('worldCountries'),markers=el('mapMarkers'),groups=el('worldGroup');
 const shapes=new Map();
@@ -42,7 +42,7 @@ for(const [key,v] of Object.entries(palette)){
   const bg=document.createElementNS(ns,'rect');bg.setAttribute('width','8');bg.setAttribute('height','8');bg.setAttribute('fill',v.fill);pattern.appendChild(bg);
   const stroke=document.createElementNS(ns,'path');stroke.setAttribute('d','M-2,2 L2,-2 M0,8 L8,0 M6,10 L10,6');stroke.setAttribute('stroke','#152536');stroke.setAttribute('stroke-width','2.6');stroke.setAttribute('fill','none');pattern.appendChild(stroke);svgDefs.appendChild(pattern);
 }
-const mapFill=c=>c.alan_scope==='contexto'?`url(#hatch-${c.level})`:palette[c.level].fill;
+const mapFill=c=>c.alan_scope!=='proteccion'?`url(#hatch-${c.level})`:palette[c.level].fill;
 let tip=el('mapTooltip');
 const matchFilters=c=>!!c&&(region==='todos'||c.region===region)&&(level==='todos'||c.level===level);
 for (const g of GEO) {
