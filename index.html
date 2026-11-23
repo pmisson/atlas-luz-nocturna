@@ -8,14 +8,14 @@
   <meta property="og:title" content="Atlas de legislación de la noche | 158 países">
   <meta property="og:description" content="Compilación documental mundial de legislación, medidas estrella y referencias jurídicas sobre contaminación lumínica.">
   <title>Atlas de la noche — Legislación mundial sobre contaminación lumínica</title>
-  <link rel="stylesheet" href="assets/styles.css?v=20261123-158-mali-rayado">
+  <link rel="stylesheet" href="assets/styles.css?v=20261123-158-clasificacion-legal">
 </head>
 <body>
 <div class="star-sky" aria-hidden="true"></div>
 <header class="site-header">
   <div class="layout-width header-inner">
     <a class="brand" href="#inicio" aria-label="Ir al inicio"><span class="brand-symbol">◕</span><span>NOCTIS <em>ATLAS</em><small>Observatorio normativo mundial</small></span></a>
-    <nav aria-label="Secciones principales"><a href="#mapa">Explorar mapa</a><a href="#espana">Espa&ntilde;a</a><a href="#italia-austria">Italia / Austria</a><a href="#union-europea">Unión Europea</a><a href="#proyectos-europeos">Proyectos UE</a><a href="#medidas">Medidas estrella</a><a href="#uicn">UICN</a><a href="#marco-transversal">Derecho general</a><a href="#literatura">Referencias clave</a><a href="#paises">150 países</a><a href="#fuentes">Bibliografía</a></nav>
+    <nav aria-label="Secciones principales"><a href="#mapa">Explorar mapa</a><a href="#espana">Espa&ntilde;a</a><a href="#italia-austria">Italia / Austria</a><a href="#union-europea">Unión Europea</a><a href="#proyectos-europeos">Proyectos UE</a><a href="#medidas">Medidas estrella</a><a href="#uicn">UICN</a><a href="#marco-transversal">Derecho general</a><a href="#literatura">Referencias clave</a><a href="#paises">158 países</a><a href="#fuentes">Bibliografía</a></nav>
     <a class="header-download" href="data/atlas.json" download aria-label="Descargar los datos en formato JSON">↓ Datos descargables</a>
   </div>
 </header>
@@ -31,16 +31,16 @@
   </section>
   <section class="metrics layout-width" aria-label="Dimensiones del proyecto">
     <div class="metric"><strong id="metric-countries">158</strong><span>países en el atlas</span></div>
-    <div class="metric"><strong id="metric-sources">410</strong><span>referencias documentales</span></div>
-    <div class="metric"><strong id="metric-stars">155</strong><span>medidas destacadas</span></div>
+    <div class="metric"><strong id="metric-sources">467</strong><span>referencias documentales</span></div>
+    <div class="metric"><strong id="metric-stars">155</strong><span>medidas destacadas</span></div><div class="metric"><strong id="metric-binding">0</strong><span>países con obligaciones ALAN documentadas (vigencia por verificar)</span></div>
     <div class="metric last"><strong>19.11.26</strong><span>fecha de corte</span></div>
   </section>
   <section class="map-section section-pad" id="mapa">
     <div class="layout-width">
-      <div class="section-head map-heading"><div><div class="eyebrow mini">01 / EXPLORACIÓN GLOBAL</div><h2>Un mundo. <em>Muchas respuestas.</em></h2><p>Selecciona un territorio en el mapa o encuéntralo en la lista. El color indica el tipo de instrumento identificado, no la calidad de su normativa.</p></div><div class="section-action">51 territorios · cobertura de estudio</div></div>
+      <div class="section-head map-heading"><div><div class="eyebrow mini">01 / EXPLORACIÓN GLOBAL</div><h2>Un mundo. <em>Muchas respuestas.</em></h2><p>Selecciona un territorio en el mapa o encuéntralo en la lista. El color indica el tipo de instrumento identificado, no la calidad de su normativa.</p></div><div class="section-action">158 países · análisis documental</div></div>
       <div class="map-toolbar">
         <div class="select-wrap"><label for="regionFilter">REGIÓN</label><select id="regionFilter"><option value="todos">Todas las regiones</option><option value="Europa">Europa</option><option value="América">América</option><option value="Asia">Asia</option><option value="África">África</option><option value="Oceanía">Oceanía</option></select></div>
-        <div class="select-wrap"><label for="levelFilter">INSTRUMENTO</label><select id="levelFilter"><option value="todos">Todas las categorías</option><option value="especifica">Ley o reglamento específico</option><option value="sectorial">Regulación sectorial</option><option value="subnacional">Normativa subnacional</option><option value="general">Marco general</option><option value="guia">Directrices y estándares</option><option value="pendiente">Pendiente de documentar</option></select></div>
+        <div class="select-wrap"><label for="levelFilter">INSTRUMENTO</label><select id="levelFilter"><option value="todos">Todas las categorías</option><option value="especifica">Ley o reglamento específico</option><option value="sectorial">Regulación sectorial</option><option value="subnacional">Normativa subnacional</option><option value="general">Marco general</option><option value="guia">Directrices y estándares</option><option value="pendiente">Pendiente de documentar</option></select></div><div class="select-wrap"><label for="legalClassFilter">FUERZA Y ALCANCE ALAN</label><select id="legalClassFilter"><option value="todos">Todos los niveles jurídicos</option><option value="dedicada">Norma dedicada</option><option value="integrada">Obligación en otra norma</option><option value="no_vinculante">Guía / política sin fuerza acreditada</option><option value="indirecta">Regulación indirecta</option><option value="pendiente">Pendiente de cotejo</option></select></div>
         <button id="resetMap" class="outline-button" type="button">↺ Restablecer</button>
       </div>
       <div class="map-layout">
@@ -52,7 +52,7 @@
         </div>
         <aside class="country-detail" id="countryDetail" aria-live="polite"><div class="detail-loading">Selecciona un país para consultar su expediente jurídico.</div></aside>
       </div>
-      <p class="method-callout"><b>Importante:</b> La inclusión de un país no presupone que tenga una ley nacional específica. Se distinguen expresamente legislación obligatoria, normas sectoriales, ordenanzas locales, guías y proyectos. El mapa muestra <em>tipos de instrumentos localizados</em>, no una clasificación de eficacia.</p>
+      <p class="method-callout"><b>Importante:</b> La cifra de obligaciones documentadas no certifica vigencia ni cobertura nacional uniforme. La inclusión de un país no presupone que tenga una ley nacional específica. Se distinguen expresamente legislación obligatoria, normas sectoriales, ordenanzas locales, guías y proyectos. El mapa muestra <em>tipos de instrumentos localizados</em>, no una clasificación de eficacia.</p>
     </div>
   </section>
 
@@ -416,9 +416,9 @@
   <section class="download-cta"><div class="layout-width cta-inner"><div><div class="eyebrow mini">DIVULGACIÓN · INVESTIGACIÓN · ADMINISTRACIÓN</div><h2>Que el conocimiento <em>circule.</em></h2><p>Una base documental transparente y reutilizable para evaluar leyes, formular políticas públicas y proteger la oscuridad.</p></div><div><a class="primary-action" href="data/atlas.json" download>↓ Descargar datos JSON</a><a class="secondary-action below" href="data/medidas_estrella.csv" download>↓ Tabla de medidas estrella</a></div></div></section>
 </main>
 <footer class="footer"><div class="layout-width footer-grid"><div class="brand small-brand"><span class="brand-symbol">◕</span><span>NOCTIS <em>ATLAS</em><small>Observatorio normativo mundial</small></span></div><p>Atlas de legislación sobre contaminación lumínica · Edición documental 22 de noviembre de 2026.<br>Investigación jurídica comparada; no sustituye asesoramiento profesional ni boletines oficiales.</p><a href="#inicio">↑ Volver al inicio</a></div></footer>
-<script src="assets/atlas-data.js?v=20261123-158-mali-rayado"></script>
+<script src="assets/atlas-data.js?v=20261123-158-clasificacion-legal"></script>
 <script src="assets/world-data.js"></script>
-<script src="assets/app.js?v=20261123-158-mali-rayado"></script>
+<script src="assets/app.js?v=20261123-158-clasificacion-legal"></script>
 <script src="assets/extras.js?v=20261123-150-bfa"></script>
 <script src="assets/projects.js?v=20261123-150-bfa" defer></script>
 </body>
