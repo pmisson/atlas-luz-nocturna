@@ -163,3 +163,7 @@
 .audit-download{display:inline-block;padding:11px 15px;border:1px solid #6da596;border-radius:8px;color:#c0f3e5;font-size:13px;font-weight:700;text-decoration:none;white-space:normal}
 @media(min-width:1200px){.audit-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:650px){.territorial-note{margin-top:16px;padding:14px 15px;gap:10px}.territorial-note p{font-size:12px}.audit-section{padding-top:45px;padding-bottom:54px}.audit-grid{grid-template-columns:1fr;gap:12px}.audit-card{padding:18px}.audit-card h3{font-size:19px}.audit-footer{align-items:flex-start}.audit-download{width:100%;text-align:center}}
+
+/* Summary: seven concise evidence and territory metrics */
+@media (min-width: 800px){.metrics{grid-template-columns:repeat(4,minmax(0,1fr));row-gap:25px}.metric:nth-child(4){border:0}.metric:nth-child(5){padding-left:0}.metric.last{border:0}}
+@media (max-width: 799px){.metrics{grid-template-columns:repeat(2,minmax(0,1fr))}.metric:nth-child(odd){padding-left:0}.metric:nth-child(even){border:0}.metric:nth-child(3){padding-left:0}.metric.last{border:0}}
