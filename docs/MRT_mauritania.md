@@ -19,3 +19,15 @@ Texto del código ambiental y ficha de vigencia de la Agencia Internacional de l
 El **artículo 75 de la Ley 2000-045** contiene una prohibición expresa relativa a fuentes luminosas de radiaciones nocivas para salud o ambiente. La **Ley 2025-019**, art. 44, deroga disposiciones anteriores **contrarias** a su régimen de evaluación ambiental y social, en particular del Código 2000-045; no puede inferirse sin más derogación integral del art. 75. Se mantiene clasificación de protección explícita, pero **sin confirmar vigencia exacta** de su prohibición lumínica y sin contarla en obligaciones vigentes verificadas.
 
 Fuentes: [recopilación gubernamental DGCT, art. 75](https://www.dgct.mr/wp-content/uploads/2017/04/Recueil-des-textes-2017.pdf) y [Journal officiel 1585 (2025), art. 44](https://www.msgg.gov.mr/sites/default/files/2025-07/J.O.1585FDU15.07.2025.pdf).
+
+## Ficha jurídica normalizada — auditoría 23-11-2026
+
+- **Fuerza jurídica:** Ley ambiental histórica con prohibición sectorial expresa.
+- **Ámbito territorial o sectorial:** Nacional; fuentes luminosas con radiaciones perjudiciales.
+- **Vigencia:** Vigencia específica del art. 75 no resuelta; discrepancia NATLEX vs tenor literal art. 44 de ley 2025-019.
+- **Objeto de protección:** Salud humana y medio ambiente; radiaciones perjudiciales.
+- **¿Obligación ALAN acreditada?:** No contabilizar hasta resolver vigencia y desarrollo.
+- **Localizador preciso:** Ley 2000-045 art. 75; Ley 2025-019 art. 44.
+- **Texto de referencia:** [fuente normativa o técnica](https://faolex.fao.org/docs/pdf/mau237685.pdf).
+
+Esta clasificación distingue la mención expresa de contaminación lumínica de su exigibilidad y evita extrapolar obligaciones sectoriales a todo el alumbrado exterior.
