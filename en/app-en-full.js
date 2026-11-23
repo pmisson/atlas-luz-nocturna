@@ -112,7 +112,7 @@ function renderCountries(){const q=el('countrySearch').value.trim().toLowerCase(
 el('countryRows').addEventListener('click',e=>{const btn=e.target.closest('button[data-country]');if(btn)selectCountry(btn.dataset.country,true);});
 el('countrySearch').addEventListener('input',renderCountries);
 
-function forceCat(m){const f=m.force.toLowerCase();if(/guía|recomendaci|proyecto|mandato|pendiente|no necesariamente|orientación/.test(f))return 'otra';return /(ley|reglamento|decreto|ordenanza|obligatoria|vinculante|plan de distrito)/.test(f)?'obligatoria':'otra';}
+function forceCat(m){const f=m.force.toLowerCase();if(/guidance|recommendation|draft|proposal|pending|optional|voluntary|policy|mandate|historical|to verify|not binding|not necessarily binding|non-binding|technical option|administrative permit-assessment|enabling/.test(f))return 'otra';return /binding|law|regulation|ordinance|decree|statutory|mandatory|technical standard|court judgment|cjeu judgment|provincial rule|municipal rule|permit condition|enforceable/.test(f)?'obligatoria':'otra';}
 function renderStars(){const q=el('starSearch').value.trim().toLowerCase(),cat=el('starForce').value;
   const found=D.stars.filter(m=>{const c=countryIndex.get(m.country)||{name:'European Union / international'};return(cat==='todos'||forceCat(m)===cat)&&(!q||[m.title,m.description,m.param,m.force,m.scope,c.name].some(v=>String(v).toLowerCase().includes(q)));});
   el('starCounter').textContent=found.length+' measures';
