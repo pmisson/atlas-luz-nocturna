@@ -443,3 +443,7 @@ El atlas dispone de **99 países, 341 fuentes y 121 medidas**, con datos canóni
 ## Actualización Mozambique — 23 noviembre 2026
 
 **Inventario vigente: 125 países, 406 referencias y 152 medidas destacadas.** Mozambique: Decreto 89/2020 REPMAR art.42 sobre fuentes de luz para atração pesquera (exclusión de atún y máximo 100 kW para supuestos autorizados); Resolución 63/2024 y POEM: reducción de iluminación nocturna durante la anidación de tortugas. Samoa y Papúa Nueva Guinea siguen sin norma de ALAN suficientemente acreditada. Los totales históricos de apartados anteriores no son vigentes; consultar `data/atlas.json`.
+
+## Actualización Samoa y Albania — 23 noviembre 2026
+
+**Inventario vigente: 127 países, 410 referencias y 155 medidas destacadas.** Samoa: Signage Policy PUMA 2016 para autorizaciones de rótulos iluminados; Apia Urban Design Standards 2018 C5 DO1.2 recomienda orientación descendente, evitar deslumbramiento y luz a fincas colindantes. Albania: Plan Detallado de Spille, decisión 1/2020 art.61, recomienda LED 2700–3200 K y niveles de iluminancia en vías y plazas, sin límite nacional ALAN. Papúa Nueva Guinea sigue pendiente de medidas jurídicas concretas. La fuente canónica es `data/atlas.json`; cifras de secciones antiguas son históricas.
