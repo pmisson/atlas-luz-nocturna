@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 147,
-    "source_count": 446,
+    "country_count": 149,
+    "source_count": 449,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -2755,6 +2755,37 @@
       "source_ids": [
         "F445",
         "F446"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "GAB",
+      "name": "Gabón",
+      "region": "África",
+      "level": "guia",
+      "summary": "Dos Notices d'Impact Environnemental et Social de proyectos offshore de Perenco (Pélican y Ompoyi, 2020), disponibles en el repositorio ambiental gabonés, identifican expresamente la contaminación lumínica de plataformas como amenaza para fauna marina y aves migratorias. En sus medidas de mitigación indican ajustar la iluminación nocturna para evitar alteraciones de la fauna y reducir los puntos de luz.",
+      "scope": "Evaluaciones ambientales de proyectos petroleros offshore Pélican y Ompoyi",
+      "confidence": "Documentos de evaluación de impacto de 2020 alojados en portal de documentación ambiental de Gabón",
+      "note": "Las medidas constan en estudios de impacto de promotores; no se ha comprobado si fueron incorporadas a autorizaciones administrativas vinculantes. No constituyen límites fotométricos nacionales.",
+      "keywords": "Gabon pollution lumineuse Perenco Pelican Ompoyi offshore NIES 2020",
+      "source_ids": [
+        "F447",
+        "F448"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "LBR",
+      "name": "Liberia",
+      "region": "África",
+      "level": "guia",
+      "summary": "Evaluación ambiental y social de la instalación de fuelóleo pesado HFO de Liberia Electricity Corporation en Bushrod Island (2013), publicada por el Banco Mundial: apartado 2G6 examina las molestias de la operación continua por contaminación lumínica, ruido y pérdida de calidad visual para comunidades vecinas.",
+      "scope": "Evaluación ambiental de central eléctrica HFO de Bushrod Island",
+      "confidence": "Documento final de evaluación ambiental 2013 publicado en repositorio oficial del Banco Mundial",
+      "note": "Identifica contaminación lumínica como impacto de proyecto pero no se ha verificado una condición específica obligatoria sobre alumbrado ni una ley nacional ALAN.",
+      "keywords": "Liberia Electricity Corporation Bushrod HFO ESIA light pollution 2013",
+      "source_ids": [
+        "F449"
       ],
       "star_ids": []
     }
@@ -7664,6 +7695,39 @@
       "effect": "Propone aparatos y ajustes de orientación para limitar contaminación luminosa de la bóveda celeste",
       "note": "Proyecto normativo, no atribuir aplicación legal",
       "year": "2016",
+      "official": true
+    },
+    {
+      "id": "F447",
+      "country": "GAB",
+      "title": "Gabón — NIES Perenco proyecto Pélican offshore (septiembre 2020)",
+      "url": "https://environnement-gabon.com/ressources/documents/ressources/etudes/NIES/2020/NIES_Perenco_Pojet%20de%20Forage%20de%20dev%C3%A9loppement%20sur%20Pelican%20Final_2020.pdf",
+      "type": "Estudio de impacto ambiental de proyecto",
+      "effect": "Reconoce contaminación lumínica y prevé orientar/reducir la iluminación nocturna para proteger fauna marina y aves",
+      "note": "No se ha verificado imposición en resolución de autorización",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F448",
+      "country": "GAB",
+      "title": "Gabón — NIES Perenco proyecto Ompoyi offshore (septiembre 2020)",
+      "url": "https://www.environnement-gabon.com/ressources/documents/ressources/etudes/NIES/2020/NIES_Perenco_Forage%20de%20puits%20d%C3%A9v%20et%20injecteur%20sur%20Ompoyi%20offshore%20Final_2020.pdf",
+      "type": "Estudio de impacto ambiental de proyecto",
+      "effect": "Detalla medidas de reducción del alumbrado de instalaciones para minimizar perturbaciones de fauna marina",
+      "note": "Propuesta de mitigación y seguimiento de proyecto, sin límites generales",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F449",
+      "country": "LBR",
+      "title": "Liberia Electricity Corporation — ESIA HFO Facility Bushrod Island (octubre 2013)",
+      "url": "https://documents1.worldbank.org/curated/en/469941468054646858/pdf/E44720ESIA0Fin00Box382170B00PUBLIC0.pdf",
+      "type": "Evaluación de impacto ambiental publicada por Banco Mundial",
+      "effect": "Identifica light pollution como molestia por operación industrial 24 horas",
+      "note": "No implica que exista prohibición lumínica nacional ni medida vinculante concreta",
+      "year": "2013",
       "official": true
     }
   ],
