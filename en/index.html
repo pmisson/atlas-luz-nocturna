@@ -25,7 +25,7 @@ h1{font:normal clamp(42px,7vw,76px)/1.08 Georgia,serif;margin:16px 0 22px}h2{fon
 #en-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(265px,1fr));gap:15px}
 .en-card{background:#142630;border:1px solid #334e49;border-radius:7px;padding:20px;min-width:0}
 .en-card small{color:#b8d9cc}.en-card h3{margin:9px 0;font-size:19px}.en-card h3 span{font-size:11px;color:#94aaa3}
-.en-card p{font-size:13px;color:#becbc6}.en-card summary{cursor:pointer;margin:11px 0}.en-card a{overflow-wrap:anywhere;font-size:13px}.en-card li{margin:7px 0}.en-card ol{padding-left:20px}
+.en-card p{font-size:13px;color:#becbc6}.en-card summary{cursor:pointer;margin:11px 0}.en-card a{overflow-wrap:anywhere;font-size:13px}.en-card li{margin:7px 0}.en-abstract{color:#d6e3dd!important;line-height:1.6}.en-translation-note{color:#b7aaa0!important;font-style:italic}.en-card ol{padding-left:20px}
 footer{border-top:1px solid #345348;padding:30px 0;color:#b9cbc4}
 </style></head>
 <body>
@@ -42,7 +42,7 @@ footer{border-top:1px solid #345348;padding:30px 0;color:#b9cbc4}
 <p><strong>Dedicated legislation</strong> specifically regulates light pollution. <strong>Sectoral and subnational regulations</strong> apply to defined activities or places. <strong>General legal frameworks</strong> may address unwanted artificial light without setting general lighting limits. <strong>Guidance, technical standards and voluntary certifications</strong> are not automatically binding. <strong>Pending documentation</strong> does not establish that no law exists.</p>
 <p>Environmental impact assessments, proposed regulations, permit conditions and enacted laws are distinguished by legal force, territorial scope and date. The atlas is a research resource, not legal advice.</p></section>
 <section class="en-section" id="jurisdictions"><h2>Explore 229 jurisdictions</h2>
-<p>Filter by region, instrument and legal-evidence status. View original-language legal sources for every entry. Detailed legal narratives are still available in the Spanish original; they should not be mistaken for reviewed English translations.</p>
+<p>Filter by region, instrument and legal-evidence status. View original-language legal sources for every entry. English legal overviews are available for selected jurisdictions. Other detailed narratives remain in Spanish. These are research summaries, not official translations of legal instruments.</p>
 <div class="en-controls"><input id="en-search" type="search" placeholder="Search name or ISO code" aria-label="Search jurisdiction">
 <select id="en-region" aria-label="Region"><option value="">All regions</option></select>
 <select id="en-type" aria-label="Type of instrument"><option value="">All legal categories</option></select>
@@ -53,5 +53,6 @@ footer{border-top:1px solid #345348;padding:30px 0;color:#b9cbc4}
 <p><a href="../data/atlas.json">Download JSON</a> · <a href="../data/paises.csv">Jurisdictions CSV</a> · <a href="../data/fuentes.csv">Sources CSV</a> · <a href="../">Full Spanish atlas</a> · <a href="https://github.com/pmisson/atlas-luz-nocturna">GitHub repository</a></p></section>
 </main><footer><div class="en-wrap">NOCTIS ATLAS · Documentation cut-off: 23 November 2026 · Comparative research, not legal advice.</div></footer>
 <script src="../assets/atlas-data.js?v=20261123-clasificacion-final"></script>
-<script src="app-en.js?v=20261123-en2"></script>
+<script src="summaries-en.js?v=20261123-en3"></script>
+<script src="app-en.js?v=20261123-en3"></script>
 </body></html>
