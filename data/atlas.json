@@ -980,10 +980,10 @@
       "name": "China",
       "region": "Asia",
       "level": "sectorial",
-      "summary": "Código ecológico y ambiental de 2026 incluye capítulo específico sobre contaminación lumínica; requiere comprobar disposiciones y aplicación territorial.",
-      "scope": "Nacional",
-      "confidence": "Fuente primaria identificada",
-      "note": "",
+      "summary": "Código Ecológico y Ambiental de la República Popular China, aprobado 12-03-2026 y vigente desde 15-08-2026. Su capítulo 36, arts. 667-673, define contaminación lumínica, asigna supervisión ambiental, exige prevenirla en la planificación, elaborar límites técnicos de productos y adoptar medidas en pantallas, publicidad, vialidad, instalaciones deportivas y obras; prevé zonificación y control en áreas especialmente protegidas.",
+      "scope": "Nacional: prevención y control de contaminación lumínica, arts. 667–673; definición legal centrada en molestias visuales humanas",
+      "confidence": "Texto promulgado por Ministerio de Ecología y Ambiente y Ministerio de Justicia; confirmación oficial de entrada en vigor 15-08-2026",
+      "note": "El propio Código no establece un límite universal expresado en lux, cd/m², ULOR o CCT: art. 670 remite a especificaciones y normas técnicas. No equiparar la definición centrada en molestia visual humana con protección integral de skyglow y biodiversidad.",
       "keywords": "",
       "source_ids": [
         "F055",
@@ -993,10 +993,10 @@
         "M28"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Capítulo dedicado a contaminación lumínica en código ambiental 2026; pendiente confirmar vigencia y artículos efectivos.",
+      "alan_scope_note": "Capítulo 36 de un código ambiental nacional vigente, con deberes explícitos de prevención y reducción de contaminación lumínica.",
       "alan_legal_class": "integrada",
-      "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Obligación legal nacional documentada (vigente desde 15-08-2026); límites cuantitativos sujetos a desarrollo normativo."
     },
     {
       "iso": "KOR",
@@ -2944,7 +2944,7 @@
       "iso": "FJI",
       "name": "Fiyi",
       "region": "Oceanía",
-      "level": "sectorial",
+      "level": "guia",
       "summary": "La Fiji Roads Authority, en su Road Lighting Design Guide versión 3 (marzo 2019), apartados 4.2.1–4.2.3, establece como objetivos y parámetros de diseño vial limitar la emisión ascendente (upward waste light), controlar el deslumbramiento, proteger las condiciones de observación del cielo nocturno (skyglow) y limitar el derrame lumínico hacia propiedades colindantes, remitiendo a los métodos de la serie AS/NZS 1158. El marco ambiental de EIA 2005/2007 permite condicionantes en proyectos afectados.",
       "scope": "Alumbrado público viario y proyectos diseñados o gestionados bajo especificaciones Fiji Roads Authority; EIA de desarrollos con impacto ambiental",
       "confidence": "Guía técnica completa emitida por Fiji Roads Authority, versión 3, y página del Ministerio de Medio Ambiente sobre EIA",
@@ -2957,11 +2957,11 @@
       "star_ids": [
         "M148"
       ],
-      "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
-      "alan_legal_class": "indirecta",
+      "alan_scope": "proteccion",
+      "alan_scope_note": "La guía oficial FRA 2019 incorpora parámetros expresos sobre deslumbramiento, emisión ascendente, skyglow y luz intrusa en diseños viales.",
+      "alan_legal_class": "no_vinculante",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "Guía técnica de la autoridad vial, potencialmente contractual o administrativa en proyectos FRA. No se ha probado que sea una obligación legislativa nacional general."
     },
     {
       "iso": "BWA",
@@ -3029,11 +3029,11 @@
         "M151",
         "M152"
       ],
-      "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
-      "alan_legal_class": "indirecta",
+      "alan_scope": "proteccion",
+      "alan_scope_note": "El POEM aprobado por Resolución 63/2024 contempla reducir iluminación nocturna durante anidación de tortugas. La medida es de planificación ecológica, no límite general.",
+      "alan_legal_class": "integrada",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "Plan nacional aprobado y publicado en Boletim da República, pero falta demostrar que la instrucción de reducir iluminación sea directamente exigible sin instrumentos específicos de ejecución."
     },
     {
       "iso": "WSM",
@@ -3313,21 +3313,21 @@
       "name": "Mauritania",
       "region": "África",
       "level": "sectorial",
-      "summary": "Ley n.º 2000-045, de 26 de julio de 2000 (Código Ambiental), artículo 75: prohíbe utilizar fuentes luminosas de radiaciones perjudiciales sin respetar condiciones de protección de la salud y del medio ambiente; remite a normas de desarrollo para determinar la naturaleza de esas radiaciones.",
+      "summary": "Ley 2000-045, de 26-07-2000, Código Ambiental, art. 75, capítulo sobre olores, polvos y luces molestas: prohíbe utilizar fuentes luminosas de radiaciones perjudiciales sin observar condiciones de protección de salud y ambiente; remite a reglamentos para definir radiaciones. La Ley 2025-019, de 02-06-2025, de evaluación ambiental y social, art. 44, deroga disposiciones anteriores contrarias, incluidas las del Código 2000-045 que sean incompatibles; no demuestra por sí sola derogación íntegra del art. 75.",
       "scope": "Nacional: fuentes luminosas con radiaciones perjudiciales",
-      "confidence": "Texto del código ambiental y ficha de vigencia de la Agencia Internacional de la Energía",
-      "note": "Disposición vinculante sobre radiaciones nocivas de fuentes luminosas, sin equiparación automática a protección astronómica o a iluminación exterior: pendiente de identificar reglamento de desarrollo y ámbito técnico preciso.",
+      "confidence": "Art. 75 cotejado en recopilación gubernamental DGCT y copia del Código en portal estatal; art. 44 de Ley 2025-019 consultado en Journal officiel n.º 1585",
+      "note": "Vigencia de art. 75 tras Ley 2025-019 requiere interpretación jurídica y cotejo de reglamentos; la derogación se limita a disposiciones anteriores contrarias, sin prueba de derogación específica del artículo lumínico. No se ha verificado límite astronómico ni estándar fotométrico aplicable.",
       "keywords": "Mauritania loi 2000-045 article 75 sources lumineuses rayonnements nuisibles",
       "source_ids": [
         "F430",
         "F431"
       ],
       "star_ids": [],
-      "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
-      "alan_legal_class": "indirecta",
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Prohibición textual de fuentes luminosas con radiaciones nocivas, dependiente de las condiciones de protección reglamentarias.",
+      "alan_legal_class": "integrada",
       "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_note": "Texto histórico vinculante verificado; vigencia concreta tras Ley 2025-019 y reglamento de radiaciones no corroborados, por lo que se excluye del contador de obligaciones verificadas."
     },
     {
       "iso": "SYR",
@@ -3616,10 +3616,10 @@
       ],
       "star_ids": [],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Exige evaluación y mitigación explícita de contaminación lumínica en proyectos de comercio de carbono; ámbito sectorial.",
+      "alan_scope_note": "El formulario reglamentario EHMF exige valorar riesgo de contaminación lumínica y proponer mitigación en proyectos de comercio de carbono.",
       "alan_legal_class": "integrada",
-      "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Regulación nacional vigente desde 02-05-2025, obligatoria para los proyectos comprendidos; no impone un límite fotométrico general. Identifica un procedimiento de evaluación y mitigación, no una prohibición universal."
     },
     {
       "iso": "CIV",
