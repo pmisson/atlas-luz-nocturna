@@ -19,3 +19,8 @@ La Ley de Control de la Contaminación (§6.3) enumera la luz y otras radiacione
 
 ---
 Las referencias históricas y los documentos de impacto ambiental no sustituyen normas vigentes o resoluciones vinculantes.
+
+
+## Auditoría jurídica de clasificación (23-11-2026)
+
+La clasificación se rebaja de obligación ALAN documentada a marco potencial condicionado: §6.3 exige determinación por autoridad competente.
