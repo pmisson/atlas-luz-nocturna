@@ -1,0 +1,150 @@
+{
+  "review_date": "2026-11-23",
+  "entries": [
+    {
+      "iso": "VGB",
+      "name": "Islas Vírgenes Británicas",
+      "region": "América",
+      "level": "guia",
+      "summary": "Borrador oficial de política ambiental de noviembre de 2026, apartado 10.6.4, propone estándares sobre altura, intensidad, longitud de onda y color de luminarias, además de cobertura de playas de tortugas y propiedades en un radio costero de 500 m. El texto declara expresamente que NO es política gubernamental aprobada ni norma vigente.",
+      "scope": "Proyecto de política territorial en consulta; alcance futuro propuesto",
+      "confidence": "Fuente gubernamental primaria, estado de borrador expresamente verificado",
+      "note": "No atribuir fuerza jurídica actual al apartado 10.6.4 ni al radio de 500 m: son propuestas.",
+      "keywords": "light pollution sea turtles 500 metres consultation draft",
+      "refs": [
+        {
+          "title": "Government of the Virgin Islands — Environment Policy, consultation draft November 2026, §10.6.4",
+          "url": "https://gov.vg/sites/default/files/2026-11/environment_and_climate_change_policy_2026_november_2026_update.pdf",
+          "type": "Borrador oficial de política, NO vigente",
+          "effect": "Propuestas de restricciones sobre iluminación costera y fauna, no obligatorias",
+          "note": "Portada y aviso: no aprobado por Cabinet y sujeto a cambios",
+          "year": "2026"
+        }
+      ]
+    },
+    {
+      "iso": "TCA",
+      "name": "Islas Turcas y Caicos",
+      "region": "América",
+      "level": "guia",
+      "summary": "La National Beach Access Policy incluye la recomendación de mantener luces de seguridad bajas y orientadas hacia abajo para evitar interferir en la anidación de tortugas; los expedientes EIA de desarrollos costeros evalúan iluminación y proponen apantallamiento, sensores y reducción de luz sobre las playas. No se ha verificado un límite de alumbrado aplicable en general.",
+      "scope": "Accesos a playas y expedientes ambientales de proyectos",
+      "confidence": "Política y evaluaciones alojadas en portales oficiales",
+      "note": "Las medidas en una evaluación de impacto no son por sí mismas condiciones de permiso vinculantes.",
+      "keywords": "sea turtle nesting lighting beach access EIA shields",
+      "refs": [
+        {
+          "title": "TCI National Beach Access Policy — iluminación baja y hacia abajo",
+          "url": "https://dataportal.gov.tc/reports/Turks-and-Caicos-Islands-National-Beach-Access-Policy.pdf",
+          "type": "Política pública",
+          "effect": "Alumbrado de aparcamientos en accesos a playas",
+          "note": "Recomendación de gestión; no límite general acreditado",
+          "year": "2020"
+        },
+        {
+          "title": "TCI Planning — Romanza on Grace Bay Environmental Impact Statement, §6.6",
+          "url": "https://www.gov.tc/planning/images/docs/PR16739.pdf",
+          "type": "Evaluación ambiental de proyecto",
+          "effect": "Medidas propuestas para evitar luz en playa y perturbación de tortugas",
+          "note": "No inferir aprobación ni obligatoriedad general de las recomendaciones de EIA",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "iso": "AIA",
+      "name": "Anguila",
+      "region": "América",
+      "level": "guia",
+      "summary": "El Plan de Gestión del Sistema de Parques Marinos recomienda expresamente introducir reglas de iluminación de playas para proteger tortugas marinas. El Sustainable Tourism Master Plan 2010–2020 repite la necesidad de regularla. No se ha identificado en estas fuentes una regulación de alumbrado ya aprobada.",
+      "scope": "Recomendaciones para playas y parques marinos",
+      "confidence": "Planes oficiales; carácter propositivo confirmado",
+      "note": "Una recomendación para introducir legislación acredita una laguna regulatoria histórica, no prueba ausencia actual absoluta.",
+      "keywords": "beach lighting regulations nesting turtles recommendation",
+      "refs": [
+        {
+          "title": "Government of Anguilla — Adaptive Management Plan for Marine Park System",
+          "url": "https://gov.ai/document/fisheries/Management_Plan_for_Anguilla_Marine_Park_System_cond17v.pdf",
+          "type": "Plan de gestión ambiental",
+          "effect": "Recomienda introducir normas de iluminación de playa para tortugas",
+          "note": "Recomendación, no reglamento vigente",
+          "year": "2017"
+        },
+        {
+          "title": "Government of Anguilla — Sustainable Tourism Master Plan 2010–2020",
+          "url": "https://www.gov.ai/document/Final_STMP2.pdf",
+          "type": "Plan histórico de turismo",
+          "effect": "Recomienda regulación de iluminación de playas",
+          "note": "Periodo del plan concluido; conservar como antecedente, no vigente",
+          "year": "2010"
+        }
+      ]
+    },
+    {
+      "iso": "MSR",
+      "name": "Montserrat",
+      "region": "América",
+      "level": "guia",
+      "summary": "El Physical Development Plan for North Montserrat 2012–2022 recomienda que las guías de planificación minimicen contaminación lumínica y ruido en periodos críticos de anidación de tortugas marinas. La web oficial sigue listando el plan como activo, pero el horizonte temporal venció y no se verificó adopción de límites técnicos exigibles.",
+      "scope": "Planeamiento de North Montserrat, especialmente playas y periodo de nidificación",
+      "confidence": "Documento oficial y registro de políticas; vigencia de sus prescripciones por verificar",
+      "note": "No convertir 'planning guidelines will minimise' en una prohibición general; distinguir vigencia del registro y horizonte 2012–2022.",
+      "keywords": "light pollution critical nesting seasons physical development plan",
+      "refs": [
+        {
+          "title": "Government of Montserrat — Physical Development Plan for North Montserrat 2012–2022, §5.3",
+          "url": "https://www.gov.ms/wp-content/uploads/2022/10/Physical-Development-Plan.pdf",
+          "type": "Plan territorial",
+          "effect": "Orientación para reducir luz y ruido en temporada de nidificación",
+          "note": "Plan horizonte 2012–2022; exigibilidad del enunciado pendiente",
+          "year": "2012"
+        },
+        {
+          "title": "Government of Montserrat — Active policies register",
+          "url": "https://www.gov.ms/policystatus/active/",
+          "type": "Registro administrativo",
+          "effect": "Sigue incluyendo Physical Development Plan for North Montserrat 2012–2022",
+          "note": "La inclusión en activo no demuestra límites lumínicos exigibles",
+          "year": "2026"
+        }
+      ]
+    },
+    {
+      "iso": "GIB",
+      "name": "Gibraltar",
+      "region": "Europa",
+      "level": "subnacional",
+      "summary": "El Development Plan 2009, §§2.53–2.56, dispone criterios urbanísticos sobre iluminación arquitectónica: justificar intensidad mínima, sensibilidad al entorno y evitar molestias inaceptables a ocupantes colindantes. Gibraltar confirma que este es el plan existente mientras se revisa uno nuevo; decisiones urbanísticas en 2025 exigen estrategias de iluminación de bajo impacto.",
+      "scope": "Iluminación de edificios y propuestas sometidas a aprobación urbanística",
+      "confidence": "Plan oficial aprobado y aplicación administrativa reciente",
+      "note": "No equivale a norma general de contaminación lumínica ni fija límite fotométrico universal.",
+      "keywords": "development plan 2009 illumination buildings light pollution low impact planning",
+      "refs": [
+        {
+          "title": "Gibraltar Development Plan 2009 (Parts I & II), §§2.53–2.56",
+          "url": "https://www.gibraltar.gov.gi/new/sites/default/files/HMGoG_Documents/Parts_I_%26_II.pdf",
+          "type": "Plan urbanístico aprobado",
+          "effect": "Control de alumbrado arquitectónico sujeto a valoración urbanística",
+          "note": "La política GDS20 promueve revisión de iluminación ornamental; criterios de molestia en §2.55",
+          "year": "2009"
+        },
+        {
+          "title": "Gibraltar Government — New Development Plan, estado de revisión del plan de 2009",
+          "url": "https://www.gibraltar.gov.gi/town-planning/new-gibraltar-development-plan",
+          "type": "Portal oficial",
+          "effect": "Confirma plan actual de 2009 y proceso de nuevo plan",
+          "note": "No confundir nuevo plan en preparación con norma aprobada",
+          "year": "2026"
+        },
+        {
+          "title": "Gibraltar DPC approved minutes, September 2025 — low-impact lighting strategy condition",
+          "url": "https://www.gibraltar.gov.gi/uploads/DPC/Approved%20Minutes/2025/09-Approved-DPCMinutes-250913.pdf",
+          "type": "Condición urbanística de proyecto",
+          "effect": "Estrategia de iluminación de bajo impacto exigida al proyecto aprobado",
+          "note": "Condición del expediente; no umbral general",
+          "year": "2025"
+        }
+      ]
+    }
+  ]
+}
