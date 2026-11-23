@@ -11,4 +11,4 @@ No localizada todavía disposición que mencione específicamente luz artificial
 
 ## Fuentes
 - **F460** [RDC — Loi n° 11/009 du 9 juillet 2011 relative à la protection de l'environnement](https://www.ace-rdc.net/textes-legaux/loi-11-009-protection-environnement). Prevención de formas de contaminación y molestias ambientales.
-- **F461** [RDC — Ordonnance loi n° 23/007 du 3 mars 2023 modifiant loi 11/009](https://cd.chm-cbd.net/fr/documents/ordonnance-loi-ndeg-23007-du-03-mars-2023-modifiant-et-completant-la-loi-ndeg-11009-du-9). Actualiza régimen de prevención de contaminación y evaluación ambiental.
+- **F461** [RDC — Ordonnance loi n° 23/007 du 3 mars 2023 modifiant loi 11/009](https://cd.chm-cbd.net/en/node/20226). Actualiza régimen de prevención de contaminación y evaluación ambiental.
