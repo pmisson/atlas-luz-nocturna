@@ -1,5 +1,18 @@
 # Venezuela — legislación sobre contaminación lumínica (edición revisada)
 
+## Corrección jurídica y comprobación de fuentes (23-11-2026)
+
+**Clasificación actualizada: obligación lumínica integrada en normativa sectorial (protección ALAN explícita).** La **Resolución MPPEE 112/2014**, Gaceta Oficial n.º 40.523, art. 6.24.f, exige **0 % de flujo luminoso al hemisferio superior** para las luminarias LED modulares destinadas a vialidades vehiculares reguladas por dicho texto. El art. 6.24 también establece control del deslumbramiento; no se extiende automáticamente a cualquier tipo de luminaria.
+
+**F468:** [Decreto 631 de 7 de diciembre de 1989, Gaceta extraordinaria 4.158 del 25 de enero de 1990](https://musguito.net.ve/anapro/gaceta/4158.pdf). Crea el Área de Protección de Obra Pública del Observatorio Astronómico Nacional de Llano del Hato de unas **45.642 hectáreas**. En sus considerandos se menciona expresamente el incremento de la contaminación lumínica y atmosférica. La declaración territorial no fija por sí misma límites fotométricos; sus normas de ordenación y situación actual requieren revisión.
+
+La **Ley Orgánica del Ambiente de 2006, art. 80.12**, contempla la energía lumínica entre las actividades capaces de degradar el medio ambiente, sin imponer por sí sola límites técnicos universales. La Resolución 73/2011 fija un horario **19:00–00:00** en el ámbito de publicidad previsto por su art. 2.
+
+**Pendientes:** comprobación de vigencia y reformas de las disposiciones, texto íntegro de la ordenanza de Maracaibo (2026), reglamento de uso del área de Llano del Hato y referencia histórica al Decreto 1.658/1991 (no usar como fuente primaria sin cotejo).
+
+---
+
+
 **Corte documental:** 19 de noviembre de 2026. **Clasificación del atlas:** regulación sectorial obligatoria identificada, sin ley nacional integral localizada. **Ámbitos:** legislación ambiental general nacional, alumbrado vial LED, publicidad luminosa, protección del OAN de Mérida y regulación municipal de Maracaibo.
 
 ## Síntesis jurídica
