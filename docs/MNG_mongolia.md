@@ -24,3 +24,8 @@ La norma se aplica a proyectos en su ámbito y no constituye una ley general de 
 
 ---
 El atlas es una investigación documental y no sustituye una consulta de la norma oficial vigente. No extrapolar una obligación sectorial a la totalidad del alumbrado exterior.
+
+
+## Auditoría jurídica de clasificación (23-11-2026)
+
+La clasificación ALAN se corrige a protección lumínica explícita integrada: límites de iluminancia vertical sobre ventanas residenciales, no mera regulación indirecta.
