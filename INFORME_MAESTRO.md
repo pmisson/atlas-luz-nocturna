@@ -435,3 +435,7 @@ El atlas dispone de **99 países, 341 fuentes y 121 medidas**, con datos canóni
 ## Revisión África y Oceanía — 23 noviembre 2026
 
 **Estado vigente: 121 países, 396 referencias y 147 medidas.** Incorporados Uganda (Reglamento SI 53/2026 art.89, restricción de luces que afectan visibilidad en vías) y Zambia (Wildlife Act 2015 art.73, restricción de linternas y fuentes de luz durante caza nocturna, con permiso como excepción). Los dos son regímenes sectoriales, no leyes generales contra la contaminación lumínica. Fiyi, Samoa, Papúa Nueva Guinea, Botsuana, Cuba y Mozambique aún pendientes de norma específica verificada. Fuente canónica `data/atlas.json`.
+
+## Ampliación Fiyi, Botsuana y Cuba — 23-11-2026
+
+**Estado vigente del atlas: 124 países, 402 referencias, 150 medidas destacadas.** Fiyi: FRA Road Lighting Design Guide 2019, reglas sectoriales para skyglow, luz intrusa y emisión ascendente; Botsuana: Wildlife Conservation and National Parks Act 1992 art.55, uso de luces deslumbrantes para caza, con excepciones; Cuba: Ley 150/2022 art.84, evaluación ambiental de emisiones de energía lumínica sin límite fotométrico nacional identificado. Samoa, Papúa Nueva Guinea y Mozambique siguen pendientes de disposiciones precisas. Fuente vigente `data/atlas.json`; contadores anteriores son históricos.
