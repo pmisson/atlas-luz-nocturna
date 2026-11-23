@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 119,
-    "source_count": 391,
-    "star_count": 145,
+    "country_count": 121,
+    "source_count": 396,
+    "star_count": 147,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -34,7 +34,8 @@
     "review_balkans_central_asia_2026": "Bosnia Herzegovina FBiH art.21 Ley Ambiental 2021 contaminación lumínica expresa; Kirguistán СН КР 23-05:2019 §§11.5 y 11.8 máximos ventanas 5/7/10/20 lx y límites anuncios. Albania Macedonia Norte Georgia y Tayikistán pendientes de norma específica comprobada.",
     "review_africa_caribbean_oceania_2026": "Ghana GS1207:2018 §5.17 regula uplight y B/G; Barbados Physical Development Plan 2023 política costera luz-tortugas; Bahamas Coastal Infrastructure Design Guidance 2023 reconoce riesgo luz nocturna. Vanuatu, Fiji y otras islas pendientes de obligación ALAN específica.",
     "review_turtles_africa_2026": "República Dominicana Res. 0024/2025, reglamento costero vinculante; Etiopía Adís Abeba Directiva 185/2025, medidas preventivas ALAN; Tanzania EMA art.140(1)(h) y TANAPA §3.10.4 oscuridad parques. Fiyi Samoa Vanuatu PNG Botswana no incorporados por falta de medida específica acreditada.",
-    "review_oceania_caribbean_nov2026": "Honduras plan ICF 089-2025 sustituye 047-2024; Belice directrices DOE 2010 §7 alumbrado estructuras sobre agua; Vanuatu NPOA tortugas 2016-2020 (histórico), SPREP 2025 guía no vinculante. Fiyi, Samoa, PNG, Botswana, Cuba, Mozambique, Uganda y Zambia pendientes."
+    "review_oceania_caribbean_nov2026": "Honduras plan ICF 089-2025 sustituye 047-2024; Belice directrices DOE 2010 §7 alumbrado estructuras sobre agua; Vanuatu NPOA tortugas 2016-2020 (histórico), SPREP 2025 guía no vinculante. Fiyi, Samoa, PNG, Botswana, Cuba, Mozambique, Uganda y Zambia pendientes.",
+    "review_uganda_zambia_2026": "Uganda SI 53/2026 art.89 regula luces deslumbrantes carreteras; Zambia Wildlife Act 2015 art.73 prohíbe luz en caza nocturna salvo permiso. Fiyi guías ONG 2012 y Mozambique plan 2011 constatación de impactos se excluyen del recuento en esta fase; Samoa PNG Botswana Cuba siguen pendientes."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -2287,6 +2288,43 @@
       ],
       "star_ids": [
         "M145"
+      ]
+    },
+    {
+      "iso": "UGA",
+      "name": "Uganda",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "Las Roads (Management of Public Roads) Regulations, Statutory Instrument 53 de 2026, vigentes desde el 26 de junio de 2026, artículo 89, prohíben colocar o exhibir luces en o cerca de una carretera pública cuando puedan afectar a la visibilidad, con sanciones. La Wildlife Act 2019, sección 33(2)(c), habilita reglamentos sobre uso de lámparas en áreas de conservación; no equivale a prohibición general ya aprobada.",
+      "scope": "Nacional: vías públicas, reservas viarias y embarcaderos comprendidos en SI 53/2026; habilitación normativa para áreas de conservación",
+      "confidence": "Texto oficial del Statutory Instrument 53/2026 reproducido en UgandaLII y portal gubernamental de carreteras; Wildlife Act 2019 publicada por NEMA",
+      "note": "Art. 89 es una restricción de deslumbramiento y seguridad vial, no un límite de contaminación lumínica ambiental, luz intrusa residencial o resplandor de cielo. No confundir facultad de dictar reglamentos de fauna con prohibición ya vigente.",
+      "keywords": "Uganda SI 53 2026 regulation 89 dazzling distracting lights public roads Uganda Wildlife Act 2019 33 lamp wildlife",
+      "source_ids": [
+        "F392",
+        "F393",
+        "F394"
+      ],
+      "star_ids": [
+        "M146"
+      ]
+    },
+    {
+      "iso": "ZMB",
+      "name": "Zambia",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "La Zambia Wildlife Act 2015, artículo 73, prohíbe durante las horas de oscuridad la caza de fauna silvestre y el empleo con fines de caza o asistencia de linternas, bengalas, lámparas frontales u otras fuentes de luz artificial, excepto con permiso escrito del comité competente. Las horas de oscuridad van desde media hora después de la puesta del Sol a media hora antes de su salida.",
+      "scope": "Nacional: actividades de caza y asistencia a la caza de fauna silvestre reguladas por la Wildlife Act",
+      "confidence": "Texto legal de 2015 en ZambiaLII y copia PDF del acto parlamentario de 2015",
+      "note": "La disposición no prohíbe cualquier luz nocturna, ni regula alumbrado urbano o contaminación del cielo. La excepción por permiso escrito es expresa y debe conservarse en resúmenes.",
+      "keywords": "Zambia Wildlife Act 2015 section 73 artificial light torch flare headlamp hunting hours darkness",
+      "source_ids": [
+        "F395",
+        "F396"
+      ],
+      "star_ids": [
+        "M147"
       ]
     }
   ],
@@ -6591,6 +6629,61 @@
       "note": "Guía no vinculante, no supone legislación nacional actual",
       "year": "2025",
       "official": false
+    },
+    {
+      "id": "F392",
+      "country": "UGA",
+      "title": "Uganda: Roads (Management of Public Roads) Regulations, SI 53/2026, art. 89",
+      "url": "https://ulii.org/sw/akn/ug/act/si/2026/53/eng%402026-06-26",
+      "type": "Reglamento nacional de carreteras, texto jurídico",
+      "effect": "Prohíbe instalar o exhibir luces que comprometan visibilidad en vías públicas y prevé multas o prisión; vigencia 26-06-2026",
+      "note": "Seguridad vial y deslumbramiento, no reglamentación ambiental general de luz artificial",
+      "year": "2026",
+      "official": false
+    },
+    {
+      "id": "F393",
+      "country": "UGA",
+      "title": "Ministerio de Obras y Transporte Uganda: índice de regulación de carreteras 2026",
+      "url": "https://works.go.ug/acts-policies-and-regulations/",
+      "type": "Portal oficial del ministerio",
+      "effect": "Publica la existencia del SI 53/2026 y enlaces a reglamentos viarios",
+      "note": "Índice gubernamental, el articulado está en el texto del reglamento",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F394",
+      "country": "UGA",
+      "title": "Uganda Wildlife Act 2019, sección 33(2)(c), uso de lámparas en áreas protegidas",
+      "url": "https://www.nema.go.ug/en/wp-content/uploads/2025/06/Uganda_Wildlife_Act_2019.pdf",
+      "type": "Ley nacional de fauna",
+      "effect": "Habilita reglamentación de uso de lámparas, luces o fuego en áreas de conservación",
+      "note": "Facultad normativa, no prohibición general directa de iluminación ambiental",
+      "year": "2019",
+      "official": true
+    },
+    {
+      "id": "F395",
+      "country": "ZMB",
+      "title": "Zambia Wildlife Act 2015, artículo 73, uso de luz artificial durante la caza",
+      "url": "https://zambialii.org/akn/zm/act/2015/14/eng%402015-08-14",
+      "type": "Ley nacional de fauna silvestre",
+      "effect": "Prohíbe cazar y emplear linterna, bengala, frontal u otra luz para fines de caza de noche salvo permiso escrito",
+      "note": "No es límite de alumbrado urbano; excepción por autorización de comité",
+      "year": "2015",
+      "official": false
+    },
+    {
+      "id": "F396",
+      "country": "ZMB",
+      "title": "Zambia: Act 14/2015, texto oficial reproducido en PDF, artículo 73",
+      "url": "https://www.zambialaws.com/Zambia_Acts_yearPdf/Zambia2015Pdf/ACT-2015-23.pdf",
+      "type": "Texto de ley promulgada, copia documental",
+      "effect": "Artículo 73 define horas de oscuridad como media hora tras ocaso hasta media hora antes amanecer y restringe uso de luces en caza",
+      "note": "La URL del archivo PDF no es numeración del acto; utilizar identificación jurídica Zambia Wildlife Act 2015",
+      "year": "2015",
+      "official": false
     }
   ],
   "stars": [
@@ -8667,6 +8760,36 @@
       ],
       "caution": "Plan 2016–2020 expirado como período de planificación; no atribuir vigencia en 2026 sin nueva norma.",
       "replicability": "Alta"
+    },
+    {
+      "id": "M146",
+      "country": "UGA",
+      "title": "Uganda: prohibición de luces deslumbrantes cerca de carreteras",
+      "description": "Reglamento SI 53/2026 art. 89 prohíbe instalar o exhibir iluminación cerca de vías públicas que pueda afectar a su visibilidad.",
+      "force": "Reglamento nacional vinculante sobre seguridad vial",
+      "param": "Prohibición cualitativa de iluminación que afecte visibilidad; sanciones sin umbral de lux o CCT",
+      "scope": "Vías y reservas públicas comprendidas en SI 53/2026",
+      "sources": [
+        "F392",
+        "F393"
+      ],
+      "caution": "No equivale a prohibición de emisiones hacia el cielo ni límites espectrales.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M147",
+      "country": "ZMB",
+      "title": "Zambia: prohibición de fuentes artificiales de luz para caza nocturna",
+      "description": "Zambia Wildlife Act 2015 art. 73 prohíbe cazar y utilizar linternas, focos, lámparas frontales u otras luces para cazar entre media hora después de ocaso y media hora antes de alba, excepto con permiso escrito.",
+      "force": "Ley nacional de protección de fauna, obligación vinculante",
+      "param": "Prohibición funcional de luz durante caza nocturna; excepciones por autorización escrita",
+      "scope": "Caza y asistencia a caza regulada por Wildlife Act",
+      "sources": [
+        "F395",
+        "F396"
+      ],
+      "caution": "No es regulación de iluminación pública, fachadas o contaminación lumínica general.",
+      "replicability": "Media"
     }
   ],
   "spain_regions": [
