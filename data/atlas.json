@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 101,
-    "source_count": 347,
-    "star_count": 122,
+    "country_count": 103,
+    "source_count": 353,
+    "star_count": 126,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -28,7 +28,8 @@
     "rus_belarus_review_2026": "RUS SanPiN 1.2.3685-21 tab.5.57 (vigencia 2026) luz en ventanas 5/7/10/20 lux, SP 52.13330.2016 y GOST 55706-2023; Pulkovo ley 29-10/2009 art71 derogada. BLR Ley Publicidad 225-Z art13.2 y decreto 395/2021 antideslumbramiento; Nesvizh 2328/2026 23-07 pulsos, Miory 1036/2026 destellos; SN 2.04.03-2020 reemplaza TKP 2009.",
     "rus_blr_followup_2026": "Púlkovo PZZ Resolución 524/2016 redacción 1008/2025 apartado 3.16 protege zona vía limitaciones urbanísticas, no límite de resplandor de cielo verificado. Bielorrusia SN 2.04.03-2020 y SP 4.04.01-2022 vigente pero antiguos 5/7/10/20 lux de TKP 2009 no verificados en texto SN vigente.",
     "review_island_moldova_2026": "Seychelles luz de pesca art21 2025; Moldavia ANRE 498/2024 ap9 excluye criterios de fotometría y NCM 2025 sustituye NCM 2017; Jamaica permiso NEPA Fiesta condición22; Kuwait regla publicidad 599/2023 art13.12; Trinidad-Tobago notice 90/2014 tortuga verde y flash.",
-    "review_jordan_montenegro_2026": "Jordania: Ley ambiental 6/2017 y JS 2253-2:2020, sin límites ALAN específicos; Montenegro: Ley Naturaleza 117/2026 art.96 uso de luz como medio prohibido de perturbación de aves, no regla general de alumbrado."
+    "review_jordan_montenegro_2026": "Jordania: Ley ambiental 6/2017 y JS 2253-2:2020, sin límites ALAN específicos; Montenegro: Ley Naturaleza 117/2026 art.96 uso de luz como medio prohibido de perturbación de aves, no regla general de alumbrado.",
+    "review_mongolia_philippines_2026": "Mongolia БНбД 23-02-08 §§7.45/7.71 límites Ev 5/7/10/20 lx y atenuación condicionada, vigencia consolidada por verificar; Filipinas DENR-BMB TB 2020-05 directrices tortugas, JMC 01/2020 §8.16 prohibición flash/estrobos/video en turismo con fauna marina."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -1946,6 +1947,46 @@
       ],
       "star_ids": [
         "M122"
+      ]
+    },
+    {
+      "iso": "MNG",
+      "name": "Mongolia",
+      "region": "Asia",
+      "level": "sectorial",
+      "summary": "La norma vinculada al diseño de instalaciones БНбД 23-02-08 (Iluminación natural y artificial, 2008) establece límites de iluminancia vertical en ventanas residenciales de 5, 7, 10 o 20 lx en función de la clase de vía y luminancia media; apartado 7.71 extiende el límite a la suma de alumbrado exterior, publicitario y arquitectónico. Permite reducciones del 30 % o 50 % en determinados escenarios de tráfico nocturno y regula deslumbramiento y publicidad luminosa.",
+      "scope": "Nacional; diseño de alumbrado exterior urbano y arquitectónico, con exclusiones de instalaciones especiales",
+      "confidence": "Texto oficial completo en legalinfo.mn, apartados 7.44, 7.45, 7.70 y 7.71; menciones posteriores a БНбД 23-02-08 en normas técnicas oficiales",
+      "note": "La norma se aplica a proyectos en su ámbito y no constituye una ley general de protección del cielo. Confirmar eventuales reformas y su vigencia consolidada para dictámenes. La atenuación es facultativa y condicionada, no una obligación universal.",
+      "keywords": "Mongolia БНбД 23-02-08 гэрэлтүүлэг 7.45 7.71 windows vertical illuminance 5 7 10 20 lux advertising luminance dimming",
+      "source_ids": [
+        "F348",
+        "F349",
+        "F350"
+      ],
+      "star_ids": [
+        "M123",
+        "M124"
+      ]
+    },
+    {
+      "iso": "PHL",
+      "name": "Filipinas",
+      "region": "Asia",
+      "level": "sectorial",
+      "summary": "El DENR Biodiversity Management Bureau Technical Bulletin 2020-05 identifica expresamente la contaminación lumínica en playas de anidación de tortugas marinas y recomienda luces bajas, apantalladas, con sensores, sodio de baja presión y reducción de luz que sale de edificios. La Circular Interministerial DOT-DA-DILG-DENR 01/2020, sección 8.16, prohíbe flashes, estroboscopios y luces de vídeo en las interacciones turísticas reguladas con fauna marina.",
+      "scope": "Nacional; protección de hábitats de tortugas y actividades turísticas de interacción con fauna marina",
+      "confidence": "Boletín original de DENR-BMB y circular conjunta oficial reproducida por University of the Philippines",
+      "note": "Las medidas de iluminación de playas del boletín son recomendaciones técnicas, no límites nacionales generales exigibles a todos los hoteles. La prohibición de luces de vídeo/flash de la circular está limitada a interacciones de turismo de fauna marina, no al alumbrado municipal.",
+      "keywords": "Philippines BMB 2020-05 Light Pollution sea turtles nesting beach low pressure sodium DOT DA DILG DENR JMC 01-2020 flash strobes video lights",
+      "source_ids": [
+        "F351",
+        "F352",
+        "F353"
+      ],
+      "star_ids": [
+        "M125",
+        "M126"
       ]
     }
   ],
@@ -5766,6 +5807,72 @@
       "note": "Comprobar alcance específico del supuesto antes de citar; no es límite ALAN general",
       "year": "2026",
       "official": false
+    },
+    {
+      "id": "F348",
+      "country": "MNG",
+      "title": "Mongolia: БНбД 23-02-08 Iluminación natural y artificial, texto normativo oficial",
+      "url": "https://legalinfo.mn/storage/uploads/process/202211/file_1668581562109229_163403209487511.pdf",
+      "type": "Norma nacional de construcción/alumbrado",
+      "effect": "Arts. 7.44-7.45: atenuación condicionada y límites de iluminancia vertical 5/7/10/20 lx en ventanas; 7.70-7.71: publicidad y contribución acumulada de alumbrado exterior",
+      "note": "Aprobada 05-12-2008, aplicación al diseño desde 15-12-2008. Confirmar modificaciones posteriores",
+      "year": "2008",
+      "official": true
+    },
+    {
+      "id": "F349",
+      "country": "MNG",
+      "title": "Mongolia: código técnico de edificios escolares que remite a БНбД 23-02-08",
+      "url": "https://legalinfo.mn/mn/detail?lawId=16531723968611",
+      "type": "Norma técnica oficial de remisión",
+      "effect": "Art. 6.1.1 y 6.2.1 remiten a la norma general de iluminación",
+      "note": "Prueba de referencia posterior, no necesariamente vigencia íntegra de todos sus apartados",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F350",
+      "country": "MNG",
+      "title": "Mongolia: publicación ministerial vigente de БНбД 23-02-08",
+      "url": "https://mcis.gov.mn/storage/uploads/process/202510/file_1760340444978004_161611878330710_stamped.pdf",
+      "type": "Reproducción institucional de norma técnica",
+      "effect": "Texto normativo con reglas de alumbrado natural y artificial",
+      "note": "El fichero ministerial 2025 no demuestra una reforma en 2025",
+      "year": "2008",
+      "official": true
+    },
+    {
+      "id": "F351",
+      "country": "PHL",
+      "title": "DENR-BMB Filipinas: Boletín técnico 2020-05, protección de playas de anidación",
+      "url": "https://bmb.gov.ph/wp-content/uploads/2024/01/tb2020-05.pdf",
+      "type": "Guía técnica institucional de protección de fauna",
+      "effect": "Apartado VI.B reconoce contaminación lumínica y recomienda apantallado, reducción de luz intrusa y sodio baja presión",
+      "note": "Recomendaciones, sin máximo legal numérico de lux o emisión ascendente",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F352",
+      "country": "PHL",
+      "title": "Filipinas: Circular conjunta DOT-DA-DILG-DENR 01/2020 de turismo y fauna marina",
+      "url": "https://law.upd.edu.ph/wp-content/uploads/2021/04/DOT-DA-DILG-DENR-Joint-Memorandum-Circular-No-01-Series-of-2020.pdf",
+      "type": "Circular interministerial regulatoria",
+      "effect": "Sección 8.16 prohíbe flash, luces estroboscópicas y de vídeo en interacciones turísticas reguladas con fauna marina",
+      "note": "No es prohibición general de fotografía ni alumbrado público; copia en repositorio académico",
+      "year": "2020",
+      "official": false
+    },
+    {
+      "id": "F353",
+      "country": "PHL",
+      "title": "DENR Biodiversity Management Bureau: repertorio oficial de boletines",
+      "url": "https://elibrary.bmb.gov.ph/elibrary/?page_id=4203",
+      "type": "Índice documental oficial",
+      "effect": "Verifica registro y localización del Boletín Técnico 2020-05",
+      "note": "Índice; consultar el documento original para requisitos y recomendaciones",
+      "year": "2020",
+      "official": true
     }
   ],
   "stars": [
@@ -7510,6 +7617,62 @@
         "F346"
       ],
       "caution": "No convertir la prohibición de un medio de captura en prohibición general de iluminar.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M123",
+      "country": "MNG",
+      "title": "Mongolia: límites de luz intrusa vertical en ventanas",
+      "description": "БНбД 23-02-08 §7.45 limita la iluminancia vertical a 5, 7, 10 o 20 lux según ubicación y categoría de calle; §7.71 comprende la contribución sumada de alumbrado exterior, publicitario y arquitectónico.",
+      "force": "Norma técnica de diseño del alumbrado en su ámbito",
+      "param": "Ev ventanas <=5/7/10/20 lux según condiciones regladas",
+      "scope": "Proyectos de alumbrado urbano afectados por la norma",
+      "sources": [
+        "F348"
+      ],
+      "caution": "No son umbrales universales aplicables a cualquier entorno; verificar redacción vigente y ámbito del proyecto.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M124",
+      "country": "MNG",
+      "title": "Mongolia: atenuación del 30–50 % por reducción del tráfico",
+      "description": "БНбД 23-02-08 permite reducir niveles de iluminación con reguladores al descender el tráfico a 1/3 o 1/5 del máximo, en 30% o 50% respectivamente, con exclusiones para niveles bajos.",
+      "force": "Opción técnica condicionada, no obligación general de apagado",
+      "param": "30 % o 50 % de reducción de iluminación según tráfico",
+      "scope": "Viales comprendidos en los apartados de iluminación vial",
+      "sources": [
+        "F348"
+      ],
+      "caution": "La norma también prohíbe apagar parcial o totalmente determinadas vías con iluminancia muy baja.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M125",
+      "country": "PHL",
+      "title": "Filipinas: reducir luces junto a playas de anidación",
+      "description": "El Boletín DENR-BMB 2020-05 recomienda luminarias bajas, direccionales, apantalladas, sensores de movimiento, sodio de baja presión y persianas para bloquear derrames de luz desde edificios próximos.",
+      "force": "Directrices administrativas de conservación; recomendaciones",
+      "param": "Orientación, altura, apantallamiento y mitigación de luz intrusa sin límite numérico",
+      "scope": "Playas de anidación de tortugas marinas",
+      "sources": [
+        "F351"
+      ],
+      "caution": "No presentar recomendaciones como prohibiciones generales o límites legales de iluminancia.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M126",
+      "country": "PHL",
+      "title": "Filipinas: prohibición de flashes y luces de vídeo en turismo con fauna marina",
+      "description": "La sección 8.16 de la Circular DOT-DA-DILG-DENR 01/2020 incluye flash, estroboscopios y luces de vídeo entre las actividades prohibidas en interacciones turísticas reguladas con fauna marina.",
+      "force": "Circular regulatoria interministerial",
+      "param": "Prohibición cualitativa de flashes, estroboscopios y luces de vídeo",
+      "scope": "Actividades de interacción turística con fauna marina sujetas a la circular",
+      "sources": [
+        "F352"
+      ],
+      "caution": "No extrapolar esta prohibición al uso ordinario de cámaras o iluminación de calles y playas.",
       "replicability": "Media"
     }
   ],
