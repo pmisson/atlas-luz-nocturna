@@ -1,6 +1,6 @@
 # Puerto Rico — territorio de Estados Unidos con legislación lumínica específica
 
-**Corte documental:** 22-11-2026. Puerto Rico se incorpora a la ficha de Estados Unidos (USA), **no se suma como país soberano**.
+**Corte documental:** 22-11-2026. Puerto Rico dispone de [ficha territorial propia](PRI_puerto-rico.md) (PRI) y aparece separado de Estados Unidos en el mapa. **No se suma como país soberano**.
 
 La **Ley 218/2008** sobre prevención y control de contaminación lumínica, según enmendada por las Leyes 225/2011, 29/2012, 35/2013, 105/2014 y 103/2020, dispone un programa de protección que comprende cielo astronómico, bioluminiscencia, tortugas marinas y fauna. Se desarrolla en un reglamento territorial que regula luminarias y diferentes clases de protección. No se extrapolan sus límites a otros estados estadounidenses.
 
