@@ -9,9 +9,9 @@
 El atlas contiene:
 
 - **Mapa SVG mundial interactivo** (funciona offline): países seleccionables, lupa, desplazamiento y filtros por región y tipo de normativa; los puntos de Malta, Singapur, Andorra y Liechtenstein completan la cartografía de Natural Earth de baja resolución.
-- **94 fichas nacionales** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
-- **341 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
-- **121 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
+- **101 fichas nacionales** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
+- **347 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
+- **122 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
 - **19 fichas subnacionales espanolas**: 17 comunidades autonomas y Ceuta y Melilla, con citas al BOE, REECL y fuentes regionales, y advertencias de vigencia.
 - **Derecho internacional y doctrina**: CLRTAP (1979), CDI ONU, Reglamento UE 2024/1991, compilacion checa de 2022, Bara y Yakushina.
 - **Datos reutilizables** (`data/atlas.json`, `data/paises.csv`, `data/fuentes.csv`, `data/medidas_estrella.csv`), informe maestro `INFORME_MAESTRO.md` y fichas Markdown.
@@ -185,3 +185,7 @@ Actualización: Resolución 524/2016 de San Petersburgo, sección 3.16, modifica
 ## Cinco jurisdicciones insulares y Moldavia — 23-XI-2026
 
 Seychelles (Ley de pesca 3/2025, art. 21: luces para atraer peces); Moldavia (ANRE 498/2024 y NCM C.04.02-2025); Jamaica (permiso NEPA 2005-09017-EP00199, condición 22 de protección de tortugas); Kuwait (Decisión municipal 599/2023, art. 13.12 sobre deslumbramiento de anuncios); Trinidad y Tobago (Aviso 90/2014 sobre perturbación luminosa de tortugas verdes). Estos instrumentos son sectoriales o individuales, **no cinco leyes nacionales de control general del cielo nocturno**. Total vigente: 99 países, 341 fuentes y 121 medidas.
+
+## Actualización 23-11-2026
+
+101 países, 347 referencias y 122 medidas destacadas. Incorporados Jordania (marco ambiental y estándar de iluminación exterior) y Montenegro (Ley de Protección de la Naturaleza 117/2026, art. 96, prohibición de luz como medio de captura o perturbación de aves). Véase `data/atlas.json` y `docs/JOR_jordania.md`, `docs/MNE_montenegro.md`. La incorporación no presupone una ley general de contaminación lumínica.
