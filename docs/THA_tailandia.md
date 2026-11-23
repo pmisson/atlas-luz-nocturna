@@ -17,3 +17,8 @@ No se ha acreditado límite ALAN nacional en lux o CCT; aplicación de molestias
 
 ## Medidas
 - **Tailandia: luz que causa molestias sanitarias**: Art. 25(4) Ley de Salud Pública puede calificar la luz perjudicial como molestia y habilita intervención local.. **Fuerza:** Ley nacional de salud pública. **Cautela:** Exige condiciones de perjuicio y aplicación administrativa local.
+
+
+## Auditoría jurídica de clasificación (23-11-2026)
+
+La clasificación ALAN se corrige a protección explícita contra molestias luminosas dañinas para la salud por el art. 25(4), sin equiparación a límites de brillo de cielo.
