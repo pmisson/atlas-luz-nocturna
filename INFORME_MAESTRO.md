@@ -407,3 +407,7 @@ El atlas dispone de **99 países, 341 fuentes y 121 medidas**, con datos canóni
 ## Actualización consolidada — 23 de noviembre de 2026
 
 **Estado vigente del inventario: 101 países, 347 fuentes y 122 medidas destacadas.** Los contadores anteriores en este documento corresponden a etapas históricas y no deben interpretarse como valores actuales. Jordania: Ley de Protección Ambiental 6/2017 y norma JS 2253-2:2020 (sin umbrales generales ALAN verificados). Montenegro: Ley de Protección de la Naturaleza 117/2026, art. 96 (fuentes de luz como medio prohibido de captura o perturbación de aves; no regulación general de alumbrado). Fuente canónica: `data/atlas.json`.
+
+## Actualización Mongolia y Filipinas — 23 noviembre 2026
+
+**Estado vigente:** 103 países; 353 referencias documentales; 126 medidas destacadas. Mongolia incorpora la norma de diseño БНбД 23-02-08 sobre iluminancia vertical en ventanas y atenuación condicionada. Filipinas incorpora el Boletín DENR-BMB 2020-05, con recomendaciones sobre iluminación de playas de anidación, y la circular interministerial 01/2020 con restricciones sobre flashes y luces en actividades turísticas con fauna marina. No equivalen a leyes generales de contaminación lumínica. Fuente consolidada: `data/atlas.json`.
