@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 153,
-    "source_count": 457,
+    "country_count": 157,
+    "source_count": 465,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -2850,6 +2850,70 @@
       "source_ids": [
         "F456",
         "F457"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "CIV",
+      "name": "Costa de Marfil",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "Ley n.º 2023-899, de 23 de noviembre de 2023, Código de Higiene y Salubridad: capítulo VII, arts. 92 y 95, obliga al Estado a prevenir y poner fin a las molestias, incluidas expresamente las luminosas, y a las personas físicas o jurídicas causantes a tomar medidas útiles para reducirlas o eliminarlas.",
+      "scope": "Nacional: molestias luminosas y salubridad",
+      "confidence": "Texto legal primario publicado por ministerio competente",
+      "note": "No implica límites fotométricos nacionales específicos de brillo del cielo, flujo ascendente ni espectro; no se han comprobado decretos de desarrollo.",
+      "keywords": "Côte d'Ivoire loi 2023-899 articles 92 95 nuisances lumineuses code hygiène salubrité",
+      "source_ids": [
+        "F458",
+        "F459"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "COD",
+      "name": "República Democrática del Congo (Congo-Kinsasa)",
+      "region": "África",
+      "level": "general",
+      "summary": "Ley n.º 11/009, de 9 de julio de 2011, sobre principios fundamentales de protección ambiental, modificada por Ordenanza-Ley n.º 23/007, de 3 de marzo de 2023; legislación marco para prevenir contaminación y molestias, complementada por procedimientos de evaluación ambiental del Decreto 14/019 de 2 de agosto de 2014.",
+      "scope": "Nacional: prevención general de contaminación y molestias; evaluación ambiental",
+      "confidence": "Textos institucionales de la Agencia Congoleña de Medio Ambiente y plataforma nacional de biodiversidad",
+      "note": "No localizada todavía disposición que mencione específicamente luz artificial, contaminación lumínica o valores límite de alumbrado. Marco ambiental indirecto, no norma ALAN explícita. No confundir COD con República del Congo (COG).",
+      "keywords": "RDC loi 11/009 2011 ordonnance loi 23/007 2023 décret 14/019 environnement nuisances",
+      "source_ids": [
+        "F460",
+        "F461"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "AFG",
+      "name": "Afganistán",
+      "region": "Asia",
+      "level": "general",
+      "summary": "Ley de Medio Ambiente de 2007 (Official Gazette n.º 912 de 25 de enero de 2007) y Reglamento de Evaluación de Impactos Ambientales y Sociales de 2017. La autoridad NEPA identifica ambos textos como el marco legal de prevención de impactos de proyectos.",
+      "scope": "Nacional: marco ambiental general y evaluación de impacto",
+      "confidence": "Catálogo oficial NEPA, ficha legislativa FAOLEX y guía del PNUMA",
+      "note": "No se ha verificado regulación específica de contaminación lumínica, deslumbramiento, intensidad, espectro o brillo del cielo; la aplicación y vigencia efectiva tras cambios institucionales posteriores a 2021 requieren cotejo. Incluir como marco indirecto, sin atribuir protección ALAN expresa.",
+      "keywords": "Afghanistan Environment Law 2007 Official Gazette 912 NEPA ESIA Regulation 2017",
+      "source_ids": [
+        "F462",
+        "F463"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "BEN",
+      "name": "Benín",
+      "region": "África",
+      "level": "general",
+      "summary": "Ley n.º 2026-15, de 23 de julio de 2026, sobre el medio ambiente, catalogada por la Agencia Beninesa para el Medio Ambiente y el repositorio legislativo estatal. Marco de prevención de molestias ambientales, sin artículo específico de emisiones luminosas verificado en esta revisión.",
+      "scope": "Nacional: legislación ambiental general",
+      "confidence": "Existencia, título y fecha confirmados en agencia ambiental y base legal oficiales",
+      "note": "Pendiente lectura íntegra de la ley 2026-15, incluyendo eventuales disposiciones sobre luz artificial. No afirmar control ALAN específico ni límites cuantitativos con la documentación revisada.",
+      "keywords": "Bénin loi 2026-15 23 juillet 2026 environnement nuisances éclairage pollution lumineuse",
+      "source_ids": [
+        "F464",
+        "F465"
       ],
       "star_ids": []
     }
@@ -7881,6 +7945,94 @@
       "note": "Ver Sixth y Twelfth Schedules del texto oficial para requisitos ALAN",
       "year": "2025",
       "official": false
+    },
+    {
+      "id": "F458",
+      "country": "CIV",
+      "title": "Loi n° 2023-899 du 23 novembre 2023 portant Code de l'hygiène et de la salubrité, arts. 92 et 95",
+      "url": "https://salubrite.gouv.ci/wp-content/uploads/2025/04/LOI-2023-899-DU-23-NOV-PORTANT-CODE-DE-LHYGIENE-ET-DE-LA-SALUBRITE.pdf",
+      "type": "Ley nacional; texto gubernamental",
+      "effect": "Obligación estatal de prevenir molestias luminosas y obligación de reducirlas por quienes las causen",
+      "note": "No prescribe umbrales nacionales cuantificados",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F459",
+      "country": "CIV",
+      "title": "Ministerio de Salubridad — repositorio de textos jurídicos, Código de Higiene 2023",
+      "url": "https://salubrite.gouv.ci/documentation/textes-juridiques/",
+      "type": "Repositorio oficial ministerial",
+      "effect": "Corrobora publicación de Ley 2023-899",
+      "note": "Referencia complementaria",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F460",
+      "country": "COD",
+      "title": "RDC — Loi n° 11/009 du 9 juillet 2011 relative à la protection de l'environnement",
+      "url": "https://www.ace-rdc.net/textes-legaux/loi-11-009-protection-environnement",
+      "type": "Ley marco ambiental; organismo oficial",
+      "effect": "Prevención de formas de contaminación y molestias ambientales",
+      "note": "No identifica expresamente ALAN ni normas fotométricas",
+      "year": "2011",
+      "official": true
+    },
+    {
+      "id": "F461",
+      "country": "COD",
+      "title": "RDC — Ordonnance loi n° 23/007 du 3 mars 2023 modifiant loi 11/009",
+      "url": "https://cd.chm-cbd.net/fr/documents/ordonnance-loi-ndeg-23007-du-03-mars-2023-modifiant-et-completant-la-loi-ndeg-11009-du-9",
+      "type": "Reforma legislativa ambiental; plataforma nacional",
+      "effect": "Actualiza régimen de prevención de contaminación y evaluación ambiental",
+      "note": "No se identificaron condiciones ALAN específicas",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F462",
+      "country": "AFG",
+      "title": "Afghanistan — NEPA Laws and Regulations: Environmental Law and Environmental and Social Impact Assessment",
+      "url": "https://nepa.gov.af/lawsAndRegulations",
+      "type": "Inventario oficial de normas ambientales",
+      "effect": "Existencia de legislación general y evaluación de impacto",
+      "note": "No se identificó artículo específicamente referido a contaminación lumínica",
+      "year": "2007",
+      "official": true
+    },
+    {
+      "id": "F463",
+      "country": "AFG",
+      "title": "UNEP — A guide to Afghanistan's 2007 Environmental Law",
+      "url": "https://wedocs.unep.org/items/e7a9e2dd-fa91-4db2-97da-89670fb2e532",
+      "type": "Guía del Programa de las Naciones Unidas para el Medio Ambiente",
+      "effect": "Corrobora ley 2007 Gazette 912",
+      "note": "Fuente explicativa, no regulación ALAN",
+      "year": "2008",
+      "official": true
+    },
+    {
+      "id": "F464",
+      "country": "BEN",
+      "title": "Agence Béninoise pour l'Environnement — Loi n° 2026-15 du 23 juillet 2026 portant loi sur l'environnement",
+      "url": "https://abe.bj/documentheques/?type=DECRET",
+      "type": "Catálogo oficial de ley nacional ambiental",
+      "effect": "Confirma ley de protección ambiental y prevención de molestias",
+      "note": "Disposiciones ALAN todavía no verificadas",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F465",
+      "country": "BEN",
+      "title": "Benín LEGIS — Loi n° 2026-15 du 23 juillet 2026",
+      "url": "https://legis.cdij.bj/",
+      "type": "Base de datos estatal legislativa",
+      "effect": "Corrobora existencia y fecha de ley ambiental",
+      "note": "Necesaria revisión del articulado sobre posibles molestias luminosas",
+      "year": "2026",
+      "official": true
     }
   ],
   "stars": [
