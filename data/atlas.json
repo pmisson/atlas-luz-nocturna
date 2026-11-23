@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 127,
-    "source_count": 410,
+    "country_count": 128,
+    "source_count": 414,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -1798,14 +1798,16 @@
       "iso": "SLE",
       "name": "Sierra Leona",
       "region": "África",
-      "level": "pendiente",
-      "summary": "Environmental Protection Agency Act 15/2022 crea y dota de competencias ambientales a la agencia, con evaluación y control de proyectos; no se ha verificado un límite o regla directa sobre contaminación lumínica en el articulado examinado.",
-      "scope": "Nacional, legislación institucional y ambiental",
-      "confidence": "Ley 2022 vigente localizada en SierraLII",
-      "note": "No equiparar EIA o protección general de ecosistemas a obligación específica ALAN sin resolución adicional.",
-      "keywords": "Sierra Leone EPA act 15 2022 pollution light no direct",
+      "level": "sectorial",
+      "summary": "Customary Land Rights Act 2022, art. 33 y segundo anexo, apartado 10: los contratos de arrendamiento entre comunidades e inversores deben incorporar condiciones para evitar o minimizar expresamente la contaminación lumínica, remediar daños y prever compensaciones. Circular aeronáutica SLCAA-AC-AGA042 Rev00 contempla la eliminación de contaminación lumínica y deslumbramientos en el entorno de aeródromos.",
+      "scope": "Nacional: contratos de tierras consuetudinarias; orientación aeroportuaria",
+      "confidence": "Ley parlamentaria de 2022, anexo vinculante; circular oficial de aviación",
+      "note": "Obligación sectorial contractual, no norma general de alumbrado exterior ni límites fotométricos. La circular aeronáutica emplea formulación orientativa.",
+      "keywords": "Sierra Leone light pollution customary land lease environmental aviation",
       "source_ids": [
-        "F305"
+        "F305",
+        "F411",
+        "F412"
       ],
       "star_ids": []
     },
@@ -2441,6 +2443,22 @@
       "star_ids": [
         "M155"
       ]
+    },
+    {
+      "iso": "CPV",
+      "name": "Cabo Verde",
+      "region": "África",
+      "level": "subnacional",
+      "summary": "Plan Conjunto de Acción Climática y Acceso a Energía Sostenible de Praia y Ribeira Grande de Santiago (Joint SEACAP), aprobado por Deliberación 28/AMP/2023 y publicado el 31-10-2023: medidas M.E.4 (Praia) y M.E.3 (Ribeira Grande) exigen como criterio de renovación del alumbrado reducir al máximo la contaminación lumínica. Reglamento del Plan de Salvaguarda de Cidade Velha, aprobado en 2025, art. 79, regula las luminarias en proyectos de urbanización.",
+      "scope": "Municipal: Praia, Ribeira Grande de Santiago y Cidade Velha",
+      "confidence": "Plan oficial publicado BO 31-10-2023; Reglamento publicado BO 27-08-2025",
+      "note": "Plan municipal oficialmente aprobado, sin límites fotométricos generales. El plan favorece LED por eficiencia sin fijar límites espectrales; la norma de Cidade Velha exige bajo consumo, sin límite explícito de emisión hacia el cielo.",
+      "keywords": "Cabo Verde Praia Ribeira Grande Santiago light pollution plano iluminacao",
+      "source_ids": [
+        "F413",
+        "F414"
+      ],
+      "star_ids": []
     }
   ],
   "sources": [
@@ -6952,6 +6970,50 @@
       "effect": "En 2019 se indicaba que no existía ley especialmente dedicada a contaminación lumínica",
       "note": "La afirmación se refiere al contexto de 2019, no acredita ausencia en 2026",
       "year": "2019",
+      "official": true
+    },
+    {
+      "id": "F411",
+      "country": "SLE",
+      "title": "Customary Land Rights Act 2022 — artículo 33 y segundo anexo apartado 10",
+      "url": "https://parliament.gov.sl/uploads/acts/THE%20CUSTOMARY%20LAND%20RIGHTS%20ACT%2C%202022.pdf",
+      "type": "Ley nacional sectorial vinculante",
+      "effect": "Condiciones obligatorias de contratos de arrendamiento comunitarios: prevenir o minimizar light pollution y reparar daños",
+      "note": "No equivale a límites fotométricos nacionales para toda instalación",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F412",
+      "country": "SLE",
+      "title": "SLCAA-AC-AGA042 Rev00 — Land Use and Environmental Management at Aerodromes",
+      "url": "https://slcaa.gov.sl/wp-content/uploads/2024/01/SLCAA-AC-AGA042-Rev00-Land-Use-and-Environmental-Management-Uploaded-16-Feb-23.pdf",
+      "type": "Circular aeronáutica oficial",
+      "effect": "Apartado 2.3(b)(iv): eliminar contaminación lumínica y reflejos que interfieran con pilotos o controladores",
+      "note": "Documento con lenguaje orientativo (should); no atribuir prohibición general",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F413",
+      "country": "CPV",
+      "title": "Deliberação 28/AMP/2023 y Joint SEACAP Praia–Ribeira Grande de Santiago",
+      "url": "https://portaldoclima.gov.cv/wp-content/uploads/2023/11/Plano-acao-Praia-e-Rib-Grande-Santiago.pdf",
+      "type": "Plan municipal aprobado y publicado",
+      "effect": "Medidas M.E.4 y M.E.3: criterios de reducción máxima de poluição luminosa en renovación de alumbrado",
+      "note": "Boletim Oficial II Série 200 de 31-10-2023; no confundir con Deliberação 29/AMP/2023 de presupuesto",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F414",
+      "country": "CPV",
+      "title": "Plano Detalhado de Salvaguarda do Sítio Histórico da Cidade Velha — artículo 79",
+      "url": "https://boe.incv.cv/Bulletins/View/87067",
+      "type": "Reglamento urbanístico municipal aprobado",
+      "effect": "Artículo 79: luminarias de bajo consumo en proyectos de urbanización en el área protegida",
+      "note": "No establece límite fotométrico general ni longitud de onda",
+      "year": "2025",
       "official": true
     }
   ],
