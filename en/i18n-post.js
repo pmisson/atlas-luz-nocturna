@@ -29,8 +29,8 @@ const translateText=(root)=>{
   if(node.parentElement?.closest("script,style,code,pre"))continue;
   const t=node.nodeValue,trim=t.trim();
   if(map[trim])node.nodeValue=t.replace(trim,map[trim]);
-  else if(/^\\d+ entradas$/.test(trim))node.nodeValue=t.replace("entradas","entries");
-  else if(/^\\d+ de \\d+ entradas$/.test(trim))node.nodeValue=t.replace(" de "," of ").replace("entradas","entries");
+  else if(/^\d+ entradas$/.test(trim))node.nodeValue=t.replace("entradas","entries");
+  else if(/^\d+ de \d+ entradas$/.test(trim))node.nodeValue=t.replace(" de "," of ").replace("entradas","entries");
  }
 };
 translateText(document.body);
