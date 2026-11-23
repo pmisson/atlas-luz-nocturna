@@ -10,7 +10,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 data_file = ROOT / "data" / "atlas.json"
-additions = json.loads((ROOT / "data" / "territorios_20261123.json").read_text(encoding="utf-8"))["entries"]
+additions = []
+for filename in ("territorios_20261123.json", "territorios_20261123_fase2.json"):
+    additions.extend(json.loads((ROOT / "data" / filename).read_text(encoding="utf-8"))["entries"])
 atlas = json.loads(data_file.read_text(encoding="utf-8"))
 if len(atlas["countries"]) < 200:
     raise SystemExit("ABORT: fuente histórica incompleta; no sobrescribir el atlas consolidado.")
