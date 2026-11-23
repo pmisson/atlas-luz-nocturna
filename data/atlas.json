@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 150,
-    "source_count": 451,
+    "country_count": 151,
+    "source_count": 453,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -2802,6 +2802,22 @@
       "source_ids": [
         "F450",
         "F451"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "COG",
+      "name": "República del Congo (Congo-Brazzaville)",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "Ley n.º 33-2023, de 17 de noviembre de 2023, sobre gestión sostenible del medio ambiente: artículo 91 obliga a las personas físicas o jurídicas que posean aparatos o máquinas que emitan luces capaces de perturbar la agudeza visual a adoptar las medidas necesarias para reducir su intensidad. Prevé un decreto para establecer normas sobre molestias.",
+      "scope": "Nacional: molestias luminosas y perturbación de la agudeza visual",
+      "confidence": "Ley publicada en Journal officiel n.º 48 de 30-11-2023 y reproducida por el Ministerio de Medio Ambiente",
+      "note": "No se establece expresamente un régimen general de protección del cielo nocturno ni límites cuantitativos de emisión ascendente o espectro. No se ha verificado un decreto específico de desarrollo del artículo 91. No confundir con la República Democrática del Congo (COD).",
+      "keywords": "Congo Brazzaville loi 33-2023 article 91 nuisances lumineuses acuité visuelle",
+      "source_ids": [
+        "F452",
+        "F453"
       ],
       "star_ids": []
     }
@@ -7766,6 +7782,28 @@
       "effect": "Confirma ley ambiental, estructura y fecha de aprobación",
       "note": "Fuente complementaria, consultar artículo 85 en texto primario",
       "year": "2013",
+      "official": true
+    },
+    {
+      "id": "F452",
+      "country": "COG",
+      "title": "République du Congo — Loi n° 33-2023 du 17 novembre 2023, art. 91, Journal officiel n° 48",
+      "url": "https://www.sgg.cg/JO/2023/congo-jo-2023-48.pdf",
+      "type": "Ley nacional vinculante, publicación en Journal officiel",
+      "effect": "Obliga a reducir la intensidad de luces procedentes de aparatos o máquinas que perturben la agudeza visual",
+      "note": "Art. 91 prevé decreto sobre molestias; límites fotométricos de desarrollo no verificados; no regula expresamente skyglow",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F453",
+      "country": "COG",
+      "title": "Ministerio de Medio Ambiente de la República del Congo — Loi n° 33-2023",
+      "url": "https://developpement-durable.gouv.cg/2026/08/31/loi-n33-2023-du-17-novembre-2023-portant-gestion-durable-de-lenvironnement-en-republique-du-congo/",
+      "type": "Publicación oficial ministerial de la ley",
+      "effect": "Confirma texto y vigencia documental de la norma nacional sobre molestias luminosas",
+      "note": "Referencia complementaria; no consta aquí decreto técnico de límites",
+      "year": "2023",
       "official": true
     }
   ],
