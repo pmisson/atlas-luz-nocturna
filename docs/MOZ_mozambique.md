@@ -25,3 +25,9 @@ El máximo de 100 kW es potencia total de equipos destinados a atraer peces en l
 
 ---
 La medida pesquera de 100 kW no es un límite general de contaminación lumínica y el plan marítimo no debe confundirse con obligaciones fotométricas universales.
+
+
+### Auditoría jurídica — 23-11-2026
+La **Resolución 63/2024** (Boletim da República, 15-11-2024) aprueba el Plan de Ordenación del Espacio Marítimo (POEM), que prevé reducir la iluminación nocturna y restringir accesos en temporadas de anidación de tortugas. Se trata de **protección ecológica explícita por planificación**, distinta de la normativa sobre luces usadas para pesca (Decreto 89/2020, art. 42). Falta comprobar instrumentos de ejecución, obligatoriedad de la reducción en proyectos individuales y parámetros fotométricos.
+
+Fuente: [POEM, SIBMOZ](https://sibmoz.gov.mz/content/uploads/2025/11/Resolucao-n.o-63_2024-que-aprova-o-Plano-de-Ordenamento-do-Espaco-Maritimo.pdf).
