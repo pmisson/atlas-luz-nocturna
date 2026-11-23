@@ -1,0 +1,195 @@
+{
+  "review_date": "2026-11-23",
+  "entries": [
+    {
+      "iso": "IMN",
+      "name": "Isla de Man",
+      "region": "Europa",
+      "level": "subnacional",
+      "summary": "El Strategic Plan 2016, Environment Policy 22, impide autorizar desarrollos que ocasionen contaminación lumínica inaceptable para el entorno o los vecinos. Se han documentado condiciones específicas de iluminación y una denegación de señal digital por este motivo.",
+      "scope": "Planificación urbanística de Isla de Man; desarrollo y autorizaciones",
+      "confidence": "Política urbanística vigente y expedientes de aplicación",
+      "note": "No implica límite universal de lux, nits o temperatura de color; las condiciones de los permisos son particulares.",
+      "keywords": "ENV22 light pollution planning conditions",
+      "refs": [
+        {
+          "title": "Isle of Man Strategic Plan 2016 — Environment Policy 22, aplicación administrativa 2026",
+          "url": "https://planningportal.im/a/130868-douglas-part-of-summerland-parking/documents/1600581",
+          "type": "Plan territorial e informe administrativo",
+          "effect": "Proyectos que afectan amenidades, entorno y contaminación lumínica",
+          "note": "Informe cita texto ENV22; consultar plan original para modificaciones",
+          "year": "2016"
+        },
+        {
+          "title": "Planning decision 24/91153/B: condición de alumbrado exterior (2025)",
+          "url": "https://planningportal.im/a/34212-malew-site-adjacent/documents/1087574",
+          "type": "Condición de permiso",
+          "effect": "Proyecto específico: aprobación previa de alumbrado y protección de fauna",
+          "note": "3000 K figura en propuesta particular, no como límite legal universal",
+          "year": "2025"
+        },
+        {
+          "title": "Planning refusal 24/91358/D — luminancia de publicidad digital (2025)",
+          "url": "https://planningportal.im/a/33487-braddan-1-lake-road-signage",
+          "type": "Decisión de licencia",
+          "effect": "Rechazo de pantalla digital por impacto lumínico",
+          "note": "9500 nits corresponde al proyecto rechazado, no a un límite general",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "iso": "JEY",
+      "name": "Jersey",
+      "region": "Europa",
+      "level": "subnacional",
+      "summary": "Bridging Island Plan 2022 incorpora protección paisajística y ecológica frente a contaminación lumínica; permisos pueden imponer diseños de iluminación y limitar nuevas luminarias. La administración mantiene una guía específica de light pollution.",
+      "scope": "Planeamiento y permisos de Jersey",
+      "confidence": "Plan y condiciones oficiales de aplicación",
+      "note": "La guía no es un límite legal general; las condiciones de permisos sí vinculan al proyecto concreto.",
+      "keywords": "Bridging Island Plan NE1 GD8 obtrusive light",
+      "refs": [
+        {
+          "title": "Government of Jersey — Light pollution planning advice",
+          "url": "https://www.gov.je/PlanningBuilding/LawsRegs/SPG/AdviceNotes/pages/lightpollution.aspx",
+          "type": "Guía oficial",
+          "effect": "Criterios sobre apantallamiento, horarios y luz intrusa",
+          "note": "Recomendaciones, no umbrales generales por sí mismos",
+          "year": ""
+        },
+        {
+          "title": "Jersey Bridging Island Plan 2022, GD8, informe de aplicación",
+          "url": "https://www.gov.je/md/MDAttachments/Environment/Decisions%20in%202023/MD-ENV-2023-82%20Inspector%27s%20report%20-%20Pine%20Grove.pdf",
+          "type": "Plan territorial, aplicación oficial",
+          "effect": "Diseño para reducir contaminación lumínica en áreas paisajísticas",
+          "note": "Política de planeamiento delimitada, sin estándar general de emisiones",
+          "year": "2022"
+        },
+        {
+          "title": "Jersey 2024 — condición de alumbrado y biodiversidad (NE1)",
+          "url": "https://www.gov.je/md/MDAttachments/Health%20and%20Social%20Services/Decisions%20in%202024/MD-HSS-2024-129%20Schedule%20of%20conditions-%20Land%20formerly%20known%20as%20%27The%20Firs%27%2C%20Le%20Mont%20Sohier%2C%20St.%20Brelade.pdf",
+          "type": "Condición de permiso",
+          "effect": "Instalación y mantenimiento de alumbrado exterior aprobado",
+          "note": "Restricción aplicable exclusivamente a la autorización",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "iso": "ABW",
+      "name": "Aruba",
+      "region": "América",
+      "level": "subnacional",
+      "summary": "El Ruimtelijk Ontwikkelingsplan met Voorschriften (ROPV, AB 2021 n.º 123) art. 14.3 restringe usos recreativos que alteren áreas de Naturaleza y Paisaje mediante luz, ruido, polvo u otras emisiones. La Dirección de Naturaleza dispone además de un procedimiento técnico de iluminación respetuosa con la fauna.",
+      "scope": "Zonas clasificadas 'Natuur en landschap'; no todo el territorio",
+      "confidence": "Plan territorial oficial y SOP de departamento ambiental",
+      "note": "La SOP no es una ley general; art. 14.3 depende de la zonificación y usos comprendidos.",
+      "keywords": "ROVP lichtproductie natuur landschap diervriendelijke verlichting",
+      "refs": [
+        {
+          "title": "Aruba ROPV 2021, AB 2021 no. 123 — artículo 14.3",
+          "url": "https://www.dip.aw/wp-content/uploads/2021/08/AB-2021-No.-123-Aruba-ROPV-Voorschriften.pdf",
+          "type": "Ordenación territorial",
+          "effect": "Uso recreativo en áreas clasificadas Naturaleza y Paisaje",
+          "note": "Restricción espacial y materialmente delimitada",
+          "year": "2021"
+        },
+        {
+          "title": "Aruba DNM — SOP diervriendelijke verlichting (2024)",
+          "url": "https://dnmaruba.org/wp-content/uploads/2024/08/SOP-diervriendelijke-verlichting_Final.pdf",
+          "type": "Guía técnica oficial",
+          "effect": "Recomendaciones de iluminación para reducir impactos en fauna",
+          "note": "No tratar la SOP como norma legal general",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "iso": "GGY",
+      "name": "Guernsey",
+      "region": "Europa",
+      "level": "sectorial",
+      "summary": "Land Planning and Development (General Provisions) Ordinance 2007, artículo 3, considera desarrollo urbanístico la instalación de determinados aparatos de iluminación exterior en áreas de conservación, sometiendo tales obras al control urbanístico correspondiente.",
+      "scope": "Áreas de conservación y supuestos del art. 3; no toda Guernsey",
+      "confidence": "Texto normativo de Guernsey reproducido en FAOLEX",
+      "note": "El requisito de control o permiso no supone prohibición general ni umbral fotométrico.",
+      "keywords": "conservation area external illumination floodlighting planning ordinance",
+      "refs": [
+        {
+          "title": "Land Planning and Development (General Provisions) Ordinance 2007, article 3",
+          "url": "https://faolex.fao.org/docs/pdf/gue103240.pdf",
+          "type": "Ordenanza urbanística",
+          "effect": "Iluminación exterior en áreas de conservación",
+          "note": "La norma define actuaciones sujetas a autorización; no limita todas las luminarias",
+          "year": "2007"
+        },
+        {
+          "title": "Guernsey Island Development Plan Review — inspector note 2024",
+          "url": "https://statesofguernsey.citizenspace.com/inquiries/planning-inquiry/user_uploads/guernsey-idp-review-guidance-note-from-the-inspector-v1-220624.pdf",
+          "type": "Documento de planeamiento",
+          "effect": "Vigencia y revisión del IDP 2016",
+          "note": "Contexto de planeamiento, no límite de iluminación",
+          "year": "2024"
+        }
+      ]
+    },
+    {
+      "iso": "SXM",
+      "name": "Sint Maarten",
+      "region": "América",
+      "level": "general",
+      "summary": "La Nature Conservation Ordinance, artículos 16 y 17, protege tortugas marinas y lugares de reproducción frente a daños o perturbaciones. La Nature Foundation recomienda reducir iluminación artificial en playas, pero no se ha acreditado una prohibición general de alumbrado.",
+      "scope": "Protección de fauna y playas de anidación",
+      "confidence": "Autoridad de conservación informa del articulado; falta cotejo boletín legal consolidado",
+      "note": "Protección indirecta: no equiparar recomendaciones de iluminación roja con obligación lumínica legal.",
+      "keywords": "sea turtles nesting nature conservation ordinance lighting",
+      "refs": [
+        {
+          "title": "Nature Foundation Sint Maarten — arts. 16–17, Turtle nesting season",
+          "url": "https://naturefoundationsxm.org/nature-foundation-announces-the-start-of-sea-turtle-nesting-season/",
+          "type": "Explicación de legislación faunística",
+          "effect": "Protección de tortugas y lugares de nidificación",
+          "note": "Interpretación de la autoridad de conservación, pendiente cotejo texto normativo",
+          "year": "2019"
+        },
+        {
+          "title": "Nature Foundation Sint Maarten — mitigation of artificial lighting",
+          "url": "https://naturefoundationsxm.org/nature-foundation-reminds-residents-and-visitors-to-take-care-during-sea-turtle-nesting-season/",
+          "type": "Recomendación de conservación",
+          "effect": "Reducción de iluminación en playas",
+          "note": "Recomendación y no prohibición explícita de lámparas",
+          "year": "2021"
+        }
+      ]
+    },
+    {
+      "iso": "CUW",
+      "name": "Curazao",
+      "region": "América",
+      "level": "general",
+      "summary": "La legislación y los instrumentos ambientales de Curazao incluyen protección marina y de tortugas; las fuentes identificadas no demuestran un límite específico vinculante de iluminación artificial exterior. El Consejo Consultivo advirtió en 2023 sobre lagunas del marco ambiental.",
+      "scope": "Protección ambiental y marina general",
+      "confidence": "Repertorio normativo de conservación y consejo consultivo",
+      "note": "No contar como legislación ALAN obligatoria específica sin localizar articulado aplicable a la luz.",
+      "keywords": "zeeschildpadden milieu lichtvervuiling Curaçao",
+      "refs": [
+        {
+          "title": "DCNA — Curazao, repertorio de normas ambientales y de tortugas",
+          "url": "https://dcnanature.org/bes-policy-legislation/curacao/",
+          "type": "Repertorio jurídico ambiental",
+          "effect": "Normativa de especies y medios marinos",
+          "note": "La existencia de normas ambientales no verifica obligación fotométrica",
+          "year": ""
+        },
+        {
+          "title": "Raad van Advies Curaçao — advies RA/15-23-LV Hinderverordening",
+          "url": "https://raadvanadvies.cw/wp-content/uploads/2023/08/RA-15-23-LV-Hinderverordening.pdf",
+          "type": "Dictamen consultivo",
+          "effect": "Vacíos regulatorios ambientales y proyecto de contaminación atmosférica",
+          "note": "Un dictamen sobre un proyecto no es norma vigente",
+          "year": "2023"
+        }
+      ]
+    }
+  ]
+}
