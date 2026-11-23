@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 164,
-    "source_count": 475,
+    "country_count": 178,
+    "source_count": 489,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -41,7 +41,8 @@
     "review_samoa_albania_png_2026": "Samoa Signage Policy PUMA 2016 y Apia Urban Design Standards 2018 C5 DO1.2; Albania Plan Detallado Spille Decisión 1/2020 art61 recomendaciones alumbrado 2700–3200 K; Papua Nueva Guinea Road Management & Maintenance Plan 2025-2040 reconoce ALAN pero no ofrece restricción concreta, no incorporado.",
     "alan_classification_method": "Dos dimensiones: tipo de instrumento (level) y relación ALAN (alan_scope); alan_legal_class diferencia ley dedicada, obligación incluida en norma más amplia, instrumentos no obligatorios y marcos indirectos; alan_binding_review es validación documental conservadora, no certificación de vigencia.",
     "alan_classification_date": "2026-11-23",
-    "review_asia_2026": "Seis Estados asiáticos añadidos 23-11-2026: YEM BRN MMR TKM TJK PRK. TJK Código 2299/2026 sustituye Ley 760/2011. Yemen menciona luz en art 2.4, sin obligación ALAN operativa acreditada."
+    "review_asia_2026": "Seis Estados asiáticos añadidos 23-11-2026: YEM BRN MMR TKM TJK PRK. TJK Código 2299/2026 sustituye Ley 760/2011. Yemen menciona luz en art 2.4, sin obligación ALAN operativa acreditada.",
+    "review_africa_2026": "14 Estados africanos incorporados 23-11-2026 sin atribución de obligaciones ALAN no acreditadas; Comoras reforma 2025, Santo Tomé reforma 2026, Somalia ley 2024, Sudán del Sur proyecto pendiente."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -3847,6 +3848,286 @@
       ],
       "star_ids": [],
       "region": "Asia"
+    },
+    {
+      "iso": "BDI",
+      "name": "Burundi",
+      "region": "África",
+      "level": "general",
+      "summary": "Código ambiental de 2000: protección frente a degradación y molestias ambientales; no se ha localizado disposición ALAN específica.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "Verificar reformas posteriores y reglamentos",
+      "keywords": "Burundi environmental protection light pollution 2026",
+      "source_ids": [
+        "F476"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    },
+    {
+      "iso": "CAF",
+      "name": "República Centroafricana",
+      "region": "África",
+      "level": "general",
+      "summary": "Código del Medio Ambiente publicado en 2008; protección ambiental general sin obligación lumínica concreta acreditada.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "Examinar anexos y desarrollos urbanísticos",
+      "keywords": "República Centroafricana environmental protection light pollution 2026",
+      "source_ids": [
+        "F477"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    },
+    {
+      "iso": "COM",
+      "name": "Comoras",
+      "region": "África",
+      "level": "general",
+      "summary": "Ley marco ambiental 94-018/AF, modificada por Ley 24-018/AU promulgada mediante Decreto 25-004/PR en enero de 2025; EIA ambiental y protección de fauna.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "No se ha acreditado límite sobre iluminación",
+      "keywords": "Comoras environmental protection light pollution 2026",
+      "source_ids": [
+        "F478"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    },
+    {
+      "iso": "ERI",
+      "name": "Eritrea",
+      "region": "África",
+      "level": "pendiente",
+      "summary": "Estrategia nacional de biodiversidad que identifica una proclamación ambiental de 1996 como borrador, no como ley promulgada; sin regla ALAN comprobada.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Informe estatal de biodiversidad; estado de borrador",
+      "note": "No confundir borrador ambiental de 1996 con ley vigente",
+      "keywords": "Eritrea environmental protection light pollution 2026",
+      "source_ids": [
+        "F479"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "pendiente",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    },
+    {
+      "iso": "GMB",
+      "name": "Gambia",
+      "region": "África",
+      "level": "general",
+      "summary": "National Environment Management Act de 1994, publicada por el Ministerio de Medio Ambiente; régimen general de gestión y control ambiental.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "No se verifica norma específica ALAN",
+      "keywords": "Gambia environmental protection light pollution 2026",
+      "source_ids": [
+        "F480"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    },
+    {
+      "iso": "GNB",
+      "name": "Guinea-Bisáu",
+      "region": "África",
+      "level": "general",
+      "summary": "Ley de Bases del Ambiente 1/2011 y reglamento de evaluación ambiental 7/2017; marco general sin mandato lumínico identificado.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "No atribuir obligación de mitigar luz sin condición de permiso concreta",
+      "keywords": "Guinea-Bisáu environmental protection light pollution 2026",
+      "source_ids": [
+        "F481"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    },
+    {
+      "iso": "GNQ",
+      "name": "Guinea Ecuatorial",
+      "region": "África",
+      "level": "general",
+      "summary": "Ley 7/2003 reguladora del medio ambiente; marco de protección y control de impactos; no se ha corroborado obligación ALAN.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "Comprobar aplicación reglamentaria y vigencia consolidada",
+      "keywords": "Guinea Ecuatorial environmental protection light pollution 2026",
+      "source_ids": [
+        "F482"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    },
+    {
+      "iso": "LSO",
+      "name": "Lesoto",
+      "region": "África",
+      "level": "general",
+      "summary": "Environment Act 10/2008, en vigor desde junio de 2009; evaluación de impacto y gestión ambiental general.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "No se documenta límite fotométrico de alumbrado exterior",
+      "keywords": "Lesoto environmental protection light pollution 2026",
+      "source_ids": [
+        "F483"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    },
+    {
+      "iso": "MWI",
+      "name": "Malaui",
+      "region": "África",
+      "level": "general",
+      "summary": "Environment Management Act 19/2017; su artículo 31 prevé evaluación ambiental para proyectos designados, sin exigencia lumínica general verificada.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "EIA general no equivale a control ALAN específico",
+      "keywords": "Malaui environmental protection light pollution 2026",
+      "source_ids": [
+        "F484"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    },
+    {
+      "iso": "NER",
+      "name": "Níger",
+      "region": "África",
+      "level": "general",
+      "summary": "Ley 2018-28 de evaluación ambiental aplicable a proyectos de impacto y marco de autorización; no se ha localizado control específico sobre contaminación lumínica.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "La ley 98-56 se registra como derogada por la de 2018 en FAOLEX; comprobar alcance",
+      "keywords": "Níger environmental protection light pollution 2026",
+      "source_ids": [
+        "F485"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    },
+    {
+      "iso": "SSD",
+      "name": "Sudán del Sur",
+      "region": "África",
+      "level": "pendiente",
+      "summary": "En septiembre de 2026 el Environment Protection Bill y Forest Bill seguían pendientes de aprobación, según declaración pública ministerial; no se atribuye ley ambiental inexistente.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Declaración ministerial recogida por prensa; fuente secundaria",
+      "note": "Fuente secundaria; buscar gaceta y textos sectoriales aplicables",
+      "keywords": "Sudán del Sur environmental protection light pollution 2026",
+      "source_ids": [
+        "F486"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "pendiente",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    },
+    {
+      "iso": "STP",
+      "name": "Santo Tomé y Príncipe",
+      "region": "África",
+      "level": "general",
+      "summary": "Ley 7/2026, de 13 de agosto, modifica y republica la Ley de Bases del Ambiente 10/1999; vigente desde 18 de agosto de 2026, sin obligación lumínica verificada.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "No confundir la Ley 4/2022 sobre ruido con contaminación lumínica",
+      "keywords": "Santo Tomé y Príncipe environmental protection light pollution 2026",
+      "source_ids": [
+        "F487"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    },
+    {
+      "iso": "SWZ",
+      "name": "Esuatini",
+      "region": "África",
+      "level": "general",
+      "summary": "Environment Management Act 5/2002; régimen de protección ambiental publicado por la autoridad nacional.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "No se localiza requisito ALAN explícito",
+      "keywords": "Esuatini environmental protection light pollution 2026",
+      "source_ids": [
+        "F488"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    },
+    {
+      "iso": "SOM",
+      "name": "Somalia",
+      "region": "África",
+      "level": "general",
+      "summary": "Environmental Protection and Management Act 2024; prevé evaluación de impacto y conservación de biodiversidad, sin norma ALAN expresamente comprobada.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "No extrapolar obligaciones específicas sobre iluminación a partir de EIA",
+      "keywords": "Somalia environmental protection light pollution 2026",
+      "source_ids": [
+        "F489"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
     }
   ],
   "sources": [
@@ -9073,6 +9354,160 @@
       "effect": "Identifica marco nacional ambiental y biodiversidad",
       "note": "Fuente secundaria respecto de obligaciones de iluminación",
       "year": "",
+      "official": false
+    },
+    {
+      "id": "F476",
+      "country": "BDI",
+      "title": "Burundi — Código ambiental, copia FAOLEX",
+      "url": "https://faolex.fao.org/docs/pdf/bur25325.pdf",
+      "type": "Código ambiental, copia FAOLEX",
+      "effect": "Código ambiental de 2000: protección frente a degradación y molestias ambientales; no se ha localizado disposición ALAN específica.",
+      "note": "Verificar reformas posteriores y reglamentos",
+      "year": "1999",
+      "official": true
+    },
+    {
+      "id": "F477",
+      "country": "CAF",
+      "title": "República Centroafricana — Ley ambiental, gaceta reproducida en FAOLEX",
+      "url": "https://faolex.fao.org/docs/pdf/caf105925.pdf",
+      "type": "Ley ambiental, gaceta reproducida en FAOLEX",
+      "effect": "Código del Medio Ambiente publicado en 2008; protección ambiental general sin obligación lumínica concreta acreditada.",
+      "note": "Examinar anexos y desarrollos urbanísticos",
+      "year": "2007",
+      "official": true
+    },
+    {
+      "id": "F478",
+      "country": "COM",
+      "title": "Comoras — Ley ambiental modificada, FAOLEX",
+      "url": "https://faolex.fao.org/en/documents/LEX-FAOC245371/decret-n-25-004-pr-portant-promulgation-de-la-loi-n-24-018-a-com-2025",
+      "type": "Ley ambiental modificada, FAOLEX",
+      "effect": "Ley marco ambiental 94-018/AF, modificada por Ley 24-018/AU promulgada mediante Decreto 25-004/PR en enero de 2025; EIA ambiental y protección de fauna.",
+      "note": "No se ha acreditado límite sobre iluminación",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F479",
+      "country": "ERI",
+      "title": "Eritrea — Informe estatal a Convenio de Diversidad Biológica",
+      "url": "https://dev-chm.cbd.int/doc/world/er/er-nr-01-en.pdf",
+      "type": "Informe estatal a Convenio de Diversidad Biológica",
+      "effect": "Estrategia nacional de biodiversidad que identifica una proclamación ambiental de 1996 como borrador, no como ley promulgada; sin regla ALAN comprobada.",
+      "note": "No confundir borrador ambiental de 1996 con ley vigente",
+      "year": "",
+      "official": false
+    },
+    {
+      "id": "F480",
+      "country": "GMB",
+      "title": "Gambia — Ley ambiental, portal ministerial",
+      "url": "https://meccnar.gov.gm/acts-regulations",
+      "type": "Ley ambiental, portal ministerial",
+      "effect": "National Environment Management Act de 1994, publicada por el Ministerio de Medio Ambiente; régimen general de gestión y control ambiental.",
+      "note": "No se verifica norma específica ALAN",
+      "year": "1994",
+      "official": true
+    },
+    {
+      "id": "F481",
+      "country": "GNB",
+      "title": "Guinea-Bisáu — Ley ambiental, registro FAOLEX/ECOLEX",
+      "url": "https://www.ecolex.org/details/legislation/law-no-12011-approving-the-basic-legislation-on-environment-lex-faoc118164/",
+      "type": "Ley ambiental, registro FAOLEX/ECOLEX",
+      "effect": "Ley de Bases del Ambiente 1/2011 y reglamento de evaluación ambiental 7/2017; marco general sin mandato lumínico identificado.",
+      "note": "No atribuir obligación de mitigar luz sin condición de permiso concreta",
+      "year": "2011",
+      "official": false
+    },
+    {
+      "id": "F482",
+      "country": "GNQ",
+      "title": "Guinea Ecuatorial — Ley ambiental, texto legal",
+      "url": "https://faolex.fao.org/docs/pdf/eqg102892.pdf",
+      "type": "Ley ambiental, texto legal",
+      "effect": "Ley 7/2003 reguladora del medio ambiente; marco de protección y control de impactos; no se ha corroborado obligación ALAN.",
+      "note": "Comprobar aplicación reglamentaria y vigencia consolidada",
+      "year": "2003",
+      "official": true
+    },
+    {
+      "id": "F483",
+      "country": "LSO",
+      "title": "Lesoto — Ley ambiental, repositorio jurídico",
+      "url": "https://lesotholii.org/akn/ls/act/2008/10/eng%402008-12-05",
+      "type": "Ley ambiental, repositorio jurídico",
+      "effect": "Environment Act 10/2008, en vigor desde junio de 2009; evaluación de impacto y gestión ambiental general.",
+      "note": "No se documenta límite fotométrico de alumbrado exterior",
+      "year": "2008",
+      "official": false
+    },
+    {
+      "id": "F484",
+      "country": "MWI",
+      "title": "Malaui — Ley ambiental, ministerio",
+      "url": "https://ead.gov.mw/resources?category=acts-and-policies",
+      "type": "Ley ambiental, ministerio",
+      "effect": "Environment Management Act 19/2017; su artículo 31 prevé evaluación ambiental para proyectos designados, sin exigencia lumínica general verificada.",
+      "note": "EIA general no equivale a control ALAN específico",
+      "year": "2017",
+      "official": true
+    },
+    {
+      "id": "F485",
+      "country": "NER",
+      "title": "Níger — Ley de evaluación ambiental, FAOLEX",
+      "url": "https://faolex.fao.org/fr/documents/LEX-FAOC201988/loi-n-2018-28-du-14-mai-2018-determinant-les-principes-fonda-ner-2018",
+      "type": "Ley de evaluación ambiental, FAOLEX",
+      "effect": "Ley 2018-28 de evaluación ambiental aplicable a proyectos de impacto y marco de autorización; no se ha localizado control específico sobre contaminación lumínica.",
+      "note": "La ley 98-56 se registra como derogada por la de 2018 en FAOLEX; comprobar alcance",
+      "year": "2018",
+      "official": true
+    },
+    {
+      "id": "F486",
+      "country": "SSD",
+      "title": "Sudán del Sur — Información periodística que recoge declaración ministerial",
+      "url": "https://favourfmjuba.org/south-sudan-environmental-laws-still-await-enactment-ministry-says/",
+      "type": "Información periodística que recoge declaración ministerial",
+      "effect": "En septiembre de 2026 el Environment Protection Bill y Forest Bill seguían pendientes de aprobación, según declaración pública ministerial; no se atribuye ley ambiental inexistente.",
+      "note": "Fuente secundaria; buscar gaceta y textos sectoriales aplicables",
+      "year": "2026",
+      "official": false
+    },
+    {
+      "id": "F487",
+      "country": "STP",
+      "title": "Santo Tomé y Príncipe — Ley ambiental republicada, texto legal",
+      "url": "https://faolex.fao.org/docs/pdf/sao72014.pdf",
+      "type": "Ley ambiental republicada, texto legal",
+      "effect": "Ley 7/2026, de 13 de agosto, modifica y republica la Ley de Bases del Ambiente 10/1999; vigente desde 18 de agosto de 2026, sin obligación lumínica verificada.",
+      "note": "No confundir la Ley 4/2022 sobre ruido con contaminación lumínica",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F488",
+      "country": "SWZ",
+      "title": "Esuatini — Ley ambiental, autoridad ambiental",
+      "url": "https://eea.org.sz/legislation/",
+      "type": "Ley ambiental, autoridad ambiental",
+      "effect": "Environment Management Act 5/2002; régimen de protección ambiental publicado por la autoridad nacional.",
+      "note": "No se localiza requisito ALAN explícito",
+      "year": "2002",
+      "official": true
+    },
+    {
+      "id": "F489",
+      "country": "SOM",
+      "title": "Somalia — Ley ambiental, plataforma jurídica PNUMA/FAOLEX",
+      "url": "https://leap.unep.org/en/countries/so/national-legislation/environmental-protection-and-management-act-2024",
+      "type": "Ley ambiental, plataforma jurídica PNUMA/FAOLEX",
+      "effect": "Environmental Protection and Management Act 2024; prevé evaluación de impacto y conservación de biodiversidad, sin norma ALAN expresamente comprobada.",
+      "note": "No extrapolar obligaciones específicas sobre iluminación a partir de EIA",
+      "year": "2024",
       "official": false
     }
   ],
