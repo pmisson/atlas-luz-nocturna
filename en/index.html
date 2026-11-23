@@ -1,2 +1,57 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>NOCTIS ATLAS — English</title><link rel="stylesheet" href="../assets/styles.css"></head><body><main class="layout-width"><h1>NOCTIS ATLAS — English edition</h1><p>Explore light pollution legislation by jurisdiction and its original sources.</p><p><a href="../">Español</a></p><div id="en-stats"></div><label for="en-search">Find jurisdiction</label><input id="en-search" type="search"><div id="en-results"></div></main><script src="../assets/atlas-data.js"></script><script src="app-en.js"></script></body></html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="NOCTIS Atlas — Global legal inventory on artificial light at night, 229 jurisdictions and 579 original sources.">
+<title>NOCTIS ATLAS — Light Pollution Law Worldwide</title>
+<link rel="alternate" hreflang="en" href="https://pmisson.github.io/atlas-luz-nocturna/en/">
+<link rel="alternate" hreflang="es" href="https://pmisson.github.io/atlas-luz-nocturna/">
+<link rel="stylesheet" href="../assets/styles.css?v=20261123-contadores-finales">
+<style>
+body{background:#08141b;color:#e5eee9;font-family:system-ui,Arial,sans-serif;margin:0;line-height:1.6}
+.en-wrap{width:min(1130px,calc(100% - 36px));margin:0 auto}
+.en-top{display:flex;justify-content:space-between;gap:16px;align-items:center;flex-wrap:wrap;padding:22px 0;border-bottom:1px solid #3b5650}
+.en-top a,.en-links a,.en-card a{color:#a4e0c9}.en-top a{text-decoration:none}
+.en-brand{font-size:20px;font-weight:750;letter-spacing:.12em}.en-menu{display:flex;gap:20px;flex-wrap:wrap}
+.en-hero{padding:62px 0 42px}.en-kicker{text-transform:uppercase;letter-spacing:.16em;font-size:12px;color:#9fd8c4}
+h1{font:normal clamp(42px,7vw,76px)/1.08 Georgia,serif;margin:16px 0 22px}h2{font:normal clamp(27px,4vw,43px) Georgia,serif;margin:0 0 20px}
+.en-lead{font-size:19px;color:#c0d3ce;max-width:790px}
+#en-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:20px;margin:40px 0}
+.en-stat{padding:15px 0;border-top:1px solid #567a6c}.en-stat strong{font:36px Georgia,serif;display:block}.en-stat span{color:#b9cbc3;font-size:12px}
+.en-note{border-left:3px solid #a1d8c5;padding:3px 20px;margin-top:25px}
+.en-section{border-top:1px solid #324f46;padding:38px 0}
+.en-controls{display:flex;flex-wrap:wrap;gap:12px;margin:25px 0 12px}
+.en-controls input,.en-controls select{background:#162a30;color:#e8f3ed;border:1px solid #4b6b60;border-radius:5px;font:inherit;padding:11px;min-width:175px;flex:1}
+.en-controls input{flex:2}
+#en-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(265px,1fr));gap:15px}
+.en-card{background:#142630;border:1px solid #334e49;border-radius:7px;padding:20px;min-width:0}
+.en-card small{color:#b8d9cc}.en-card h3{margin:9px 0;font-size:19px}.en-card h3 span{font-size:11px;color:#94aaa3}
+.en-card p{font-size:13px;color:#becbc6}.en-card summary{cursor:pointer;margin:11px 0}.en-card a{overflow-wrap:anywhere;font-size:13px}.en-card li{margin:7px 0}.en-card ol{padding-left:20px}
+footer{border-top:1px solid #345348;padding:30px 0;color:#b9cbc4}
+</style></head>
+<body>
+<header class="en-wrap en-top"><a class="en-brand" href="./">◕ NOCTIS ATLAS</a>
+<nav class="en-menu"><a href="#methodology">Methodology</a><a href="#jurisdictions">Explore jurisdictions</a><a href="../" hreflang="es" lang="es">Español</a></nav></header>
+<main class="en-wrap">
+<section class="en-hero"><p class="en-kicker">International legal observatory · 23 November 2026</p>
+<h1>The right to<br><em>the night.</em></h1>
+<p class="en-lead">Explore how the world regulates artificial light at night, safeguards biodiversity and protects dark skies. Each legal record links to its original sources.</p>
+<div id="en-stats"></div>
+<p class="en-note"><strong>Read the figures with care.</strong> The atlas covers 193 UN member states, two UN observers, two freely associated states, Taiwan and 31 non-sovereign territories. Svalbard and Jan Mayen share one ISO statistical entry but have different legal frameworks. Documented lighting obligations are not all dedicated light-pollution laws, and their current enforceability may require verification.</p>
+</section>
+<section class="en-section" id="methodology"><h2>How the legal evidence is classified</h2>
+<p><strong>Dedicated legislation</strong> specifically regulates light pollution. <strong>Sectoral and subnational regulations</strong> apply to defined activities or places. <strong>General legal frameworks</strong> may address unwanted artificial light without setting general lighting limits. <strong>Guidance, technical standards and voluntary certifications</strong> are not automatically binding. <strong>Pending documentation</strong> does not establish that no law exists.</p>
+<p>Environmental impact assessments, proposed regulations, permit conditions and enacted laws are distinguished by legal force, territorial scope and date. The atlas is a research resource, not legal advice.</p></section>
+<section class="en-section" id="jurisdictions"><h2>Explore 229 jurisdictions</h2>
+<p>Filter by region, instrument and legal-evidence status. View original-language legal sources for every entry. Detailed legal narratives are still available in the Spanish original; they should not be mistaken for reviewed English translations.</p>
+<div class="en-controls"><input id="en-search" type="search" placeholder="Search name or ISO code" aria-label="Search jurisdiction">
+<select id="en-region" aria-label="Region"><option value="">All regions</option></select>
+<select id="en-type" aria-label="Type of instrument"><option value="">All legal categories</option></select>
+<select id="en-evidence" aria-label="Evidence"><option value="">All evidence statuses</option><option value="documentada">Documented ALAN obligation</option><option value="no_acreditada">No binding obligation established</option><option value="pendiente">Review pending</option></select></div>
+<p id="en-count" aria-live="polite"></p><div id="en-results"></div></section>
+<section class="en-section en-links"><h2>Sources and downloads</h2>
+<p>The database contains 579 references and 155 selected legal measures. The full Spanish atlas also includes regional legislation in Spain, Italy and Austria, EU projects, international instruments and supporting literature.</p>
+<p><a href="../data/atlas.json">Download JSON</a> · <a href="../data/paises.csv">Jurisdictions CSV</a> · <a href="../data/fuentes.csv">Sources CSV</a> · <a href="../">Full Spanish atlas</a> · <a href="https://github.com/pmisson/atlas-luz-nocturna">GitHub repository</a></p></section>
+</main><footer><div class="en-wrap">NOCTIS ATLAS · Documentation cut-off: 23 November 2026 · Comparative research, not legal advice.</div></footer>
+<script src="../assets/atlas-data.js?v=20261123-clasificacion-final"></script>
+<script src="app-en.js?v=20261123-en2"></script>
+</body></html>
