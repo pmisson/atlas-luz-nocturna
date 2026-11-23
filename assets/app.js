@@ -21,6 +21,8 @@ const escape=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>'
 const slug=s=>String(s).normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const allMatches=(country,q)=>[country.name,country.region,country.summary,country.keywords,D.levels[country.level],country.scope].some(s=>String(s||'').toLowerCase().includes(q));
 const kindName=(c)=>D.levels[c.level];
+const alanLabels={proteccion:'Protección lumínica explícita',uso:'Uso de luz / instrumento sectorial',contexto:'Sin protección lumínica explícita acreditada'};
+const alanName=c=>alanLabels[c.alan_scope]||alanLabels.contexto;
 const sourceHref=src=>src?.url&&/^https?:\/\//.test(src.url)?src.url:'#fuentes';
 let selected='ESP'; let region='todos'; let level='todos'; let zoom=1,tx=0,ty=0,showAllStars=false,sourceShown=12,starMode='table';
 
@@ -29,17 +31,26 @@ el('metric-countries').textContent=D.countries.length;
 el('metric-sources').textContent=D.sources.length;
 el('metric-stars').textContent=D.stars.length;
 el('legendItems').innerHTML=Object.entries(palette).map(([key,v])=>`<span class="legend-item"><span class="legend-swatch" style="background:${v.fill}"></span>${escape(v.name)}</span>`).join('');
+el('legendItems').insertAdjacentHTML('beforeend',`<span class="legend-item"><span class="legend-swatch" style="background:repeating-linear-gradient(135deg,#718092,#718092 3px,#162435 3px,#162435 7px);border:1px solid #9eb0c4"></span>Rayado: sin protección lumínica explícita verificada</span><span class="legend-item">Color = tipo de instrumento · Rayado = evidencia sobre la luz</span>`);
 
 const ns='http://www.w3.org/2000/svg',world=el('worldCountries'),markers=el('mapMarkers'),groups=el('worldGroup');
 const shapes=new Map();
+// Patrones SVG conservan el color de cada categoría y añaden rayado donde la protección ALAN no está acreditada.
+const svgDefs=el('worldMap').querySelector('defs');
+for(const [key,v] of Object.entries(palette)){
+  const pattern=document.createElementNS(ns,'pattern');pattern.setAttribute('id','hatch-'+key);pattern.setAttribute('width','8');pattern.setAttribute('height','8');pattern.setAttribute('patternUnits','userSpaceOnUse');
+  const bg=document.createElementNS(ns,'rect');bg.setAttribute('width','8');bg.setAttribute('height','8');bg.setAttribute('fill',v.fill);pattern.appendChild(bg);
+  const stroke=document.createElementNS(ns,'path');stroke.setAttribute('d','M-2,2 L2,-2 M0,8 L8,0 M6,10 L10,6');stroke.setAttribute('stroke','#152536');stroke.setAttribute('stroke-width','2.6');stroke.setAttribute('fill','none');pattern.appendChild(stroke);svgDefs.appendChild(pattern);
+}
+const mapFill=c=>c.alan_scope==='contexto'?`url(#hatch-${c.level})`:palette[c.level].fill;
 let tip=el('mapTooltip');
 const matchFilters=c=>!!c&&(region==='todos'||c.region===region)&&(level==='todos'||c.level===level);
 for (const g of GEO) {
   const p=document.createElementNS(ns,'path'); p.setAttribute('d',g.d);p.setAttribute('data-iso',g.iso);
   const c=countryIndex.get(g.iso);
-  p.setAttribute('fill',c?palette[c.level].fill:'#1d3042');
+  p.setAttribute('fill',c?mapFill(c):'#1d3042');
   p.setAttribute('class','country-shape'+(c?' in-atlas':''));
-  p.setAttribute('aria-label',c?`${c.name}: ${kindName(c)}`:g.name);
+  p.setAttribute('aria-label',c?`${c.name}: ${kindName(c)}. ${alanName(c)}`:g.name);
   if(c){p.setAttribute('tabindex','0');p.setAttribute('role','button');}
   else {p.setAttribute('aria-hidden','true');}
   world.appendChild(p);
@@ -54,11 +65,11 @@ const localDots=[{iso:'MLT',lon:14.375,lat:35.937},{iso:'SGP',lon:103.82,lat:1.3
 for(const {iso,lon,lat} of localDots){
   const c=countryIndex.get(iso);if(!c)continue;
   const dot=document.createElementNS(ns,'circle');
-  dot.setAttribute('cx',((lon+180)*1200/360).toFixed(2));dot.setAttribute('cy',((85-lat)*3.55).toFixed(2));dot.setAttribute('r','5.8');dot.setAttribute('fill',palette[c.level].fill);dot.setAttribute('class','country-dot in-atlas');dot.setAttribute('data-iso',iso);dot.setAttribute('tabindex','0');dot.setAttribute('role','button');dot.setAttribute('aria-label',c.name);
+  dot.setAttribute('cx',((lon+180)*1200/360).toFixed(2));dot.setAttribute('cy',((85-lat)*3.55).toFixed(2));dot.setAttribute('r','5.8');dot.setAttribute('fill',mapFill(c));dot.setAttribute('class','country-dot in-atlas');dot.setAttribute('data-iso',iso);dot.setAttribute('tabindex','0');dot.setAttribute('role','button');dot.setAttribute('aria-label',c.name);
   dot.addEventListener('mouseenter',e=>showTip(e,c));dot.addEventListener('mousemove',moveTip);dot.addEventListener('mouseleave',hideTip);dot.addEventListener('click',()=>{if(!hasDragged)selectCountry(iso)});dot.addEventListener('keydown',e=>{if(e.key==='Enter'){selectCountry(iso)}});
   markers.appendChild(dot);shapes.set(iso,dot);
 }
-function showTip(e,c){tip.innerHTML=`<strong>${escape(c.name)}</strong><br><span style="color:#9fb5bb">${escape(kindName(c))}</span>`;tip.style.display='block';moveTip(e);}
+function showTip(e,c){tip.innerHTML=`<strong>${escape(c.name)}</strong><br><span style="color:#9fb5bb">${escape(kindName(c))}</span><br><span>${escape(alanName(c))}</span>`;tip.style.display='block';moveTip(e);}
 function moveTip(e){const rec=el('mapCanvas').getBoundingClientRect();let x=e.clientX-rec.left+13,y=e.clientY-rec.top-10; if(x>rec.width-200)x-=205;if(y>rec.height-65)y-=54;tip.style.left=Math.max(0,x)+'px';tip.style.top=Math.max(0,y)+'px';}
 function hideTip(){tip.style.display='none';}
 function updateMapStyles(){for(const c of D.countries){const p=shapes.get(c.iso);if(!p)continue;p.classList.toggle('filtered',!matchFilters(c));p.classList.toggle('is-selected',c.iso===selected);p.setAttribute('opacity',matchFilters(c)?'1':'.55');}}
@@ -75,14 +86,14 @@ canvas.addEventListener('wheel',e=>{e.preventDefault();const box=canvas.getBound
 function viewDoc(c){return 'docs/'+c.iso+'_'+slug(c.name)+'.md';}
 function selectCountry(iso,scroll=false){const c=countryIndex.get(iso);if(!c)return;selected=c.iso;updateMapStyles();
   const refs=sourceByCountry.get(iso)||[];const star=starsByCountry.get(iso)||[];
-  el('countryDetail').innerHTML=`<div class="detail-top"><div class="tiny">EXPEDIENTE / ${escape(c.region.toUpperCase())} / ${escape(c.iso)}</div><h3>${escape(c.name)}</h3><span class="detail-status"><i style="background:${palette[c.level].fill}"></i>${escape(kindName(c))}</span></div><div class="detail-body"><p class="detail-label">PANORAMA JURÍDICO</p><p class="detail-claim">${escape(c.summary)}</p><p class="detail-label">ÁMBITO</p><p class="detail-small">${escape(c.scope)}</p><p class="detail-label">GRADO DE REVISIÓN</p><p class="detail-small">${escape(c.confidence)}</p>${c.note?`<div class="detail-caution">${escape(c.note)}</div>`:''}${star.length?`<p class="detail-label">MEDIDAS DESTACADAS (${star.length})</p><p class="detail-small">${star.map(m=>escape(m.title)).join(' · ')}</p>`:''}<p class="detail-label">REFERENCIAS (${refs.length})</p><div class="detail-sources">${refs.map(s=>`<a class="detail-source" href="${escape(sourceHref(s))}" target="_blank" rel="noopener noreferrer"><b>${escape(s.id)}</b>${escape(s.title)} ↗</a>`).join('')}</div><a class="detail-link" href="${escape(viewDoc(c))}" download="${escape(c.iso)}_ficha.md">↓ Descargar ficha del país</a></div>`;
+  el('countryDetail').innerHTML=`<div class="detail-top"><div class="tiny">EXPEDIENTE / ${escape(c.region.toUpperCase())} / ${escape(c.iso)}</div><h3>${escape(c.name)}</h3><span class="detail-status"><i style="background:${palette[c.level].fill}"></i>${escape(kindName(c))}</span></div><div class="detail-body"><p class="detail-label">PANORAMA JURÍDICO</p><p class="detail-claim">${escape(c.summary)}</p><p class="detail-label">RELACIÓN CON LA CONTAMINACIÓN LUMÍNICA</p><p class="detail-small"><strong>${escape(alanName(c))}</strong>. ${escape(c.alan_scope_note||"")}</p><p class="detail-label">ÁMBITO</p><p class="detail-small">${escape(c.scope)}</p><p class="detail-label">GRADO DE REVISIÓN</p><p class="detail-small">${escape(c.confidence)}</p>${c.note?`<div class="detail-caution">${escape(c.note)}</div>`:''}${star.length?`<p class="detail-label">MEDIDAS DESTACADAS (${star.length})</p><p class="detail-small">${star.map(m=>escape(m.title)).join(' · ')}</p>`:''}<p class="detail-label">REFERENCIAS (${refs.length})</p><div class="detail-sources">${refs.map(s=>`<a class="detail-source" href="${escape(sourceHref(s))}" target="_blank" rel="noopener noreferrer"><b>${escape(s.id)}</b>${escape(s.title)} ↗</a>`).join('')}</div><a class="detail-link" href="${escape(viewDoc(c))}" download="${escape(c.iso)}_ficha.md">↓ Descargar ficha del país</a></div>`;
   if(scroll){el('mapa').scrollIntoView({behavior:'smooth',block:'start'});}
 }
 function updateFilters(){region=el('regionFilter').value;level=el('levelFilter').value;updateMapStyles();renderCountries();}
 el('regionFilter').addEventListener('change',updateFilters);el('levelFilter').addEventListener('change',updateFilters);
 el('resetMap').addEventListener('click',()=>{region='todos';level='todos';el('regionFilter').value='todos';el('levelFilter').value='todos';resetZoom();updateFilters();});
 
-function badgeKind(c){return `<span class="row-dot" style="background:${palette[c.level].fill}"></span>${escape(kindName(c))}`;}
+function badgeKind(c){return `<span class="row-dot" style="background:${palette[c.level].fill}"></span>${escape(kindName(c))}<small class="alan-meta">${escape(alanName(c))}</small>`;}
 function renderCountries(){const q=el('countrySearch').value.trim().toLowerCase();const found=D.countries.filter(c=>matchFilters(c)&&(!q||allMatches(c,q))).sort((a,b)=>a.name.localeCompare(b.name,'es'));
   el('countryRows').innerHTML=found.map(c=>`<tr><td>${escape(c.name)}</td><td>${escape(c.region)}</td><td>${badgeKind(c)}</td><td>${c.source_ids.length}</td><td><button type="button" class="row-view" data-country="${escape(c.iso)}">Ver ficha ↗</button></td></tr>`).join('');el('countryEmpty').hidden=found.length>0;
 }
