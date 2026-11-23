@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 113,
-    "source_count": 377,
-    "star_count": 137,
+    "country_count": 116,
+    "source_count": 385,
+    "star_count": 142,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -32,7 +32,8 @@
     "review_mongolia_philippines_2026": "Mongolia БНбД 23-02-08 §§7.45/7.71 límites Ev 5/7/10/20 lx y atenuación condicionada, vigencia consolidada por verificar; Filipinas DENR-BMB TB 2020-05 directrices tortugas, JMC 01/2020 §8.16 prohibición flash/estrobos/video en turismo con fauna marina.",
     "review_phase_2026_11_23": "Armenia 5/7/10/20 lux, Nepal reglamento ambiental y ESMP contractual, Bután guías, Mauricio Fisheries Act 2023 art31, Madagascar régimen IOTC-ATF. Georgia pendiente de fuente precisa.",
     "review_balkans_central_asia_2026": "Bosnia Herzegovina FBiH art.21 Ley Ambiental 2021 contaminación lumínica expresa; Kirguistán СН КР 23-05:2019 §§11.5 y 11.8 máximos ventanas 5/7/10/20 lx y límites anuncios. Albania Macedonia Norte Georgia y Tayikistán pendientes de norma específica comprobada.",
-    "review_africa_caribbean_oceania_2026": "Ghana GS1207:2018 §5.17 regula uplight y B/G; Barbados Physical Development Plan 2023 política costera luz-tortugas; Bahamas Coastal Infrastructure Design Guidance 2023 reconoce riesgo luz nocturna. Vanuatu, Fiji y otras islas pendientes de obligación ALAN específica."
+    "review_africa_caribbean_oceania_2026": "Ghana GS1207:2018 §5.17 regula uplight y B/G; Barbados Physical Development Plan 2023 política costera luz-tortugas; Bahamas Coastal Infrastructure Design Guidance 2023 reconoce riesgo luz nocturna. Vanuatu, Fiji y otras islas pendientes de obligación ALAN específica.",
+    "review_turtles_africa_2026": "República Dominicana Res. 0024/2025, reglamento costero vinculante; Etiopía Adís Abeba Directiva 185/2025, medidas preventivas ALAN; Tanzania EMA art.140(1)(h) y TANAPA §3.10.4 oscuridad parques. Fiyi Samoa Vanuatu PNG Botswana no incorporados por falta de medida específica acreditada."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -2174,6 +2175,64 @@
         "F377"
       ],
       "star_ids": []
+    },
+    {
+      "iso": "DOM",
+      "name": "República Dominicana",
+      "region": "América",
+      "level": "especifica",
+      "summary": "La Resolución 0024/2025 del Ministerio de Medio Ambiente aprueba el Reglamento para la Iluminación en Áreas de Anidamiento de Tortugas Marinas: obligatorio para luminarias de proyectos e infraestructuras en zonas costeras de anidación, con medidas de orientación, apantallamiento, reducción de luz visible desde playa y adaptación de instalaciones existentes. Los arts. 17 y 20 disponen sodio de baja presión para alumbrado vial visible desde playas y planes de adecuación en tres meses para gestores de playa y gobiernos locales.",
+      "scope": "Nacional: zonas costeras, incluidas islas adyacentes, con anidamiento actual o potencial de tortugas; instalaciones y actividades incluidas en el reglamento",
+      "confidence": "Resolución 0024/2025 y reglamento íntegro publicados por el Ministerio de Medio Ambiente y repositorio ministerial, cotejados con FAOLEX",
+      "note": "No generalizar la exigencia de sodio de baja presión a todo el alumbrado vial del país; alcance condicionado a visibilidad desde playas de anidación según art.17. Una versión anterior del documento circuló en consulta pública: utilizar texto aprobado de 2025.",
+      "keywords": "Dominicana resolución 0024 2025 iluminación areas anidamiento tortugas marinas luz sodio baja presión apantallamiento",
+      "source_ids": [
+        "F378",
+        "F379",
+        "F380"
+      ],
+      "star_ids": [
+        "M138",
+        "M139"
+      ]
+    },
+    {
+      "iso": "ETH",
+      "name": "Etiopía",
+      "region": "África",
+      "level": "subnacional",
+      "summary": "La Administración de Adís Abeba aprobó la Directiva 185/2025 de Instalaciones de Iluminación Exterior para fachadas y edificios junto a vías y zonas residenciales. Define expresamente la contaminación lumínica (art. 2.5) y contempla orientación descendente y apantallamiento total (art. 8), sensores y temporizadores, control del deslumbramiento y atenuación (arts. 7, 11 y 12).",
+      "scope": "Municipal: ciudad de Adís Abeba, edificios y espacios incluidos en los arts. 2 y 3",
+      "confidence": "Texto íntegro oficial publicado en dominio del Ministerio de Justicia etíope; Directiva 185/2025",
+      "note": "El propio art. 8 usa 'should' en la versión inglesa de las medidas de prevención, mientras otros apartados usan 'must'; no presentar todas las recomendaciones como obligaciones estrictas. No extrapolar a toda Etiopía. El documento incluye también temperatura de color alta como opción estética, no como recomendación ecológica.",
+      "keywords": "Ethiopia Addis Ababa exterior lighting installation directive 185 2025 light pollution shielding motion sensors",
+      "source_ids": [
+        "F381",
+        "F382"
+      ],
+      "star_ids": [
+        "M140"
+      ]
+    },
+    {
+      "iso": "TZA",
+      "name": "Tanzania",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "La Environmental Management Act 2004, art. 140(1)(h), incorpora explícitamente 'light pollution' como materia de los estándares ambientales nacionales. En paralelo, las National Policies for National Parks de TANAPA (1994), apartado 3.10.4, prohíben nuevas actuaciones dentro de parques que provoquen intrusión excesiva de luz en la escena nocturna, procuran minimizar el impacto desde el entorno y restringen la iluminación exterior (sin proyectores de inundación).",
+      "scope": "Nacional: facultad de establecer estándares ambientales; políticas de gestión en parques nacionales administrados por TANAPA",
+      "confidence": "Texto legal consolidado citado en AfricanLII y política original publicada por Tanzania National Parks",
+      "note": "El artículo 140 faculta a desarrollar estándares; no se ha verificado un estándar numérico nacional vigente de contaminación lumínica. El documento TANAPA es política de gestión de parques y no reglamento nacional aplicable fuera de ellos.",
+      "keywords": "Tanzania environmental management act section 140 light pollution TANAPA national parks policy 3.10.4 artificial light dark night sky",
+      "source_ids": [
+        "F383",
+        "F384",
+        "F385"
+      ],
+      "star_ids": [
+        "M141",
+        "M142"
+      ]
     }
   ],
   "sources": [
@@ -6323,6 +6382,94 @@
       "note": "Evaluación de riesgo de proyecto, no autorización o límite vinculante confirmado",
       "year": "2020",
       "official": true
+    },
+    {
+      "id": "F378",
+      "country": "DOM",
+      "title": "República Dominicana: Resolución 0024/2025, aprobación reglamento iluminación playas tortugas",
+      "url": "https://bvearmb.do/handle/123456789/6654",
+      "type": "Resolución ministerial oficial aprobatoria",
+      "effect": "Aprueba el Reglamento de Iluminación en Áreas de Anidamiento de Tortugas Marinas",
+      "note": "Distinguir reglamento final 2025 de borradores de consulta pública",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F379",
+      "country": "DOM",
+      "title": "República Dominicana: Reglamento para iluminación en áreas de anidamiento de tortugas marinas",
+      "url": "https://bvearmb.do/handle/123456789/6655",
+      "type": "Reglamento técnico ambiental vinculante, repositorio ministerial",
+      "effect": "Art.2 alcance obligatorio, art.17 LPS para alumbrado vial visible desde playa y art.20 planes de adaptación",
+      "note": "Exigencias sujetas a ámbito costero regulado, no todas las luminarias del territorio",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F380",
+      "country": "DOM",
+      "title": "FAOLEX: Resolución 0024/2025 y Reglamento técnico de iluminación para tortugas",
+      "url": "https://faolex.fao.org/docs/pdf/dom236948.pdf",
+      "type": "Texto consolidado reproducido por FAO",
+      "effect": "Reproduce resolución y artículos técnicos del reglamento de iluminación costera",
+      "note": "Repositorio externo que reproduce norma nacional",
+      "year": "2025",
+      "official": false
+    },
+    {
+      "id": "F381",
+      "country": "ETH",
+      "title": "Ministerio Justicia Etiopía: Adís Abeba Directiva 185/2025 de iluminación exterior",
+      "url": "https://justice.gov.et/wp-content/uploads/2026/01/185_2025_Exterior_Lighting_Installation_Standard_Directive_Number.pdf",
+      "type": "Directiva municipal, texto oficial",
+      "effect": "Define contaminación lumínica arts.2, 4 y 8; contempla apantallamiento, sensores y reducción de deslumbramiento",
+      "note": "Alcance limitado a Adís Abeba; separar obligaciones de recomendaciones formuladas como 'should'",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F382",
+      "country": "ETH",
+      "title": "Etiopía: evaluación ambiental pública de complejo industrial Yirga Alem y Dilla",
+      "url": "https://moi.gov.et/sites/default/files/resource/SNNP_ESIA%20Report_revised%20November%202020%20revised%20June%202022_0.pdf",
+      "type": "Evaluación ambiental de proyecto público",
+      "effect": "Plan de mitigación de contaminación lumínica recomienda evitar emisiones hacia/encima del horizonte y apagar iluminación no necesaria",
+      "note": "Condición de proyecto no equivale a ley nacional; documento complementario",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F383",
+      "country": "TZA",
+      "title": "Tanzania: Environmental Management Act 2004, art. 140(1)(h) light pollution",
+      "url": "https://africanlii.org/en/akn/tz/act/2004/20/eng%402025-03-14",
+      "type": "Ley nacional ambiental consolidada",
+      "effect": "Faculta formular y aprobar estándares sobre contaminación lumínica; arts.141-142 prevén cumplimiento y ejecución una vez aprobados",
+      "note": "No atribuir umbrales numéricos sin localizar estándar específico publicado",
+      "year": "2004",
+      "official": false
+    },
+    {
+      "id": "F384",
+      "country": "TZA",
+      "title": "TANAPA: National Policies for National Parks (1994), §3.10.4 Artificial Light",
+      "url": "https://www.tanzaniaparks.go.tz/uploads/publications/en-1574161416-National%20Policies%20for%20National%20Parks%201994.pdf",
+      "type": "Política pública de gestión de parques nacionales",
+      "effect": "Prohíbe proyectos con intrusión excesiva de luz en la escena nocturna de parques y minimiza iluminación exterior",
+      "note": "Política TANAPA, no prohibición general fuera de parques ni estándar nacional numérico",
+      "year": "1994",
+      "official": true
+    },
+    {
+      "id": "F385",
+      "country": "TZA",
+      "title": "ILO NATLEX: ficha oficial de Environmental Management Act 2004",
+      "url": "https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=82138",
+      "type": "Registro documental intergubernamental",
+      "effect": "Acredita existencia y ámbito de ley ambiental nacional",
+      "note": "Consultar consolidación 2025 para artículo 140 actualizado",
+      "year": "2004",
+      "official": false
     }
   ],
   "stars": [
@@ -8283,6 +8430,78 @@
       ],
       "caution": "La recomendación en la evaluación no equivale a prohibición universal de iluminación costera.",
       "replicability": "Alta"
+    },
+    {
+      "id": "M138",
+      "country": "DOM",
+      "title": "República Dominicana: alumbrado vial visible desde playas con sodio de baja presión",
+      "description": "El art. 17 del reglamento de iluminación de playas de anidación prescribe lámparas de sodio de baja presión para luminarias viales visibles desde estas playas.",
+      "force": "Reglamento ministerial obligatorio en ámbito aplicable",
+      "param": "Tecnología LPS en alumbrado vial visible desde playas de anidación",
+      "scope": "Carreteras, aparcamientos y espacios exteriores regulados visibles desde playas de anidación",
+      "sources": [
+        "F379",
+        "F380"
+      ],
+      "caution": "No universalizar la medida a vías no comprendidas; consultar anexos, definiciones y excepciones.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M139",
+      "country": "DOM",
+      "title": "República Dominicana: adecuación obligatoria de iluminación en playas de tortugas",
+      "description": "Los arts. 16, 18, 19 y 20 requieren minimizar iluminación hacia la playa y contemplan adecuación de luminarias existentes y presentación de planes por gestores y gobiernos locales.",
+      "force": "Reglamento técnico ambiental obligatorio",
+      "param": "Apantallamiento, orientación descendente, ausencia de luz directa o indirecta hacia playa; plan en tres meses según art.20",
+      "scope": "Instalaciones y actividades costeras reguladas",
+      "sources": [
+        "F378",
+        "F379"
+      ],
+      "caution": "La exigencia depende de ámbito y régimen transitorio aplicable. No se ha verificado una distancia universal de aplicación.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M140",
+      "country": "ETH",
+      "title": "Adís Abeba: directiva municipal con prevención expresa de contaminación lumínica",
+      "description": "La Directiva 185/2025 menciona apantallamiento total, orientar iluminación hacia abajo y usar sensores, temporizadores y regulación de intensidad para reducir luz superflua en edificios y calles.",
+      "force": "Directiva municipal, con mezcla de obligaciones y métodos recomendados",
+      "param": "Apantallamiento y control temporal; sin umbral universal de lux o CCT ecológica",
+      "scope": "Iluminación exterior cubierta en Adís Abeba",
+      "sources": [
+        "F381"
+      ],
+      "caution": "Diferenciar artículos prescriptivos de recomendaciones ('should'); no universalizar a Etiopía.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M141",
+      "country": "TZA",
+      "title": "Tanzania: protección de oscuridad natural en parques nacionales",
+      "description": "La política TANAPA §3.10.4 rechaza desarrollos con intrusión excesiva de luz artificial en la escena nocturna de parques y plantea minimizar iluminación exterior, sin proyectores de inundación.",
+      "force": "Política vinculada a gestión de parques, no ley nacional de alumbrado",
+      "param": "Prohibición cualitativa de intrusión excesiva; minimizar iluminación exterior",
+      "scope": "Parques nacionales gestionados por TANAPA",
+      "sources": [
+        "F384"
+      ],
+      "caution": "No se fija límite de lux; fuera de parques no se aplica automáticamente.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M142",
+      "country": "TZA",
+      "title": "Tanzania: contaminación lumínica como materia de estándares ambientales nacionales",
+      "description": "El art.140(1)(h) de la Environmental Management Act identifica la contaminación lumínica expresamente como tema para formular y aprobar estándares de calidad ambiental.",
+      "force": "Mandato habilitante de ley nacional, sin umbral concreto acreditado",
+      "param": "Competencia legal para estándares de contaminación lumínica",
+      "scope": "Nacional, sujeto a desarrollo de estándares aprobados",
+      "sources": [
+        "F383"
+      ],
+      "caution": "No tratar habilitación para crear estándares como si ya existieran límites nacionales concretos.",
+      "replicability": "Media"
     }
   ],
   "spain_regions": [
