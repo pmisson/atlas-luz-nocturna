@@ -882,11 +882,11 @@
       "star_ids": [
         "M24"
       ],
-      "alan_scope": "proteccion",
-      "alan_scope_note": "La luz figura expresamente en el régimen de contaminación; comprobar condiciones de aplicación por caso.",
-      "alan_legal_class": "integrada",
-      "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_scope": "uso",
+      "alan_scope_note": "§6.3 de la Forurensningsloven incorpora luz y radiaciones a la definición de contaminación solo cuando la autoridad competente así lo determine; no se ha acreditado disposición general de control ALAN aplicable sin esa determinación.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La mención condicional de luz en la definición legal no basta para contar obligación específica de reducción sin decisión o reglamentación aplicable."
     },
     {
       "iso": "FIN",
@@ -904,11 +904,11 @@
       "star_ids": [
         "M25"
       ],
-      "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
-      "alan_legal_class": "integrada",
-      "alan_binding_review": "documentada",
-      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
+      "alan_scope": "uso",
+      "alan_scope_note": "§5 de la Ley de Protección Ambiental 527/2014 incluye luz como posible emisión y daño ambiental, pero no acredita de manera autónoma límites fotométricos ni mandato general de reducción de alumbrado exterior.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "Se verifica reconocimiento legal de luz como emisión potencialmente contaminante; falta identificar una obligación técnica concreta aplicable a fuentes exteriores."
     },
     {
       "iso": "POL",
@@ -1991,10 +1991,10 @@
         "M104"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_scope_note": "La Public Health Act B.E. 2535 (1992), art. 25(4), identifica expresamente la luz perjudicial para la salud como molestia; permite acción administrativa frente a supuestos concretos. No es límite fotométrico universal.",
       "alan_legal_class": "integrada",
-      "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Obligación de intervención en el régimen de molestias de salud pública, condicionada al daño o riesgo y las competencias locales. Verificar disposiciones modificatorias."
     },
     {
       "iso": "NIC",
@@ -2487,11 +2487,11 @@
         "M123",
         "M124"
       ],
-      "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
-      "alan_legal_class": "indirecta",
-      "alan_binding_review": "pendiente",
-      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Norma técnica de iluminación БНбД 23-02-08, reglas de alumbrado exterior sobre iluminancia vertical en ventanas (5/7/10/20 lx según entorno). Protección explícita frente a intrusión luminosa residencial; no ley integral de cielo oscuro.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Límites fotométricos de iluminación vertical comprobados documentalmente. Debe verificarse edición vigente y aplicabilidad exacta de cada categoría de vía."
     },
     {
       "iso": "PHL",
