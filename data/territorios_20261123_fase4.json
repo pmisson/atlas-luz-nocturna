@@ -1,0 +1,187 @@
+{
+  "review_date": "2026-11-23",
+  "entries": [
+    {
+      "iso": "PCN",
+      "name": "Islas Pitcairn",
+      "region": "Oceanía",
+      "level": "especifica",
+      "summary": "Local Government Regulations, parte XII, introducida 7 noviembre 2018: LED a temperatura de color ≤3000 K, emisión por debajo de la horizontal, alumbrado público apantallado, apagado de determinadas luces públicas y anuncios de 22:30 a 06:00, seguridad por sensor y multa de 100 dólares. Los buques que fondean de noche requieren permiso para iluminación fuera de reglas.",
+      "scope": "Pitcairn y usos definidos en la normativa; régimen de visitantes marítimos",
+      "confidence": "Texto reglamentario y guía gubernamental 2026",
+      "note": "3000 K es límite nominal, no garantía espectral ambiental; excepciones y reglas diferenciadas para luces públicas, privadas, navegación y emergencias.",
+      "keywords": "outdoor lighting 3000K 22:30 06:00 shielding Dark Sky",
+      "refs": [
+        {
+          "title": "Local Government Regulations, Part XII Outdoor Lighting (2018; consolidated 2019)",
+          "url": "https://static1.squarespace.com/static/6526ff6fef608a3828c13d05/t/6558515dd65ca62c4bb78a01/1700286815425/Cap%2B11%2B-%2BLocal%2BGovernment.pdf",
+          "type": "Reglamento vinculante",
+          "effect": "Alumbrado exterior, tipos, orientación, horarios y sanciones",
+          "note": "Artículos 1–7; K nominal no sustituye evaluación del espectro",
+          "year": "2018"
+        },
+        {
+          "title": "Government of Pitcairn — Guide for visiting vessels (March 2026), §5",
+          "url": "https://static1.squarespace.com/static/6526ff6fef608a3828c13d05/t/6a1f3ba52f39d55b3fe4c819/1780431782288/GUIDE%2BFOR%2BVISITING%2BVESSELS%2Bas%2Bof%2BMarch%2B2026.pdf",
+          "type": "Guía oficial de cumplimiento",
+          "effect": "Permisos para iluminación exterior nocturna de cruceros y buques",
+          "note": "Aplica de acuerdo con regulación Part XII y reglas de visitantes",
+          "year": "2026"
+        }
+      ]
+    },
+    {
+      "iso": "SHN",
+      "name": "Santa Elena",
+      "region": "África",
+      "level": "subnacional",
+      "summary": "Environmental Protection (Amendment) Ordinance No. 5/2021 introduce régimen específico de luz artificial nocturna, controles, avisos de corrección y sanciones previstas; la norma indica entrada en vigor por orden gubernativa, cuya aplicación completa no se ha podido confirmar. La normativa aduanera de 2021 prevé restricciones a importación de luminarias no conformes; existe política urbanística E7/E8 y aplicación por permisos.",
+      "scope": "Isla de Santa Elena; verificar fechas de inicio de cada sección",
+      "confidence": "Reforma aprobada en gaceta y explicación gubernamental; entrada en vigor parcial por verificar",
+      "note": "No confundir la orden de entrada en vigor de la reforma ambiental 2023 con la de 2021. Sanción de £2500 prevista ligada a notice; no imputar exigibilidad sin commencement.",
+      "keywords": "Environmental Protection amendment 2021 artificial light at night 28C 28D 28J",
+      "refs": [
+        {
+          "title": "Environmental Protection (Amendment) Ordinance No. 5 of 2021",
+          "url": "https://www.sainthelena.gov.sh/documents/42-2021-Annex-B-Customs-Export-and-Import-Control-Amendment-Regulations-2021-ORD-5-EP-Amendment-Ordinance-2021",
+          "type": "Reforma legislativa aprobada, commencement por verificar",
+          "effect": "Marco dedicado de ALAN; entrada en vigor depende de orden posterior",
+          "note": "§1(1): fecha o fechas fijadas por el gobernador",
+          "year": "2021"
+        },
+        {
+          "title": "St Helena Government — Dark Sky Community Status update, Aug 2021",
+          "url": "https://www.sainthelena.gov.sh/dark-sky-community-status-update/",
+          "type": "Comunicación oficial",
+          "effect": "Inicio condicionado; restricciones de importación de luminarias previstas desde noviembre de 2021",
+          "note": "No prueba aprobación posterior de código técnico",
+          "year": "2021"
+        },
+        {
+          "title": "St Helena Government — Land Development Control Plan: planning administration",
+          "url": "https://www.sainthelena.gov.sh/st-helena/government/portfolios/environment-natural-resources-planning/land-planning-and-building-control-division/",
+          "type": "Marco urbanístico oficial",
+          "effect": "Revisión de proyectos y condicionantes para molestias",
+          "note": "Verificar texto operativo específico",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "iso": "ASC",
+      "name": "Isla Ascensión",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "National Protected Areas Regulations 2014, reg. 5(1)(b),(h) consolidada a 2025, prohíbe sin autorización iluminar casetas de playa tras las 21:00 durante la época de tortugas e instalar luminarias visibles directamente desde las reservas costeras o que las iluminen indirectamente. Reservas: Long Beach, South West Bay, North East Bay.",
+      "scope": "Reservas de playas enumeradas en regulación 5(2), no toda la isla",
+      "confidence": "Reglamentación consolidada en portal legal gubernamental, modificaciones de 2025",
+      "note": "Excepciones sujetas a autorización del administrador; prohibición localizada, no requisito fotométrico general.",
+      "keywords": "turtle season beach hut 21:00 directly visible artificial light",
+      "refs": [
+        {
+          "title": "Ascension National Protected Areas Ordinance 2003 and Regulations 2014, consolidated May 2025, regulation 5",
+          "url": "https://www.sainthelena.gov.sh/wp-content/uploads/2025/05/20250521_National-Protected-Areas-Ord_CONSOLIDATION.pdf",
+          "type": "Reglamento obligatorio en reservas",
+          "effect": "Iluminación prohibida salvo permiso en tres reservas de playa",
+          "note": "Reg. 5(1)(b),(h), 5(2); modificada por L.N. A2/2025",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "iso": "FLK",
+      "name": "Islas Malvinas (Falkland Islands)",
+      "region": "América",
+      "level": "sectorial",
+      "summary": "El Development Plan 2015–2030 se aplica a autorizaciones de desarrollo y permite imponer condiciones de iluminación. En el expediente de la nueva infraestructura portuaria, la condición 17 limita el alumbrado exterior al aprobado, exige aprobación previa para instalaciones adicionales y apaga luces del muelle y acceso cuando no se usan.",
+      "scope": "Permisos urbanísticos específicos y desarrollos sujetos al plan",
+      "confidence": "Condición de autorización en agenda oficial 2022 y plan gubernamental",
+      "note": "La condición concreta no debe atribuirse como obligación general a toda instalación lumínica insular.",
+      "keywords": "Development Plan 2015 lighting condition 17 port quay causeway",
+      "refs": [
+        {
+          "title": "Falkland Islands Planning & Building Committee 2 November 2022, Condition 17",
+          "url": "https://assembly.gov.fk/jdownloads/Committees/Planning%20%20Building/Planning%20Building%202022/PBC%20Agenda%2002.11.2022.pdf",
+          "type": "Condición propuesta de aprobación urbanística",
+          "effect": "Iluminación de infraestructura portuaria, apagado fuera de uso",
+          "note": "Comprobar resolución final antes de afirmar imposición definitiva: documento es agenda",
+          "year": "2022"
+        },
+        {
+          "title": "Falkland Islands Government — Planning & Building Services and Development Plan 2015",
+          "url": "https://www.gov.fk/commercialservices/planning-building-services/",
+          "type": "Portal urbanístico oficial",
+          "effect": "Planificación y control del desarrollo",
+          "note": "No atribuir límite general de lux por la existencia del plan",
+          "year": "2015"
+        }
+      ]
+    },
+    {
+      "iso": "TAA",
+      "name": "Tristán de Acuña",
+      "region": "África",
+      "level": "general",
+      "summary": "Conservation of Native Organisms and Natural Habitats Ordinance 2006 protege organismos y hábitats, sin restricción específica de alumbrado verificada en el articulado. Una recopilación de prioridades de conservación recomienda eliminar focos intensos de buques próximos por desorientación de aves marinas: recomendación, no norma.",
+      "scope": "Protección natural y navegación en proximidades de colonias de aves",
+      "confidence": "Ordenanza oficial 2017 y recomendaciones de organismo conservacionista",
+      "note": "No convertir recomendación sobre floodlights marítimos en prohibición legal vigente.",
+      "keywords": "seabirds ship floodlights disorientation conservation ordinance",
+      "refs": [
+        {
+          "title": "Conservation of Native Organisms and Natural Habitats Ordinance 2006, Tristan da Cunha",
+          "url": "https://www.sainthelena.gov.sh/documents/conservation-etc-tdac-ordinance/",
+          "type": "Ley de conservación general",
+          "effect": "Protege aves y hábitats, sin disposición ALAN expresa localizada",
+          "note": "Texto consolidado a noviembre de 2017; reformas posteriores no comprobadas",
+          "year": "2006"
+        },
+        {
+          "title": "UK Overseas Territories Conservation Forum — Tristan Conservation Priorities",
+          "url": "https://ukotcf.org/CP/tristanDaCunha.cfm",
+          "type": "Recomendación de conservación",
+          "effect": "Recomienda evitar reflectores en buques próximos a las islas",
+          "note": "No vinculante",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "iso": "IOT",
+      "name": "Territorio Británico del Océano Índico",
+      "region": "Asia",
+      "level": "general",
+      "summary": "Normas de protección de tortugas, aves y reservas estrictas (texto consolidado 2024); el Biodiversity Action Plan de tortugas reconoce que la contaminación lumínica en Diego García ha provocado mortalidad de adultos y crías. No se acredita un límite específico de lámparas. La regulación de fuegos en islas exteriores no es una norma de alumbrado artificial.",
+      "scope": "Reservas naturales y hábitats de tortugas del archipiélago de Chagos",
+      "confidence": "Normas consolidadas gubernamentales y Biodiversity Action Plan",
+      "note": "Distinguir iluminación artificial de regulación de fogatas; EIA/BAP evidencia impacto, no límite lumínico.",
+      "keywords": "BIOT Diego Garcia sea turtle lighting action plan fire lighting",
+      "refs": [
+        {
+          "title": "BIOT Revised Regulations Proclamation 2024, Chapter E",
+          "url": "https://www.biot.gov.io/wp-content/uploads/Revised-Regulations-of-the-British-Indian-Ocean-Territory-Proclamation-2024-Final.pdf",
+          "type": "Reglamentos ambientales consolidados",
+          "effect": "Reservas estrictas, tortugas, aves y otras actividades",
+          "note": "No identificar Lighting of Fires como restricción de luminarias",
+          "year": "2024"
+        },
+        {
+          "title": "BIOT — Terrestrial Protected Areas and reserve restrictions",
+          "url": "https://www.biot.gov.io/environment/terrestrial-protected-areas/",
+          "type": "Portal oficial de reservas",
+          "effect": "Acceso y actividades limitadas en áreas de reserva",
+          "note": "Sin límites generales de luz exterior acreditados",
+          "year": ""
+        },
+        {
+          "title": "BIOT Biodiversity Action Plan — Sea Turtles, light pollution",
+          "url": "https://research.bangor.ac.uk/files/50400420/BAP_Turtle.pdf",
+          "type": "Plan de conservación técnico",
+          "effect": "Documenta mortalidad y desorientación por luz artificial",
+          "note": "No norma técnica vinculante",
+          "year": "2025"
+        }
+      ]
+    }
+  ]
+}
