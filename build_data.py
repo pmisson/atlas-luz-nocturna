@@ -4,6 +4,21 @@ No almacena copias de normas de terceros ni afirma una verificación que no cons
 """
 import json,csv,re,unicodedata,pathlib,datetime
 root=pathlib.Path(__file__).parent
+# SAFETY: this historical builder has a smaller country set than the published atlas.
+# Refuse destructive regeneration unless explicitly acknowledged.
+import os
+published=root/'data'/'atlas.json'
+if published.exists() and os.environ.get('ATLAS_ALLOW_HISTORICAL_REBUILD') != '1':
+    try:
+        existing_count=len(json.loads(published.read_text(encoding='utf-8')).get('countries',[]))
+    except (ValueError,OSError):
+        existing_count=0
+    if existing_count >= 200:
+        raise SystemExit(
+            f"Refusing to replace {existing_count} consolidated jurisdictions with historical base. "
+            "Edit canonical data/atlas.json and run python3 sync_territorios.py instead. "
+            "Set ATLAS_ALLOW_HISTORICAL_REBUILD=1 ONLY if deliberately restoring the old base."
+        )
 rows=[]; sources=[]; stars=[]
 levels={
  'especifica':'Ley o reglamento específico',
