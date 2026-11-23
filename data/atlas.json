@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 124,
-    "source_count": 402,
-    "star_count": 150,
+    "country_count": 125,
+    "source_count": 406,
+    "star_count": 152,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -36,7 +36,8 @@
     "review_turtles_africa_2026": "República Dominicana Res. 0024/2025, reglamento costero vinculante; Etiopía Adís Abeba Directiva 185/2025, medidas preventivas ALAN; Tanzania EMA art.140(1)(h) y TANAPA §3.10.4 oscuridad parques. Fiyi Samoa Vanuatu PNG Botswana no incorporados por falta de medida específica acreditada.",
     "review_oceania_caribbean_nov2026": "Honduras plan ICF 089-2025 sustituye 047-2024; Belice directrices DOE 2010 §7 alumbrado estructuras sobre agua; Vanuatu NPOA tortugas 2016-2020 (histórico), SPREP 2025 guía no vinculante. Fiyi, Samoa, PNG, Botswana, Cuba, Mozambique, Uganda y Zambia pendientes.",
     "review_uganda_zambia_2026": "Uganda SI 53/2026 art.89 regula luces deslumbrantes carreteras; Zambia Wildlife Act 2015 art.73 prohíbe luz en caza nocturna salvo permiso. Fiyi guías ONG 2012 y Mozambique plan 2011 constatación de impactos se excluyen del recuento en esta fase; Samoa PNG Botswana Cuba siguen pendientes.",
-    "review_fiji_botswana_cuba_2026": "Fiji Roads Authority Road Lighting Design Guide 2019 limita upward spill, light trespass y skyglow, no ley nacional; Botsuana Wildlife Conservation Act 1992 art.55 restringe luces para caza salvo autorización; Cuba Ley 150/2022 art.84 energía lumínica como factor físico; Samoa PNG Mozambique todavía sin instrumentos específicos verificados."
+    "review_fiji_botswana_cuba_2026": "Fiji Roads Authority Road Lighting Design Guide 2019 limita upward spill, light trespass y skyglow, no ley nacional; Botsuana Wildlife Conservation Act 1992 art.55 restringe luces para caza salvo autorización; Cuba Ley 150/2022 art.84 energía lumínica como factor físico; Samoa PNG Mozambique todavía sin instrumentos específicos verificados.",
+    "review_mozambique_2026": "Mozambique Decreto 89/2020 REPMAR art.42 fuentes luminosas pesca atún y 100 kW condicionado; Resolución 63/2024 POEM prevé reducción iluminación nocturna anidación de tortugas. Samoa y Papua Nueva Guinea: informes ecológicos no demuestran medida ALAN exigible."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -2380,6 +2381,27 @@
       ],
       "star_ids": [
         "M150"
+      ]
+    },
+    {
+      "iso": "MOZ",
+      "name": "Mozambique",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "El Reglamento de Pesca Marítima REPMAR (Decreto 89/2020, 8 de octubre), art. 42.1, permite fuentes luminosas para atraer recursos pesqueros con excepción de la pesca de atún y especies relacionadas; el art. 42.2 limita a 100 kW la potencia total por embarcación en los usos autorizados, con excepciones ministeriales del art. 42.3. Separadamente, la Resolución 63/2024 (15 de noviembre), que aprueba el Plan de Ordenamiento del Espacio Marítimo Nacional (POEM), prevé reducir iluminación nocturna en épocas de anidación de tortugas, junto a medidas de veda y protección de playas.",
+      "scope": "Nacional: pesca marítima regulada por REPMAR; directrices de planificación del espacio marítimo nacional y playas de anidación",
+      "confidence": "Decreto 89/2020 art.42 en Boletim da República (publicado por ProAzul); Resolución 63/2024 y POEM en repositorio oficial SIBMOZ; comunicación nacional IOTC 2025 confirma interpretación de restricción a pesca atunera",
+      "note": "El máximo de 100 kW es potencia total de equipos destinados a atraer peces en los supuestos autorizados, no límite de alumbrado urbano o emisión hacia cielo. El POEM prescribe una orientación de reducción nocturna para temporadas de tortugas pero no fija lux o un apagado automático universal. El decreto entró en vigor 90 días después de su publicación.",
+      "keywords": "Moçambique REPMAR Decreto 89/2020 artigo 42 fontes luminosas atracção atum 100 kW Resolução 63/2024 POEM redução iluminação nocturna tartarugas nidificação",
+      "source_ids": [
+        "F403",
+        "F404",
+        "F405",
+        "F406"
+      ],
+      "star_ids": [
+        "M151",
+        "M152"
       ]
     }
   ],
@@ -6805,6 +6827,50 @@
       "note": "Usar art.84 para referencia a energía lumínica, no atribuir límites fotométricos",
       "year": "2023",
       "official": false
+    },
+    {
+      "id": "F403",
+      "country": "MOZ",
+      "title": "Mozambique: Decreto 89/2020, Regulamento da Pesca Marítima (REPMAR), artigo 42",
+      "url": "https://www.proazul.gov.mz/wp-content/uploads/2020/10/REPMAR-Decreto-89_2020-de-08-de-Outubro-de-2020-que-Aprova-o-Regulamento-da-Pesca-Mari%CC%81tima-REPMAR-e-revoga-o-Decreto-n.-o-432003-de-10-de-Dezembro.pdf",
+      "type": "Decreto reglamentario nacional, Boletim da República 192/2020",
+      "effect": "Art.42.1 excluye atún y especies relacionadas del uso permitido de luces para atraer peces; art.42.2 máximo total 100 kW por embarcación; art.42.3 permite excepciones ministeriales",
+      "note": "Los 100 kW corresponden exclusivamente a luces para atraer recursos pesqueros, no límite ALAN general; ver fecha de entrada en vigor art.5",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F404",
+      "country": "MOZ",
+      "title": "Mozambique: Resolución 63/2024, Plan de Ordenamiento del Espacio Marítimo Nacional (POEM)",
+      "url": "https://sibmoz.gov.mz/content/uploads/2025/11/Resolucao-n.o-63_2024-que-aprova-o-Plano-de-Ordenamento-do-Espaco-Maritimo.pdf",
+      "type": "Resolución nacional aprobatoria de plan territorial",
+      "effect": "POEM, apartado sobre áreas de nidificación de tortugas, contempla reducción de iluminación nocturna durante temporadas de nidificación",
+      "note": "Orientación de planificación, sin umbral numérico, procedimiento de ejecución a verificar en planes derivados",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F405",
+      "country": "MOZ",
+      "title": "Mozambique: IOTC cuestionario nacional de cumplimiento 2025, restricción de luces para atún",
+      "url": "https://iotc.org/sites/default/files/documents/2025/02/IOTC-2025-CoC22-CQ17E-Mozambique.pdf",
+      "type": "Informe gubernamental a organización regional pesquera",
+      "effect": "El país cita art.42.1 de REPMAR como prohibición de fuentes luminosas para pesquería del atún",
+      "note": "Corrobora interpretación sectorial y aplicación pesquera; no norma de iluminación costera",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F406",
+      "country": "MOZ",
+      "title": "Imprensa Nacional Mozambique: Boletim da República 192/2020, Decreto 89/2020",
+      "url": "https://www.inm.gov.mz/pt-br/content/sum%C3%A1rio-br-n%C2%BA-192-de-081020-boletim-da-rep%C3%BAblica-i-serie-p%C3%A1g-1567",
+      "type": "Índice de publicación oficial",
+      "effect": "Identifica publicación y número de Decreto 89/2020 en gaceta",
+      "note": "Índice no sustituye lectura del articulado original",
+      "year": "2020",
+      "official": true
     }
   ],
   "stars": [
@@ -8954,6 +9020,35 @@
       ],
       "caution": "No equivale a ley específica de contaminación lumínica, ni establece límites de lux, CCT o brillo del cielo.",
       "replicability": "Media"
+    },
+    {
+      "id": "M151",
+      "country": "MOZ",
+      "title": "Mozambique: restricción de iluminación para atracción de atún y potencia de luces de pesca",
+      "description": "El art.42 REPMAR prohíbe usar luces para atraer atún y especies relacionadas, regula fuentes permitidas hasta 100 kW de potencia total por embarcación y contempla excepciones autorizables.",
+      "force": "Reglamento nacional de pesca marítima de aplicación vinculante",
+      "param": "Exclusión de pesquería de atún; máximo 100 kW por embarcación para luces de pesca permitidas, con autorizaciones excepcionales",
+      "scope": "Pesca marítima regulada por REPMAR y pesquerías comprendidas",
+      "sources": [
+        "F403",
+        "F405"
+      ],
+      "caution": "No extrapolar 100 kW a alumbrado costero o fuentes de contaminación lumínica general.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M152",
+      "country": "MOZ",
+      "title": "Mozambique: reducir luz nocturna durante anidación de tortugas marinas",
+      "description": "El POEM aprobado por Resolución 63/2024 contempla reducir la iluminación nocturna y limitar accesos a zonas de puesta durante temporadas de anidación para aumentar supervivencia de juveniles.",
+      "force": "Directriz de planificación marítima nacional aprobada por resolución",
+      "param": "Reducción estacional de iluminación nocturna, sin umbral de lux o CCT",
+      "scope": "Playas y áreas de anidación de tortugas comprendidas en planificación y medidas posteriores",
+      "sources": [
+        "F404"
+      ],
+      "caution": "No es apagado obligatorio universal instantáneo: deben distinguirse previsiones de plan y normas ejecutivas posteriores.",
+      "replicability": "Alta"
     }
   ],
   "spain_regions": [
