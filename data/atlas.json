@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 145,
-    "source_count": 442,
+    "country_count": 147,
+    "source_count": 446,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -2723,6 +2723,38 @@
         "F440",
         "F441",
         "F442"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "GIN",
+      "name": "Guinea",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "Ley L/2019/0034/AN de 4 de julio de 2019 (Código del Medio Ambiente), capítulo V, sección 2, arts. 140-141: regula emisiones de luz artificial que perjudiquen a salud o ambiente y exige condiciones de protección para fuentes luminosas nocivas; art. 141 habilita prescripciones técnicas por tipo, potencia y ubicación. Art. 202 tipifica emisiones luminosas no autorizadas nocivas con multa 500.000-5.000.000 GNF y prisión de 15 días a 3 meses; art. 194 prevé sanciones para determinadas emisiones por personas jurídicas.",
+      "scope": "Nacional: emisiones artificiales perjudiciales, instalaciones y autorización ambiental",
+      "confidence": "Texto legal publicado por Ministerio de Medio Ambiente de Guinea y archivo de la Convención sobre Especies Migratorias",
+      "note": "No se han verificado los decretos técnicos aplicables ni límites generales de flujo ascendente o espectro. Distinguir las sanciones de los arts. 194 y 202 según sus respectivos supuestos.",
+      "keywords": "Guinea loi L/2019/0034/AN nuisances lumineuses arts 140 141 194 202",
+      "source_ids": [
+        "F443",
+        "F444"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "TGO",
+      "name": "Togo",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "Ley n.º 2008-005 de 30 de mayo de 2008, Ley marco del Medio Ambiente, publicada en Journal Officiel n.º 19 de 17-06-2008: art. 120 somete a reglamentación el uso de fuentes luminosas con radiaciones perjudiciales para salud y medio ambiente; art. 121 obliga a adoptar medidas para eliminar emisiones perjudiciales. Autoridad ARSE publicó proyecto de reglamento de alumbrado público, apartado 12.6.3(v)-(vi), con medidas contra luz hacia la bóveda celeste.",
+      "scope": "Nacional: fuentes luminosas nocivas; propuesta técnica sobre alumbrado público",
+      "confidence": "Diario Oficial togolés, ley 2008-005 y borrador publicado por autoridad reguladora ARSE",
+      "note": "La ley de 2008 es vinculante, pero el reglamento ARSE es un proyecto y no debe darse por promulgado. Sin límites fotométricos nacionales cuantificados verificados.",
+      "keywords": "Togo loi 2008-005 article 120 pollution lumineuse éclairage public ARSE projet",
+      "source_ids": [
+        "F445",
+        "F446"
       ],
       "star_ids": []
     }
@@ -7588,6 +7620,50 @@
       "effect": "Nueva ley de protección ambiental vigente desde 1 junio de 2024",
       "note": "Texto operativo sobre luz aún sin cotejar: no atribuir artículos 2012 a esta ley",
       "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F443",
+      "country": "GIN",
+      "title": "Guinea — Loi L/2019/0034/AN portant Code de l'environnement (texto gubernamental)",
+      "url": "https://medd.gov.gn/file/2022/12/Code-de-lEnvironnement-du-04-juillet-2019-1.pdf",
+      "type": "Ley nacional vinculante, texto oficial",
+      "effect": "Arts. 140-141 sobre luz artificial y molestias luminosas; arts. 194 y 202 sanciones en supuestos concretos",
+      "note": "Verificar orden ministerial de aplicación y valores fotométricos",
+      "year": "2019",
+      "official": true
+    },
+    {
+      "id": "F444",
+      "country": "GIN",
+      "title": "Convention on Migratory Species — Ley ambiental de Guinea 2019",
+      "url": "https://www.cms.int/es/node/27644",
+      "type": "Repositorio institucional de legislación nacional",
+      "effect": "Publica copia y metadatos de Ley L/2019/0034/AN",
+      "note": "Fuente institucional complementaria",
+      "year": "2019",
+      "official": true
+    },
+    {
+      "id": "F445",
+      "country": "TGO",
+      "title": "Togo — Loi n.º 2008-005 du 30 mai 2008 portant loi-cadre sur l'environnement, arts. 120-121",
+      "url": "https://legitogo.gouv.tg/be/wp-content/uploads/2017/03/Pages-from-jo-2008-19-a.pdf",
+      "type": "Ley nacional vinculante, Diario Oficial",
+      "effect": "Sujeta a regulación fuentes luminosas con radiaciones perjudiciales y obliga a prevenir emisiones nocivas",
+      "note": "No fija límite numérico nacional de luz ascendente",
+      "year": "2008",
+      "official": true
+    },
+    {
+      "id": "F446",
+      "country": "TGO",
+      "title": "ARSE — Projet de Règlement pour la Gestion des Réseaux d'Éclairage public, §12.6.3",
+      "url": "https://www.arse.tg/wp-content/uploads/2016/01/Projet_Re%CC%80glement-pour-la-gestion-EP_Au_Togo.pdf",
+      "type": "Proyecto de reglamento técnico (no promulgación acreditada)",
+      "effect": "Propone aparatos y ajustes de orientación para limitar contaminación luminosa de la bóveda celeste",
+      "note": "Proyecto normativo, no atribuir aplicación legal",
+      "year": "2016",
       "official": true
     }
   ],
