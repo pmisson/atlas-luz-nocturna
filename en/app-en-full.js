@@ -3,6 +3,8 @@
 'use strict';
 const D = window.ATLAS_DATA;
 const GEO = window.WORLD_GEO;
+const measureTranslations = window.NOCTIS_EN_MEASURES || {};
+if (D?.stars) for(const measure of D.stars) { const translated=measureTranslations[measure.id]; if(translated) Object.assign(measure,translated); }
 if (!D || !GEO) { document.body.insertAdjacentHTML('afterbegin','<p role="alert">Error: faltan los archivos locales de datos.</p>'); return; }
 const palette = {
   especifica: { fill:'#59ceb1', name:'Dedicated law' },
