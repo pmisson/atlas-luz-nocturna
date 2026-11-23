@@ -2,8 +2,8 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 199,
-    "source_count": 519,
+    "country_count": 203,
+    "source_count": 526,
     "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
@@ -46,7 +46,8 @@
     "africa_audit_2026": "Mpatamanga Malawi: ESMMP 2024 medidas M 8-122–125 y OC-23; Telecom Comoros: BAP 2021 e informe AXIAN. Esuatini: EA Regulations 2022; ALAN no expresamente obligatorio.",
     "review_greenland_guianas_2026": "2026-11-23: Groenlandia, Guyana, Surinam y Guayana Francesa añadidas. Groenlandia y Guayana Francesa son territorios no soberanos. Guayana Francesa tiene ALAN vinculante por derecho francés; no duplicar conteo soberano.",
     "completion_2026": "Dieciséis Estados añadidos el 23-11-2026: 8 Oceanía, 4 América, 4 Europa. Registro de Estados miembros y observadores ONU completo bajo convención geopolítica del atlas; Mónaco y Vaticano ALAN no vinculante.",
-    "puerto_rico_2026": "Puerto Rico desagregado de USA: Ley 218/2008, Ley 103/2020 y reglamento DRNA. Cuenta como jurisdicción territorial, no Estado soberano."
+    "puerto_rico_2026": "Puerto Rico desagregado de USA: Ley 218/2008, Ley 103/2020 y reglamento DRNA. Cuenta como jurisdicción territorial, no Estado soberano.",
+    "new_territories_2026": "2026-11-23: NCL provincial aves marinas; CYM permisos costeros; PYF fondeo 2025; HKG programa voluntario. Territorios, no nuevos Estados soberanos."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -4562,6 +4563,89 @@
       "alan_legal_class": "dedicada",
       "alan_binding_review": "documentada",
       "alan_binding_note": "Obligaciones territoriales documentadas de iluminación exterior; revisar enmiendas y excepciones. Jurisdicción distinta, no Estado soberano."
+    },
+    {
+      "iso": "NCL",
+      "name": "Nueva Caledonia",
+      "region": "Oceanía",
+      "level": "sectorial",
+      "summary": "El Código Ambiental de la provincia Norte, modificado mediante acto publicado el 10 de marzo de 2020, considera perturbación intencional de aves marinas las emisiones potentes de luz y sonido a menos de 300 m de sus concentraciones (art. 252-5, ámbito provincial). No es una prohibición general de alumbrado en toda Nueva Caledonia.",
+      "scope": "Provincia Norte; protección de agrupaciones de aves marinas en radio de 300 m",
+      "confidence": "Journal officiel de la Nouvelle-Calédonie, texto provincial 2020",
+      "note": "No extrapolar la norma provincial a todo el archipiélago; verificar reformas posteriores, lista de especies y excepciones.",
+      "keywords": "Nouvelle Calédonie province Nord oiseaux marins émissions lumière 300 mètres pollution lumineuse",
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Prohibición sectorial expresa de perturbaciones con luz intensa cerca de agrupaciones de aves marinas.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Norma provincial vinculante identificada; vigencia consolidada y excepciones por verificar.",
+      "source_ids": [
+        "F520"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "CYM",
+      "name": "Islas Caimán",
+      "region": "América",
+      "level": "sectorial",
+      "summary": "El Gobierno de las Islas Caimán confirma que el alumbrado favorable a las tortugas se exige en nuevas propiedades costeras mediante el procedimiento de planificación. La autoridad ambiental recomienda adaptar también instalaciones existentes durante la temporada de anidación.",
+      "scope": "Nuevos desarrollos costeros sujetos a condiciones de planificación; áreas de anidación de tortugas",
+      "confidence": "Comunicado oficial del gobierno de 18-09-2026",
+      "note": "La obligación deriva de condiciones de planificación; no implica apagado obligatorio general para todas las propiedades existentes. Buscar condiciones de permisos y normativa de desarrollo.",
+      "keywords": "Cayman Islands turtle friendly lighting beachfront development required planning artificial light",
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Protección expresa de tortugas frente a luz artificial en nuevos desarrollos costeros.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Condiciones de planificación obligatorias para nuevos desarrollos costeros, según comunicado oficial; verificar licencia individual.",
+      "source_ids": [
+        "F521",
+        "F522"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "PYF",
+      "name": "Polinesia Francesa",
+      "region": "Oceanía",
+      "level": "sectorial",
+      "summary": "Los arrêts n.º 910 CM y 912 CM de 26-06-2025, publicados en JOPF de 01-07-2025, prohíben los dispositivos de iluminación de superficie de agua, proyectores de casco y luces submarinas en determinadas zonas reguladas de fondeo de Moorea y Huahine, salvo maniobras de embarque/desembarque por seguridad.",
+      "scope": "Zonas de fondeo y estacionamiento reguladas en Moorea y Huahine; no prohibición universal de iluminación marina",
+      "confidence": "Journal officiel de la Polynésie française, textos originales de 2025",
+      "note": "Comprobar posibles reformas, continuidad de vigencia y límites cartográficos de cada zona. La prohibición es sobre determinados tipos de luces en áreas reguladas.",
+      "keywords": "Polynésie française arrêté 910 912 CM 2025 éclairage plan eau projecteurs sous marins mouillage Moorea Huahine",
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Prohibiciones expresas de determinadas fuentes de luz artificial en zonas marítimas reguladas.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Prohibiciones específicas de 2025 acreditadas en boletín oficial; vigencia consolidada por comprobar.",
+      "source_ids": [
+        "F523",
+        "F524"
+      ],
+      "star_ids": []
+    },
+    {
+      "iso": "HKG",
+      "name": "Hong Kong",
+      "region": "Asia",
+      "level": "guia",
+      "summary": "El Gobierno de Hong Kong impulsa una Charter on External Lighting voluntaria para apagar iluminación publicitaria y ornamental en horarios nocturnos, junto con guías de buenas prácticas que tratan luz intrusa, deslumbramiento y resplandor del cielo. No se ha acreditado obligación jurídica general.",
+      "scope": "Región Administrativa Especial de Hong Kong; adhesión voluntaria e instalaciones exteriores contempladas",
+      "confidence": "Environmental Protection Department: informes oficiales y guías",
+      "note": "La adhesión voluntaria no equivale a regulación exigible a cualquier inmueble; requisitos de proyectos concretos deben revisarse por separado.",
+      "keywords": "Hong Kong Charter External Lighting voluntary 11 pm midnight light pollution obtrusive light",
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Directrices y programa voluntario que mencionan expresamente contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No se acredita una obligación general en el programa de adhesión; comprobar condiciones de permisos específicos.",
+      "source_ids": [
+        "F525",
+        "F526"
+      ],
+      "star_ids": []
     }
   ],
   "sources": [
@@ -10273,6 +10357,83 @@
       "note": "La inclusión de esta fuente no acredita requisitos ALAN específicos.",
       "year": "2005",
       "official": false
+    },
+    {
+      "id": "F520",
+      "country": "NCL",
+      "title": "Nueva Caledonia — Journal officiel 10-03-2020, art. 252-5, aves marinas",
+      "url": "https://juridoc.gouv.nc/JuriDoc/JdJ202.nsf/JoncP/2020-02841/%24File/2020-2841.pdf?openElement=",
+      "type": "Norma ambiental provincial publicada oficialmente",
+      "effect": "Emisiones potentes de luces y sonidos dentro de 300 m de concentraciones de aves marinas",
+      "note": "Aplicación restringida a provincia Norte y especies contempladas",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F521",
+      "country": "CYM",
+      "title": "Gobierno de Caimán — alumbrado favorable a tortugas obligatorio en nuevos desarrollos costeros (2026)",
+      "url": "https://www.radiocayman.gov.ky/news/turtle-hatchlings-found-dead-as-artificial-lights-lead-them-away-from-sea",
+      "type": "Comunicado gubernamental",
+      "effect": "Iluminación turtle-friendly exigida en nuevas propiedades frente a playas vía planificación",
+      "note": "No implica obligación general retroactiva para edificios existentes",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F522",
+      "country": "CYM",
+      "title": "Gobierno de Caimán — temporada de anidación 2026 y recomendaciones sobre iluminación",
+      "url": "https://gov.ky/web/govky/noticeboard",
+      "type": "Información institucional",
+      "effect": "Apagar o adaptar la iluminación perjudicial en propiedades costeras durante anidación",
+      "note": "Recomendación general distinta de condición de permiso",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F523",
+      "country": "PYF",
+      "title": "Polinesia Francesa — arrêté 910 CM/2025, Moorea",
+      "url": "https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2025/07/Arrete-n%C2%B0-910-CM-du-26-juin-2025.pdf",
+      "type": "Orden territorial publicada en boletín oficial",
+      "effect": "Prohibición de luces sobre el agua, proyectores de casco y luces submarinas en ZMR",
+      "note": "Excepción de seguridad para embarque y desembarque",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F524",
+      "country": "PYF",
+      "title": "Polinesia Francesa — arrêté 912 CM/2025, Huahine",
+      "url": "https://www.service-public.pf/dpam/wp-content/uploads/sites/20/2025/07/Arrete-n%C2%B0-912-CM-du-26-juin-2025.pdf",
+      "type": "Orden territorial publicada en boletín oficial",
+      "effect": "Regulación análoga de iluminación en zonas marítimas de Huahine",
+      "note": "Limitada a zonas reguladas y usos definidos",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F525",
+      "country": "HKG",
+      "title": "Hong Kong — Charter on External Lighting, informe del gobierno 2017",
+      "url": "https://www.epd.gov.hk/epd/sites/default/files/epd/english/boards/advisory_council/files/ACE_Paper_15_2017.pdf",
+      "type": "Informe ambiental gubernamental",
+      "effect": "Charter voluntaria de apagado de iluminación decorativa y publicitaria",
+      "note": "No es un mandato legal general",
+      "year": "2017",
+      "official": true
+    },
+    {
+      "id": "F526",
+      "country": "HKG",
+      "title": "Hong Kong — Guidelines on Industry Best Practices for External Lighting Installations",
+      "url": "https://www.epd.gov.hk/epd/english/greenconstruction/ref_mat/files/lighting_install_eng.pdf",
+      "type": "Guía pública técnica",
+      "effect": "Controles de horario, deslumbramiento, luz intrusa y eficiencia",
+      "note": "Documento de recomendaciones, no límite legal universal",
+      "year": "",
+      "official": true
     }
   ],
   "stars": [
