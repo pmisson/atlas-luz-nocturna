@@ -22,3 +22,9 @@ No existe evidencia en la guía de una prohibición nacional universal del alumb
 
 ---
 Ficha documental: no extrapolar reglas sectoriales a una prohibición nacional de contaminación lumínica; consultar norma consolidada y sus límites de aplicación.
+
+
+### Auditoría jurídica — 23-11-2026
+La **Fiji Roads Authority Road Lighting Design Guide**, versión 3, marzo 2019, §§4.2.2–4.2.3, exige como objetivos de diseño controlar **upward spill**, **glare**, **skyglow** y **light trespass**. Se clasifica como **guía técnica con criterios explícitos de protección ALAN**, no como ley nacional vinculante. Es necesario verificar su incorporación a pliegos, contratos o licencias para conocer su obligatoriedad en cada proyecto.
+
+Fuente: [FRA Road Lighting Design Guide](https://www.fijiroads.org/wp-content/uploads/2024/04/FRA-Road-Lighting-Design-Guide-Rev-V3.0.pdf).
