@@ -1,0 +1,138 @@
+{
+  "countries": [
+    {
+      "iso": "COM",
+      "name": "Comoras",
+      "region": "África",
+      "level": "general",
+      "summary": "Ley marco ambiental 94-018/AF, modificada por Ley 24-018/AU promulgada mediante Decreto 25-004/PR en enero de 2025; EIA ambiental y protección de fauna. El plan de biodiversidad de Telecom Comoros Holding (2021) identifica contaminación lumínica de torres, y AXIAN documenta medidas preventivas de gestión.",
+      "scope": "Nacional: ley ambiental; proyecto privado de torres de telecomunicaciones con protección lumínica explícita",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "No se ha acreditado límite sobre iluminación",
+      "keywords": "Comoras environmental protection light pollution 2026",
+      "source_ids": [
+        "F478",
+        "F492",
+        "F493"
+      ],
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Medida ecológica explícita en un plan empresarial de torres, no norma general.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "Compromisos de gestión empresarial identificados; exigibilidad contractual o por permiso sin acreditar."
+    },
+    {
+      "iso": "MWI",
+      "name": "Malaui",
+      "region": "África",
+      "level": "general",
+      "summary": "Environment Management Act 19/2017; su artículo 31 prevé evaluación ambiental para proyectos designados, sin exigencia lumínica general verificada. El proyecto Mpatamanga incorpora medidas expresas M 8-122 a M 8-125 y OC-23 en su ESMMP 2024, incluyendo estrategia de alumbrado, control del resplandor hacia Majete y seguimiento de skyglow.",
+      "scope": "Nacional: marco EIA; proyecto Mpatamanga con plan específico de mitigación de contaminación lumínica.",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "EIA general no equivale a control ALAN específico",
+      "keywords": "Malaui environmental protection light pollution 2026",
+      "source_ids": [
+        "F484",
+        "F490",
+        "F491"
+      ],
+      "star_ids": [],
+      "alan_scope": "proteccion",
+      "alan_scope_note": "Mitigación ALAN expresa en ESMMP del proyecto Mpatamanga (no límite nacional).",
+      "alan_legal_class": "pendiente",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "El plan de proyecto establece compromisos concretos; falta verificar incorporación a permiso y fuerza contractual final."
+    },
+    {
+      "iso": "SWZ",
+      "name": "Esuatini",
+      "region": "África",
+      "level": "general",
+      "summary": "Environment Management Act 5/2002; régimen de protección ambiental publicado por la autoridad nacional. La autoridad ambiental explica que la evaluación es obligatoria para proyectos sujetos al procedimiento, regulado en 2022, con aprobación y condiciones según art. 32 de la Ley de 2002.",
+      "scope": "Nacional: marco ambiental general o estado legislativo documentado",
+      "confidence": "Texto normativo o ficha institucional identificada",
+      "note": "No se localiza requisito ALAN explícito El art. 32 obliga a cumplir condiciones de autorización, pero no menciona límites lumínicos generales.",
+      "keywords": "Esuatini environmental protection light pollution 2026",
+      "source_ids": [
+        "F488",
+        "F494",
+        "F495"
+      ],
+      "star_ids": [],
+      "alan_scope": "contexto",
+      "alan_scope_note": "No se ha identificado una disposición expresa de protección contra la contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "No hay obligación específica de iluminación artificial acreditada."
+    }
+  ],
+  "sources": [
+    {
+      "id": "F490",
+      "country": "MWI",
+      "title": "Mpatamanga Hydropower Project — ESMMP Rev D, medidas M 8-122 a 125 y OC-23",
+      "url": "https://documents1.worldbank.org/curated/en/099082924062014263/pdf/P1657041665b300aa1bc6f14a7d977fcf86.pdf",
+      "type": "Plan de gestión ambiental de proyecto (World Bank disclosure)",
+      "effect": "Estrategia de luz, skyglow y seguimiento en Majete/Mkulamudzi Lodge",
+      "note": "Compromisos en documento de proyecto; no suponer incorporación a autorización ambiental ni norma nacional",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F491",
+      "country": "MWI",
+      "title": "Mpatamanga Hydropower — documentación ESIA y ESMMP del promotor",
+      "url": "https://www.mhpl.mw/index.php/environmental-and-social-impact-assessment-esia/",
+      "type": "Repositorio oficial del promotor",
+      "effect": "Versiones del plan ambiental ajustadas a MEPA y a financiadores internacionales",
+      "note": "Comprobar condiciones finales de permiso y versión del plan",
+      "year": "2025",
+      "official": true
+    },
+    {
+      "id": "F492",
+      "country": "COM",
+      "title": "Telecom Comoros Holding — Biodiversity Action Plan",
+      "url": "https://disclosuresservice.ifc.org/api/File/downloadfile?id=%5C37209_ESRS%5C20211217_TELCO_BAP_with+disclaimer.pdf",
+      "type": "Plan empresarial de biodiversidad divulgado por IFC",
+      "effect": "Identifica contaminación lumínica de torres y perturbación de especies",
+      "note": "No supone prohibición legal nacional; verificar incorporación a contratos y autorizaciones",
+      "year": "2021",
+      "official": true
+    },
+    {
+      "id": "F493",
+      "country": "COM",
+      "title": "AXIAN Impact Report 2021 — Telma Comoros biodiversity management",
+      "url": "https://mediaroom.axian-group.com/presse/document/AXIAN_IMPACT_REPORT_2021_ENG.pdf",
+      "type": "Informe de sostenibilidad corporativo",
+      "effect": "Medidas para prevenir y limitar contaminación lumínica y acústica de torres",
+      "note": "Compromiso de gestión corporativa, sin norma nacional",
+      "year": "2021",
+      "official": false
+    },
+    {
+      "id": "F494",
+      "country": "SWZ",
+      "title": "Eswatini Environment Authority — evaluación ambiental y autorizaciones",
+      "url": "https://eea.org.sz/environmental-assessment/",
+      "type": "Portal oficial de autoridad ambiental",
+      "effect": "Procedimiento EIA y Reglamento de Evaluación Ambiental 2022",
+      "note": "Procedimiento vinculante general, sin requisito ALAN específico acreditado",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F495",
+      "country": "SWZ",
+      "title": "Eswatini Environment Authority — Environment Management Act 2002 art. 32",
+      "url": "https://eea.org.sz/legislation/",
+      "type": "Texto legislativo publicado por autoridad ambiental",
+      "effect": "Aprobación escrita y cumplimiento de condiciones ambientales para proyectos sujetos a EIA",
+      "note": "Exigibilidad de luz artificial depende de que conste en la autorización concreta",
+      "year": "2002",
+      "official": true
+    }
+  ]
+}
