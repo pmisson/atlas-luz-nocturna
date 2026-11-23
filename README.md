@@ -235,3 +235,9 @@ Seychelles (Ley de pesca 3/2025, art. 21: luces para atraer peces); Moldavia (AN
 La fuente consolidada es `data/atlas.json`: **229 jurisdicciones** y **579 fuentes**. El archivo `build_data.py` es un constructor histórico protegido contra sobrescrituras; no debe utilizarse para reconstruir la edición completa. Para volver a generar los archivos de publicación desde el JSON consolidado y preservar las ampliaciones documentadas, usar `python3 sync_territorios.py`. Las fases documentales de los diez territorios más recientes están en `data/territorios_20261123.json` y `data/territorios_20261123_fase2.json` y `data/territorios_20261123_fase3.json` y `data/territorios_20261123_fase4.json` y `data/territorios_20261123_fase5.json`.
 
 La incorporación no significa que todas las jurisdicciones tengan legislación lumínica vinculante. La clasificación distingue leyes específicas, obligaciones generales o urbanísticas, orientaciones y referencias indirectas.
+
+## Lectura correcta de los contadores (corte 23-11-2026)
+
+Las 229 fichas incluyen 193 Estados miembros de la ONU, 2 observadores (Palestina y Santa Sede representada por Ciudad del Vaticano), 2 Estados en libre asociación (Islas Cook y Niue), Taiwán y 31 territorios no soberanos. El registro ISO `SJM` agrupa Svalbard y Jan Mayen solo a efectos estadísticos. `political_status` en `data/atlas.json` contiene esta distinción para cada ficha.
+
+75 fichas están marcadas como `alan_binding_review=documentada`; se trata de una clasificación documental de obligaciones relacionadas con la luz, NO de 75 leyes específicas ni de una certificación jurídica de su vigencia actual. Las fuentes y los ámbitos de aplicación deben comprobarse para usos jurídicos. Estas cifras se calculan desde la base consolidada y se regeneran con `python3 sync_territorios.py`.
