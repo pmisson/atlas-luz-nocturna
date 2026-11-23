@@ -15,6 +15,6 @@ La obligación principal deriva de los términos que deben contener los contrato
 Obligación sectorial contractual, no norma general de alumbrado exterior ni límites fotométricos. La circular aeronáutica emplea formulación orientativa.
 
 ## Referencias
-- **F411** [Customary Land Rights Act, 2022, texto oficial](https://parliament.gov.sl/uploads/acts/THE%20CUSTOMARY%20LAND%20RIGHTS%20ACT%2C%202022.pdf). Artículo 33 y segundo anexo, punto 10.
+- **F411** [Customary Land Rights Act, 2022, texto oficial](https://sierralii.gov.sl/akn/sl/act/2022/20/eng%402022-09-23/source.pdf). Artículo 33 y segundo anexo, punto 10.
 - **F412** [SLCAA-AC-AGA042 Rev00, texto oficial](https://slcaa.gov.sl/wp-content/uploads/2024/01/SLCAA-AC-AGA042-Rev00-Land-Use-and-Environmental-Management-Uploaded-16-Feb-23.pdf). Apartado 2.3(b)(iv).
 - **F305** [Environmental Protection Agency Act 15/2022](https://sierralii.gov.sl/akn/sl/act/2022/15/eng%402022-09-15). Contexto institucional; no es la fuente de la obligación explícita ALAN.
