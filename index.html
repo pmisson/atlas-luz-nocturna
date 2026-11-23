@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="dark">
-  <meta name="description" content="Atlas mundial de legislación contra la contaminación lumínica: mapa interactivo de 150 países, medidas estrella y fuentes oficiales. Compilación documental, noviembre de 2026.">
-  <meta property="og:title" content="Atlas de legislación de la noche | 150 países">
+  <meta name="description" content="Atlas mundial de legislación contra la contaminación lumínica: mapa interactivo de 153 países, medidas estrella y fuentes oficiales. Compilación documental, noviembre de 2026.">
+  <meta property="og:title" content="Atlas de legislación de la noche | 153 países">
   <meta property="og:description" content="Compilación documental mundial de legislación, medidas estrella y referencias jurídicas sobre contaminación lumínica.">
   <title>Atlas de la noche — Legislación mundial sobre contaminación lumínica</title>
   <link rel="stylesheet" href="assets/styles.css?v=20261123-150-bfa">
@@ -30,7 +30,7 @@
     <div class="hero-visual" aria-hidden="true"><span class="moon-glow"></span><span class="moon"></span><span class="orbit orbit-one"></span><span class="orbit orbit-two"></span><div class="visual-caption">LA OSCURIDAD TAMBIÉN SE PROTEGE.</div></div>
   </section>
   <section class="metrics layout-width" aria-label="Dimensiones del proyecto">
-    <div class="metric"><strong id="metric-countries">150</strong><span>países en el atlas</span></div>
+    <div class="metric"><strong id="metric-countries">153</strong><span>países en el atlas</span></div>
     <div class="metric"><strong id="metric-sources">410</strong><span>referencias documentales</span></div>
     <div class="metric"><strong id="metric-stars">155</strong><span>medidas destacadas</span></div>
     <div class="metric last"><strong>19.11.26</strong><span>fecha de corte</span></div>
@@ -48,7 +48,7 @@
           <div class="map-topline"><div><span class="live-dot"></span> MAPA LEGISLATIVO INTERACTIVO</div><div class="map-actions"><button class="map-zoom" type="button" id="zoomOut" aria-label="Alejar">−</button><button class="map-zoom" type="button" id="zoomIn" aria-label="Acercar">+</button><button class="map-zoom fit" type="button" id="zoomReset">⤢</button></div></div>
           <div class="map-canvas" id="mapCanvas"><svg viewBox="0 0 1200 550" id="worldMap" aria-label="Mapa mundial interactivo de normativas de contaminación lumínica" role="img"><defs><pattern id="gridLines" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M 70 0 L 0 0 0 70" fill="none" stroke="#30435a" stroke-width="0.45" opacity="0.5"/></pattern></defs><rect x="0" y="0" width="1200" height="550" fill="url(#gridLines)"/><g id="worldGroup"><g id="worldCountries"></g><g id="mapMarkers"></g></g></svg><div id="mapTooltip" class="map-tooltip" role="status" aria-live="polite"></div><div class="map-watermark">EQUATORIAL · WGS84 · NATURAL EARTH</div></div>
           <div class="legend"><span class="legend-label">NATURALEZA DE LA REGULACIÓN</span><div id="legendItems"></div></div>
-          <div class="map-foot"><span>● 150 países seleccionados; los restantes se muestran como contexto cartográfico.</span><span>Arrastra y usa la rueda para ampliar</span></div>
+          <div class="map-foot"><span>● 153 países seleccionados; los restantes se muestran como contexto cartográfico.</span><span>Arrastra y usa la rueda para ampliar</span></div>
         </div>
         <aside class="country-detail" id="countryDetail" aria-live="polite"><div class="detail-loading">Selecciona un país para consultar su expediente jurídico.</div></aside>
       </div>
@@ -400,7 +400,7 @@
     <p class="reference-footer">También puedes revisar el <a href="#fuentes">catálogo legislativo</a> y el <a href="docs/BIBLIOGRAFIA_JURIDICA_Y_CIENTIFICA.md">anexo bibliográfico existente</a>.</p>
   </div></section>
   <section class="countries-section section-pad" id="paises"><div class="layout-width">
-    <div class="section-head"><div><div class="eyebrow mini">06 / EXPEDIENTES POR TERRITORIO</div><h2>150 países, <em>122 fichas.</em></h2><p>Consulta la síntesis legal, el ámbito y las fuentes primarias. Las fichas completas también se incluyen en la descarga.</p></div><a href="data/paises.csv" class="text-link" download>↓ Descargar CSV</a></div>
+    <div class="section-head"><div><div class="eyebrow mini">06 / EXPEDIENTES POR TERRITORIO</div><h2>153 países, <em>fichas jurídicas.</em></h2><p>Consulta la síntesis legal, el ámbito y las fuentes primarias. Las fichas completas también se incluyen en la descarga.</p></div><a href="data/paises.csv" class="text-link" download>↓ Descargar CSV</a></div>
     <label class="search-box country-search"><span>⌕</span><input type="search" id="countrySearch" placeholder="Buscar país, región, legislación o tema…" aria-label="Buscar países"></label>
     <div class="country-table-wrap"><table class="country-table"><thead><tr><th>País / territorio</th><th>Región</th><th>Instrumento localizado</th><th>Fuentes</th><th></th></tr></thead><tbody id="countryRows"></tbody></table></div><div class="no-results" id="countryEmpty" hidden>No hay países que coincidan con la búsqueda.</div>
   </div></section>
@@ -416,7 +416,7 @@
   <section class="download-cta"><div class="layout-width cta-inner"><div><div class="eyebrow mini">DIVULGACIÓN · INVESTIGACIÓN · ADMINISTRACIÓN</div><h2>Que el conocimiento <em>circule.</em></h2><p>Una base documental transparente y reutilizable para evaluar leyes, formular políticas públicas y proteger la oscuridad.</p></div><div><a class="primary-action" href="data/atlas.json" download>↓ Descargar datos JSON</a><a class="secondary-action below" href="data/medidas_estrella.csv" download>↓ Tabla de medidas estrella</a></div></div></section>
 </main>
 <footer class="footer"><div class="layout-width footer-grid"><div class="brand small-brand"><span class="brand-symbol">◕</span><span>NOCTIS <em>ATLAS</em><small>Observatorio normativo mundial</small></span></div><p>Atlas de legislación sobre contaminación lumínica · Edición documental 22 de noviembre de 2026.<br>Investigación jurídica comparada; no sustituye asesoramiento profesional ni boletines oficiales.</p><a href="#inicio">↑ Volver al inicio</a></div></footer>
-<script src="assets/atlas-data.js?v=20261123-150-bfa"></script>
+<script src="assets/atlas-data.js?v=20261123-153-ago-zwe"></script>
 <script src="assets/world-data.js"></script>
 <script src="assets/app.js?v=20261123-150-bfa"></script>
 <script src="assets/extras.js?v=20261123-150-bfa"></script>
