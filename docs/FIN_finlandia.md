@@ -24,3 +24,8 @@ La definición legislativa de emisión incluye la luz entre otras formas de ener
 
 ---
 La ficha no sustituye el texto oficial consolidado. No extrapolar normas de territorios subnacionales a todo el país.
+
+
+## Auditoría jurídica de clasificación (23-11-2026)
+
+La clasificación de obligación documentada se reconsidera: reconocimiento expreso de emisión luminosa en §5, sin límite fotométrico general corroborado.
