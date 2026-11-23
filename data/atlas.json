@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 125,
-    "source_count": 406,
-    "star_count": 152,
+    "country_count": 127,
+    "source_count": 410,
+    "star_count": 155,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -37,7 +37,8 @@
     "review_oceania_caribbean_nov2026": "Honduras plan ICF 089-2025 sustituye 047-2024; Belice directrices DOE 2010 §7 alumbrado estructuras sobre agua; Vanuatu NPOA tortugas 2016-2020 (histórico), SPREP 2025 guía no vinculante. Fiyi, Samoa, PNG, Botswana, Cuba, Mozambique, Uganda y Zambia pendientes.",
     "review_uganda_zambia_2026": "Uganda SI 53/2026 art.89 regula luces deslumbrantes carreteras; Zambia Wildlife Act 2015 art.73 prohíbe luz en caza nocturna salvo permiso. Fiyi guías ONG 2012 y Mozambique plan 2011 constatación de impactos se excluyen del recuento en esta fase; Samoa PNG Botswana Cuba siguen pendientes.",
     "review_fiji_botswana_cuba_2026": "Fiji Roads Authority Road Lighting Design Guide 2019 limita upward spill, light trespass y skyglow, no ley nacional; Botsuana Wildlife Conservation Act 1992 art.55 restringe luces para caza salvo autorización; Cuba Ley 150/2022 art.84 energía lumínica como factor físico; Samoa PNG Mozambique todavía sin instrumentos específicos verificados.",
-    "review_mozambique_2026": "Mozambique Decreto 89/2020 REPMAR art.42 fuentes luminosas pesca atún y 100 kW condicionado; Resolución 63/2024 POEM prevé reducción iluminación nocturna anidación de tortugas. Samoa y Papua Nueva Guinea: informes ecológicos no demuestran medida ALAN exigible."
+    "review_mozambique_2026": "Mozambique Decreto 89/2020 REPMAR art.42 fuentes luminosas pesca atún y 100 kW condicionado; Resolución 63/2024 POEM prevé reducción iluminación nocturna anidación de tortugas. Samoa y Papua Nueva Guinea: informes ecológicos no demuestran medida ALAN exigible.",
+    "review_samoa_albania_png_2026": "Samoa Signage Policy PUMA 2016 y Apia Urban Design Standards 2018 C5 DO1.2; Albania Plan Detallado Spille Decisión 1/2020 art61 recomendaciones alumbrado 2700–3200 K; Papua Nueva Guinea Road Management & Maintenance Plan 2025-2040 reconoce ALAN pero no ofrece restricción concreta, no incorporado."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -2402,6 +2403,43 @@
       "star_ids": [
         "M151",
         "M152"
+      ]
+    },
+    {
+      "iso": "WSM",
+      "name": "Samoa",
+      "region": "Oceanía",
+      "level": "sectorial",
+      "summary": "La Planning and Urban Management Agency (PUMA) adoptó la Signage Policy (revisión febrero 2016) para evaluar autorizaciones de anuncios en todo Samoa. Establece que los rótulos iluminados se desaconsejan en general y se restringen a áreas comerciales e industriales, con atención a efectos ambientales y seguridad. En el ámbito urbano de Apia, los Urban Design Standards para CBD y waterfront (28 febrero 2018), sección C5, incluyen entre los resultados deseables luminarias sin deslumbramiento excesivo, emisión únicamente hacia abajo y ninguna luz directa en propiedades vecinas.",
+      "scope": "Nacional: evaluación de solicitudes de anuncios por PUMA; subnacional/local: diseño de CBD y litoral de Apia",
+      "confidence": "Textos institucionales íntegros de PUMA y Gobierno de Samoa publicados por Ministry of Works, Transport and Infrastructure; Signage Policy 2016 y Urban Design Standards 2018",
+      "note": "La Signage Policy orienta las autorizaciones bajo Planning and Urban Management Act 2004, pero no equivale a ley nacional general de contaminación lumínica. En la sección C5 de Apia, el control de deslumbramiento y orientación descendente es 'Desirable Outcome', no 'Mandatory Outcome'. La guía recomienda luz blanca de halogenuros metálicos frente a sodio en un apartado estético: no presentarla como buena práctica de conservación de cielo.",
+      "keywords": "Samoa PUMA Signage Policy 2016 illuminated signs restricted commercial industrial areas Apia Urban Design Standards 2018 C5 downward only glare light spill",
+      "source_ids": [
+        "F407",
+        "F408"
+      ],
+      "star_ids": [
+        "M153",
+        "M154"
+      ]
+    },
+    {
+      "iso": "ALB",
+      "name": "Albania",
+      "region": "Europa",
+      "level": "subnacional",
+      "summary": "El Plan Detallado para la Zona de Importancia Nacional con prioridad turística de Spille, aprobado por el Consejo Nacional del Territorio mediante Decisión 1 de 03-12-2020, contiene en el artículo 61 una recomendación para el alumbrado público de la zona de desarrollo: flujo nominal 10 000 lm, iluminancia 30 lx en calles y 10 lx en plazas y jardines, y luminarias LED de 60–90 lm/W con temperatura de color correlacionada de 2700–3200 K. Se trata de recomendaciones de diseño, no de valores máximos de contaminación lumínica.",
+      "scope": "Zona turística de Spille, regulación del plan detallado local, no todo Albania",
+      "confidence": "Reglamento del plan detallado aprobado y firmado, artículo 61, publicado por Agencia de Desarrollo del Territorio de Albania; informe plan nacional de transportes de 2019 indica ausencia entonces de normativa dedicada ALAN",
+      "note": "Los 30 lx/10 lx son iluminancias de diseño recomendadas, no valores máximos de luz intrusa. El intervalo 2700–3200 K es una recomendación de temperatura de color, no límite nacional ni garantía ambiental. No se ha encontrado ley nacional específica ALAN.",
+      "keywords": "Albania Spille detailed national tourism plan 2020 article 61 public lighting 2700 3200 kelvin 30 10 lux ndriçimi publik",
+      "source_ids": [
+        "F409",
+        "F410"
+      ],
+      "star_ids": [
+        "M155"
       ]
     }
   ],
@@ -6871,6 +6909,50 @@
       "note": "Índice no sustituye lectura del articulado original",
       "year": "2020",
       "official": true
+    },
+    {
+      "id": "F407",
+      "country": "WSM",
+      "title": "Samoa PUMA: Planning Policy Signage Policy (febrero 2016), anuncios iluminados y permisos",
+      "url": "https://www.mwti.gov.ws/wp-content/uploads/2022/09/Signage-Policy-2016.pdf",
+      "type": "Política oficial de planificación y evaluación de autorizaciones",
+      "effect": "La iluminación de rótulos se desaconseja en general y se circunscribe a zonas comerciales e industriales; requisitos en solicitudes bajo PUMA",
+      "note": "Guía de decisiones de autorizaciones, no una prohibición legal de cualquier cartel iluminado fuera de esas zonas",
+      "year": "2016",
+      "official": true
+    },
+    {
+      "id": "F408",
+      "country": "WSM",
+      "title": "Samoa Gobierno: Apia Urban Design Standards, §C5 Site Lighting (2018)",
+      "url": "https://www.mwti.gov.ws/wp-content/uploads/2022/09/Apia-Urban-Design-Standards_Final.pdf",
+      "type": "Estándares oficiales de diseño urbano para Apia",
+      "effect": "Resultado deseable C5 DO1.2: evitar deslumbramiento, orientar luz solo hacia abajo y no dirigir luz a propiedades vecinas",
+      "note": "Es 'Desirable Outcome', no 'Mandatory Outcome'; ámbito CBD y waterfront Apia",
+      "year": "2018",
+      "official": true
+    },
+    {
+      "id": "F409",
+      "country": "ALB",
+      "title": "Albania Agencia Desarrollo Territorial: Plan Detallado Spille, Decisión 1/2020 art.61",
+      "url": "https://planifikimi.gov.al/index.php?eID=dumpFile&f=6358&t=f&token=5067660a6bd52b7d6a22eece47d01386d949ef23",
+      "type": "Reglamento aprobado de planificación territorial local",
+      "effect": "Art. 61 recomienda alumbrado público LED 2700-3200 K, calles 30 lx, plazas y jardines 10 lx, eficacia 60-90 lm/W",
+      "note": "Recomendaciones solo para zona Spille, no límite ambiental vinculante de luz intrusa o cielo",
+      "year": "2020",
+      "official": true
+    },
+    {
+      "id": "F410",
+      "country": "ALB",
+      "title": "Albanian Road Authority: National Transport Plan, carencia de legislación ALAN 2019",
+      "url": "https://www.arrsh.gov.al/te-ngarkuara/pdf/TR4689-FINAL-ANTP3-PART-III-ED1.pdf",
+      "type": "Informe institucional de análisis normativo histórico",
+      "effect": "En 2019 se indicaba que no existía ley especialmente dedicada a contaminación lumínica",
+      "note": "La afirmación se refiere al contexto de 2019, no acredita ausencia en 2026",
+      "year": "2019",
+      "official": true
     }
   ],
   "stars": [
@@ -9049,6 +9131,48 @@
       ],
       "caution": "No es apagado obligatorio universal instantáneo: deben distinguirse previsiones de plan y normas ejecutivas posteriores.",
       "replicability": "Alta"
+    },
+    {
+      "id": "M153",
+      "country": "WSM",
+      "title": "Samoa: restricción de rótulos iluminados por zonas de planificación",
+      "description": "Signage Policy PUMA 2016 orienta permisos de rótulos luminosos y desaconseja iluminarlos en general, restringiéndolos a zonas comerciales e industriales y considerando impactos ambientales y seguridad.",
+      "force": "Política administrativa de evaluación de permisos",
+      "param": "Zona comercial/industrial para publicidad iluminada, sin lux/ULOR/CCT generales",
+      "scope": "Anuncios y solicitudes de desarrollo sujetas a PUMA",
+      "sources": [
+        "F407"
+      ],
+      "caution": "No interpretar como prohibición penal nacional fuera de zonas comerciales: depende del consentimiento de desarrollo y aplicación de la política.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M154",
+      "country": "WSM",
+      "title": "Samoa Apia: evitar deslumbramiento y luz intrusa en planes de diseño",
+      "description": "Urban Design Standards Apia 2018 C5 DO1.2 aconseja luminarias que no causen deslumbramiento excesivo, proyecten luz solo hacia abajo y eviten luz directa sobre fincas colindantes.",
+      "force": "Resultado de diseño deseable, no obligación de resultado obligatorio",
+      "param": "Orientación descendente, control de deslumbramiento y luz directa a vecinos; sin umbral numérico",
+      "scope": "Apia CBD y waterfront, proyectos sujetos a estándares",
+      "sources": [
+        "F408"
+      ],
+      "caution": "El encabezado normativo distingue Mandatory Outcome (seguridad peatonal) de Desirable Outcome (control de luz).",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M155",
+      "country": "ALB",
+      "title": "Albania Spille: recomendación de alumbrado público 2700–3200 K",
+      "description": "Art.61 del plan territorial aprobado en 2020 recomienda luminarias LED de 2700 a 3200 K, 30 lx en calles y 10 lx en jardines/plazas.",
+      "force": "Recomendación técnica incluida en plan local aprobado",
+      "param": "CCT 2700–3200 K, 30 lx calles y 10 lx plazas y jardines recomendados",
+      "scope": "Zona turística Spille",
+      "sources": [
+        "F409"
+      ],
+      "caution": "La temperatura de color recomendada no impide emisión azul ecológicamente relevante; los lux son niveles de diseño recomendados, no máximos de luz intrusa.",
+      "replicability": "Media"
     }
   ],
   "spain_regions": [
