@@ -38,7 +38,9 @@
     "review_uganda_zambia_2026": "Uganda SI 53/2026 art.89 regula luces deslumbrantes carreteras; Zambia Wildlife Act 2015 art.73 prohíbe luz en caza nocturna salvo permiso. Fiyi guías ONG 2012 y Mozambique plan 2011 constatación de impactos se excluyen del recuento en esta fase; Samoa PNG Botswana Cuba siguen pendientes.",
     "review_fiji_botswana_cuba_2026": "Fiji Roads Authority Road Lighting Design Guide 2019 limita upward spill, light trespass y skyglow, no ley nacional; Botsuana Wildlife Conservation Act 1992 art.55 restringe luces para caza salvo autorización; Cuba Ley 150/2022 art.84 energía lumínica como factor físico; Samoa PNG Mozambique todavía sin instrumentos específicos verificados.",
     "review_mozambique_2026": "Mozambique Decreto 89/2020 REPMAR art.42 fuentes luminosas pesca atún y 100 kW condicionado; Resolución 63/2024 POEM prevé reducción iluminación nocturna anidación de tortugas. Samoa y Papua Nueva Guinea: informes ecológicos no demuestran medida ALAN exigible.",
-    "review_samoa_albania_png_2026": "Samoa Signage Policy PUMA 2016 y Apia Urban Design Standards 2018 C5 DO1.2; Albania Plan Detallado Spille Decisión 1/2020 art61 recomendaciones alumbrado 2700–3200 K; Papua Nueva Guinea Road Management & Maintenance Plan 2025-2040 reconoce ALAN pero no ofrece restricción concreta, no incorporado."
+    "review_samoa_albania_png_2026": "Samoa Signage Policy PUMA 2016 y Apia Urban Design Standards 2018 C5 DO1.2; Albania Plan Detallado Spille Decisión 1/2020 art61 recomendaciones alumbrado 2700–3200 K; Papua Nueva Guinea Road Management & Maintenance Plan 2025-2040 reconoce ALAN pero no ofrece restricción concreta, no incorporado.",
+    "alan_classification_method": "Dos dimensiones: tipo de instrumento (level) y relación ALAN (alan_scope); alan_legal_class diferencia ley dedicada, obligación incluida en norma más amplia, instrumentos no obligatorios y marcos indirectos; alan_binding_review es validación documental conservadora, no certificación de vigencia.",
+    "alan_classification_date": "2026-11-23"
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -68,7 +70,10 @@
         "M01"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "dedicada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "CHL",
@@ -88,7 +93,10 @@
         "M02"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "dedicada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "ARG",
@@ -111,7 +119,10 @@
         "M87"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "URY",
@@ -131,7 +142,10 @@
         "M03"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "VEN",
@@ -161,7 +175,10 @@
         "M48"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "MEX",
@@ -180,7 +197,10 @@
         "M04"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "USA",
@@ -204,7 +224,10 @@
         "M84"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "CAN",
@@ -223,7 +246,10 @@
         "M06"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "BRA",
@@ -244,7 +270,10 @@
         "M88"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "COL",
@@ -264,7 +293,10 @@
         "M07"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "ECU",
@@ -283,7 +315,10 @@
         "M08"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "CRI",
@@ -302,7 +337,10 @@
         "M09"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "PAN",
@@ -321,7 +359,10 @@
         "M10"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "BOL",
@@ -339,7 +380,10 @@
       ],
       "star_ids": [],
       "alan_scope": "contexto",
-      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
+      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual.",
+      "alan_legal_class": "pendiente",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "PRY",
@@ -358,7 +402,10 @@
         "M11"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "GTM",
@@ -375,7 +422,10 @@
       ],
       "star_ids": [],
       "alan_scope": "contexto",
-      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
+      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual.",
+      "alan_legal_class": "pendiente",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "ESP",
@@ -433,7 +483,10 @@
         "M45"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "ITA",
@@ -476,7 +529,10 @@
         "M53"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "FRA",
@@ -496,7 +552,10 @@
         "M14"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "dedicada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "SVN",
@@ -515,7 +574,10 @@
         "M15"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "dedicada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "HRV",
@@ -534,7 +596,10 @@
         "M16"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "dedicada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "GBR",
@@ -553,7 +618,10 @@
         "M17"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "DEU",
@@ -572,7 +640,10 @@
         "M18"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "PRT",
@@ -591,7 +662,10 @@
         "M19"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "CZE",
@@ -610,7 +684,10 @@
         "M20"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "BEL",
@@ -629,7 +706,10 @@
         "M21"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "CHE",
@@ -649,7 +729,10 @@
         "M22"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "NLD",
@@ -666,7 +749,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "AUT",
@@ -714,7 +800,10 @@
         "M57"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "SVK",
@@ -731,7 +820,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "DNK",
@@ -748,7 +840,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "SWE",
@@ -765,7 +860,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "NOR",
@@ -784,7 +882,10 @@
         "M24"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "La luz figura expresamente en el régimen de contaminación; comprobar condiciones de aplicación por caso."
+      "alan_scope_note": "La luz figura expresamente en el régimen de contaminación; comprobar condiciones de aplicación por caso.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "FIN",
@@ -803,7 +904,10 @@
         "M25"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "POL",
@@ -823,7 +927,10 @@
         "M26"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "IRL",
@@ -842,7 +949,10 @@
         "M27"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "GRC",
@@ -859,7 +969,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "CHN",
@@ -879,7 +992,10 @@
         "M28"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Capítulo dedicado a contaminación lumínica en código ambiental 2026; pendiente confirmar vigencia y artículos efectivos."
+      "alan_scope_note": "Capítulo dedicado a contaminación lumínica en código ambiental 2026; pendiente confirmar vigencia y artículos efectivos.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "KOR",
@@ -899,7 +1015,10 @@
         "M29"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "dedicada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "JPN",
@@ -918,7 +1037,10 @@
         "M30"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "TWN",
@@ -938,7 +1060,10 @@
         "M31"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "SGP",
@@ -959,7 +1084,10 @@
         "M32"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "MYS",
@@ -979,7 +1107,10 @@
         "M33"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "IND",
@@ -998,7 +1129,10 @@
         "M34"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "AUS",
@@ -1017,7 +1151,10 @@
         "M35"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "NZL",
@@ -1037,7 +1174,10 @@
         "M36"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "ZAF",
@@ -1057,7 +1197,10 @@
         "M37"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Protección de observatorios astronómicos, no una prohibición general en todo el territorio."
+      "alan_scope_note": "Protección de observatorios astronómicos, no una prohibición general en todo el territorio.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "SAU",
@@ -1088,7 +1231,10 @@
         "M67"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "OMN",
@@ -1110,7 +1256,10 @@
         "M96"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "MAR",
@@ -1130,7 +1279,10 @@
         "M39"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "NAM",
@@ -1147,7 +1299,10 @@
       ],
       "star_ids": [],
       "alan_scope": "contexto",
-      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
+      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual.",
+      "alan_legal_class": "pendiente",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "MLT",
@@ -1167,7 +1322,10 @@
         "M40"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "AND",
@@ -1191,7 +1349,10 @@
         "M71"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "dedicada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "LUX",
@@ -1215,7 +1376,10 @@
         "M73"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "HUN",
@@ -1234,7 +1398,10 @@
         "M74"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "LVA",
@@ -1256,7 +1423,10 @@
         "M76"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "IDN",
@@ -1277,7 +1447,10 @@
         "M77"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "LIE",
@@ -1297,7 +1470,10 @@
         "M78"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "ARE",
@@ -1318,7 +1494,10 @@
         "M80"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "EST",
@@ -1337,7 +1516,10 @@
         "M81"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "ISL",
@@ -1359,7 +1541,10 @@
         "M83"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "LTU",
@@ -1378,7 +1563,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "BGR",
@@ -1395,7 +1583,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "CYP",
@@ -1413,7 +1604,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "VNM",
@@ -1433,7 +1627,10 @@
         "M85"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "SRB",
@@ -1452,7 +1649,10 @@
         "M89"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "ROU",
@@ -1473,7 +1673,10 @@
         "M90"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "TUR",
@@ -1495,7 +1698,10 @@
         "M92"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "ISR",
@@ -1517,7 +1723,10 @@
         "M94"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "DZA",
@@ -1536,7 +1745,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "EGY",
@@ -1555,7 +1767,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "TUN",
@@ -1576,7 +1791,10 @@
         "M95"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "BHR",
@@ -1595,7 +1813,10 @@
         "M97"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "KAZ",
@@ -1614,7 +1835,10 @@
         "M98"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "UKR",
@@ -1634,7 +1858,10 @@
         "M99"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "PAK",
@@ -1651,7 +1878,10 @@
       ],
       "star_ids": [],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "LKA",
@@ -1670,7 +1900,10 @@
         "M100"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "CMR",
@@ -1689,7 +1922,10 @@
         "M101"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "TCD",
@@ -1708,7 +1944,10 @@
         "M102"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "NGA",
@@ -1728,7 +1967,10 @@
         "M103"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "THA",
@@ -1748,7 +1990,10 @@
         "M104"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "NIC",
@@ -1768,7 +2013,10 @@
         "M105"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "SLV",
@@ -1788,7 +2036,10 @@
         "M106"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "QAT",
@@ -1807,7 +2058,10 @@
         "M107"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "AZE",
@@ -1824,7 +2078,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "BGD",
@@ -1843,7 +2100,10 @@
         "M108"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "BLR",
@@ -1872,7 +2132,10 @@
         "M115"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "KEN",
@@ -1890,7 +2153,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "LBN",
@@ -1909,7 +2175,10 @@
         "M109"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "RUS",
@@ -1942,7 +2211,10 @@
         "M116"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "RWA",
@@ -1959,7 +2231,10 @@
       ],
       "star_ids": [],
       "alan_scope": "contexto",
-      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
+      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual.",
+      "alan_legal_class": "pendiente",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "SEN",
@@ -1976,7 +2251,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "SLE",
@@ -1995,7 +2273,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "UZB",
@@ -2014,7 +2295,10 @@
         "M110"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "SYC",
@@ -2035,7 +2319,10 @@
         "M117"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "MDA",
@@ -2057,7 +2344,10 @@
         "M118"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "JAM",
@@ -2078,7 +2368,10 @@
         "M119"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "KWT",
@@ -2099,7 +2392,10 @@
         "M120"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "TTO",
@@ -2120,7 +2416,10 @@
         "M121"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "JOR",
@@ -2139,7 +2438,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "MNE",
@@ -2160,7 +2462,10 @@
         "M122"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "MNG",
@@ -2182,7 +2487,10 @@
         "M124"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "PHL",
@@ -2204,7 +2512,10 @@
         "M126"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "ARM",
@@ -2225,7 +2536,10 @@
         "M128"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "NPL",
@@ -2246,7 +2560,10 @@
         "M129"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "BTN",
@@ -2264,7 +2581,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "MUS",
@@ -2284,7 +2604,10 @@
         "M130"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "MDG",
@@ -2304,7 +2627,10 @@
         "M131"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "BIH",
@@ -2324,7 +2650,10 @@
         "M132"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "KGZ",
@@ -2345,7 +2674,10 @@
         "M134"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "GHA",
@@ -2367,7 +2699,10 @@
         "M136"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "BRB",
@@ -2389,7 +2724,10 @@
         "M137"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "BHS",
@@ -2407,7 +2745,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "DOM",
@@ -2429,7 +2770,10 @@
         "M139"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "dedicada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "ETH",
@@ -2449,7 +2793,10 @@
         "M140"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "TZA",
@@ -2471,7 +2818,10 @@
         "M142"
       ],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "HND",
@@ -2491,7 +2841,10 @@
         "M143"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "BLZ",
@@ -2511,7 +2864,10 @@
         "M144"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "VUT",
@@ -2531,7 +2887,10 @@
         "M145"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "UGA",
@@ -2552,7 +2911,10 @@
         "M146"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "ZMB",
@@ -2572,7 +2934,10 @@
         "M147"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "FJI",
@@ -2592,7 +2957,10 @@
         "M148"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "BWA",
@@ -2612,7 +2980,10 @@
         "M149"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "CUB",
@@ -2632,7 +3003,10 @@
         "M150"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "MOZ",
@@ -2655,7 +3029,10 @@
         "M152"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "WSM",
@@ -2676,7 +3053,10 @@
         "M154"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "ALB",
@@ -2696,7 +3076,10 @@
         "M155"
       ],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "CPV",
@@ -2714,7 +3097,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "PSE",
@@ -2731,7 +3117,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "KNA",
@@ -2749,7 +3138,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "PNG",
@@ -2766,7 +3158,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "MDV",
@@ -2783,7 +3178,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "LCA",
@@ -2800,7 +3198,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "ATG",
@@ -2818,7 +3219,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "GEO",
@@ -2836,7 +3240,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "IRQ",
@@ -2854,7 +3261,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "LBY",
@@ -2871,7 +3281,10 @@
       ],
       "star_ids": [],
       "alan_scope": "contexto",
-      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
+      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "IRN",
@@ -2889,7 +3302,10 @@
       ],
       "star_ids": [],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "MRT",
@@ -2907,7 +3323,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "SYR",
@@ -2926,7 +3345,10 @@
       ],
       "star_ids": [],
       "alan_scope": "contexto",
-      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual."
+      "alan_scope_note": "No se ha verificado una obligación específica de prevención o reducción de contaminación lumínica; la inclusión es contextual.",
+      "alan_legal_class": "pendiente",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "DJI",
@@ -2944,7 +3366,10 @@
       ],
       "star_ids": [],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "SDN",
@@ -2961,7 +3386,10 @@
       ],
       "star_ids": [],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Prohibición explícita de contaminación lumínica según fuentes secundarias; cotejo de artículo exacto y vigencia pendiente."
+      "alan_scope_note": "Prohibición explícita de contaminación lumínica según fuentes secundarias; cotejo de artículo exacto y vigencia pendiente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "TLS",
@@ -2978,7 +3406,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "KHM",
@@ -2995,7 +3426,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "LAO",
@@ -3014,7 +3448,10 @@
       ],
       "star_ids": [],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "GIN",
@@ -3032,7 +3469,10 @@
       ],
       "star_ids": [],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "TGO",
@@ -3050,7 +3490,10 @@
       ],
       "star_ids": [],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "GAB",
@@ -3068,7 +3511,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "LBR",
@@ -3085,7 +3531,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica."
+      "alan_scope_note": "Documento sobre alumbrado o utilización de luces, pero no acredita por sí solo una protección general frente a contaminación lumínica.",
+      "alan_legal_class": "no_vinculante",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "BFA",
@@ -3103,7 +3552,10 @@
       ],
       "star_ids": [],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente."
+      "alan_scope_note": "Contiene disposiciones dirigidas a limitar efectos indeseados de iluminación artificial; consultar ámbito y fuerza vinculante de cada fuente.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "COG",
@@ -3121,7 +3573,10 @@
       ],
       "star_ids": [],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Art. 91 obliga a reducir intensidad de luces que perturben la visión; no fija límites de cielo nocturno."
+      "alan_scope_note": "Art. 91 obliga a reducir intensidad de luces que perturben la visión; no fija límites de cielo nocturno.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "AGO",
@@ -3139,7 +3594,10 @@
       ],
       "star_ids": [],
       "alan_scope": "uso",
-      "alan_scope_note": "Programa sectorial e información sobre molestias luminosas en evaluación de impacto, sin límites de luz general."
+      "alan_scope_note": "Programa sectorial e información sobre molestias luminosas en evaluación de impacto, sin límites de luz general.",
+      "alan_legal_class": "indirecta",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "ZWE",
@@ -3157,7 +3615,10 @@
       ],
       "star_ids": [],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Exige evaluación y mitigación explícita de contaminación lumínica en proyectos de comercio de carbono; ámbito sectorial."
+      "alan_scope_note": "Exige evaluación y mitigación explícita de contaminación lumínica en proyectos de comercio de carbono; ámbito sectorial.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "CIV",
@@ -3175,7 +3636,10 @@
       ],
       "star_ids": [],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Obligación legal expresa de controlar molestias luminosas en el Código de Higiene."
+      "alan_scope_note": "Obligación legal expresa de controlar molestias luminosas en el Código de Higiene.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     },
     {
       "iso": "COD",
@@ -3193,7 +3657,10 @@
       ],
       "star_ids": [],
       "alan_scope": "contexto",
-      "alan_scope_note": "No consta artículo específico sobre luz artificial en las normas revisadas."
+      "alan_scope_note": "No consta artículo específico sobre luz artificial en las normas revisadas.",
+      "alan_legal_class": "pendiente",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "AFG",
@@ -3211,7 +3678,10 @@
       ],
       "star_ids": [],
       "alan_scope": "contexto",
-      "alan_scope_note": "Marco ambiental general; no se ha identificado una disposición lumínica explícita."
+      "alan_scope_note": "Marco ambiental general; no se ha identificado una disposición lumínica explícita.",
+      "alan_legal_class": "pendiente",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "BEN",
@@ -3229,7 +3699,10 @@
       ],
       "star_ids": [],
       "alan_scope": "contexto",
-      "alan_scope_note": "Marco ambiental general; articulado relativo a luces pendiente de corroboración."
+      "alan_scope_note": "Marco ambiental general; articulado relativo a luces pendiente de corroboración.",
+      "alan_legal_class": "pendiente",
+      "alan_binding_review": "pendiente",
+      "alan_binding_note": "La existencia de una obligación vigente de protección frente a luz artificial no está suficientemente corroborada con esta clasificación; revisar las fuentes."
     },
     {
       "iso": "MLI",
@@ -3247,7 +3720,10 @@
       ],
       "star_ids": [],
       "alan_scope": "proteccion",
-      "alan_scope_note": "Restricción expresa de molestias por fuerte luminosidad en viviendas y alrededores. Alcance sectorial limitado, no ley específica de skyglow."
+      "alan_scope_note": "Restricción expresa de molestias por fuerte luminosidad en viviendas y alrededores. Alcance sectorial limitado, no ley específica de skyglow.",
+      "alan_legal_class": "integrada",
+      "alan_binding_review": "documentada",
+      "alan_binding_note": "Se ha localizado una disposición obligatoria de protección lumínica en el inventario; verificar su ámbito, vigencia y articulado antes de uso jurídico."
     }
   ],
   "sources": [
