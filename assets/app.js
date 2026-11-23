@@ -66,7 +66,7 @@ for (const g of GEO) {
   }
 }
 // Countries absent from low-resolution Natural Earth are represented by true-location dots.
-const localDots=[{iso:'MLT',lon:14.375,lat:35.937},{iso:'SGP',lon:103.82,lat:1.35},{iso:'AND',lon:1.5218,lat:42.5063},{iso:'LIE',lon:9.5554,lat:47.1660},{iso:'SYC',lon:55.45,lat:-4.62}];
+const localDots=[{iso:'MLT',lon:14.375,lat:35.937},{iso:'SGP',lon:103.82,lat:1.35},{iso:'AND',lon:1.5218,lat:42.5063},{iso:'LIE',lon:9.5554,lat:47.1660},{iso:'SYC',lon:55.45,lat:-4.62},{iso:'COM',lon:43.34,lat:-11.7},{iso:'STP',lon:6.61,lat:0.23}];
 for(const {iso,lon,lat} of localDots){
   const c=countryIndex.get(iso);if(!c)continue;
   const dot=document.createElementNS(ns,'circle');
