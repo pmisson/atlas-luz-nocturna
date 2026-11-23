@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 110,
-    "source_count": 368,
-    "star_count": 134,
+    "country_count": 113,
+    "source_count": 377,
+    "star_count": 137,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -31,7 +31,8 @@
     "review_jordan_montenegro_2026": "Jordania: Ley ambiental 6/2017 y JS 2253-2:2020, sin límites ALAN específicos; Montenegro: Ley Naturaleza 117/2026 art.96 uso de luz como medio prohibido de perturbación de aves, no regla general de alumbrado.",
     "review_mongolia_philippines_2026": "Mongolia БНбД 23-02-08 §§7.45/7.71 límites Ev 5/7/10/20 lx y atenuación condicionada, vigencia consolidada por verificar; Filipinas DENR-BMB TB 2020-05 directrices tortugas, JMC 01/2020 §8.16 prohibición flash/estrobos/video en turismo con fauna marina.",
     "review_phase_2026_11_23": "Armenia 5/7/10/20 lux, Nepal reglamento ambiental y ESMP contractual, Bután guías, Mauricio Fisheries Act 2023 art31, Madagascar régimen IOTC-ATF. Georgia pendiente de fuente precisa.",
-    "review_balkans_central_asia_2026": "Bosnia Herzegovina FBiH art.21 Ley Ambiental 2021 contaminación lumínica expresa; Kirguistán СН КР 23-05:2019 §§11.5 y 11.8 máximos ventanas 5/7/10/20 lx y límites anuncios. Albania Macedonia Norte Georgia y Tayikistán pendientes de norma específica comprobada."
+    "review_balkans_central_asia_2026": "Bosnia Herzegovina FBiH art.21 Ley Ambiental 2021 contaminación lumínica expresa; Kirguistán СН КР 23-05:2019 §§11.5 y 11.8 máximos ventanas 5/7/10/20 lx y límites anuncios. Albania Macedonia Norte Georgia y Tayikistán pendientes de norma específica comprobada.",
+    "review_africa_caribbean_oceania_2026": "Ghana GS1207:2018 §5.17 regula uplight y B/G; Barbados Physical Development Plan 2023 política costera luz-tortugas; Bahamas Coastal Infrastructure Design Guidance 2023 reconoce riesgo luz nocturna. Vanuatu, Fiji y otras islas pendientes de obligación ALAN específica."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -2117,6 +2118,62 @@
         "M133",
         "M134"
       ]
+    },
+    {
+      "iso": "GHA",
+      "name": "Ghana",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "El Ghana Building Code GS 1207:2018 contiene cláusula 5.17 'Site lighting', incluida 5.17.1 sobre control de contaminación lumínica, clasificación de zonas A-D (5.17.1.1), 5.17.2 sobre emisión superior (uplight), con clasificación U1/U2/U3/U4 en las zonas A/B/C/D, y 5.17.3 de luz intrusa y deslumbramiento mediante ratings B/G y distancias a linderos. Son requisitos de edificación cuando la cláusula resulte aplicable.",
+      "scope": "Nacional: código de edificación en proyectos o permisos sujetos a la parte 5, sección 5.17",
+      "confidence": "Texto técnico Ghana Standards Authority GS 1207:2018 publicado en repositorio profesional e índice de International Code Council; aplicabilidad sujeta al código y autoridad competente",
+      "note": "La sección 5.17.1 condiciona expresamente su aplicabilidad; existen excepciones. No corresponde a una prohibición universal de alumbrado ni a límite de brillo de cielo. No atribuir emisión superior cero en todas las zonas.",
+      "keywords": "Ghana building code 1207 2018 section 5.17 light pollution uplight trespass glare zones U1 U2 U3 U4",
+      "source_ids": [
+        "F369",
+        "F370",
+        "F371"
+      ],
+      "star_ids": [
+        "M135",
+        "M136"
+      ]
+    },
+    {
+      "iso": "BRB",
+      "name": "Barbados",
+      "region": "América",
+      "level": "sectorial",
+      "summary": "El Physical Development Plan Amendment (octubre 2023), política del patrimonio natural relativa a playas de anidación de tortugas, prevé que la Coastal Zone Management Unit señale solicitudes de proyectos con iluminación de la zona alta de playa y recomiende adecuarla para evitar la desorientación de tortugas recién nacidas. La protección legal general contra la perturbación de nidos deriva del Fisheries Act y su regulación; la orientación de alumbrado incluye guías de la Barbados Sea Turtle Project y acciones de la National Conservation Commission.",
+      "scope": "Nacional: directrices de control del desarrollo costero y protección de tortugas; aplicación mediante evaluación y permisos",
+      "confidence": "Texto de plan disponible en Parlamento de Barbados, guía del proyecto local de tortugas, información gubernamental sobre Fisheries Act",
+      "note": "La recomendación de ajuste de iluminación en planes y la asesoría del proyecto de tortugas no constituyen por sí mismas límite nacional general de lux, CCT o apagado. No afirmar que el Fisheries Act prohíbe toda luz costera; las sanciones se refieren a perturbar o poner en peligro nidos.",
+      "keywords": "Barbados Physical Development Plan 2023 turtle lighting coastal zone management fisheries act nesting light pollution",
+      "source_ids": [
+        "F372",
+        "F373",
+        "F374",
+        "F375"
+      ],
+      "star_ids": [
+        "M137"
+      ]
+    },
+    {
+      "iso": "BHS",
+      "name": "Bahamas",
+      "region": "América",
+      "level": "guia",
+      "summary": "El documento técnico gubernamental 'Bahamas Building Code – Coastal Infrastructure Design Guidance' (2023) reconoce expresamente que el alumbrado de infraestructura costera puede alterar el comportamiento de fauna nocturna, especialmente en playas de tortugas, como consideración del diseño de proyectos. Las evaluaciones de impacto ambiental de proyectos concretos identifican también el efecto de iluminación nocturna sobre especies marinas.",
+      "scope": "Nacional: orientación técnica para infraestructuras costeras y evaluación ambiental de proyectos determinados",
+      "confidence": "Documento de diseño costero publicado en el portal oficial bahameño y EIA en DEPP",
+      "note": "El texto de orientación de diseño y el análisis de impactos no son por sí solos una norma vinculante de límites de contaminación lumínica; exigibilidad depende de condicionantes de permisos o incorporación normativa no comprobada.",
+      "keywords": "Bahamas coastal infrastructure guidance 2023 ecological impacts lighting turtle nesting site design",
+      "source_ids": [
+        "F376",
+        "F377"
+      ],
+      "star_ids": []
     }
   ],
   "sources": [
@@ -6167,6 +6224,105 @@
       "note": "Referencia complementaria: los niveles mínimos interiores no equivalen a límites de contaminación lumínica",
       "year": "2016",
       "official": true
+    },
+    {
+      "id": "F369",
+      "country": "GHA",
+      "title": "Ghana Standards Authority: Ghana Building Code GS 1207:2018, §5.17",
+      "url": "https://gip.org.gh/wp-content/uploads/2024/08/BUILDING-CODE-GS-1207_2018-Complete.pdf",
+      "type": "Código nacional de edificación",
+      "effect": "§5.17 controla contaminación lumínica, uplight, luz intrusa y deslumbramiento mediante zonas y clasificación U/B/G",
+      "note": "Aplicabilidad condicionada por código y excepciones; texto con derechos reservados, no reproducir íntegramente",
+      "year": "2018",
+      "official": false
+    },
+    {
+      "id": "F370",
+      "country": "GHA",
+      "title": "International Code Council: Ghana Building Code 2018",
+      "url": "https://codes.iccsafe.org/content/GHBCBC2018",
+      "type": "Catálogo del código de edificación",
+      "effect": "Confirma edición 2018 y capítulos generales incluyendo desarrollo de solar",
+      "note": "Referencia de identificación de código; acceso al contenido técnico puede requerir cuenta",
+      "year": "2018",
+      "official": false
+    },
+    {
+      "id": "F371",
+      "country": "GHA",
+      "title": "Municipal Assembly Ghana: permisos de construcción y aplicación del código",
+      "url": "https://www.amma.gov.gh/services/development-building-permit/",
+      "type": "Información administrativa oficial",
+      "effect": "Los permisos de edificación se condicionan al cumplimiento del código",
+      "note": "No sustituye interpretación exacta de cuándo aplica la sección 5.17",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F372",
+      "country": "BRB",
+      "title": "Parlamento de Barbados: Physical Development Plan Amendment, Part A, 2023, política de iluminación en playas de tortugas",
+      "url": "https://www.barbadosparliament.com/uploads/sittings/attachments/Barbados%20Physical%20Development%20Plan%20Amendment%20October%202023%20-%20Part%20A.pdf",
+      "type": "Documento oficial de planificación territorial",
+      "effect": "Coastal Zone Management Unit debe identificar solicitudes de iluminación de playa alta y recomendar ajustes para reducir desorientación de tortugas",
+      "note": "Verificar alcance jurídico definitivo y condiciones concretas del permiso; no incluye límite universal de lux",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F373",
+      "country": "BRB",
+      "title": "Gobierno Barbados: National Conservation Commission recuerda prohibición de perturbar nidos de tortuga",
+      "url": "https://gisbarbados.gov.bb/blog/public-urged-to-leave-nesting-sea-turtles/",
+      "type": "Comunicación oficial de aplicación de Fisheries Act",
+      "effect": "Prohibición de perturbar o poner en peligro nidos; recuerda sanciones, no define límites de luz",
+      "note": "No tratar como prohibición directa de cualquier iluminación visible desde playa",
+      "year": "2022",
+      "official": true
+    },
+    {
+      "id": "F374",
+      "country": "BRB",
+      "title": "Barbados Sea Turtle Project: recomendaciones para iluminación de propiedades frente a playa",
+      "url": "https://barbadosseaturtles.org/faqs-beachfront",
+      "type": "Directrices de conservación no vinculantes",
+      "effect": "Recomienda apantallamiento, orientar abajo, sensores, ámbar y sodio baja presión <=18 W para usos especificados",
+      "note": "Guía no oficial, no una norma de obligado cumplimiento general",
+      "year": "2026",
+      "official": false
+    },
+    {
+      "id": "F375",
+      "country": "BRB",
+      "title": "National Conservation Commission Barbados: iluminación favorable a tortugas en Pebbles Beach",
+      "url": "https://www.nccbarbados.com/wp-content/uploads/2024/05/NCC-Newsletter-March-2024.pdf",
+      "type": "Informe de agencia pública",
+      "effect": "Documenta instalación de iluminación amigable con tortugas y reducción de impactos en playa",
+      "note": "Medida práctica local, no mandato nacional de longitud de onda",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F376",
+      "country": "BHS",
+      "title": "Gobierno Bahamas: Coastal Infrastructure Design Guidance, capítulo 5.8, 2023",
+      "url": "https://cdn.bahamas.gov.bs/tenant/tenanttgotb/documents/BBC-Coastal-Infrastructure-Design-GuidanceP01-1-20251023150154.pdf",
+      "type": "Orientación técnica gubernamental de ingeniería costera",
+      "effect": "Reconoce efectos ecológicos del alumbrado sobre fauna nocturna y zonas de anidación de tortugas",
+      "note": "Guía de diseño, sin límite nacional obligatorio de contaminación lumínica demostrado",
+      "year": "2023",
+      "official": true
+    },
+    {
+      "id": "F377",
+      "country": "BHS",
+      "title": "Bahamas DEPP: EIA del pozo Perseverance #1, luz artificial y fauna marina",
+      "url": "https://depp.gov.bs/wp-content/uploads/2020/03/BPC-Perseverance-Well-EIA-Final-Feb2020.pdf",
+      "type": "Evaluación de impacto ambiental de proyecto",
+      "effect": "Identifica posible alteración de conducta de tortugas por fuentes de iluminación del proyecto",
+      "note": "Evaluación de riesgo de proyecto, no autorización o límite vinculante confirmado",
+      "year": "2020",
+      "official": true
     }
   ],
   "stars": [
@@ -8082,6 +8238,50 @@
         "F367"
       ],
       "caution": "Interpretar literalmente condiciones y excepciones por tipo de pantalla; no es veto general a publicidad LED.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M135",
+      "country": "GHA",
+      "title": "Ghana: zonas de contaminación lumínica y límites de emisión superior",
+      "description": "GS 1207:2018 §5.17.2 aplica clasificaciones de emisión superior U1/U2/U3/U4 según zona de iluminación A–D; §5.17.1 delimita y condiciona el ámbito.",
+      "force": "Código de edificación, cuando la cláusula sea aplicable",
+      "param": "U1, U2, U3, U4 en zonas A–D (IES TM-15-07); no equivale directamente a 1/2/3/4 %",
+      "scope": "Alumbrado exterior de edificios y proyectos sujetos a §5.17",
+      "sources": [
+        "F369",
+        "F370"
+      ],
+      "caution": "Consultar excepciones e interpretación local, verificar posible reforma y obligatoriedad del código.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M136",
+      "country": "GHA",
+      "title": "Ghana: clasificación B/G de luz intrusa y deslumbramiento",
+      "description": "GS 1207:2018 §5.17.3 limita el backlight y el glare de luminarias de exterior según distancia de la luminaria a lindero y la zona de iluminación.",
+      "force": "Código de edificación en proyectos comprendidos",
+      "param": "Clasificaciones IES B y G variables con distancia y zona",
+      "scope": "Luminarias exteriores sujetas a código",
+      "sources": [
+        "F369"
+      ],
+      "caution": "No sustituir tablas por valores de lux inventados; revisar geometría real y excepciones.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M137",
+      "country": "BRB",
+      "title": "Barbados: evaluación de luz de proyectos en playas de anidación",
+      "description": "El Physical Development Plan Amendment (2023) prevé que la unidad costera identifique solicitudes con luz en zonas altas de playa y recomiende ajustes para proteger orientación de crías de tortuga.",
+      "force": "Política de planificación y criterio de evaluación de proyectos",
+      "param": "Ajuste contextual de iluminación y protección de tortugas, sin lux/CCT explícitos",
+      "scope": "Solicitudes de desarrollo costero que planteen iluminación de playas",
+      "sources": [
+        "F372",
+        "F373"
+      ],
+      "caution": "La recomendación en la evaluación no equivale a prohibición universal de iluminación costera.",
       "replicability": "Alta"
     }
   ],
