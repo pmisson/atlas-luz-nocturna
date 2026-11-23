@@ -2,9 +2,9 @@
   "meta": {
     "title": "Atlas de legislación sobre contaminación lumínica",
     "date": "2026-11-23",
-    "country_count": 121,
-    "source_count": 396,
-    "star_count": 147,
+    "country_count": 124,
+    "source_count": 402,
+    "star_count": 150,
     "scope": "Estudio comparado y bibliografía de trabajo; no asesoramiento jurídico",
     "disclaimer": "La inclusión de un país no implica existencia de ley específica. Las fuentes y vigencia deben cotejarse antes del uso jurídico. Los informes originales de las primeras fases no se han recuperado íntegramente.",
     "spain_regions_count": 17,
@@ -35,7 +35,8 @@
     "review_africa_caribbean_oceania_2026": "Ghana GS1207:2018 §5.17 regula uplight y B/G; Barbados Physical Development Plan 2023 política costera luz-tortugas; Bahamas Coastal Infrastructure Design Guidance 2023 reconoce riesgo luz nocturna. Vanuatu, Fiji y otras islas pendientes de obligación ALAN específica.",
     "review_turtles_africa_2026": "República Dominicana Res. 0024/2025, reglamento costero vinculante; Etiopía Adís Abeba Directiva 185/2025, medidas preventivas ALAN; Tanzania EMA art.140(1)(h) y TANAPA §3.10.4 oscuridad parques. Fiyi Samoa Vanuatu PNG Botswana no incorporados por falta de medida específica acreditada.",
     "review_oceania_caribbean_nov2026": "Honduras plan ICF 089-2025 sustituye 047-2024; Belice directrices DOE 2010 §7 alumbrado estructuras sobre agua; Vanuatu NPOA tortugas 2016-2020 (histórico), SPREP 2025 guía no vinculante. Fiyi, Samoa, PNG, Botswana, Cuba, Mozambique, Uganda y Zambia pendientes.",
-    "review_uganda_zambia_2026": "Uganda SI 53/2026 art.89 regula luces deslumbrantes carreteras; Zambia Wildlife Act 2015 art.73 prohíbe luz en caza nocturna salvo permiso. Fiyi guías ONG 2012 y Mozambique plan 2011 constatación de impactos se excluyen del recuento en esta fase; Samoa PNG Botswana Cuba siguen pendientes."
+    "review_uganda_zambia_2026": "Uganda SI 53/2026 art.89 regula luces deslumbrantes carreteras; Zambia Wildlife Act 2015 art.73 prohíbe luz en caza nocturna salvo permiso. Fiyi guías ONG 2012 y Mozambique plan 2011 constatación de impactos se excluyen del recuento en esta fase; Samoa PNG Botswana Cuba siguen pendientes.",
+    "review_fiji_botswana_cuba_2026": "Fiji Roads Authority Road Lighting Design Guide 2019 limita upward spill, light trespass y skyglow, no ley nacional; Botsuana Wildlife Conservation Act 1992 art.55 restringe luces para caza salvo autorización; Cuba Ley 150/2022 art.84 energía lumínica como factor físico; Samoa PNG Mozambique todavía sin instrumentos específicos verificados."
   },
   "levels": {
     "especifica": "Ley o reglamento específico",
@@ -2325,6 +2326,60 @@
       ],
       "star_ids": [
         "M147"
+      ]
+    },
+    {
+      "iso": "FJI",
+      "name": "Fiyi",
+      "region": "Oceanía",
+      "level": "sectorial",
+      "summary": "La Fiji Roads Authority, en su Road Lighting Design Guide versión 3 (marzo 2019), apartados 4.2.1–4.2.3, establece como objetivos y parámetros de diseño vial limitar la emisión ascendente (upward waste light), controlar el deslumbramiento, proteger las condiciones de observación del cielo nocturno (skyglow) y limitar el derrame lumínico hacia propiedades colindantes, remitiendo a los métodos de la serie AS/NZS 1158. El marco ambiental de EIA 2005/2007 permite condicionantes en proyectos afectados.",
+      "scope": "Alumbrado público viario y proyectos diseñados o gestionados bajo especificaciones Fiji Roads Authority; EIA de desarrollos con impacto ambiental",
+      "confidence": "Guía técnica completa emitida por Fiji Roads Authority, versión 3, y página del Ministerio de Medio Ambiente sobre EIA",
+      "note": "No existe evidencia en la guía de una prohibición nacional universal del alumbrado ascendente. La guía incorpora parámetros técnicos aplicables a diseños FRA, no equivale sin más a ley del Parlamento. Consultar revisiones posteriores a 2019.",
+      "keywords": "Fiji Roads Authority Road Lighting Design Guide March 2019 upward spill light ratio sky glow light trespass AS NZS 1158",
+      "source_ids": [
+        "F397",
+        "F398"
+      ],
+      "star_ids": [
+        "M148"
+      ]
+    },
+    {
+      "iso": "BWA",
+      "name": "Botsuana",
+      "region": "África",
+      "level": "sectorial",
+      "summary": "La Wildlife Conservation and National Parks Act 28/1992, artículo 55(1), prohíbe cazar o capturar animales de caza durante la noche o utilizar luces deslumbrantes para ese propósito. El artículo 55(2) prevé excepciones para permisos que autoricen expresamente dichas actividades y ciertos supuestos de protección de personas o bienes (arts.46-47).",
+      "scope": "Nacional: caza o captura de animales de caza incluidos en Wildlife Conservation and National Parks Act",
+      "confidence": "Texto de la ley 28/1992, sección 55, en Botswana Laws y comunicación del servicio gubernamental BOPA de 2024 sobre su aplicación",
+      "note": "No prohíbe toda iluminación de la fauna ni regula luz intrusa, espectro o brillo del cielo. La sanción que aparece en la edición histórica debe comprobarse en versión legislativa consolidada antes de citar su importe como vigente.",
+      "keywords": "Botswana Wildlife Conservation and National Parks Act 1992 section 55 dazzling light night hunting permit",
+      "source_ids": [
+        "F399",
+        "F400"
+      ],
+      "star_ids": [
+        "M149"
+      ]
+    },
+    {
+      "iso": "CUB",
+      "name": "Cuba",
+      "region": "América",
+      "level": "general",
+      "summary": "La Ley 150/2022 del Sistema de los Recursos Naturales y el Medio Ambiente (publicada en Gaceta Oficial 87, 13-09-2023), artículo 84(b), contempla expresamente el estudio de las emisiones de energía lumínica entre otros factores físicos y la determinación de sus efectos sobre personas y medio ambiente, así como medidas para eliminarlos o atenuarlos; también prevé restricciones y requisitos en el ámbito de competencias públicas.",
+      "scope": "Nacional: marco de gestión ambiental y control de factores físicos, incluidas emisiones de energía lumínica",
+      "confidence": "Texto primario en Gaceta Oficial de Cuba 87/2023, reproducido íntegramente por FAOLEX, artículo 84",
+      "note": "El art.84 faculta investigación y medidas frente a efectos físicos; no establece por sí solo límites nacionales de luz intrusa, ULR, CCT o radiancia nocturna. No equiparar referencia a energía lumínica con ley específica ALAN.",
+      "keywords": "Cuba Ley 150 2022 art 84 energía lumínica contaminación iluminación ambiente gaceta 2023",
+      "source_ids": [
+        "F401",
+        "F402"
+      ],
+      "star_ids": [
+        "M150"
       ]
     }
   ],
@@ -6684,6 +6739,72 @@
       "note": "La URL del archivo PDF no es numeración del acto; utilizar identificación jurídica Zambia Wildlife Act 2015",
       "year": "2015",
       "official": false
+    },
+    {
+      "id": "F397",
+      "country": "FJI",
+      "title": "Fiji Roads Authority: Road Lighting Design Guide, versión 3 (marzo 2019)",
+      "url": "https://www.fijiroads.org/wp-content/uploads/2024/04/FRA-Road-Lighting-Design-Guide-Rev-V3.0.pdf",
+      "type": "Guía de diseño de autoridad pública",
+      "effect": "§§4.2.1–4.2.3: control de emisión ascendente, skyglow, deslumbramiento y luz intrusa; referencia AS/NZS 1158",
+      "note": "Su obligatoriedad depende de proyectos y especificaciones FRA; comprobar revisiones posteriores",
+      "year": "2019",
+      "official": true
+    },
+    {
+      "id": "F398",
+      "country": "FJI",
+      "title": "Ministerio Medio Ambiente Fiyi: procedimiento EIA, Environment Management Act 2005",
+      "url": "https://mecc.gov.fj/eia/",
+      "type": "Portal oficial de evaluación ambiental",
+      "effect": "Enmarca evaluación de impactos de proyectos y condiciones de mitigación, sin valores ALAN universales",
+      "note": "No convertir competencia de evaluación de impacto en límite de contaminación lumínica",
+      "year": "2026",
+      "official": true
+    },
+    {
+      "id": "F399",
+      "country": "BWA",
+      "title": "Botsuana: Wildlife Conservation and National Parks Act 28/1992, art. 55",
+      "url": "https://www.botswanalaws.com/principal-legislation/wildlife-conservation-and-national-parks/",
+      "type": "Ley de fauna, repositorio jurídico",
+      "effect": "Prohíbe luz deslumbrante para caza/captura de animales salvo permisos y excepciones art.55(2)",
+      "note": "No norma nacional de alumbrado público; cotejar reforma consolidada de sanciones",
+      "year": "1992",
+      "official": false
+    },
+    {
+      "id": "F400",
+      "country": "BWA",
+      "title": "Botsuana BOPA: explicación gubernamental de Wildlife Act y caza nocturna, 5-02-2024",
+      "url": "https://dailynews.gov.bw/news-detail/77648",
+      "type": "Comunicación oficial sobre aplicación de ley",
+      "effect": "Funcionario confirma régimen de restricción de caza nocturna y referencia a ley de 1992",
+      "note": "Comunicación de contexto, no sustituye artículo legal vigente",
+      "year": "2024",
+      "official": true
+    },
+    {
+      "id": "F401",
+      "country": "CUB",
+      "title": "Cuba: Ley 150/2022 Sistema de Recursos Naturales y Medio Ambiente, art.84(b)",
+      "url": "https://faolex.fao.org/docs/pdf/cub223772.pdf",
+      "type": "Ley nacional en Gaceta Oficial, copia FAOLEX",
+      "effect": "Prevé estudiar emisiones de energía lumínica, efectos sobre entorno y medidas de eliminación o atenuación",
+      "note": "No fija umbral ALAN; publicación Gaceta Oficial 87 de 13-09-2023",
+      "year": "2023",
+      "official": false
+    },
+    {
+      "id": "F402",
+      "country": "CUB",
+      "title": "Cuba: Gaceta Oficial 87/2023, Ley 150, texto en repertorio de gaceta",
+      "url": "https://www.directoriocubano.com/servicios/gaceta-oficial/2023/ordinaria/87/",
+      "type": "Reproducción de Gaceta Oficial cubana",
+      "effect": "Identificación y publicación de Ley 150/2022 en septiembre de 2023",
+      "note": "Usar art.84 para referencia a energía lumínica, no atribuir límites fotométricos",
+      "year": "2023",
+      "official": false
     }
   ],
   "stars": [
@@ -8789,6 +8910,49 @@
         "F396"
       ],
       "caution": "No es regulación de iluminación pública, fachadas o contaminación lumínica general.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M148",
+      "country": "FJI",
+      "title": "Fiyi: diseño viario para controlar emisión ascendente, luz intrusa y skyglow",
+      "description": "FRA Road Lighting Design Guide 2019 §§4.2.1-4.2.3 incluye controles técnicos de glare, upward spill light, luz derramada a propiedades y preservación de condiciones del cielo nocturno mediante parámetros AS/NZS 1158.",
+      "force": "Guía técnica de autoridad pública para proyectos de alumbrado vial",
+      "param": "Upward waste light ratio, parámetros AS/NZS 1158 y limitación de luz intrusa; valores según categoría de vía",
+      "scope": "Proyectos de alumbrado gestionados o regulados mediante requisitos FRA",
+      "sources": [
+        "F397"
+      ],
+      "caution": "No afirmar ULOR=0 ni límites universales sin examinar categoría, tabla y versión aplicable.",
+      "replicability": "Alta"
+    },
+    {
+      "id": "M149",
+      "country": "BWA",
+      "title": "Botsuana: prohibición de luces deslumbrantes para cazar fauna",
+      "description": "Wildlife Conservation and National Parks Act 1992 art.55 prohíbe usar luces deslumbrantes para cazar o capturar animales, con permisos y excepciones expresas en el apartado segundo.",
+      "force": "Ley nacional vinculante de fauna",
+      "param": "Prohibición del uso de luz deslumbrante para caza/captura, salvo excepciones",
+      "scope": "Caza y captura de animales comprendidos en la ley",
+      "sources": [
+        "F399",
+        "F400"
+      ],
+      "caution": "No regula alumbrado nocturno general; cuantía actual de sanciones pendiente de cotejo.",
+      "replicability": "Media"
+    },
+    {
+      "id": "M150",
+      "country": "CUB",
+      "title": "Cuba: competencia ambiental para investigar y mitigar emisiones de energía lumínica",
+      "description": "Ley 150/2022 art.84(b) incorpora la energía lumínica a los factores físicos cuyas emisiones y efectos pueden investigarse, evaluarse y atenuarse mediante medidas ambientales.",
+      "force": "Ley nacional de marco ambiental, previsión habilitante",
+      "param": "Evaluación de efectos ambientales de emisiones lumínicas, sin máximos técnicos legales identificados",
+      "scope": "Nacional: atribuciones de las autoridades competentes",
+      "sources": [
+        "F401"
+      ],
+      "caution": "No equivale a ley específica de contaminación lumínica, ni establece límites de lux, CCT o brillo del cielo.",
       "replicability": "Media"
     }
   ],
