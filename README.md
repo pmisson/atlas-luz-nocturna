@@ -9,8 +9,8 @@
 El atlas contiene:
 
 - **Mapa SVG mundial interactivo** (funciona offline): países seleccionables, lupa, desplazamiento y filtros por región y tipo de normativa; los puntos de Malta, Singapur, Andorra y Liechtenstein completan la cartografía de Natural Earth de baja resolución.
-- **224 fichas de países y territorios** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
-- **569 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
+- **229 fichas de países y territorios** en la web y en `docs/`, con contexto jurídico y enlaces a referencias.
+- **579 referencias documentales** clasificadas por fuerza y procedencia; no se copia de terceros íntegramente ningún documento protegido.
 - **155 medidas estrella** que distinguen ley vinculante, regulación sectorial, plan territorial, orientación, proyecto o mandato normativo.
 - **19 fichas subnacionales espanolas**: 17 comunidades autonomas y Ceuta y Melilla, con citas al BOE, REECL y fuentes regionales, y advertencias de vigencia.
 - **Derecho internacional y doctrina**: CLRTAP (1979), CDI ONU, Reglamento UE 2024/1991, compilacion checa de 2022, Bara y Yakushina.
@@ -232,6 +232,6 @@ Seychelles (Ley de pesca 3/2025, art. 21: luces para atraer peces); Moldavia (AN
 
 ## Estado de la compilación (23-11-2026)
 
-La fuente consolidada es `data/atlas.json`: **224 jurisdicciones** y **569 fuentes**. El archivo `build_data.py` es un constructor histórico protegido contra sobrescrituras; no debe utilizarse para reconstruir la edición completa. Para volver a generar los archivos de publicación desde el JSON consolidado y preservar las ampliaciones documentadas, usar `python3 sync_territorios.py`. Las fases documentales de los diez territorios más recientes están en `data/territorios_20261123.json` y `data/territorios_20261123_fase2.json` y `data/territorios_20261123_fase3.json` y `data/territorios_20261123_fase4.json`.
+La fuente consolidada es `data/atlas.json`: **229 jurisdicciones** y **579 fuentes**. El archivo `build_data.py` es un constructor histórico protegido contra sobrescrituras; no debe utilizarse para reconstruir la edición completa. Para volver a generar los archivos de publicación desde el JSON consolidado y preservar las ampliaciones documentadas, usar `python3 sync_territorios.py`. Las fases documentales de los diez territorios más recientes están en `data/territorios_20261123.json` y `data/territorios_20261123_fase2.json` y `data/territorios_20261123_fase3.json` y `data/territorios_20261123_fase4.json` y `data/territorios_20261123_fase5.json`.
 
 La incorporación no significa que todas las jurisdicciones tengan legislación lumínica vinculante. La clasificación distingue leyes específicas, obligaciones generales o urbanísticas, orientaciones y referencias indirectas.
